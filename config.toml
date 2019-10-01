@@ -23,8 +23,8 @@ enableEmoji = true
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Yet Another SoftDev blog"
-    subtitle = "The twist is that it's written by a physicist"
+    title = "Félix Léger"
+    subtitle = "Welcome to my blog"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
