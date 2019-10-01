@@ -42,13 +42,13 @@ Here is how this blog post looks like to me as I am currently writing it:
 [...]
 ```
 
-So, what do you think? :) Pretty nifty stuff, huh? Are now here's how my writing
+So, what do you think? :smiley: Pretty nifty stuff, huh? Are now here's how my writing
 program looks like:
 
 ![Wow this is great!](/img/writingmyfirstpost.png)
 ````
 
-So, what do you think? :) Pretty nifty stuff, huh? Are now here's how my writing
+So, what do you think? :smiley: Pretty nifty stuff, huh? Are now here's how my writing
 program looks like:
 
 ![Wow this is great!](/img/writingmyfirstpost.png)
