@@ -45,13 +45,13 @@ Here is how this blog post looks like to me as I am currently writing it:
 So, what do you think? :smiley: Pretty nifty stuff, huh? Are now here's how my writing
 program looks like:
 
-![Wow this is great!](/img/writingmyfirstpost.png)
+![Screenshot of my writing program](/img/writingmyfirstpost.png "Wow, great retro feel!")
 ````
 
 So, what do you think? :smiley: Pretty nifty stuff, huh? Are now here's how my writing
 program looks like:
 
-![Wow this is great!](/img/writingmyfirstpost.png)
+![Screenshot of my writing program](/img/writingmyfirstpost.png "Wow, great retro feel!")
 
 Those among you with a sharp eye will probably recognize a bash shell running
 vim and tmux, with a Windows XP flavor to solidify the retro feel. It's not
