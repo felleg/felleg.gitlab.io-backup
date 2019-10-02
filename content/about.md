@@ -8,7 +8,7 @@ Hi there! :wave: My name is Félix.
 
 When I was in primary school, I knew I wanted to become a writer.
 
-When I was in highschool, I knew I wanted to become a teacher.
+When I was in high school, I knew I wanted to become a teacher.
 
 When I was attending Cegep, I knew I wanted to become a physics teacher.
 

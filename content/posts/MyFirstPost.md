@@ -11,7 +11,7 @@ showFullContent = false
 Now I know what you're thinking... This blog post isn't very impressive looking.
 Well, I'm still quite proud of it! It is my first blog post using Hugo, a static
 website generator. In the past, I would have used more common blogging tools,
-such as the ubiquitus "blogger", or "wordpress". The thing you have to know
+such as the ubiquitous "blogger", or "wordpress". The thing you have to know
 about me, however, is that I am a hipster, in every sense of the word. I love to
 see what new things have to offer. When new things get too hot and popular, I
 love going back to the past to see what everyone missed.
@@ -32,7 +32,7 @@ showFullContent = false
 Now I know what you're thinking... This blog post isn't very impressive looking.
 Well, I'm still quite proud of it! It is my first blog post using Hugo, a static
 website generator. In the past, I would have used more common blogging tools,
-such as the ubiquitus "blogger", or "wordpress". The thing you have to know
+such as the ubiquitous "blogger", or "wordpress". The thing you have to know
 about me, however, is that I am a hipster, in every sense of the word. I love to
 see what new things have to offer. When new things get too hot and popular, I
 love going back to the past to see what everyone missed.
