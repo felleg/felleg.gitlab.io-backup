@@ -3,8 +3,8 @@ title = ""
 date = ""
 author = "Félix Léger"
 cover = ""
-tags = ["", ""]
-keywords = ["", ""]
+tags = [""]
+keywords = [""]
 description = ""
 showFullContent = false
 +++
