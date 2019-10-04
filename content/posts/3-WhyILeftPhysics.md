@@ -78,6 +78,12 @@ something feels **right** for me, like writing this blog for example. There are 
 effortless, so effortless in fact that at times the true struggle is to wait until after work to do them! At
 that point, work stops becoming work and becomes a game. I'm all about games!
 
+
+
+I have lots of friends in physics who are afraid they don't fit in the current state of the industry. To them,
+I say: don't be afraid. You are not a failure if you are not one of the 10% PhDs who land a position in
+academia, etc.
+
 I was always aimed at doing physics or teaching
 When I ended up doing it, the only thing I knew is that academic research was not for me.
 Now I know I found my niche, and yet, I still feel like an impostor. The feeling never stops?
