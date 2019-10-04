@@ -5,15 +5,14 @@ author = "Félix Léger"
 cover = ""
 tags = ["road map", "blog", "future"]
 keywords = ["", ""]
-description = "While owning a blog is the web certainly is cool, it is what one does with it that truly matters. In this post, I will discuss ideas I have in store for this blog."
+description = "While owning a blog on the web certainly is cool, what one does with it is that truly matters. In this post, I will discuss ideas I have in store for this blog."
 showFullContent = false
 +++
 
-While owning a blog is the web certainly is cool, it is what one does with it that truly matters. Because it
-took me so long to finally have my own website, my mind is filled with ideas I am finally able to
-tackle. I am an expert in almost none of these topics. My goal is not to be the ultimate source of knowledge
-on the web. :stuck_out_tongue: Rather, discussing these subjects in the open and knowing that maybe I'll catch
-just one person's interest in the process is all the motivation I need!
+While owning a blog on the web certainly is cool, what one does with it is that truly matters. Because it took
+me so long to finally have my own website, my mind is filled with ideas I am finally able to tackle. I am an
+expert in almost none of these topics. My goal is not to be the ultimate source of knowledge on the web.
+Rather, knowing that maybe I'll catch just one person's interest in the process is all the motivation I need!
 
 Here are some potential blog topics I hope I'll get to discuss:
 

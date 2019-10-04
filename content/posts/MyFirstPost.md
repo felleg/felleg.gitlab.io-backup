@@ -8,15 +8,13 @@ description = "My very first blog post!"
 showFullContent = false
 +++
 
-Now I know what you're thinking... This blog post isn't very impressive looking.
-Well, I'm still quite proud of it! It is my first blog post using Hugo, a static
-website generator. In the past, I would have used more common blogging tools,
-such as the ubiquitous "blogger", or "wordpress". The thing you have to know
-about me, however, is that I am a hipster, in every sense of the word. I love to
-see what new things have to offer. When new things get too hot and popular, I
-love going back to the past to see what everyone missed.
+Now I know what you're thinking... This blog post isn't very impressive looking.  Well, I'm still quite proud
+of it! This is my first blog post using Hugo, a static website generator. In the past, I would have used more
+common blogging tools, such as the ubiquitous "blogger", or "wordpress". The thing you have to know about me,
+however, is that I really enjoy customization. Some might (rightfully) call me a hipster in certain
+situations. I'm very excited to see what I will be able to achieve with this blog!
 
-Here is how this blog post looks like to me as I am currently writing it:
+Here is what this post looks like to me as I am currently writing it:
 
 ````markdown
 +++
@@ -30,19 +28,20 @@ showFullContent = false
 +++
 
 Now I know what you're thinking... This blog post isn't very impressive looking.
-Well, I'm still quite proud of it! It is my first blog post using Hugo, a static
-website generator. In the past, I would have used more common blogging tools,
-such as the ubiquitous "blogger", or "wordpress". The thing you have to know
-about me, however, is that I am a hipster, in every sense of the word. I love to
-see what new things have to offer. When new things get too hot and popular, I
-love going back to the past to see what everyone missed.
+Well, I'm still quite proud of it! This is my first blog post using Hugo, a
+static website generator. In the past, I would have used more common blogging
+tools, such as the ubiquitous "blogger", or "wordpress". The thing you have to
+know about me, however, is that I really enjoy customization. Some might
+(rightfully) call me a hipster in certain situations. I'm very excited to see
+what I will be able to achieve with this blog!
 
-Here is how this blog post looks like to me as I am currently writing it:
+Here is what this post looks like to me as I am currently writing it:
 ```markdown
 [...]
 ```
 
-So, what do you think? :smiley: Pretty nifty stuff, huh? Are now here's how my writing
+So, what do you think? :smiley: Pretty nifty stuff, huh? Are now here's how my
+writing
 program looks like:
 
 ![Screenshot of my writing program](/img/writingmyfirstpost.png "Wow, great retro feel!")

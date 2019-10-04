@@ -16,4 +16,5 @@ But then... as I was studying physics in college, a numerical physics course sho
 computers. I fell in love.
 
 By writing this blog, I am doing everything I love at once. I write about lessons I learned while
-experimenting with technology, and other fun parts of life.
+experimenting with technology, and other fun parts of life. And who knows, maybe I'll share some unexpected
+discoveries with you!
