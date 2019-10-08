@@ -61,8 +61,8 @@ words, safely guarded in their pages. I knew that whatever I was
 looking for, that book was the place to look. I knew that whatever I
 would write today, as insignificant as it seemed, would be cherished
 by future me for enabling myself to *remember*. It honestly reminds me
-about the principles of documenting software: this diary was SSOT, my
-single source of truth.
+about the principles of documenting software: this diary was my SSOT,
+my single source of truth.
 
 But I digress!
 
