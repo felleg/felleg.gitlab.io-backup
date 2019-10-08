@@ -2,7 +2,7 @@
 title = "Why I shifted from physics to focus on software"
 date = "2019-10-10"
 author = "Félix Léger"
-cover = ""
+cover = "/img/change.png"
 tags = ["career paths", "physics", "unix", "imposter syndrome"]
 keywords = [""]
 description = "Believe it or not, writing software was not my initial career path. But in hindsight, I was headed in that direction without knowing it."
@@ -48,11 +48,11 @@ equipped with green lead. The gift caught me by surprise. I wasn't
 immediately sure what I was meant to do with it and, let's be honest,
 I wasn't sure I wanted anyone to see me holding this thing. "Write
 anything you want in it. You can draw, you can write how you feel, you
-can write about your day. Every page filled in this book will be a
-gift to your future self.", my grandmother told me in French. So I
-did!
+can write about your day. Every page filled in this book is a gift to
+your future self.", my grandmother told me in French. So I started
+writing!
 
-That day, I wrote about the birthday I had in 2001, time stamped and
+That day, I wrote about the birthday I just had, time stamped and
 all. And thanks to this gift, I can now remember everything.
 
 More than any educational game, that empty book taught me how to write
@@ -66,28 +66,29 @@ my single source of truth.
 
 But I digress!
 
-All the insecurities I had over the years, the thoughts and
-reflections, they mostly seem really dumb now, but at the time they
-sometimes felt like huge milestones. High school. My first girlfriend.
-University. Changing careers. Writing is still my best tool put things
-in perspective, both in space and time.
+I wrote about all the insecurities I had over the years, the thoughts
+and reflections. They mostly seem really childish now, traces of a
+different chapter in my life, but at the time they sometimes felt like
+huge milestones. High school. My first girlfriend.  University.
+Changing careers. Writing is still my best tool put things in
+perspective, both in space and time.
 
 Physics in high school
 ======================
 So I enjoyed writing. Big woop. I still had to attend classes every
-day, where daydreaming was not allowed.  Luckily, I really my classes.
-I was fortunate enough to attend a private high school on the South
-Shore of Montreal.  I enjoyed French classes, because I enjoyed
-writing, as well as Science and Technology classes.  However, my first
-class of Physics in grade 11 completely rocked my world. I was more
-than enjoying this class, I was invested. I craved learning. The then
-new concepts of vectors and forces in particular changed my view of
-the world. I was consumed by the love of Classical Mechanics, thanks
-to our teacher who did an incredible job at easing us into this new
-world.
+day, where daydreaming was not allowed.  Luckily, I really enjoyed my
+classes.  I was fortunate enough to attend a private high school on
+the South Shore of Montreal.  I liked French classes, because I
+enjoyed writing. I also was interested in Math and Science and
+Technology classes.  However, my first class of Physics in grade 11
+completely rocked my world. I was more than enjoying this class, I was
+invested. I craved learning.  The then new concepts of vectors and
+forces in particular changed my view of the world. I was consumed by
+the love of Classical Mechanics, thanks to our teacher who did an
+incredible job at easing us into this new world.
 
 $$
-a = \frac{\Delta v}{\Delta t} = \frac{\frac{\Delta x}{\Delta t}}{\Delta t}
+\frac{\vec{F}}{m} = \vec{a} = \frac{\Delta \vec{v}}{\Delta t} = \frac{\frac{\Delta \vec{x}}{\Delta t}}{\Delta t}
 $$
 
 $$
@@ -98,7 +99,7 @@ $$
 v_f^2 - v_i^2 = 2a\Delta x
 $$
 
-My need to apply the new formulas I had learned in class was such that
+My desire to apply the new formulas I had learned in class was such that
 I was inventing problems for fun and showing them off to our teacher.
 To everyone around I was surely being annoying, but I could not help
 it. I felt as though, for the first time, I had connected with what I
@@ -112,9 +113,9 @@ your research, kids!). Two biology and an organic chemistry courses
 later, I quickly realigned and selected a bidisciplinary
 Mathematics-Physics program for college. I figured, since I had had my
 fill of labs with the biology and chemistry courses, the right choice
-for me was to opt for a program grounded in fundamental theories. I
+for me was to opt for a program grounded in fundamental theories (I
 don't know how I was so careless during this period. Again, do your
-research, kids!
+research, kids!).
 
 The fun was about to begin.
 
