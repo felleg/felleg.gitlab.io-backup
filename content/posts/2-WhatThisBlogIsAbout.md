@@ -17,6 +17,7 @@ Rather, knowing that maybe I'll catch just one person's interest in the process 
 Here are some potential blog topics I hope I'll get to discuss:
 
 - Who I am and why I shifted from physics to computers
+- Average computers are so much more powerful than average people think
 - Jumping in the software world when you know nothing about software
 - Git and repository managers
 - How to buy a domain name and host pages on GitLab
