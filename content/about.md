@@ -4,7 +4,7 @@ title = "About"
 
 Hi there! :wave: My name is Félix.
 
-{{< figure src="/img/felixleger.png" caption="This is me!" position="center" >}}
+{{< figure src="/img/felixleger.png" caption="Hello!" position="center" >}}
 
 When I was in primary school, I knew I wanted to become a writer.
 
