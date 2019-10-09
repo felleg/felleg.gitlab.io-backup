@@ -51,36 +51,69 @@ the violin is hard. Calculating probabilities is hard. Typing ":q" instead of
 
 Here's why I like Vim:
 
-## it makes me more consistent
+## Customization
 
-## it is my editor
 
-### customization
 
-### functions
+## Consistency
+
+
+
+## Neat tricks
+
+In no particular order, here are some neat tricks I learned how to do in vim
+that I think you will enjoy:
 
 ### Persistent undos
 
-### recordings
+Don't you hate it when closing a program means you lose the ability to do Ctrl-z
+to revert to a previous state? In vim, all you have to do is enable this setting
+in your `~/.vimrc` and you your undos will be kept in memory for as long as you
+need:
 
-Follow my example: open vim and type the following characters in order (`[ESCAPE]` is the Escape key):
-
-```
-itriangle 1[ESCAPE]
-```
-
-Then, type these characters to create and launch a recording:
-
-```
-qwyypA1[ESCAPE]q20@w
+```vim
+set undodir=~/.vim/undo-dir
+set undofile
 ```
 
-Looks like gibberish, am I right? But I was able to type this magical command
-without trying it out and I know for a fact that it will produce this output:
+You can even install plugins such as UndoTree to navigate your undos, just like
+you would navigate branches on git!
+
+### Macros
+
+Don't know how to do something efficiently in Vim? Then create a macro on the
+fly exactly tailored to your needs!
+
+For example: imagine I want to create an ascii triangle made of 1's by
+copy/pasting the current line and adding a 1 at the end (repeated a bunch of
+times). Incredibly specific example, I agree, but play along.
+
+Using macros, I can create a macro that does exactly that, and repeat it as
+often as I want. It's easy, you can try it right now (I dare you)! Open vim and
+type exactly the following characters in order (`[ESCAPE]` is the Escape key):
+
+```
+itriangle 1[ESCAPE]qwyypA1[ESCAPE]q20@w
+```
+This sequence of keys looks like gibberish, am I right? Let's break it down:
+
+```
+i           ==> Starts insert mode
+triangle 1  ==> (Writes "triangle 1")
+[ESCAPE]    ==> Leaves insert mode
+qw          ==> Starts macro recording, stored in `w`
+yy          ==> Copies the current line
+p           ==> Pastes the current line
+A           ==> Moves cursor to the end of the line in insert mode
+1           ==> (Writes the number 1)
+[ESCAPE]    ==> Leaves insert mode
+q           ==> Finishes recording
+20@w        ==> Launches macro `w` 20 times
+```
 
 {{< figure src="/img/vimtriangle.png" caption="See if you can replicate this output!" position="center" >}}
 
-## Vim is Infinite
+# Vim is Infinite
 
 I'm sure it feels great for someone to say like "I know all about [program]".
 
@@ -109,7 +142,7 @@ tell you a secret.
 If other users are like me, they did not fill their bag of tricks using Google
 searches. They learned their first tricks by accident.
 
-# first contact with Vim
+## First Contact With Vim
 
 I'm sure most people's first contact with Vim happened when they were told to
 use Vim write text through an ssh connection. It's kind of a rite of passage for
@@ -143,7 +176,7 @@ Vim as good as a stripped-down version of notepad?"
 
 Yes! But keep reading, as I answer your much more interesting first question.
 
-# o instead of i
+# Learning from Typos: o instead of i
 
 Let me tell you a story.
 
