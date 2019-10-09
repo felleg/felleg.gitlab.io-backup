@@ -58,6 +58,8 @@ Here's why I like Vim:
 
 ### functions
 
+### Persistent undos
+
 ### recordings
 
 Follow my example: open vim and type the following characters in order (`[ESCAPE]` is the Escape key):
