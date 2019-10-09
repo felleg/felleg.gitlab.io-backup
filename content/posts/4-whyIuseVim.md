@@ -184,9 +184,15 @@ by trial/error, and by doing typos.
 
 ## the Vim cheat sheet
 
-I hate this picture. It both teaches you everything and nothing. It makes Vim
-scary. It doesn't make you want to explore Vim, rather it shows you a rabbit
-hole with no way out. 
+{{< figure src="/img/vimcheatsheet.png" caption="The Vim Cheat Sheet for Programmers. Are you still excited to learn Vim?" position="center" >}} 
+
+I don't like this picture. Don't get me wrong, it is a *great* picture, but I
+believe it is misleading for beginners to use this picture as a reference. It
+both teaches you everything and nothing. It makes Vim scary. It doesn't make you
+want to **explore** Vim, rather it just makes the GUI buttons look more
+appealing. 
+
+(continue)
 
 ## "My team uses Visual Studio"
 
