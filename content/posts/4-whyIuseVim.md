@@ -1,5 +1,5 @@
 +++
-title = "Why I chose Vim"
+title = "Why I Chose Vim"
 date = "2019-10-20"
 author = "Félix Léger"
 cover = "/img/whyvim.png"
@@ -26,10 +26,11 @@ those wondering why I personally use Vim?
 
 Here goes nothing.
 
-# Not the reasons you might think
+# Mythbusting
 
-I often wonder which reasons non-Vim users would guess as to why I use Vim.
-Because it's hard? Because I want to parade my conquering of the learning curve?
+I often wonder which reasons non-Vim users would guess as to why I use Vim. Is
+it because I'm stuck in the past? Is it because I want to show off my conquering
+of the learning curve? Is it just because I'm a soulless robot?
 
 I'll demystify a few things right now:
 
@@ -40,7 +41,7 @@ I'll demystify a few things right now:
 - I don't use Vim just because I don't know how to use IDEs. I use IDEs for *certain
   applications*[^1], but most of the time Vim is exactly the tool I need.
 
-# new subject
+# A Sales Pitch for Vim
 
 Vim is not difficult. It's different.
 
@@ -79,7 +80,7 @@ without trying it out and I know for a fact that it will produce this output:
 
 {{< figure src="/img/vimtriangle.png" caption="See if you can replicate this output!" position="center" >}}
 
-## Vim is infinite
+## Vim is Infinite
 
 I'm sure it feels great for someone to say like "I know all about [program]".
 
@@ -87,24 +88,26 @@ Similarly, I'm convinced someone would feel bad to say "I'll never know
 everything about [program]". They might feel they're missing out on features
 laying right in front of them.
 
-{{< figure src="/img/guibuttons.png" caption="GUI: Look at these buttons! I'm fairly certain they address all my needs, so I'll learn what most of them do." position="center" >}}
+{{< figure src="/img/guibuttons.png" caption="Most editors: \"Look at these buttons! I'm fairly certain they address all my needs, so I'll learn what most of them do to know about the tools at my disposal.\"" position="center" >}}
 
-{{< figure src="/img/emptyvim.png" caption="Vim: It's like peering into a dark hole. What is this black screen hiding?" position="center" >}}
+{{< figure src="/img/emptyvim.png" caption="Vim: It's like peering into a dark hole." position="center" >}}
 
 I'll admit I can understand the dread felt by someone the first time they open
-Vim. There are no buttons to click on, let alone understand. Does this means not
-only you have to learn what each "button" does, they're also invisible and you
-have to call them by name?
+Vim. There are no buttons to click on, let alone understand. Does this means you
+not only have to learn what each "button" does, but these "buttons" also
+invisible and you have to call them by name?
 
 Yes, and this is a good thing. It's what makes Vim **infinite**. It is why the
-experience of writing with Vim never gets stale.
+experience of writing with Vim never gets stale. Just think about it: it is what
+allows the Vim developers to cram as many features as they want without getting
+in your way.
 
 I like to think that as you use Vim you always know as much as you need to know.
 Sure, experienced users like me know all kinds of unthinkable tricks. But I'll
 tell you a secret.
 
-If other users are like me, they fill their bag of tricks using Google searches.
-They learned their tricks by accident
+If other users are like me, they did not fill their bag of tricks using Google
+searches. They learned their first tricks by accident.
 
 # first contact with Vim
 
@@ -182,14 +185,20 @@ My point is that you don't need a manual to learn Vim. The best way to learn is
 by trial/error, and by doing typos.
 
 
-## the Vim cheat sheet
+## Vim Cheat Sheets
 
-{{< figure src="/img/vimcheatsheet.png" caption="The Vim Cheat Sheet for Programmers. Are you still excited to learn Vim?" position="center" >}} 
+{{< figure src="/img/vimcheatsheet.png" caption="Are you still excited to learn Vim?" position="center" >}} 
 
-I don't like this picture. Don't get me wrong, it is a *great* picture, but I
-believe it is misleading for beginners to use this picture as a reference. It
-both teaches you everything and nothing. It makes Vim scary. It doesn't make you
-want to **explore** Vim, rather it just makes the GUI buttons look more
+I, like many, enjoy a good cheat sheet when I learn how to do or use something.
+However, I'll save you some time: **don't bother with Vim cheat sheets until you
+feel comfortable using Vim.**
+
+Vim cheat sheets such as the one shown above (the [Vim Cheat Sheet for
+Programmers](http://michael.peopleofhonoronly.com/vim/)) are amazing reference
+tools, but their value is completely lost on beginners. To a newcomer, the cheat
+sheet teaches everything at once, so much so that it almost looks like
+a cartoon making fun of Vim. It's overwhelming. It makes Vim scary. It doesn't
+make you want to **explore** Vim, rather it just makes the GUI buttons look more
 appealing. 
 
 (continue)
@@ -241,6 +250,6 @@ The only think I ask of you as you next time you boot your favorite editor is:
 If the answer has something to do with laziness, it might be time to try out
 Vim.
 
-{{< figure src="/img/myvim.png" caption="My current config of Vim, complete with line numbers, syntax coloring, airline status bars, text width color column, English spell checker, all running under tmux, of course!" position="center" >}}
+{{< figure src="/img/myvim.png" caption="My current config of Vim, complete with line numbers, syntax coloring, airline status bars, text width color column and English spell checker. All running under tmux, of course!" position="center" >}}
 
 [^1]: For example, Android or iOS applications
