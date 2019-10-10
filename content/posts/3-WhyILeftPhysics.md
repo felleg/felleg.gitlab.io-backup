@@ -134,34 +134,51 @@ lecture, like I was doing, you are going to run out of steam quickly.
 I was not prepared for this realization: doing what you enjoy does not
 make you invincible.
 
-Couple this with the fact that I was hearing left and right how hard
-it was to land a job as a teacher in a Cegep, my spark for teaching
-became attacked. What if I didn't want to teach physics to young
-adults for all my life? What if all of this is just one big mistake?
-How did I get here?
+Couple this with the fact that I was hearing left and right how limited the
+Cegep teaching opportunities were currently, my spark for teaching became
+attacked. What if I didn't want to teach physics to young adults for all my
+life? What if all of this is just one big mistake?  How did I get here?
 
 Changing careers. Or, in this case, changing fields. Here I was, faced
 with a choice. But what were my other options? I was soon about to
 find out.
 
-In 2013, I attended my first laboratory course at college
+In 2013, I attended my first laboratory course at college. Computational
+physics. Our first lab was to compile a "hello world" program in C. Cool, I
+guess.
 
-(wip)
-Computers will solve all the problems in the world, I want to work
-with computers. The cool tricks I used to do with my calculator, now I
-can do with much more power. I swore I would never follow my dad's
-footsteps, but I ended up doing just that.  I quickly realized that a
-bachelor's degree in physics is not enough to land a decent job, so I
-pushed for a master's, despite already knowing this was not my
-calling. It felt like the right path. Was it a mistake?  Should I have
-studied software engineering? Maybe, I will never know. Probably, I
-say. But hindsight is 20/20: you cannot feel bad for doing what felt
-like the courageous choice at the time. When you have the choice,
-better feel courageous in defeat than foolish: that would be like
-losing the same fight twice.
+Second lab is to compute gravitational interactions between the earth and the
+moon. The third one was to compute and plot fractals from a random walkers
+model. The fourth one was to simulate the spread of diseases in population of
+random walkers. The fifth one was to simulate cars in traffic.
+
+*Wait... My crappy laptop can do all these simulations? Is there anything it
+can't do!?*
+
+I was completely mind blown. I had seen the light. Pen and paper just wouldn't
+cut it anymore. If I had to do any computations, from now on, it would be using
+a computer.
+
+It truly was an ironic twist of fate, because I had sworn I would never follow
+my dad's footsteps, but I ended up doing just that.
 
 Landing a job at CONTXTFUL
 ==========================
+
+I quickly realized that a bachelor's degree in physics by itself is not enough
+to land a decent job. So what did I end up doing? If you guessed "get a master's
+degree in physics, despite the revelation that my future lied with computers",
+you'd be right!. It felt like the right path. I chose a field of physics that
+was completely dependent on computers: particle physics.  Was it a mistake?
+Should I have studied software engineering instead?
+
+Maybe. I will never know.
+
+Hindsight is 20/20. Take it from me: you cannot feel bad for doing what felt
+like the courageous choice at the time. In defeat, better feel courageous than
+foolish.
+
+(wip)
 Was not even called CONTXTFUL at the time: Proximity HCI, Spillad,
 CONTXTFUL I was excited to work on projects involving computers and no
 quantum mechanics. The specific of the project mattered very little. I
@@ -177,6 +194,9 @@ things never left me
 
 Writing this blog
 =================
+
+And so, here we are.
+
 I'm still not entirely sure what to do with my life, but I have
 learned to embrace this feeling. It is what gives me the curiosity to
 move forward and discover things that go beyond my own imagination. I
