@@ -30,6 +30,7 @@ Here are some potential blog topics I hope I'll get to discuss:
 - Password managers and two-factor authentication
 - Cool open source projects I discovered (fb-messenger-cli, javascript-obfuscator, js-beautifier, gcalcli,
   cli-visualizer, cmus, lynx, wpm, etc.)
+- Contributing to open source projects
 - Google Cloud Platform
 - Google Data Studio
 - Scraping websites in Python and analyzing data with pandas
