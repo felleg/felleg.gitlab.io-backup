@@ -1,6 +1,6 @@
 +++
 title = "Why I shifted from physics to focus on software"
-date = "2019-10-10"
+date = "2019-10-14"
 author = "Félix Léger"
 cover = "/img/change.png"
 tags = ["career paths", "physics", "unix", "imposter syndrome"]
