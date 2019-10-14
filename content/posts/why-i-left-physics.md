@@ -3,8 +3,8 @@ title = "Why I shifted from physics to focus on software"
 date = "2019-10-14"
 author = "Félix Léger"
 cover = "/img/change.png"
-tags = ["career paths", "physics", "unix", "imposter syndrome"]
-keywords = [""]
+tags = ["why", "career paths", "physics", "unix", "imposter syndrome"]
+keywords = ["why", "career paths", "physics", "unix", "imposter syndrome"]
 description = "Believe it or not, writing software was not my initial career path. But in hindsight, I was headed in that direction without knowing it."
 showFullContent = false
 draft = true
@@ -43,7 +43,7 @@ On my 8th birthday, I received the usual gifts: a backpack,
 educational PC games, etc. However, my grandparents sneaked in a blank
 diary. The cover was made of metal, with a big red heart on the front.
 It had an heart-shaped padlock. It came with a green mechanical pencil
-equipped with green lead. The gift caught me by surprise. 
+equipped with green lead. The gift caught me by surprise.
 
 It was a sight to behold.
 
@@ -61,7 +61,7 @@ and how to learn from my mistakes. I learned the value of written
 words, safely guarded in their pages. I knew that whatever I was
 looking for, that book was the place to look. I knew that whatever I
 would write today, as insignificant as it seemed, would be cherished
-by future me for enabling myself to *remember*. 
+by future me for enabling myself to *remember*.
 
 It honestly reminds me about the principles of documenting software: this diary
 was my SSOT, my single source of truth.  But I digress!
@@ -111,7 +111,7 @@ When the time came to choose our study program for Cegep, I chose
 Health Science, because... I  didn't know Pure Science existed (do
 your research, kids!). Two biology and an organic chemistry courses
 later, I quickly realigned and selected a bidisciplinary
-Mathematics-Physics program for college. I figured, since I had had my
+mathematics-physics program for college. I figured, since I had had my
 fill of labs with the biology and chemistry courses, the right choice
 for me was to opt for a program grounded in fundamental theories (I
 don't know how I was so careless during this period. Again, do your
@@ -145,7 +145,7 @@ with a choice. But what were my other options? I was soon about to
 find out.
 
 In 2013, I attended my first laboratory course at college. Computational
-physics. Our first lab was to compile a "hello world" program in C. *Cool, I
+Physics. Our first lab was to compile a "hello world" program in C. *Cool, I
 guess.*
 
 The second lab is to compute gravitational interactions between the earth and the
@@ -225,7 +225,7 @@ In Conclusion
 
 I think the dream of finding a job where "you like what you do" is naive.
 Choosing your hobby as your job is also risky. A job is a job; there is an ugly
-side to everything. 
+side to everything.
 
 In the end, I think the best you could hope for is to fall in love with
 your job's problems.

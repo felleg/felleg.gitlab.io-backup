@@ -1,0 +1,156 @@
+" VIM CHEAT SHEET USED BY FELIX LEGER, Mon 14 Oct 2019 02:04:20 PM EDT
+" This code is provided as is, with no guarantee that it will work for you! Some
+" packages might be missing if the plugins I use are not present on your machine
+" under ~/.vimrc/plugin/.
+"
+" This file is the result of 5 years of acccumulating knowledge of Vim. It is
+" probably not good as a reference. It is meant as a snapshot of my current
+" knowledge of Vim.
+"
+" Here is a great reference vimrc, if you are interested, entirely different
+" from mine: 
+" https://github.com/amix/vimrc/blob/master/vimrcs/basic.vim
+"
+"
+if &diff
+   colorscheme vimdiffcolorscheme
+endif
+
+" In normal mode or in insert mode, press Ctrl-j to move the current line down, or press Ctrl-k to move the
+" current line up.
+"
+" After visually selecting a block of lines (for example, by pressing V then moving the cursor down), press
+" Ctrl-j to move the whole block down, or press Ctrl-k to move the block up. 
+nnoremap <C-j> :m .+1<CR>==
+nnoremap <C-k> :m .-2<CR>==
+inoremap <C-j> <Esc>:m .+1<CR>==gi
+inoremap <C-k> <Esc>:m .-2<CR>==gi
+vnoremap <C-j> :m '>+1<CR>gv=gv
+vnoremap <C-k> :m '<-2<CR>gv=gv
+
+" We don't want to code larger than 110
+:set colorcolumn=80
+:set tw=80
+
+" Count search results matching word under cursor
+map ,* :%s///gn<CR>
+
+"Formatoptions: http://vimhelp.appspot.com/change.txt.html#fo-table
+:set fo=awqcro
+
+:set background=dark
+
+"Cursor line to highlight where my cursor is
+:set cursorline
+:hi CursorLine  cterm=NONE ctermbg=234
+
+" Syntax extends to very long lines (instead of the default 3000 value)
+:set synmaxcol=0
+
+" Do not enter ex mode when Q is pressed
+nnoremap Q <nop>
+" Do not enter vim command history when q: is pressed
+map q: <nop>
+
+" Map K to execute my code 
+"map K :w:!clear; clear; python3.5 TrainMySVM.py
+map K <nop>
+:noremap <Leader>k :w :exec '!python3.5' shellescape(@%, 1)<cr>
+:noremap <Leader>l :w :exec '!ipython -i' shellescape(@%,1)<CR>
+
+"For folding. The commands zc (close), zo (open), and za (toggle) operate on one level of folding, at the cursor.
+set foldmethod=indent
+set foldlevel=1
+set foldlevelstart=20
+
+"http://vim.wikia.com/wiki/Search_and_replace_the_word_under_the_cursor
+:nnoremap <Leader>s :%s/\<<C-r><C-w>\>//g
+
+:command! Reindent execute "normal!gg=G"
+
+" Width of tabulation (from http://stackoverflow.com/a/1878983)
+:set expandtab 
+:set smarttab
+autocmd Filetype javascript setlocal ts=3 sts=3 sw=3
+autocmd Filetype html setlocal ts=3 sts=3 sw=3
+
+"Start insert at first line when using mutt
+"autocmd BufRead /tmp/mutt-* execute "normal /^$/\n"
+"autocmd BufRead /tmp/mutt-* execute ":startinsert"
+autocmd BufRead mutt* execute 'normal gg/\n\n\n^M2j'
+
+" Show matching paranthese or bracket when typing
+:set showmatch
+
+
+" Folding on indentation (use za to open-close a fold)
+":set foldmethod=indent
+
+" Smart indentation, C style
+:set autoindent
+:filetype plugin indent on
+
+set nu
+set hidden
+syntax on
+set nocompatible ruler showcmd showmode
+set incsearch hlsearch ignorecase smartcase
+set pastetoggle=<F3>
+":map <F4> :set nu!<CR>
+"Remove all trailing whitespace by pressing F5
+:map <F3> :set cursorline<CR>:set syntax=on<CR>:set spell!<CR>
+:map <F4> :set cursorline!<CR>:set spelllang=en_us<CR>:set syntax=off<CR>:set spell<CR>
+:map <F5> :edit 
+:map <F7> :bp<CR>
+:map <F8> :bn<CR>
+:map <F9> :vsplit
+:map <F10> :UndotreeToggle<CR>
+
+" Write date and time in a file ----------------------------------------------
+:command! Date put=strftime('%c')
+inoremap <F4> <C-R>=strftime("%c")<CR>
+
+" vim horizontal scrollbar ---------------------------------------------------
+" from http://superuser.com/a/445233
+
+" Sets status line visible (needed for scrollbar)
+:set laststatus=2
+" Sets status line white colors
+:hi StatusLine ctermbg=grey ctermfg=black
+" Source scrollbar code by writing the following in vim:
+":source ~/.vim/plugin/h_scrollbar.vim
+
+" Taken from http://vi.stackexchange.com/a/53
+" Lets do undo even after closing file
+" Let's save undo info!
+if !isdirectory($HOME."/.vim")
+    call mkdir($HOME."/.vim", "", 0770)
+endif
+if !isdirectory($HOME."/.vim/undo-dir")
+    call mkdir($HOME."/.vim/undo-dir", "", 0700)
+endif
+set undodir=~/.vim/undo-dir
+set undofile
+set undolevels=1000         " How many undos
+set undoreload=10000        " number of lines to save for undo
+
+"Taken from https://vi.stackexchange.com/a/456
+fun! TrimWhitespace()
+    let l:save = winsaveview()
+    %s/\s\+$//e
+    call winrestview(l:save)
+endfun
+command! TrimWhitespace call TrimWhitespace()
+:noremap <Leader>w :call TrimWhitespace()<CR>
+
+let g:indent_guides_enable_on_vim_startup=1
+
+
+"vim-airline features, for powerline-like behavior!
+let g:airline_powerline_fonts = 1
+let g:airline#extensions#tabline#enabled = 1
+set t_Co=256
+set noshowmode
+
+"Call pathogen to use plugins from ~/.vim/bundle
+execute pathogen#infect()
