@@ -60,7 +60,7 @@ I'll demystify a few things right now:
 # First Contact With Vim
 
 I'm sure most people's first contact with Vim happened when they were told to
-use Vim write text through an ssh connection. It's kind of a rite of passage for
+use Vim write to text through an ssh connection. It's kind of a rite of passage for
 developers, which usually goes like this:
 
 ```
