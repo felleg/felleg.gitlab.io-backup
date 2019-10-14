@@ -36,7 +36,7 @@ misunderstood by our peers, yet we cannot help but voice our appreciation for
 Vim.
 
 Experts, beginners, and everyone in-between have written blog posts about Vim
-trying to convince their readers to give Vim a chance. I'm about to just on that
+trying to convince their readers to give Vim a chance. I'm about to jump on that
 ship and give my take on why, **for serious**, Vim could be exactly what you
 need to develop robust software in 2019.
 

@@ -168,7 +168,7 @@ Landing a Software Job
 I quickly realized that a bachelor's degree in physics by itself is not enough
 to land a decent job. So what did I end up doing? If you guessed "get a master's
 degree in physics, despite the revelation that my future lied with computers",
-you'd be right!. For some reason, another degree in physics felt like the right
+you'd be right! For some reason, another degree in physics felt like the right
 path. I chose a field of physics that was completely dependent on computers:
 particle physics.  Was it a mistake?  Should I have studied software engineering
 instead?
