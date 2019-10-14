@@ -70,7 +70,7 @@ developers, which usually goes like this:
 > Press i and type your text.
 "Weird. But ok, (type type type), done. Um, it won't close, I'm stuck."
 > Press escape, then type :wq and enter.
-"!@#$, I hope I will never have to use Vim again."
+"!@#$, I hope I never have to use Vim again."
 ```
 
 Congratulations! You are now traumatized!
