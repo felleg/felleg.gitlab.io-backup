@@ -7,13 +7,12 @@ tags = ["why", "career paths", "physics", "unix", "imposter syndrome"]
 keywords = ["why", "career paths", "physics", "unix", "imposter syndrome"]
 description = "Believe it or not, writing software was not my initial career path. But in hindsight, I was headed in that direction without knowing it."
 showFullContent = false
-draft = true
 +++
 
 Changing careers. It's not always pleasant.
 
 I'm willing to bet that every day, at least one person reorients their career.
-It's just a certainty of life: some people initially are going to choose the
+It's just a certainty of life: some people are initially going to choose the
 wrong field. Yet, when it happens to us, we feel alone. It almost feels like we
 ended up with the wrong career by mistake, or that we wasted time not working on
 things we really enjoy. Or both.
@@ -145,10 +144,10 @@ with a choice. But what were my other options? I was soon about to
 find out.
 
 In 2013, I attended my first laboratory course at college. Computational
-Physics. Our first lab was to compile a "hello world" program in C. *Cool, I
-guess.*
+Physics. Our first lab was to compile a "hello world" program in C (as
+physicists, we had a lot to learn about programming). *Cool, I guess.*
 
-The second lab is to compute gravitational interactions between the earth and the
+The second lab was to compute gravitational interactions between the earth and the
 moon. The third one was to compute and plot fractals from a random walkers
 model. The fourth one was to simulate the spread of diseases in population of
 random walkers. The fifth one was to simulate cars in traffic...
@@ -163,8 +162,8 @@ a computer. Duh!
 It truly was an ironic twist of fate, because I had sworn I would never follow
 my dad's footsteps, but I ended up doing just that.
 
-Landing a job at CONTXTFUL
-==========================
+Landing a Software Job
+======================
 
 I quickly realized that a bachelor's degree in physics by itself is not enough
 to land a decent job. So what did I end up doing? If you guessed "get a master's
@@ -180,52 +179,60 @@ Hindsight is 20/20. Take it from me: you cannot feel bad for doing what felt
 like the courageous choice at the time. In defeat, better feel courageous than
 foolish.
 
-(wip)
-Was not even called CONTXTFUL at the time: Proximity HCI, Spillad,
-CONTXTFUL I was excited to work on projects involving computers and no
-quantum mechanics. The specific of the project mattered very little. I
-wanted to join the team because I trusted the one in charge (who is
-now my boss) I messaged him every month, to stay in the loop, but also
-because my thesis due date was approaching and I had no idea what
-company would accept me with my background. I had an interview at
-Morgan Stanley, and completely flopped. CONTXTFUL felt like my best
-shot at working in software without going back to square one.
+As I was finishing writing my master's thesis, the deadline for deciding my
+"next move" was also approaching. I tried to search in my network who could help
+me land a job in the software industry.
 
-Writing software feels like writing a novel (?), this desire to write
-things never left me
+The first person who helped me out was my Introductory C++ teacher. He worked at
+Morgan Stanley and told me he could get me an interview. "Sounds like a plan!",
+I said. I was handed study material, tried my best to absorb it all. In the back
+of my head, I thought it was a win-win situation. Either I got the job, or I
+would learn what an interview in the software world feels like. In the end, I
+completely failed the interview; I just didn't have the necessary years of
+experience in software engineering to answer the interviewer's questions. It was
+tough on the ego, but I moved on.
+
+Fast forward a few months, a connection on Facebook posted that his startup was
+hiring. It felt like a perfect fit, since I knew and trusted this connection.
+The initial answer was the same as my previous interview: "Sorry, we're looking
+for something with more experience". This time, however, I really wanted the
+job. Every month, I would reconnect with this contact, ask him how everything
+was going at the startup, and reaffirm my desire to work with him.  After 5
+months, when an intern had to leave, I was asked if I was still interested. And
+that's how I landed a job at CONTXTFUL in 2017, despite my apparent lack of
+qualifications.
 
 Writing this blog
 =================
 
 And so, here we are.
 
-I'm still not entirely sure what to do with my life, but I have
-learned to embrace this feeling. It is what gives me the curiosity to
-move forward and discover things that go beyond my own imagination. I
-now know when something feels **right** for me, like writing this blog
-for example. There are certain activities that feel effortless, so
-effortless in fact that at times the true struggle is to wait until
-after work to do them! At that point, work stops becoming work and
-becomes a game. I'm all about games!
-
-
+I'm still not entirely sure what to do with my life, but I have learned to
+embrace this feeling. It is what gives me the curiosity to move forward and
+discover things that go beyond my own imagination. I now know how it feels when
+something feels **right**, like writing this blog for example. At time, some
+activities feel effortless, so much so that the true struggle is to wait until
+after work to do them! At that point, work stops becoming work and becomes a
+game. I'm all about games!
 
 I have lots of friends in physics who are afraid they don't fit in the
 current state of the industry. To them, I say: don't be afraid. You
 are not a failure if you are not one of the 10% PhD's who land a
 position in academia, etc.
 
-I was always aimed at doing physics or teaching When I ended up doing
-it, the only thing I knew is that academic research was not for me.
-Now I know I found my niche, and yet, I still feel like an imposter.
-The feeling never stops?
+I think I have found my niche, and yet, I still feel like an impostor at times.
+I guess it's just a fact of life. Writing about it in this blog seems to be the
+cure I need.
 
-In Conclusion
+TL;DR
 =============
 
 I think the dream of finding a job where "you like what you do" is naive.
-Choosing your hobby as your job is also risky. A job is a job; there is an ugly
+Choosing your hobby as your job is also risky. A job is a job; there is an uglier
 side to everything.
+
+Everyone suffers the impostor syndrome at some point: that's how you know you're
+human.
 
 In the end, I think the best you could hope for is to fall in love with
 your job's problems.

@@ -1,14 +1,12 @@
 +++
 title = "Why I Also Choose Vim"
-date = "2019-10-20"
+date = "2019-10-14"
 author = "Félix Léger"
 cover = "/img/whyvim.png"
 tags = ["vim", "why"]
 keywords = ["vim", "why"]
 description = "A co-worker walked by my station today and glanced at my screen.  \"Wow, you use Vim, you must be pretty hardcore\", he said.  "
 showFullContent = false
-draft = true
-toc = true
 +++
 
 A co-worker walked by my station today and glanced at my screen.
