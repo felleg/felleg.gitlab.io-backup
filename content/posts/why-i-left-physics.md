@@ -41,8 +41,8 @@ Getting a Diary
 On my 8th birthday, I received the usual gifts: a backpack,
 educational PC games, etc. However, my grandparents sneaked in a blank
 diary. The cover was made of metal, with a big red heart on the front.
-It had an heart-shaped padlock. It came with a green mechanical pencil
-equipped with green lead. The gift caught me by surprise.
+It had a heart-shaped padlock. It came with a green mechanical pencil
+equipped with green lead. The gift caught me by total surprise.
 
 It was a sight to behold.
 
