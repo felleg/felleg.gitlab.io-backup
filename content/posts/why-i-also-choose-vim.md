@@ -280,7 +280,7 @@ If you're curious, here is my [configuration file](/vimrc)
 
 ## Other Neat Tricks
 
-In no particular order, here are some neat tricks I learned how to do in vim
+In no particular order, here are some neat tricks I learned how to do in Vim
 that I think you will enjoy:
 
 ### Persistent Undos
