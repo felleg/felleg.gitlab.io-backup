@@ -1,5 +1,5 @@
 +++
-title = "Why I shifted from physics to focus on software"
+title = "Why I Shifted From Physics to Focus on Software"
 date = "2019-10-14"
 author = "Félix Léger"
 cover = "/img/change.png"

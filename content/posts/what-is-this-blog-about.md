@@ -1,5 +1,5 @@
 +++
-title = "I have a blog... Now what?"
+title = "I Have a Blog... Now What?"
 date = "2019-10-02"
 author = "Félix Léger"
 cover = ""
