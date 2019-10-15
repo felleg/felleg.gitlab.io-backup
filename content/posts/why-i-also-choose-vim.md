@@ -90,7 +90,7 @@ Vim as good as a stripped-down version of Notepad?"
 
 Yes! But keep reading, as I answer your much more interesting first question.
 
-# Learning from Typos: o instead of i
+# Learning from Typos: o Instead of i
 
 Let me tell you a story.
 
@@ -283,7 +283,7 @@ If you're curious, here is my [configuration file](/vimrc)
 In no particular order, here are some neat tricks I learned how to do in vim
 that I think you will enjoy:
 
-### Persistent undos
+### Persistent Undos
 
 Don't you hate it when closing a program means you lose the ability to "do Ctrl-z"
 to revert to a previous state? In vim, all you have to do is enable this setting
