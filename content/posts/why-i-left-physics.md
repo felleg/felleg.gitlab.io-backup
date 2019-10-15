@@ -110,7 +110,7 @@ When the time came to choose our study program for Cegep, I chose
 Health Science, because... I  didn't know Pure Science existed (do
 your research, kids!). Two biology and an organic chemistry courses
 later, I quickly realigned and selected a bidisciplinary
-mathematics-physics program for college. I figured, since I had had my
+mathematics-physics program for college. I figured, since I'd had my
 fill of labs with the biology and chemistry courses, the right choice
 for me was to opt for a program grounded in fundamental theories (I
 don't know how I was so careless during this period. Again, do your
