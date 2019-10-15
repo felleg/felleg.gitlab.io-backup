@@ -278,7 +278,7 @@ custom for themselves.
 
 If you're curious, here is my [configuration file](/vimrc)
 
-## Other Neat tricks
+## Other Neat Tricks
 
 In no particular order, here are some neat tricks I learned how to do in vim
 that I think you will enjoy:
