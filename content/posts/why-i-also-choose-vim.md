@@ -1,5 +1,5 @@
 +++
-title = "Why I Also Choose Vim"
+title = "Why I (Also) Choose Vim"
 date = "2019-10-14"
 author = "Félix Léger"
 cover = "/img/whyvim.png"
