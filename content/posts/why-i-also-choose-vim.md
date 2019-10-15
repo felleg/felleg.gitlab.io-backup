@@ -287,7 +287,7 @@ that I think you will enjoy:
 
 Don't you hate it when closing a program means you lose the ability to "do Ctrl-z"
 to revert to a previous state? In vim, all you have to do is enable this setting
-in your `~/.vimrc` and you your undos will be kept in memory for as long as you
+in your `~/.vimrc` and your undos will be kept in memory for as long as you
 need:
 
 ```vim
