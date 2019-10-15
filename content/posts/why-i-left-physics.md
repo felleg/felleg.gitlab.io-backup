@@ -34,7 +34,7 @@ remember I didn't want my dad's job: he was not exercising, his back
 hurt, he was getting calls in the middle of the night. It seemed like
 the worst kind of job possible.
 
-As you might expect, this period worry-free period didn't last very long.
+As you might expect, this worry-free period didn't last very long.
 
 Getting a Diary
 ===============
