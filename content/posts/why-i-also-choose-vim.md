@@ -234,7 +234,7 @@ You don't need to wait on the Vim developers to enable this feature for you. You
 can customize your Vim experience by adding this feature to your arsenal all by
 yourself, and it really is not that difficult!
 
-The locations where you are most likely to use Vimscript:
+Here are the locations where you are most likely to use Vimscript:
 
 * In your `~/.vimrc` configuration file
 * When you press `:` in Vim's normal mode (for example to save, quit, etc.)
