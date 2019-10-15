@@ -102,7 +102,7 @@ My desire to apply the new formulas I had learned in class was such that
 I was inventing problems for fun and showing them off to our teacher.
 To everyone around I was surely being annoying, but I could not help
 it. I felt as though, for the first time, I had connected with what I
-would enjoy doing for the rest of my life.  This class, had become a
+would enjoy doing for the rest of my life.  This class, which had become a
 hobby, could lead into a real career! I was excited. I now wanted to
 **teach physics**.
 
