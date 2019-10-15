@@ -48,7 +48,7 @@ It was a sight to behold.
 
 I wasn't immediately sure what I was meant to do with it and, let's be honest, I
 wasn't sure I wanted anyone to see me holding this thing. "Write anything you
-want in it. You can draw, you can write how you feel, you can write about your
+want in it. You can draw, you can write about how you feel, you can write about your
 day. Every page filled in this book is a gift to your future self.", my
 grandmother told me in French. So I started writing!
 
