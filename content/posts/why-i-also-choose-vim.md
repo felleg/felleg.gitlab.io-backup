@@ -223,7 +223,7 @@ Vim has Vimscript, a programming language dedicated to Vim. The topic of
 Vimscript alone should require its own blog post, but I will do my best to
 summarize it for now.
 
-In short, Vimscript is will make all your dreams come true (as long as they're
+In short, Vimscript is what will make all your dreams come true (as long as they're
 Vim-related). It is what makes Vim truly infinite: any feature you could dream
 up can be implemented thanks to Vimscript. People have used Vimscript to program
 entire games! Say for example you wish a certain functionality was added to Vim:
