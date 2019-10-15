@@ -135,8 +135,8 @@ of steam quickly.  I was not prepared for this realization: doing what you enjoy
 does not make you invincible.
 
 Couple this with the fact that I was hearing left and right how limited the
-Cegep teaching opportunities were currently, my spark for teaching became
-attacked. What if I didn't want to teach physics to young adults for all my
+Cegep teaching opportunities were atthe time, my spark for teaching felt the rain. 
+What if I didn't want to teach physics to young adults for all my
 life? What if all of this is just one big mistake?  How did I get here?
 
 Changing careers. Or, in this case, changing fields. Here I was, faced
