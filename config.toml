@@ -4,9 +4,9 @@ theme = "hugo-theme-hello-friend"
 paginate = 5
 enableEmoji = true
 enableRobotsTXT = true
+disqusShortname = "felixleger"
 
 [params]
-  disqusShortname = "fellleg"
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
   # ["orange", "blue", "red", "green", "pink"]
