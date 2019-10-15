@@ -296,7 +296,7 @@ set undofile
 
 You can even install plugins such as UndoTree to navigate your undos, just like
 you would navigate branches on git! Keep in mind, to undo key in Vim is `u`. If
-you do `Ctrl-z` in Vim, it'll kill the program instantly. That'll teach ya!
+you do `Ctrl-z` in Vim, it will kill the program instantly. That'll teach ya!
 :smile:
 
 ### Macros
