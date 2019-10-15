@@ -225,7 +225,7 @@ summarize it for now.
 
 In short, Vimscript is what will make all your dreams come true (as long as they're
 Vim-related). It is what makes Vim truly infinite: any feature you could dream
-up can be implemented thanks to Vimscript. Some people have have pushed the boundaries by using Vimscript to program
+up can be implemented thanks to Vimscript. Some people have even pushed the boundaries by using Vimscript to program
 entire games! Let's pretend you wish a certain functionality was added to Vim:
 
 *I wish Vim could write the current date and time in my file when I press F4.*
