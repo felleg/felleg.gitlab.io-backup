@@ -101,7 +101,7 @@ When I started an internship the next year, a graduate student sitting next to
 me told me to use Vim through SSH connections. I went through all the typical
 phases:
 
-1.  denial: "I'll just use something else, I don't need Vim through ssh if I
+1.  denial: "I'll just use something else, I don't need Vim through SSH if I
   connect using `ssh -Y`"
 1.  anger: "This is the worst editor I have ever used, surely I'm getting pranked."
 1.  bargaining: "I'll just use `kate` when no one is looking."
