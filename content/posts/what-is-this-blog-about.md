@@ -16,14 +16,15 @@ Rather, knowing that maybe I'll catch just one person's interest in the process 
 
 Here are some potential blog topics I hope I'll get to discuss:
 
-- Who I am and why I shifted from physics to computers
+- <s>Who I am and why I shifted from physics to computers</s>
 - Average computers are so much more powerful than average people think
 - Jumping in the software world when you know nothing about software
 - Git and repository managers
 - How to buy a domain name and host pages on GitLab
 - How to make a website HTTPs
 - How I used Hugo to build this website
-- Hype for vim and tmux
+- <s>Why I use Vim as my main editor</s>
+- Hype for tmux
 - How I use the DevOps mentality at work
 - My rc files (vimrc, tmux.conf, .bashrc, bash_aliases, etc.)
 - Pathogen and vim plugins
@@ -45,9 +46,11 @@ Some of my hobbies and other topics unrelated to tech
 
 Some things I want to learn how to do:
 
-- How to add comments on this blog
+- <s>How to add comments on this blog</s>
 - Programming mobile applications for Android and iOS
 - How to use Kubernetes and Jenkins to integrate a DevOps culture at work
 
-I wish I could say "let me know in the comments some of your ideas", but this would require an actual comment
-section... Don't worry, I'll try my best to get around to it soon. Until then, Stay tuned!
+<s>I wish I could say "let me know in the comments some of your ideas", but this would require an actual comment
+section... Don't worry, I'll try my best to get around to it soon. Until then, Stay tuned!</s>
+
+UPDATE: Comments have been enabled! 
