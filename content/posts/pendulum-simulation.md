@@ -73,4 +73,4 @@ catch-up to his success.
 
 [Amir](https://www.linkedin.com/in/amirbawab) now works for Microsoft in Redmond WA, where he enjoys all the success he rightfully deserve.
 
-Where will I end up? I have no idea. But one thing is for sure: this hackathon was an absolute blast.
+What will be my big break? I have no idea. But one thing is for sure: this hackathon was an absolute blast.
