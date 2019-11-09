@@ -36,7 +36,7 @@ about to form their teams, my brother and I began coding right away. And then we
 unsure what language to use (Java? HTML?). I was not familiar with any of the languages. My brother was (understandably) afraid
 to take the wrong decision and doom the project.
 
-As we were disvussing, we noticed Amir in the background, by himself. Justin recognized Amir from his classes. I noticed Amir used a
+As we were discussing, we noticed Amir in the background, by himself. Justin recognized Amir from his classes. I noticed Amir used a
 WASD Code mechanical keyboard. And he used Vim.
 
 "This guy's good.", said Justin.
