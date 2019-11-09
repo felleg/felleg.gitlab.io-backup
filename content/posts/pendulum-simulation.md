@@ -33,7 +33,7 @@ The last thing I expected ended up happening: we finished in first place!
 I should rewind a little bit and mention the tremendous help we received from our third team member, Amir
 Bawab. The way he joined our team felt right out of a movie. As everyone in the competition was scrambling
 about to form their teams, my brother and I began coding right away. And then we hit a roadblock. We were
-unsure what language to use (Java? HTML?). I was not familiar with any of the languages. My brother was scared
+unsure what language to use (Java? HTML?). I was not familiar with any of the languages. My brother was (understandably) afraid
 to take the wrong decision and doom the project.
 
 As we were We noticed Amir in the background, by himself. Justin recognized Amir from his classes. I noticed Amir used a
