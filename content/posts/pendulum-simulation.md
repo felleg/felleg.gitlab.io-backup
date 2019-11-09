@@ -71,6 +71,6 @@ Where are they now?
 Three years later, [Justin](https://ca.linkedin.com/in/legerjustin) landed a job as a full-time software developer at Shopify. I'm trying my best to
 catch-up to his success.
 
-[Amir](https://www.linkedin.com/in/amirbawab) now works for Microsoft in Redmond WA, where he enjoys all the success he rightfully deserve.
+[Amir](https://www.linkedin.com/in/amirbawab) now works for Microsoft in Redmond WA, where he enjoys all the success he rightfully deserves.
 
 What will be my big break? I have no idea. But one thing is for sure: this hackathon was an absolute blast.
