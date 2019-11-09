@@ -63,6 +63,8 @@ progress, we ringed a service bell we found laying around the competition ground
 feel our team growing stronger, closer, and more excited to present our project to the judges. It was positive
 reinforcement at its absolute best.
 
+{{< figure src="/img/pendulumTeam.jpeg" position="center" >}}
+
 Where are they now?
 ===================
 
