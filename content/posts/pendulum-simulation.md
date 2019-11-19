@@ -63,17 +63,21 @@ progress, we ringed a service bell we found laying around the competition ground
 feel our team growing stronger, closer, and more excited to present our project to the judges. It was positive
 reinforcement at its absolute best.
 
-{{< figure src="/img/pendulumTeam.jpeg" position="center" >}}
+{{< figure src="/img/pendulumTeam.jpeg" position="center" caption="Justin, Amir and me, victorious!">}}
 
 Where are they now?
 ===================
 
-Three years later, [Justin](https://ca.linkedin.com/in/legerjustin) landed a job as a full-time software developer at Shopify. I'm trying my best to
-catch-up to his success.
+Three years later, [Justin](https://ca.linkedin.com/in/legerjustin) landed a job
+as a full-time software developer at Shopify. I'm trying my best to catch-up to
+his success.
 
-[Amir](https://www.linkedin.com/in/amirbawab) now works for Microsoft in Redmond WA, where he enjoys all the success he rightfully deserves.
+[Amir](https://www.linkedin.com/in/amirbawab) now works for Microsoft in Redmond
+WA, where he enjoys all the success he rightfully deserves.
 
-What will be my big break? I have no idea. But one thing is for sure: this hackathon was an absolute blast.
+I currently work at a startup called [Contxtful Technologies](https://contxtful.com). What will be my big
+break? I can't say for sure. But I do know one thing: this hackathon was an
+absolute blast.
 
 Links
 =====
@@ -82,4 +86,4 @@ You can access the pendulum simulation at https://felixleger.com/pendulum
 
 The original repository can be found at https://gitlab.com/felleg/ChaoticMagneticSuperPendulum/
 
-{{< figure src="/img/pendulum-chaos.png" caption="My favorite type of chaos...!" position="center" >}}
+{{< figure src="/img/pendulum-chaos.png" caption="Have fun learning about physics and chaos theory!" position="center" >}}
