@@ -81,3 +81,5 @@ Links
 You can access the pendulum simulation at https://felixleger.com/pendulum
 
 The original repository can be found at https://gitlab.com/felleg/ChaoticMagneticSuperPendulum/
+
+{{< figure src="/img/pendulum-chaos.png" caption="My favorite type of chaos...!" position="center" >}}
