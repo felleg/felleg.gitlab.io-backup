@@ -1,0 +1,28 @@
+{
+  "name": "felleg.gitlab.io",
+  "version": "1.0.0",
+  "description": "![Build Status](https://gitlab.com/pages/plain-html/badges/master/build.svg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/felleg/felleg.gitlab.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/felleg/felleg.gitlab.io/issues"
+  },
+  "homepage": "https://gitlab.com/felleg/felleg.gitlab.io#readme",
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.2.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
