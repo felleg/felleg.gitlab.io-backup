@@ -23,7 +23,7 @@ experience. Let's celebrate the third year anniversary with a new blog post!
 
 In 2016, while I was completing my masters degree in Physics at McGill University, the first edition of the
 McGill Physics Hackathon happened. My brother, Justin Léger, was studying Software Engineering at Concordia at
-that time. He often told me how exciting he was about participating to hackathons. I figured: why my knowledge
+that time. He often told me how excited he was about participating to hackathons. I figured: with my knowledge
 of physics, his knowledge of software, and our combined love of computers, this had the potential to be a fun
 experience. It was the first time we were able to use our respective field of study to collaborate on a common
 project. For 48 hours, we would become a dream team.
@@ -33,10 +33,10 @@ The last thing I expected ended up happening: we finished in first place!
 I should rewind a little bit and mention the tremendous help we received from our third team member, Amir
 Bawab. The way he joined our team felt right out of a movie. As everyone in the competition was scrambling
 about to form their teams, my brother and I began coding right away. And then we hit a roadblock. We were
-unsure what language to use (Java? HTML?). I was not familiar with any of the languages. My brother was scared
+unsure what language to use (Java? HTML?). I was not familiar with any of the languages. My brother was (understandably) afraid
 to take the wrong decision and doom the project.
 
-As we were We noticed Amir in the background, by himself. Justin recognized Amir from his classes. I noticed Amir used a
+As we were discussing, we noticed Amir in the background, by himself. Justin recognized Amir from his classes. I noticed Amir used a
 WASD Code mechanical keyboard. And he used Vim.
 
 "This guy's good.", said Justin.
@@ -63,12 +63,27 @@ progress, we ringed a service bell we found laying around the competition ground
 feel our team growing stronger, closer, and more excited to present our project to the judges. It was positive
 reinforcement at its absolute best.
 
+{{< figure src="/img/pendulumTeam.jpeg" position="center" caption="Justin, Amir and me, victorious!">}}
+
 Where are they now?
 ===================
 
-Three years later, [Justin](https://ca.linkedin.com/in/legerjustin) landed a job as a full-time software developer at Shopify. I'm trying my best to
-catch-up to his success.
+Three years later, [Justin](https://ca.linkedin.com/in/legerjustin) landed a job
+as a full-time software developer at Shopify. I'm trying my best to catch-up to
+his success.
 
-[Amir](https://www.linkedin.com/in/amirbawab) now works for Microsoft in Redmond WA, where he enjoys all the success he rightfully deserve.
+[Amir](https://www.linkedin.com/in/amirbawab) now works for Microsoft in Redmond
+WA, where he enjoys all the success he rightfully deserves.
 
-Where will I end up? I have no idea. But one thing is for sure: this hackathon was an absolute blast.
+I currently work at a startup called [Contxtful Technologies](https://contxtful.com). What will be my big
+break? I can't say for sure. But I do know one thing: this hackathon was an
+absolute blast.
+
+Links
+=====
+
+You can access the pendulum simulation at https://felixleger.com/pendulum
+
+The original repository can be found at https://gitlab.com/felleg/ChaoticMagneticSuperPendulum/
+
+{{< figure src="/img/pendulum-chaos.png" caption="Have fun learning about physics and chaos theory!" position="center" >}}
