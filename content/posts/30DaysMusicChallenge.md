@@ -214,7 +214,7 @@ Fun fact: This theme is called "VS Satan" in Puyo Puyo.
 {{< youtube s7BMKKcb6vs >}}
 
 # Day 25: Gets me pumped - Pac Jump Up! (Pac-Man Championship Edition 2)
-{{< youtube hCza1jAukag >}}
+{{< youtube 8BpS7ZvrBpI >}}
 
 # Day 26: Music I like from a game I haven't played - A Crimson Rose and a Gin Tonic (Karamari Damacy)
 {{< youtube _olRp55Zs0I >}}
