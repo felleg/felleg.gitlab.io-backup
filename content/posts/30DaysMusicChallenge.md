@@ -7,7 +7,6 @@ tags = ["videogames", "music", "challenge"]
 keywords = ["30-days", "30 days", "video games music", "challenge"]
 description = "Join me as I search my video game knowledge to face the 30-day game music challenge (on HARD mode!)"
 showFullContent = false
-draft = true
 +++
 
 If you have no idea what the "30-day video game music challenge" is,
