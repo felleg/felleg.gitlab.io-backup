@@ -279,7 +279,7 @@ over, Yeah!
 I first encountered this song in my younger days as I was surfing Newgrounds. It was featured in a parody
 called "Dumbass Mario" by Bigfoot3290. The video was since deleted from Newgrounds (old content regularly gets
 deleted from the website), but [it survives on
-deviantart](https://www.deviantart.com/bigfoot3290/art/Dumbass-Mario-32854685) (if you're really that curious).
+deviantart](https://www.deviantart.com/bigfoot3290/art/Dumbass-Mario-32854685) if you're really that curious.
 
 I find this cover fascinating because it squeezes so much out of the relatively [simple overworld theme from
 Super Mario Land](https://www.youtube.com/watch?v=Gb33Qnbw520). And, you know, I'm a sucker for classy piano
