@@ -449,7 +449,11 @@ Since then, the game was re-released on Xbox Live Arcade for 10 USD. Videos of i
 game has lost some of its mystique. But one thing has not changed: the epicness of its final boss.
 
 Xiga is the final boss of Radiant Silvergun, which was the final boss of my video game collecting. And I have
-no words to describe how awesome it is, just have a look yourself.
+no words to describe how awesome it is, just have a look yourself. Just remember to...
+
+* BE PRAYING
+* BE PRAYING
+* BE PRAYING
 
 {{< youtube mfa8tFrjimA >}}
 
