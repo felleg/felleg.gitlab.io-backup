@@ -179,7 +179,7 @@ Fun fact: This theme is called "VS Satan" in Puyo Puyo.
 If you live outside Japan, you probably have never heard this arrangement of the Gradius theme before. Gradius
 is a very influencial shoot-em-up from Konami, first released in the arcades in 1985. The first time I have
 heard this arrangement was from the "Gradius Arcade Soundtrack" CD. Check it out
-[here](https://downloads.khinsider.com/game-soundtracks/album/gradius-arcade-sound-track), this version is
+[here](https://downloads.khinsider.com/game-soundtracks/album/gradius-arcade-sound-track/1-38%2520Hope%2520%2526%2520Joy%2520Peace%2520%2526%2520Love%2520%2528Gradius%2529.mp3), this version is
 played by the original composer of the song Miki Higashino. The arrangement is melancholic, it was the last
 piece of music the composer would work on for Konami before leaving the company. I find it to be a very
 powerful and emotional piece of music, especially considering how sad it is that Konami is such a shell of its
