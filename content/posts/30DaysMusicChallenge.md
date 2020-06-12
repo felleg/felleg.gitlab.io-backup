@@ -113,7 +113,7 @@ it incredibly advanced for its time. The best thing about it is that it's still 
 you enter your high score, you watch the sun set on some Californian boulevard (presumably) while listening to
 the Last Wave. The day is over, but it was a day filled with incredible experiences.
 
-{{< youtube oBg8O0rVkps >}}
+{{< youtube rH2zAdwZZL0 >}}
 
 # Day 07: Indie game - Facility (Xenocrisis)
 
@@ -409,7 +409,7 @@ that. It makes me feel like a total boss.
 
 # Day 28: Makes me feel nostalgic - New Age (The Incredible Machine 3)
 
-Plot Twist: I have played PC games as well! The Incredible Machine (known in Quebec as "Professeur TIM")used
+Plot Twist: I have played PC games as well! The Incredible Machine (known in Quebec as "Professeur TIM") used
 to be one of my favorite games. It was like playing with virtual K'NEX (read: Legos for hipsters)! The music
 in TIM was diverse and attempted to imitate existing pieces of music. I recommend you check out the [complete
 OST](https://www.youtube.com/watch?v=WToAEdHbH7A&list=PLAA37B0895CB2E2E0).
