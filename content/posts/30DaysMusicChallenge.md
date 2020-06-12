@@ -202,7 +202,7 @@ game for more than 10 minutes at a time, and I have owned this game for over 7 y
 
 # Day 14: Featuring vocals - Dreams of Our Generation -JP- (Rhythm Heaven Fever)
 
-Video game music has a troubled history in vocals. Something it works, and sometimes it just doesn't. For this
+Video game music has a troubled history in vocals. Sometimes it works, and sometimes it just doesn't. For this
 pick, I chose the song that plays during the credit roll for the Wii game Rhythm Heaven Fever, specifically
 the original Japanese version. I can't quite explain why, but this song always makes me feel optimistic and
 joyful. "It's sad that it's over, but we remember the wonderful time we had", kind of feeling. If you like
