@@ -284,6 +284,10 @@ I find this cover fascinating because it squeezes so much out of the relatively 
 Super Mario Land](https://www.youtube.com/watch?v=Gb33Qnbw520). And, you know, I'm a sucker for classy piano
 arragements. :smiley:
 
+(if you're wondering why this video shows a DDR-style game with the song, it's because it's the only video of
+the song I could find on the internet. I'm the creator of this "stepchart", I guess it shows how much I love
+this arrangement)
+
 {{< youtube htdFCP0m_04 >}}
 
 # Day 20: Racing game - Can You Feel the Sunshine (Sonic R)
