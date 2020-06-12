@@ -233,7 +233,8 @@ What is so great about this boss theme is how it progresses. The first few secon
 dread and despair to make the player feel like they're doing a huge mistake and should run away. However, as
 you get  better and better in the game, you will eventually be able to challenge these enemies without having
 to run away. By doing so, you will be able the later parts of the song, where it morphs into an anthem that
-makes you feel invincible. And then you might win, just barely! It's an immensely satisfying experience.
+makes you feel invincible. And then you might win, just by the skin of your teeth! It's an immensely
+satisfying experience.
 
 {{< youtube g7yNyhLOIa4 >}}
 
