@@ -1,10 +1,10 @@
 +++
-title = "Running Mac OS on your Linux machine"
+title = "Running macOS on your Linux machine"
 date = "2020-09-14"
 author = "Félix Léger"
 cover = "/img/tux-and-apple.jpeg"
-tags = ["Mac OS", "Linux", "VM", "virtual machine", "KVM", "QEMU"]
-keywords = ["Mac OS", "Linux", "VM", "virtual machine", "KVM", "QEMU"]
+tags = ["macOS", "Linux", "VM", "virtual machine", "KVM", "QEMU"]
+keywords = ["macOS", "Linux", "VM", "virtual machine", "KVM", "QEMU"]
 description = "It has become so easy, even Mac users could do it!"
 showFullContent = false
 +++
@@ -13,14 +13,14 @@ showFullContent = false
 
 It's worth noting from the start that Apple doesn't allow installing macOS on non-Apple hardware (because of
 course they do), so to use this legally you must have Linux installed on Apple hardware. Thought you could use
-this to legally run Mac OS without paying for a slice of Apple's pie? Think again! This information is shared
+this to legally run macOS without paying for a slice of Apple's pie? Think again! This information is shared
 for educational purposes.
 
 # Anyway...
 
 I don't want to start a religious war on this post, but I'll just say it right away: indeed, I'm not the
-biggest fan of Mac OS. Building on top of Unix is cool, but I just don't care about the part built on top of
-Unix. However, even I have to admit this fact: love it or hate it, Mac OS is here to stay.
+biggest fan of macOS. Building on top of Unix is cool, but I just don't care about the part built on top of
+Unix. However, even I have to admit this fact: love it or hate it, macOS is here to stay.
 
 While I am not a fan of Apple, as a developer I can certainly envy their business model. As far as I can tell,
 if you want to develop software for their mobile devices, you need to use desktop hardware made by Apple
@@ -30,7 +30,7 @@ the building and testing of iOS applications. But, who am I kidding, nobody can 
 ourselves to be in their position, we would do the same, right? *Right?*
 
 Anyway, let's leave all this stress behind and focus on the reason you probably clicked on this article: it
-has become easier than ever to run a Mac OS virtual machine on your computer. You can even use USB devices on
+has become easier than ever to run a macOS virtual machine on your computer. You can even use USB devices on
 it, seamlessly! In theory, this means you could develop and build iOS applications to support your user base,
 without ever needing to pay for a machine (you'd still have to pay the Apple Developer fee... choose your
 battles).
@@ -53,7 +53,7 @@ $ echo "-drive id=SystemDisk,if=none,file=MyDisk.qcow \\" >> basic.sh
 $ echo "-device ide-hd,bus=sata.4,drive=SystemDisk \\" >> basic.sh
 ```
 1. Launch `./basic.sh`.
-   - This will open a VM, we're almost there! We just have to install Mac OS on that VM.
+   - This will open a VM, we're almost there! We just have to install macOS on that VM.
 1. [Follow this video for the remaining instructions](/videos/20200605_setupMacVM.mp4), since an image is worth a thousand words. Feel free to watch at double speed.
 
 Bonus knowledge! Do you want to know how to use your USB devices in the Mac VM you just created? Well, you're
