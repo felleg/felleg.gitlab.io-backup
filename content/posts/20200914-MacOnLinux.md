@@ -22,7 +22,7 @@ ourselves to be in their position, we would do the same, right? *Right?*
 
 Anyway, let's leave all this stress behind and focus on the reason you probably clicked on this article: it
 has become easier than ever to run a Mac OS virtual machine on your computer. You can even use USB devices on
-it, seamlessly! In theory, this means you could develop and build iOS applications to support your userbase,
+it, seamlessly! In theory, this means you could develop and build iOS applications to support your user base,
 without ever needing to pay for a machine (you'd still have to pay the Apple Developer fee... choose your
 battles).
 
