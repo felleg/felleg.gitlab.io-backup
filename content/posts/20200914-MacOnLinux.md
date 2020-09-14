@@ -9,6 +9,10 @@ description = "It has become so easy, even Mac users could do it!"
 showFullContent = false
 +++
 
+Disclaimer: It's worth noting from the start that Apple doesn't allow installing macOS on non-Apple hardware
+(because of course they do), so to use this legally you must have Linux installed on Apple hardware. This
+information is shared for educational purposes.
+
 I don't want to start a religious war on this post, but I'll just say it right away: indeed, I'm not the
 biggest fan of Mac OS. Building on top of Unix is cool, but I just don't care about the part built on top of
 Unix. However, even I have to admit this fact: love it or hate it, Mac OS is here to stay.
