@@ -1,6 +1,6 @@
 +++
 title = "How SimpleScreenRecorder Makes Everything Better"
-date = "2020-09-14"
+date = "2020-09-13"
 author = "Félix Léger"
 cover = "img/simplescreenrecorder.png"
 tags = ["Collaboration"]
@@ -40,3 +40,7 @@ Usecases where SimpleScreenRecorder has been invaluable to me include (but are n
 - Allow project managers to demo the new feature to clients
 - Be watched at 2x speed to save a manager's time
 - Make live demonstrations less stressful
+
+Because SimpleScreenRecorder makes everything better, why not make this post infinitely better by adding a
+demonstration made using SimpleScreenRecorder itself? [Click here for a quick tour of
+SimpleScreenRecorder](/videos/simplescreenrecorder_demo.mp4)
