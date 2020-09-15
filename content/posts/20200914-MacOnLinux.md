@@ -45,13 +45,13 @@ Here's how to do it. I hope you know how to launch scripts from the command line
    - Huge shoutout and bro-fist to [Foxlet](https://twitter.com/FoxletFox) for their work!
 1. In the repo you cloned, run `./jumpstart.sh`
 1. Run these commands:
-```bash
-$ sudo apt update
-$ sudo apt install qemu
-$ qemu-img create -f qcow2 MyDisk.qcow2 64G`
-$ echo "-drive id=SystemDisk,if=none,file=MyDisk.qcow \\" >> basic.sh
-$ echo "-device ide-hd,bus=sata.4,drive=SystemDisk \\" >> basic.sh
-```
+   ```bash
+   $ sudo apt update
+   $ sudo apt install qemu
+   $ qemu-img create -f qcow2 MyDisk.qcow2 64G`
+   $ echo "-drive id=SystemDisk,if=none,file=MyDisk.qcow \\" >> basic.sh
+   $ echo "-device ide-hd,bus=sata.4,drive=SystemDisk \\" >> basic.sh
+   ```
 1. Launch `./basic.sh`.
    - This will open a VM, we're almost there! We just have to install macOS on that VM.
 1. [Follow this video for the remaining instructions](/videos/20200605_setupMacVM.mp4), since an image is worth a thousand words. Feel free to watch at double speed.
