@@ -48,7 +48,7 @@ Here's how to do it. I hope you know how to launch scripts from the command line
    ```bash
    $ sudo apt update
    $ sudo apt install qemu
-   $ qemu-img create -f qcow2 MyDisk.qcow2 64G`
+   $ qemu-img create -f qcow2 MyDisk.qcow2 64G
    $ echo "-drive id=SystemDisk,if=none,file=MyDisk.qcow \\" >> basic.sh
    $ echo "-device ide-hd,bus=sata.4,drive=SystemDisk \\" >> basic.sh
    ```
