@@ -74,20 +74,27 @@ released in 2017.
 It was extremely difficult to find music for this category. The way I understand it, the song has to be from a
 video game series that is entirely represented on a single video game console. This means any successful video
 game franchise is probably automatically disqualified, since great franchises usually migrate to next
-generation consoles. It also disqualifies any series that were eventually ported to PC, or received a home
+generation consoles. Worst of all, some series from the past often get rebooted many generations down the
+line. It also disqualifies any series that were eventually ported to PC, or received a home
 port from the arcade. Since we need music from a *series*, it also means the game either must have a sequel,
 or be one itself.
 
 At first, I thought about choosing music from Adventures of Lolo 3, since it is my favorite puzzle game on the
 NES (well, excluding Tetris...). However, I later found out that this was a console port of
 [Eggerland](https://en.wikipedia.org/wiki/Eggerland) from the same developer (HAL Laboratory) on the
-[MSX](https://en.wikipedia.org/wiki/MSX).
+[MSX](https://en.wikipedia.org/wiki/MSX). I then had my looks on Super Spy Hunter from the NES (check it
+out!), but was disappointed to learn is got a reboot on the PS2. Nothing to cry about, though, the reboot is
+worth a look as well!
 
 After spending some time searching through video games series lost through time, I stumbled upon this rockin'
 tune from Power Blade on the NES. This game and its sequel are very sough-after by video game
 collectors. Especially Power Blade 2!
 
 {{< youtube Rb9QZCzb-QM >}}
+
+I will leave a special mention for Startropics, an NES exclusive series **by Nintendo themselves** that never
+left America. The OST doesn't get my blood pumping as much as Power Blade, but you can bet many people a
+rightfully very nostalgic for it!
 
 # Day 05: Hub world / Overworld - Main Theme (Final Fantasy VII)
 
