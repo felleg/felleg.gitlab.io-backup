@@ -84,7 +84,8 @@ NES (well, excluding Tetris...). However, I later found out that this was a cons
 [Eggerland](https://en.wikipedia.org/wiki/Eggerland) from the same developer (HAL Laboratory) on the
 [MSX](https://en.wikipedia.org/wiki/MSX). I then had my looks on Super Spy Hunter from the NES (check it
 out!), but was disappointed to learn is got a reboot on the PS2. Nothing to cry about, though, the reboot is
-worth a look as well!
+worth a look as well! To be fair, Spy Hunter got its start in the arcades, so I don't even know why I'm
+talking about it. Super Spy Hunter deserved a mention somewhere! :smile:
 
 After spending some time searching through video games series lost through time, I stumbled upon this rockin'
 tune from Power Blade on the NES. This game and its sequel are very sough-after by video game
