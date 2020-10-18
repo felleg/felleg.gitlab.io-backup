@@ -2,12 +2,11 @@
 title = "I love E-readers"
 date = "2020-10-17"
 author = "Félix Léger"
-cover = ""
+cover = "img/kobolibrah2o.png"
 tags = ["e-readers", "underappreciated-tech"]
 keywords = ["e-readers", "kindle", "kobo"]
 description = "Join me in celebration to sing the praise of an underappreciated technology: E-readers"
 showFullContent = false
-draft = true
 +++
 
 Reading books. It never gets old.
@@ -16,29 +15,57 @@ If you had the pleasure to receive formal education, you probably know how to re
 follow you for the rest of your life.
 
 Out of all the hobbies I had in my lifetime, I find that reading is both the least demanding and most
-rewarding hobby of all. Really, all you need a working set of eyeballs and a brain that can parse information.
-There is no notion of speed, competition. You can't really sprain your wrist by reading. You don't need a
-working set of legs. You don't need friends, and you don't need an internet connection. As your body will
-start decaying, you surely will have to cross out hobbies from your list, simply because your body cannot
-provide the necessary requirements to partake in said hobbies. It should be no surprise, then, that the act of
-reading will stay on this list until the very end.
+rewarding hobby of all. Really, all you need to read are a working set of eyeballs and a brain that can parse
+information.  There is no notion of speed, competition. You can't really sprain your wrist by reading. You
+don't need a working set of legs. You don't need friends, and you don't need an internet connection. As your
+body starts decaying, you surely will have to cross out hobbies from your list, simply because your body
+cannot provide the necessary requirements to partake in said hobbies. It should be no surprise, then, that the
+act of reading will stay on this list until the very end.
 
 Look, many have tried before me to summarize why reading is such a great hobby. I could never do it justice,
 despite my best attempts. But you're reading this right now, so hopefully that means you're at least halfway to
 having seen the light.
 
-Sometimes I want to watch a movie for the plot. And then I remember the mountain of books that have never been
-adapted into movies. If you want to get into an original plot, look no further than books.
+# Real benefits of using E-readers
 
-Most of us humans read (that's part of what makes us humans!), but we don't consume our content the same way.
+I find E-readers wonderful because they make my life easier and more comfortable. Here is a
+non-exhaustive list of quality of life improvement provided by E-readers that I could hardly live without
+anymore:
 
-How do you consume your books?
+* Ease of transport. I can carry 50+ books in my coat's inside pocket.
+* Buying books online. No need to wait for shipping or visit the bookstore, new books are delivered instantly.
+* Change font styles and sizes on the fly. This is a game changer for anyone who bought a book with an
+  annoyingly small font.
+* Definitions on the fly in multiple languages, and Wikipedia support
+* Highlighting and note-taking, no need to carry pens or a notebook
+* Never lose your progress. If I drop my E-reader, there is no risk that a bookmark will disappear. No need to
+  fold pages, either.
+* Get access to thousands of copyright-free works (e.g. Project Gutenberg)
+* Read in the dark without an external source of light
+* Every book I read on my E-reader didn't need to be manufactured. That's a win for everyone.
+
+## "I don't need E-readers because I can read books on my phone/tablet."
+
+{{< figure src="/img/smartphone-ebook11.jpg" position="center" >}}
+
+Sure, you can, but it does not mean you *should*. Indeed, all the features listed above could be done on a
+smart phone, but doing so greatly impacts the potential enjoyment one would get from their reading experience.
+
+* Phones and tablets receive notifications that *will* distract you.
+* The screen found on phones and tablet is reflective, making it painful to read under the sun.
+* The type of lighting on E-readers will be less painful in the dark than on any other device.
+* Phones and tablets empty their battery at least 5 times faster than an E-reader.
+
+Bottom line, if you are an avid reader and can afford the comfort of reading on a dedicated reading machine,
+you should give it a try.
 
 # Fake cons about E-readers
 
+Alright, this is where I get to get things off my chest.
+
 Every time I have discussions about E-readers, the same "cons" come up. And to be frank, they sound to me like
 excuses not to try this new medium. Let's review some of them, courtesy of [Psychology
-Today](https://www.psychologytoday.com/ca/blog/hide-and-seek/201205/should-you-get-e-reader-all-the-pros-and-cons).
+Today](https://www.psychologytoday.com/ca/blog/hide-and-seek/201205/should-you-get-e-reader-all-the-pros-and-cons)
 
 ## "E-readers are expensive!"
 
@@ -77,12 +104,14 @@ Too often, I feel that marketing successfully pushes the notion that to fully un
 to own it in its physical form. Nothing could be further from the truth, and at some point we must realize as
 consumers that this is just a scheme to make us spend our money on overpriced items.
 
-## "Books are beautiful, and they can used as decoration"
+## "Books are beautiful, and they can used as decoration!"
 
 Sure! Some books are actual works of art in their physicality. I will not deny it.
 
 But let's do a reality check. How many "beautiful books" do you own that you also read? If a book is so
 beautiful, wouldn't you be afraid to damage it by using it?
+
+{{< figure src="/img/bookshelf.jpg" caption="This is beautiful until you have to move it yourself and realize you don't care about more than half of your collection." position="center" >}}
 
 If the whole point of "beautiful books" is only to appreciate their presence, are they even books at this
 point? In my eyes, they become a completely different object and should not be included in this conversation.
@@ -94,7 +123,8 @@ that would kind of beat the purpose of owning one. Then again, if you and your f
 copyright law, sharing books on E-readers is very real.
 
 The way I see it, sharing books on E-readers is not nonexistent. It's just different. Did you know that
-Overdrive allows you to legally borrow books from your neighborhood library?
+[OverDrive](https://www.overdrive.com) allows you to legally borrow digital books from your neighborhood
+library?
 
 At some point, you have to ask yourself: how often do you share your own books? Is this even a use case you
 should care about?
@@ -107,7 +137,7 @@ gift to feel the intention behind it.
 Social conventions can change. If you knew the person receiving your gift would prefer a digital copy, would
 you still feel comfortable giving them a physical book that would take up space in their home?
 
-## "Books cannot be autographed"
+## "E-books cannot be autographed!"
 
 I'll admit, none of my physical books are autographed. I guess it's because I don't visit book fairs. Let me
 pretend for a moment that I did.
@@ -120,7 +150,7 @@ book. It would stop being a book.
 It's ok to collect trophies! But we're talking about promoting reading, here. Autographed books, in my mind,
 do not belong in this conversation.
 
-## "Real books evoke fond memories, unlike digital versions"
+## "Real books evoke fond memories, unlike digital versions!"
 
 This is a criticism that caught me completely off-guard. And I think I understand what it means, but at the
 same time I'm not sure I agree with what it's getting at.
@@ -143,38 +173,40 @@ something with original artifacts (i.e. holding the same object and reading the 
 ago). Can this process be anything more than bittersweet?
 
 I don't judge you if you're doing this. I have been collecting junk from my childhood for over 20 years, now.
-But, as I gradually start to get rid of the objects that have become meaningless to me, I feel more free.
+But, as I gradually start to get rid of the objects that have become meaningless to me, I feel more free. I
+wish everyone could experience this "eureka" moment.
 
-## "Digital books represent a potential threat to author royalties"
+## "Digital books represent a potential threat to author royalties!"
 
-Yes, but only because it seems to be by design.
-
-Let's face it. Piracy will never go away. It is a reality, good or bad.
+Yes, but only because it seems like E-book distributors have no intention of creating an alternative better
+than piracy.  Let's face it. Piracy will never go away. It is a tool, which can be used for immoral goals, but
+also for pure goals.
 
 While we are on the subject of piracy, I want to say that my stance on piracy is mostly positive. I think we
-are brainwashed by corporations to view piracy as a crime, when in reality it is often the only tool consumers
-have to cut through marketing BS. Digital products have a unique opportunity to let consumers try the product
-before they buy it.
+are brainwashed by corporations to view piracy as a shameless crime, when in reality it is often the only tool
+consumers have to cut through marketing BS. Digital products have a unique opportunity to let consumers try
+the product before they buy it, but it seems like a majority of publishers do not take advantage of it.
 
-Digital trials are not like physical goods: you cannot damage them. If you "take them back to the store",
-nobody loses.
+Digital demos are not like physical goods: they cannot be damaged by a consumer. Thus, why wouldn't we allow
+consumers to try a demo version of a digital product to their heart's content? It is only the right thing to
+do, unless your goal is to trick people into buying an inferior product using clever marketing.
 
-Most digital subscriptions have a free-trial period to help you test if the product is right for you or not.
-And you know what? It works. It allows consumers to buy with confidence. I'd be willing to bet consumers spend
-more on a product if they were able to try it before buying it. This should be the norm.
-Too often, it feels like piracy is the only way to try something before buying it. It is a tragedy, but it is
-that way because publishers failed to embrace "free demos" when the Internet was young. It created a culture
-of "us versus them" that will probably never go away.
+Before I go any further in my rant, I must address the elephant in the room: *yes*, you can download a trial
+version of most E-books, whether it's on Amazon, the Kobo store, or any other store. However, I think this is
+too short-sighted, and we could do better than this.
 
-But let's forget about piracy for a moment. Let's look at two of my favorite digital distributors: Steam and
-Spotify. These platforms respectively distribute video games and music; two products that had people scream
-"piracy will doom the market!". Except, you can't pirate games from Steam, or music from Spotify. Their DRM is
-airtight. And everyone is paying their fair share. It's amazing.
+{{< figure src="/img/steam-spotify-netflix.png" caption="These players did it right." position="center" >}}
+
+Let's look at three of my favorite digital distributors: Steam, Spotify and Netflix. These platforms
+respectively distribute video games, music and movies; all products that had people scream "piracy will doom
+this market!". Except, you can't pirate games from Steam, music from Spotify, or movies from Netflix. Their
+DRM is airtight. And everyone is paying their fair share, because for the price you get convenience that can't
+be beat. It's amazing.
 
 The same thing could happen with books, if only the prices were right! Take a look at this pricing for *The
 Subtle Art of Not Giving a F.ck*:
 
-{{< figure src="/img/digital-book-pricing.png" caption="What a deal! Buy digital and save 15%! That's 2.22 CAD!"position="center" >}}
+{{< figure src="/img/digital-book-pricing.png" caption="What a deal! Buy digital and save 15%! That's 2.22 CAD!" position="center" >}}
 
 Saving 15% sounds like a good deal. Saving 2 dollars sounds like a rip-off, especially when it often takes
 less time to pirate the book than to enter your credit card info. I think if distributors like Amazon were
@@ -182,9 +214,9 @@ really interested in stopping piracy, they would create stronger DRM like Steam 
 lower their prices. It is not our responsibility as a consumer to jump through hoops.
 
 Remember that the people who make the most money from this transaction are the publishers and distributors.
-Not the authors. The system is not built with fairness in mind.
+Not the authors. The current system surrounding the purchase of E-books is not built with fairness in mind.
 
-## "Not all books are available in electronic format"
+## "Not all books are available in electronic format!"
 
 More and more books are becoming available. Any book published after 2010 surely has a digital version. And as
 we move forward in time, we go deeper and deeper in humanity's back catalog in order to digitize everything we
@@ -192,7 +224,7 @@ can. It's getting there, just like for movies and music.
 
 It's already good enough, and it will only get better.
 
-## "Digital books represent a threat to libraries and bookshops"
+## "Digital books represent a threat to libraries and bookshops!"
 
 Ok, let's humor this argument and pretend digital books were a real threat to libraries and bookshops. Would
 they start closing down, preventing us from benefiting from their services?
@@ -220,7 +252,21 @@ Let's stop being scared. Let's adapt! :smile:
 
 Here are, in my opinion, the only two true cons of E-readers:
 
-* They are battery-operated
-* They cannot replace children's books or most educational textbooks.
+* They are battery-operated (even if it usually lasts over a week on a single charge)
+* They cannot replace children's books (i.e. toys) or most educational textbooks.
 
-That's it! There's no other real con.
+That's it! In my mind, after 5 years of reading exclusively digital versions of books, these are the only cons
+I can honestly agree with.
+
+# In conclusion
+
+I think E-readers are underappreciated. To me, they seem like the natural evolution of reading, like Spotify
+is the natural evolution of the CD player. I hope we will see a paradigm shift in the future that will have
+people realize how convenient they are.
+
+Books have been around forever. They will never go away, however great E-reading technology becomes in the
+future. There are still too many edge cases where a book is simply the right solution to a problem. If a
+future without books is something that scares you, you shouldn't feel pressured to buy physical books in order to
+prevent it. It is just not our responsibility, as consumers.
+
+Save trees! Stop hoarding junk! Stay safe, and happy reading! :smile:
