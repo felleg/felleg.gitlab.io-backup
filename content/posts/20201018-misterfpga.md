@@ -86,7 +86,9 @@ Since the same electronic circuits are being replicated, the electronic output i
 even I would have difficulty in a blind test to know when I'm playing on an FPGA or on the real deal. Since
 the MiSTer can even follow original specs more closely than the original consoles, in some way it is often
 more accurate than the machines it is emulating. If you dread input lag in your gaming sessions, the MiSTer
-has you covered.
+has you covered. Using FPGA, you can switch between different console revisions on the fly (e.g. sound chips
+on the Sega Genesis, color palettes, etc.). You don't have to fear about aging chips: every time you load a
+console on an FPGA, it's as if it was fresh from the factory!
 
 A great quality of life improvement is that the MiSTer can connect to HDMI monitors, as well as CRT monitors.
 It can do everything the original machines could, while also conveniently being compatible with modern-day
@@ -171,17 +173,30 @@ mister](https://ultimatemister.com/)).
 | **Total**|**295 USD without tax and shipping**|
 
 For less than a quarter of the price, you get a smaller box that does more than any of the Analogue products
-*combined*. It may be scrappy, but with it you can emulate more consoles, arcades and computers, for a
-fraction of what Analogue is asking their consumers. Quantities are also not limited on the MiSTer, so no need
-to rush to pre-order or buy at an extra cost from scalpers. Add 60 USD for an SDRAM expansion and you could even
-play Neo Geo and Game Boy Advance games on your MiSTer (which is not at all possible on any Analogue system)!
+*combined*.
+
+Can we go lower? You sure bet! The bare MiSTer setup (only the Terasic DE-10 Nano itself) will run you 150
+USD, can by itself can already do **more than any Analogue product**. If you include [an HDMI-VGA analog such
+as this one](https://www.amazon.com/Moread-Gold-Plated-Projector-Chromebook-Raspberry/dp/B00SW9JI9A/), you
+could even be able to connect to a CRT monitor. Now that's a value that's hard to beat.
+
+| MiSTer parts | Price |
+| :------------- | :----------: |
+| Terasic DE-10 Nano|150|
+| **Total**|**150 USD without tax and shipping, that's a steal**|
+
+Look, the MiSTer may be scrappy, but with it you can emulate more consoles, arcades and computers, for a
+fraction of what Analogue is asking their consumers. You can add as many or as few accessories you want to
+match your level of comfort. Quantities are also not limited for the MiSTer, so no need to rush to pre-order or
+buy at an extra cost from scalpers. Add 60 USD for an SDRAM expansion and you could even play Neo Geo and Game
+Boy Advance games on your MiSTer (which is not at all possible on any Analogue system)!
 
 Marketing is everything, and people keep falling for Analogue's clever tactics. The *only* aces Analogue has in
 its pocket are:
 
 * their beautiful designs
 * the possibility to load games from actual cartridges instead of an SD card
-* no setup required (I'll get to that...)
+* no setup required (though this is misleading, I'll get to that...)
 
 But trust me, they get more mileage than anyone would expect from these (arguably) irrational advantages.
 
@@ -246,9 +261,9 @@ you trust me and don't panic. :smile:)
 # Final thoughts about setting up a MiSTer
 
 If you are familiar with technology, setting up MiSTer shouldn't feel too alien. But if not, I hope my guide
-will help you figure it out. Maybe you will learn a thing or two about micro-SD cards and save hundreds of
-dollars in the process. Really, if you have emulated games before, this process could hardly be any
-straightforward. It
+will help you figure it out. To quote Rysha, a MiSTer contributor, "if you can assemble IKEA furniture, you
+can use a MiSTer". Maybe you will learn a thing or two about micro-SD cards and save hundreds of dollars in
+the process. Really, if you have emulated games before, this process could hardly be any straightforward. It
 is true that simply plugging a cartridge initially feels more comfortable, but it's also much more expensive
 in the end for little gain. You're much better off taking the time to learn how to do these simple steps than
 spending a rent's worth on equipment you don't need. I'll take a moment to add that adding roms (e.g. play
