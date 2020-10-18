@@ -1,0 +1,261 @@
++++
+title = "Dream Machine: MiSTer FPGA"
+date = "2020-10-18"
+author = "Félix Léger"
+cover = "img/misterfpga.png"
+tags = ["mister", "fpga", "retro", "gaming", "diy"]
+keywords = ["mister", "fpga", "retro", "gaming", "diy"]
+description = "description coming soon"
+showFullContent = false
++++
+
+Here is a bit of context. I was born in 1993 in an upper-middle class family near Montreal. My parents are not
+geeks. I was first exposed to video games through my cousin who owned a Nintendo Entertainment System. When he
+bought/received the new Sega Genesis system, I received his NES as a hand-me-down. When he bought/received his
+first PlayStation, I received his Genesis as a hand-me-down.
+
+At least, that's how I remember it happening. At the end of the day, I was always a step behind in technology,
+and for this reason I have a very deep appreciation of retro technology and video game consoles, despite not
+truly fitting this demographic.
+
+{{< figure src="/img/mygenesisgames.jpg" caption="I still enjoy my original Sega Genesis collection." >}}
+
+Side note, the first console my parents purchased new from a store was an Xbox in 2002 (from Costco!). The
+reason? To the best of my memory, it's because they wanted a DVD player. And for a few extra dollars they
+could treat their kids. For a while, I enjoyed being part of the mainstream, but it was not meant to last.
+
+# Technology is like magic, old and new
+
+As I begin my journey in the tech industry, I am more and more in awe of what my predecessors were able to
+accomplish with limited means. **Humans are as crafty today as they were hundreds of years ago**. The only
+difference is the accessibility to knowledge is vastly more superior now than it used to be. If you asked me
+to come up with a technology that could show images in a two-dimensional plane, I could hardly do better than
+shadow puppetry.
+
+Do you realize how incredibly creative some humans had to be to come up with photography, let alone the
+cathode-ray tube television or OLED flat panels? Add in the fact that interactive video games can be played
+using such screens, and that I'm able to picture this phenomenon and share it on the Internet for you to
+see... that's enough to make my head spin. :smile:
+
+{{< figure src="/img/gun-nac-setup.jpg" position="center" caption="It boggles the mind to think how many layers of knowledge were required to get the result pictured here. And this is essentially a toy for kids!" >}}
+
+We too often forget how the everyday technology that surrounds us is fascinating. People worked *hard* to
+allow us to attain a certain level of comfort that is also reliable. If the definition of "magic" is a
+phenomenon you personally don't understand, then you have to admit... Under this definition, we are all
+surrounded by magic!
+
+{{< figure src="/img/dirty-harry-crt.jpg" caption="Some old games can also be surprisingly stylish. (Dirty Harry NES)" >}}
+
+# So, what is the MiSTer FPGA?
+
+If retro video games are magical to me, then the MiSTer FPGA is a dream come true. In my teens, even my wildest
+dreams would not dare go beyond half of what the MiSTer can deliver. Let me explain what MiSTer is all about.
+
+The MiSTer is a project created by [Alexey Melnikov (aka Sorgelig)](https://github.com/sorgelig). It uses the
+power of FPGA from an off-the-shelf board named [Terasic DE-10
+Nano](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=1046) to recreate vintage console
+and computers at the electronic level. It is not the first open-source project of its kind, but it certainly
+is the one that currently has the most momentum. While its exterior might make it look like any other box, a
+"magical" FPGA chip inside allows it to transform into a multitude of systems at the electronic level.
+
+When I use the word "transform", I really do mean that the FPGA chip inside the MiSTer re-organizes itself to
+*become* whatever chipset intended by an FPGA developer. This means, if developers are careful enough, they
+can accurately recreate the interior of classic machines on a single chip. Your television won't know the
+difference!
+
+I won't bother trying to explain it in more details than that,
+because I don't want to break the spell.  :smile: At least, it comforts me to know that some people fully
+understand this technology and are generous enough to open-source their work, for the benefit of human-kind.
+
+{{< figure src="/img/my-mister.png" caption="My very own MiSTer from zerohimself, in its 3D-printed case." position="center" >}}
+
+The MiSTer is a completely different beast than products such as the RetroPie, which uses *software* emulation
+instead of *hardware* emulation. Software emulation has been around for decades, and is also fascinating in
+its own way. But hardware emulation based on FPGA is a whole new thing that became mainstream around 2015. I
+like to think of it like the 3D-printing of electronic circuitry. It is a tool that empowers us, and the
+technology is young enough that we don't yet have to fear about its potential misuse. Now is the time to be
+dreamy-eyed about it (I hope I didn't jinx it just now!).
+
+# Is it really accurate?
+
+Yes, and then some. It is more than accurate.
+
+{{< figure src="/img/nullobject-workbench2.jpeg" caption="The workbench of [nullobject](https://twitter.com/nullobject), one of many FPGA developers specializing in reverse engineering arcade games">}}
+
+Since the same electronic circuits are being replicated, the electronic output is also the same. In reality,
+even I would have difficulty in a blind test to know when I'm playing on an FPGA or on the real deal. Since
+the MiSTer can even follow original specs more closely than the original consoles, in some way it is often
+more accurate than the machines it is emulating. If you dread input lag in your gaming sessions, the MiSTer
+has you covered.
+
+A great quality of life improvement is that the MiSTer can connect to HDMI monitors, as well as CRT monitors.
+It can do everything the original machines could, while also conveniently being compatible with modern-day
+accessories. The flexibility of the video outputs is truly staggering on the MiSTer and could fully warrant
+its own discussion. This is not only great for console games, but also for arcade games.
+
+Do you know how expensive original arcade hardware is in 2020? With MiSTer, you can play most golden-age games
+as if you owned the actual PCB, with the added bonus of USB controllers and peace of mind of never having to
+re-solder capacitors.
+
+Long story short, emulating original systems on the MiSTer is as good, if not better, than playing on original
+consoles. It is more reliable, convenient, and in some cases more accurate.
+
+# If MiSTer is so great, why doesn't everyone rush to get one?
+
+I honestly don't know.
+
+I think it only comes down to lack of marketing. Since this is an open-source project made by enthusiasts
+using off-the-shelf parts, opportunities to make money are limited. Thus, it is rare to see influencers spread
+the good news. But more than that, the retro gaming community is currently swarmed under a tsunami of
+marketing from [Analogue inc.](https://www.analogue.co/).
+
+{{< figure src="/img/analogue-inc.png" caption="They may be small, but they're making big waves."
+position="center" >}}
+
+Analogue is a for-profit company that focuses on creating dedicated FPGA-clone consoles. While their products
+are certainly beautiful and well-engineered, they are closed source and use shady business practices to boost
+their sales, such as limited supplies. And their products are *expensive*, which
+[makes](https://www.engadget.com/analogue-duo-turbografx-pc-engine-turboduo-fpga-console-150059918.html)
+[people](https://www.nintendolife.com/news/2020/10/analogues_next_fpga_console_tackles_kanye_wests_favourite_system_the_pc_engine_turbografx-16)
+[talk](https://www.forbes.com/sites/olliebarder/2020/10/17/the-analogue-duo-looks-like-the-ultimate-console-for-pc-engine-and-turbografx-16-fans/#6bc92f5e5a61)
+[about](https://www.gamespot.com/articles/analogue-duo-release-date-price/1100-6483390/)
+[them nonstop](https://www.analogue.co/press/). For a parallel, Analogue inc. is to MiSTer what Apple is to Linux (and
+I guess, this leaves the [Retro
+AVS](https://www.retrousb.com/product_info.php?cPath=36&products_id=78&osCsid=6c142694ed4f2fb0dd1a8af7eca48a1a)
+to be Microsoft..?).
+
+The problem here is that Analogue products are so prohibitively expensive (or limited in
+quantities) that people rarely get to compare the experience of playing on a MiSTer or an Analogue device. If
+you invest on one of them, there are many factors that will make you not want to invest in the other. The few
+people who managed to experience both sides of the fence will invariably tell you that the MiSTer developers
+are (in the long run) more detail-oriented and support their work far more than Analogue themselves. In the
+end, you can expect the same gameplay experience between both devices, if not slightly more accurate on MiSTer (the
+cheaper system).
+
+# Crunching the numbers
+
+Really, it just pains me when I see article after article telling people to hurry up and buy the new
+"fantastic" Analogue project. Just two days ago, they announced a new product, the
+[Duo](https://www.analogue.co/duo/), and the hype cycle is back again on any website that discusses gaming,
+despite the constant criticism against the company. When you look at the numbers, and the demographic who is
+interested in classic gaming (i.e. not rich people), you'll see that it simply makes no sense to invest in
+Analogue systems.
+
+| Analogue Products | Price |
+| :------------- | :----------: |
+| Analogue Duo | 199.99 |
+| Analogue Pocket|199.99 |
+| Mega Sg|189.99 |
+| Super Nt|189.99 |
+| Nt Mini|499.99 |
+| DAC|79.99 |
+| **Total** | **1359.95 USD without tax and shipping** |
+
+This is the price (before tax and shipping) you would have to pay to access everything Analogue has to offer,
+and that's if you can find these items at their lowest price. To be fair, for this price you would get quality
+hardware. You would be able to play on both HDMI and a CRT, [you could jailbreak the Nt Mini to access various
+other 8-bit systems](https://atariage.com/forums/topic/242970-fpga-based-videogame-system)... At first glance,
+cool stuff.
+
+Let's head over to the MiSTer side and see how it compares. Let's pretend you buy your system from
+misteraddons.com, run by a trusted enthusiast known as [Porkchop Express](https://twitter.com/misteraddons)
+(other alternatives include [zerohimself](https://www.etsy.com/ca/shop/zerohimself), where I bought my own, or [ultimate
+mister](https://ultimatemister.com/)).
+
+| MiSTer parts | Price |
+| :------------- | :----------: |
+| Terasic DE-10 Nano|150|
+| IO board|50|
+| USB hub|45|
+| Case|50|
+| **Total**|**295 USD without tax and shipping**|
+
+For less than a quarter of the price, you get a smaller box that does more than any of the Analogue products
+*combined*. It may be scrappy, but with it you can emulate more consoles, arcades and computers, for a
+fraction of what Analogue is asking their consumers. Quantities are also not limited on the MiSTer, so no need
+to rush to pre-order or buy at an extra cost from scalpers. Add 60 USD for an SDRAM expansion and you could even
+play Neo Geo and Game Boy Advance games on your MiSTer (which is not at all possible on any Analogue system)!
+
+Marketing is everything, and people keep falling for Analogue's clever tactics. The *only* aces Analogue has in
+its pocket are:
+
+* their beautiful designs
+* the possibility to load games from actual cartridges instead of an SD card
+* no setup required (I'll get to that...)
+
+But trust me, they get more mileage than anyone would expect from these (arguably) irrational advantages.
+
+The "FPGA wars" is very real between Analogue and MiSTer fans. For an interesting read on the topic, I
+recommend [this well-written article from Ryan Houlihan](https://www.inputmag.com/gaming/is-analogue-evil)
+that summarizes the current state of things.
+
+# Setting up a MiSTer FPGA.
+
+Congratulations! You have decided to get a MiSTer over some Analogue product(s). You are very wise. Here
+is my shopping and getting-started guide.
+
+You are going to need:
+
+* The MiSTer itself (with Standard IO): https://misteraddons.com/products/mister-bundles
+* A case if you find the MiSTer ugly: https://misteraddons.com/products/official-mister-case
+* An SD card (I recommend at least 64 Gb, the more the better):
+   - If you want to set it up yourself (IT'S EASY! TRUST ME!), [grab a cheap SanDisk from Amazon](https://www.amazon.ca/Sandisk-SDSQUAR-032G-GN6MA-Ultra-Micro-Adapter/dp/B073JYVKNX/)
+   - If you want to skip the setup (i.e. throw money at the problem), [misteraddons sells some pre-configured cards](https://misteraddons.com/products/pre-configured-sandisk-micro-sd-cards). You will still have to add games yourself. I do not recommend it.
+* A [VGA-to-component
+  cable](https://www.amazon.ca/Monoprice-102170-6-Feet-Component-HD15-3-RCA/dp/B001O8C6HM/) if you want to play on a CRT that has these connections
+   - If your TV only supports composite (red-white-yellow connections) or S-Video, [this adapter](https://www.antoniovillena.es/store/product/vga-composite-s-video-adapter/) works, but I don't currently recommend it, especially for composite.
+
+## Setting up the micro-SD card
+
+(You can skip this if you bought a pre-configured card. This entire section should take roughly 10 minutes if
+you trust me and don't panic. :smile:)
+
+1. Download and unzip the `mr-fusion-vx.y.img.zip` file from [this link](https://github.com/MiSTer-devel/mr-fusion/releases/latest)
+1. Bake the mr-fusion image file you downloaded in the previous step to your micro-SD card using a tool like [Win32
+   Disk Imager](https://sourceforge.net/projects/win32diskimager/)
+      - If you don't know how to do this basic procedure, learn about it in [this mini tutorial](https://www.ev3dev.org/docs/tutorials/writing-sd-card-image-win32diskimager/), starting at step 4 :smile:
+1. Put the micro-SD card into your MiSTer. There are two slots, so make sure you use the correct one.
+{{< figure src="/img/where-to-insert-sd-card.png" caption="Insert your SD card in the left slot, push until you hear a 'click'" position="center" >}}
+1. Connect your MiSTer to your favorite monitor and power it on! You should see this screen for roughly 90
+   seconds:
+{{< figure src="https://raw.githubusercontent.com/MiSTer-devel/mr-fusion/master/vendor/support/splash.png" >}}
+1. Almost done! Connect a keyboard to your MiSTer using the USB ports. Press F12 to open the
+   options menu. If you connect an Ethernet cable to your MiSTer, you can go to the Scripts section and run
+   the Update script.
+      - Note for pros: You can add any script to the existing MiSTer scripts by plugging the MiSTer SD card in
+        your computer after setting up mr-fusion. My favorite script is [Update_All](https://github.com/theypsilon/Update_All_MiSTer)
+
+## Configuring your controller
+
+1. Connect your favorite USB controller in one of the MiSTer USB ports (alternatively, you can use the
+   Bluetooth script if you feel courageous).
+1. Use your keyboard and navigate to "Define Joystick Buttons"
+1. Follow the prompts to configure your controller's buttons.
+
+## Adding games
+
+1. Visit the [Everdrive pack game archive](https://archive.org/download/everdrivepack/). The zip files that
+   start with an `'@'` character are compatible with MiSTer.
+1. Download the zip files (and optionally the Pack add-ons and Game Series Collections) for your favorite
+   consoles.
+1. Connect your fully setup MiSTer micro-SD card into your computer
+1. In your SD card, navigate to the games folder
+1. Extract all the archives you download in step 2 to their matching folder in the SD card
+1. Safely eject your micro-SD card from your computer and plug it back into your MiSTer
+
+# Final thoughts about setting up a MiSTer
+
+If you are familiar with technology, setting up MiSTer shouldn't feel too alien. But if not, I hope my guide
+will help you figure it out. Maybe you will learn a thing or two about micro-SD cards and save hundreds of
+dollars in the process. Really, if you have emulated games before, this process could hardly be any easier. It
+is true that simply plugging a cartridge initially feels more comfortable, but it's also much more expensive
+in the end for little gain. You're much better off taking the time to learn how to do these simple steps than
+spending a rent's worth on equipment you don't need. I'll take a moment to add that adding roms (e.g. play
+games without a cartridge) to an Analogue product, or a flash cart (e.g. [Everdrives](http://krikzz.com/)) is
+exactly the same process as adding games on MiSTer.
+
+{{< figure src="/img/crt-gaming.jpg" >}}
+
+Support open-source efforts! Do not support shady business practices.
+
+Happy gaming!
