@@ -5,8 +5,7 @@ author = "Félix Léger"
 cover = "img/misterfpga.png"
 tags = ["mister", "fpga", "retro", "gaming", "diy"]
 keywords = ["mister", "fpga", "retro", "gaming", "diy"]
-description = "In this post, I officially declare my love for the MiSTer project, and I show you how to get
-started."
+description = "In this post, I officially declare my love for the MiSTer project, and I show you how to get started."
 showFullContent = false
 +++
 
