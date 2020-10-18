@@ -202,7 +202,7 @@ You are going to need:
 * An SD card (I recommend at least 64 Gb, the more the better):
    - If you want to set it up yourself (IT'S EASY! TRUST ME!), [grab a cheap SanDisk from Amazon](https://www.amazon.ca/Sandisk-SDSQUAR-032G-GN6MA-Ultra-Micro-Adapter/dp/B073JYVKNX/)
    - If you want to skip the setup (i.e. throw money at the problem), [misteraddons sells some pre-configured cards](https://misteraddons.com/products/pre-configured-sandisk-micro-sd-cards). You will still have to add games yourself. I do not recommend it.
-* A [VGA-to-component
+* Optional: A [VGA-to-component
   cable](https://www.amazon.ca/Monoprice-102170-6-Feet-Component-HD15-3-RCA/dp/B001O8C6HM/) if you want to play on a CRT that has these connections
    - If your TV only supports composite (red-white-yellow connections) or S-Video, [this adapter](https://www.antoniovillena.es/store/product/vga-composite-s-video-adapter/) works, but I don't currently recommend it, especially for composite.
 
