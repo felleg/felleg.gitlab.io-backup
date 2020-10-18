@@ -5,8 +5,7 @@ author = "Félix Léger"
 cover = "/img/scanlines.jpg"
 tags = ["gaming"]
 keywords = [""]
-description = "Scanline porn of the day"
-showFullContent = false
+showFullContent = true
 +++
 
 Radiant Silvergun (Sega Saturn) in S-Video on a Commodore 1702 monitor. Required one of [these bad
