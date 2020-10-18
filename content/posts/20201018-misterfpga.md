@@ -248,7 +248,8 @@ you trust me and don't panic. :smile:)
 
 If you are familiar with technology, setting up MiSTer shouldn't feel too alien. But if not, I hope my guide
 will help you figure it out. Maybe you will learn a thing or two about micro-SD cards and save hundreds of
-dollars in the process. Really, if you have emulated games before, this process could hardly be any easier. It
+dollars in the process. Really, if you have emulated games before, this process could hardly be any
+straightforward. It
 is true that simply plugging a cartridge initially feels more comfortable, but it's also much more expensive
 in the end for little gain. You're much better off taking the time to learn how to do these simple steps than
 spending a rent's worth on equipment you don't need. I'll take a moment to add that adding roms (e.g. play
