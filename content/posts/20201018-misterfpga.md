@@ -151,12 +151,12 @@ Analogue systems.
 
 | Analogue Products | Price |
 | :------------- | :----------: |
-| Analogue Duo | 199.99 |
-| Analogue Pocket|199.99 |
-| Mega Sg|189.99 |
-| Super Nt|189.99 |
-| Nt Mini|499.99 |
-| DAC|79.99 |
+| Analogue Duo (Turbografx-16 and CD)| 199.99 |
+| Analogue Pocket (GB, GBC, GG, NGPC, Lynx)|199.99 |
+| Mega Sg (Sega Genesis)|189.99 |
+| Super Nt (Super Nintendo)|189.99 |
+| Nt Mini (Nintendo Entertainment System)|499.99 |
+| DAC (HDMI to analog converter)|79.99 |
 | **Total** | **1359.94 USD without tax and shipping** |
 
 This is the price (before tax and shipping) you would have to pay to access everything Analogue has to offer,
@@ -173,10 +173,10 @@ mister](https://ultimatemister.com/)).
 
 | MiSTer parts -- comfortable setup| Price |
 | :------------- | :----------: |
-| Terasic DE-10 Nano|150|
-| IO board|50|
-| USB hub|45|
-| Case|50|
+| Terasic DE-10 Nano (main brain)|150|
+| IO board (converts digital signals to analog)|50|
+| USB hub (allows 7 simultaneous connections)|45|
+| Protective case|50|
 | **Total**|**295 USD without tax and shipping**|
 
 For less than a quarter of the price, you get a smaller box that does more than any of the Analogue products
@@ -191,7 +191,7 @@ everything for a single low, low price.
 
 | MiSTer parts -- the bare minimum | Price |
 | :------------- | :----------: |
-| Terasic DE-10 Nano|150|
+| Terasic DE-10 Nano (main brain)|150|
 | **Total**|**150 USD without tax and shipping, that's a steal**|
 
 Look, the MiSTer may be scrappy, but with it you can emulate more consoles, arcades and computers, for a
