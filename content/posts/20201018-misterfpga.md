@@ -239,7 +239,7 @@ To give Analogue credit, I personally am a huge fan of their [NSF visualizer on 
 Mini](https://www.youtube.com/watch?v=sF4CTtPOtXc). This is the killer feature that I wish will get
 implemented on MiSTer.
 
-# Setting up a MiSTer FPGA.
+# Setting up a MiSTer FPGA
 
 Congratulations! You have decided to get a MiSTer over some Analogue product(s). You are very wise. Here
 is my shopping and getting-started guide.
