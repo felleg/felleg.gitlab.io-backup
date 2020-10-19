@@ -155,7 +155,7 @@ Analogue systems.
 | Analogue Pocket (GB, GBC, GG, NGPC, Lynx)|199.99 |
 | Mega Sg (Sega Genesis)|189.99 |
 | Super Nt (Super Nintendo)|189.99 |
-| Nt Mini (Nintendo Entertainment System)|499.99 |
+| Nt Mini (Nintendo Entertainment System / Famicom)|499.99 |
 | DAC (HDMI to analog converter)|79.99 |
 | **Total** | **1359.94 USD without tax and shipping** |
 
@@ -177,13 +177,14 @@ mister](https://ultimatemister.com/)).
 | IO board (converts digital signals to analog)|50|
 | USB hub (allows 7 simultaneous connections)|45|
 | Protective case|50|
-| **Total**|**295 USD without tax and shipping**|
+| Expansion SDRAM (support more machines)|60|
+| **Total**|**355 USD without tax and shipping**|
 
-For less than a quarter of the price, you get a smaller box that does more than any of the Analogue products
+For roughly a quarter of the price, you get a smaller box that does more than any of the Analogue products
 *combined*.
 
-Can we go lower? You sure bet! The bare MiSTer setup (only the Terasic DE-10 Nano itself) will run you 150
-USD, and by itself can already do **more than any Analogue product**. If you include [an HDMI-VGA adapter such
+Can we go lower? You sure bet! The bare MiSTer setup (only the Terasic DE-10 Nano itself) will run you 217
+USD+tax, and by itself can already do **more than any Analogue product**. If you include [an HDMI-VGA adapter such
 as this one](https://www.amazon.com/Moread-Gold-Plated-Projector-Chromebook-Raspberry/dp/B00SW9JI9A/), you
 could even be able to connect to a CRT monitor. Now that's a value that's hard to beat. The reason is simple:
 for every console you wish to use, you have to buy a separate console from Analogue. MiSTer contains
@@ -192,14 +193,15 @@ everything for a single low, low price.
 | MiSTer parts -- the bare minimum | Price |
 | :------------- | :----------: |
 | Terasic DE-10 Nano (main brain)|150|
-| **Total**|**150 USD without tax and shipping, that's a steal**|
+| Expansion SDRAM (support more machines)|60|
+| USB mini hub | 7|
+| **Total**|**217 USD without tax and shipping, that's a steal**|
 
 Look, the MiSTer may be scrappy, but with it you can emulate more consoles, arcades and computers, for a
 fraction of what Analogue is asking their consumers. You can add as many or as few accessories you want to
 match your level of comfort. Quantities are also not limited for the MiSTer, so no need to rush to pre-order
-or buy at an extra cost from scalpers. Add 60 USD for [an SDRAM
-expansion](https://misteraddons.com/products/sdram-xsd-2-5-128mb) and you could even play Neo Geo games on
-your MiSTer (which is not at all possible on any FPGA Analogue system)! For completedness, [here is the list
+or buy at an extra cost from scalpers. Though the SDRAM is optional, I highly recommend it since it is
+required to access might machines that might interest you. For completedness, [here is the list
 of cores that require or benefit from having an SDRAM expansion on
 board](https://github.com/MiSTer-devel/Main_MiSTer/wiki/Cores-that-use-SDRAM).
 
@@ -237,7 +239,7 @@ To give Analogue credit, I personally am a huge fan of their [NSF visualizer on 
 Mini](https://www.youtube.com/watch?v=sF4CTtPOtXc). This is the killer feature that I wish will get
 implemented on MiSTer.
 
-# Setting up a MiSTer FPGA.
+# Setting up a MiSTer FPGA
 
 Congratulations! You have decided to get a MiSTer over some Analogue product(s). You are very wise. Here
 is my shopping and getting-started guide.
