@@ -203,7 +203,7 @@ Look, the MiSTer may be scrappy, but with it you can emulate more consoles, arca
 fraction of what Analogue is asking their consumers. You can add as many or as few accessories you want to
 match your level of comfort. Quantities are also not limited for the MiSTer, so no need to rush to pre-order
 or buy at an extra cost from scalpers. Though the SDRAM is optional, I highly recommend it since it is
-required to access might machines that might interest you. For completedness, [here is the list
+required to access machines that probably interest you. For completedness, [here is the list
 of cores that require or benefit from having an SDRAM expansion on
 board](https://github.com/MiSTer-devel/Main_MiSTer/wiki/Cores-that-use-SDRAM).
 
