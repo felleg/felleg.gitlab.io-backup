@@ -21,6 +21,8 @@ disqusShortname = "felixleger"
   centerTheme = false
   # set a custom favicon (default is a `themeColor` square)
   # favicon = "favicon.ico"
+  MinuteReadingTime = "min read"
+  LastModDisplay = "Modified:"
 
 [languages]
   [languages.en]
