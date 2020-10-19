@@ -90,7 +90,7 @@ Yes, and then some. It is more than accurate.
 {{< figure src="/img/nullobject-workbench2.jpeg" caption="The workbench of [nullobject](https://twitter.com/nullobject), one of many FPGA developers specializing in reverse engineering arcade games">}}
 
 Since the same electronic circuits are being replicated, the electronic output is also the same. In reality,
-even I would have difficulty in a blind test to know when I'm playing on an FPGA or on the real deal. Since
+even I would have difficulty in a blind test to know whether I'm playing on an FPGA or on the real deal. Since
 the MiSTer can even follow original specs more closely than the original consoles, in some way it is often
 more accurate than the machines it is emulating. If you dread input lag in your gaming sessions, the MiSTer
 has you covered. Using FPGA, you can switch between different console revisions on the fly (e.g. sound chips
