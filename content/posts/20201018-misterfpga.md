@@ -180,7 +180,7 @@ mister](https://ultimatemister.com/)).
 | Expansion SDRAM|60|
 | **Total**|**355 USD without tax and shipping**|
 
-For less than a quarter of the price, you get a smaller box that does more than any of the Analogue products
+For roughly a quarter of the price, you get a smaller box that does more than any of the Analogue products
 *combined*.
 
 Can we go lower? You sure bet! The bare MiSTer setup (only the Terasic DE-10 Nano itself) will run you 217
