@@ -197,8 +197,11 @@ everything for a single low, low price.
 Look, the MiSTer may be scrappy, but with it you can emulate more consoles, arcades and computers, for a
 fraction of what Analogue is asking their consumers. You can add as many or as few accessories you want to
 match your level of comfort. Quantities are also not limited for the MiSTer, so no need to rush to pre-order
-or buy at an extra cost from scalpers. Add 60 USD for an SDRAM expansion and you could even play Neo Geo games
-on your MiSTer (which is not at all possible on any FPGA Analogue system)!
+or buy at an extra cost from scalpers. Add 60 USD for [an SDRAM
+expansion](https://misteraddons.com/products/sdram-xsd-2-5-128mb) and you could even play Neo Geo games on
+your MiSTer (which is not at all possible on any FPGA Analogue system)! For completedness, [here is the list
+of cores](https://github.com/MiSTer-devel/Main_MiSTer/wiki/Cores-that-use-SDRAM) that require or benefit from
+having an SDRAM expansion on board.
 
 Marketing is everything, and people keep falling for Analogue's clever tactics. The *only* aces Analogue has
 up its sleeve are:
