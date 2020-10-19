@@ -177,7 +177,7 @@ mister](https://ultimatemister.com/)).
 | IO board (converts digital signals to analog)|50|
 | USB hub (allows 7 simultaneous connections)|45|
 | Protective case|50|
-| Expansion SDRAM|60|
+| Expansion SDRAM (support more machines)|60|
 | **Total**|**355 USD without tax and shipping**|
 
 For roughly a quarter of the price, you get a smaller box that does more than any of the Analogue products
@@ -193,7 +193,7 @@ everything for a single low, low price.
 | MiSTer parts -- the bare minimum | Price |
 | :------------- | :----------: |
 | Terasic DE-10 Nano (main brain)|150|
-| Expansion SDRAM|60|
+| Expansion SDRAM (support more machines)|60|
 | USB mini hub | 7|
 | **Total**|**217 USD without tax and shipping, that's a steal**|
 
