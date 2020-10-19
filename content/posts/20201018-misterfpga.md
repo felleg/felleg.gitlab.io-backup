@@ -275,9 +275,9 @@ Take a deep breath. This entire section should take roughly 10 minutes if you tr
       - If you don't know how to do this basic procedure, learn about it in [this mini tutorial](https://www.ev3dev.org/docs/tutorials/writing-sd-card-image-win32diskimager/), starting at step 4 :smile:
 1. Put the micro-SD card into your MiSTer. There are two slots, so make sure you use the correct one.
 {{< figure src="/img/where-to-insert-sd-card.png" caption="Insert your SD card in the left slot, push until you hear a 'click'" position="center" >}}
-1. Connect your MiSTer to your favorite HDMI monitor and power it on! You should see this screen for roughly 90
+1. Connect your MiSTer to your favorite HDMI monitor and power it on! You should see this screen for about 90
    seconds:
-{{< figure src="https://raw.githubusercontent.com/MiSTer-devel/mr-fusion/master/vendor/support/splash.png" >}}
+{{< figure src="https://raw.githubusercontent.com/MiSTer-devel/mr-fusion/master/vendor/support/splash.png" caption="If you see this, mr-fusion is doing its thing!">}}
 1. Almost done! Connect a keyboard to your MiSTer using the USB ports. Press F12 to open the
    options menu. If you connect an Ethernet cable to your MiSTer, you can go to the Scripts section and run
    the Update script.
