@@ -165,7 +165,7 @@ Express](https://twitter.com/misteraddons) (other alternatives include
 [zerohimself](https://www.etsy.com/ca/shop/zerohimself), where I bought my own, or [ultimate
 mister](https://ultimatemister.com/)).
 
-| MiSTer parts | Price |
+| MiSTer parts -- comfortable setup| Price |
 | :------------- | :----------: |
 | Terasic DE-10 Nano|150|
 | IO board|50|
@@ -181,7 +181,7 @@ USD, and by itself can already do **more than any Analogue product**. If you inc
 as this one](https://www.amazon.com/Moread-Gold-Plated-Projector-Chromebook-Raspberry/dp/B00SW9JI9A/), you
 could even be able to connect to a CRT monitor. Now that's a value that's hard to beat.
 
-| MiSTer parts | Price |
+| MiSTer parts -- the bare minimum | Price |
 | :------------- | :----------: |
 | Terasic DE-10 Nano|150|
 | **Total**|**150 USD without tax and shipping, that's a steal**|
