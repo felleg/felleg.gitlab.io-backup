@@ -177,7 +177,7 @@ For less than a quarter of the price, you get a smaller box that does more than 
 *combined*.
 
 Can we go lower? You sure bet! The bare MiSTer setup (only the Terasic DE-10 Nano itself) will run you 150
-USD, and by itself can already do **more than any Analogue product**. If you include [an HDMI-VGA analog such
+USD, and by itself can already do **more than any Analogue product**. If you include [an HDMI-VGA adapter such
 as this one](https://www.amazon.com/Moread-Gold-Plated-Projector-Chromebook-Raspberry/dp/B00SW9JI9A/), you
 could even be able to connect to a CRT monitor. Now that's a value that's hard to beat.
 
