@@ -196,9 +196,9 @@ everything for a single low, low price.
 
 Look, the MiSTer may be scrappy, but with it you can emulate more consoles, arcades and computers, for a
 fraction of what Analogue is asking their consumers. You can add as many or as few accessories you want to
-match your level of comfort. Quantities are also not limited for the MiSTer, so no need to rush to pre-order or
-buy at an extra cost from scalpers. Add 60 USD for an SDRAM expansion and you could even play Neo Geo and Game
-Boy Advance games on your MiSTer (which is not at all possible on any Analogue system)!
+match your level of comfort. Quantities are also not limited for the MiSTer, so no need to rush to pre-order
+or buy at an extra cost from scalpers. Add 60 USD for an SDRAM expansion and you could even play Neo Geo games
+on your MiSTer (which is not at all possible on any FPGA Analogue system)!
 
 Marketing is everything, and people keep falling for Analogue's clever tactics. The *only* aces Analogue has
 up its sleeve are:
@@ -212,6 +212,27 @@ But trust me, they get more mileage than anyone would expect from these (arguabl
 The "FPGA wars" is very real between Analogue and MiSTer fans. For an interesting read on the topic, I
 recommend [this well-written article from Ryan Houlihan](https://www.inputmag.com/gaming/is-analogue-evil)
 that summarizes the current state of things.
+
+## Supported platforms
+
+Just for a fun comparison, I compiled a list of platforms supported by Analogue and by MiSTer. To guide your
+eye, I boldened the name of consoles I think might interest most retronauts.
+
+{{< figure src="/img/supported-platforms-analogue-vs-mister.png" position="center">}}
+
+As you might notice, MiSTer does a good job in general of supporting platforms that spark interest. This is
+natural: MiSTer developers work for free, so they have the luxury of working on platforms they care about. New
+platforms are added every year, as long as the developers stay motivated.  Analogue, on the other hand does
+support a few consoles not present on MiSTer, but most of them require an expensive and jailbroken Nt Mini,
+are not popular, and could become supported on MiSTer in the future.  Analogue also does not support any
+arcade game, or classic computer.
+
+Remember that on the MiSTer side, one device does all of this. You need at least 5 devices from Analogue to
+access all these platforms.
+
+To give Analogue credit, I personally am a huge fan of their [NSF visualizer on the Nt
+Mini](https://www.youtube.com/watch?v=sF4CTtPOtXc). This is the killer feature that I wish could be done on
+MiSTer.
 
 # Setting up a MiSTer FPGA.
 
