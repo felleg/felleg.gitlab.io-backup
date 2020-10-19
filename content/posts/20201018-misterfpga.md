@@ -238,7 +238,7 @@ are not popular, and could regardlessly become supported on MiSTer in the future
 support any arcade game, or classic computer.
 
 Remember that on the MiSTer side, one device does all of this. You need at least 5 devices from Analogue to
-access all these platforms.
+access their full potential.
 
 To give Analogue credit, I personally am a huge fan of their [NSF visualizer on the Nt
 Mini](https://www.youtube.com/watch?v=sF4CTtPOtXc). This is the killer feature that I wish will get
