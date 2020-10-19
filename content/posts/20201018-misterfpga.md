@@ -145,7 +145,7 @@ cheaper system).
 # Crunching the numbers
 
 Really, it just pains me when I see article after article telling people to hurry up and buy the new
-"fantastic" Analogue project. Just two days ago, they announced a new product, the
+"fantastic" Analogue project. Just two days ago (Oct. 16 2020), they announced a new product, the
 [Duo](https://www.analogue.co/duo/), and the hype cycle is back again on any website that discusses gaming,
 despite the constant criticism against the company. When you look at the numbers, and the demographic who is
 interested in classic gaming (i.e. not rich people), you'll see that it simply makes no sense to invest in
