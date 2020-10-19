@@ -46,8 +46,8 @@ see... that's enough to make my head spin. :smile:
 {{< figure src="/img/gun-nac-setup.jpg" position="center" caption="It boggles the mind to think how many layers of knowledge were required to get the result pictured here. And this is essentially a toy for kids!" >}}
 
 We too often forget how the everyday technology that surrounds us is fascinating. People worked *hard* to
-allow us to attain a certain level of comfort that is also reliable. If the definition of "magic" is a
-phenomenon you personally don't understand, then you have to admit... Under this definition, we are all
+allow us to attain a certain level of comfort that is also reliable. If the definition of "magic" is "a
+phenomenon you personally don't understand", then you have to admit... Under this definition, we are all
 surrounded by magic!
 
 {{< figure src="/img/dirty-harry-crt.jpg" caption="Some old games can also be surprisingly stylish. (Dirty Harry NES)" >}}
