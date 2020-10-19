@@ -160,8 +160,9 @@ other 8-bit systems](https://atariage.com/forums/topic/242970-fpga-based-videoga
 cool stuff.
 
 Let's head over to the MiSTer side and see how it compares. Let's pretend you buy your system from
-misteraddons.com, run by a trusted enthusiast known as [Porkchop Express](https://twitter.com/misteraddons)
-(other alternatives include [zerohimself](https://www.etsy.com/ca/shop/zerohimself), where I bought my own, or [ultimate
+[misteraddons.com](https://misteraddons.com), run by a trusted enthusiast known as [Porkchop
+Express](https://twitter.com/misteraddons) (other alternatives include
+[zerohimself](https://www.etsy.com/ca/shop/zerohimself), where I bought my own, or [ultimate
 mister](https://ultimatemister.com/)).
 
 | MiSTer parts | Price |
