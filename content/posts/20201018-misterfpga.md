@@ -234,8 +234,8 @@ Remember that on the MiSTer side, one device does all of this. You need at least
 access all these platforms.
 
 To give Analogue credit, I personally am a huge fan of their [NSF visualizer on the Nt
-Mini](https://www.youtube.com/watch?v=sF4CTtPOtXc). This is the killer feature that I wish could be done on
-MiSTer.
+Mini](https://www.youtube.com/watch?v=sF4CTtPOtXc). This is the killer feature that I wish will get
+implemented on MiSTer.
 
 # Setting up a MiSTer FPGA.
 
