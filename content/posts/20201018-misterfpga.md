@@ -261,8 +261,10 @@ You are going to need:
 
 ## Setting up the micro-SD card
 
-(You can skip this if you bought a pre-configured card. This entire section should take roughly 10 minutes if
-you trust me and don't panic. :smile:)
+([Click here to skip this section if you bought a pre-configured card]({{< ref "#controllers" >}}).)
+
+Take a deep breath. This entire section should take roughly 10 minutes if you trust me and don't panic.
+:smile:
 
 1. Download and unzip the `mr-fusion-vx.y.img.zip` file from [this link](https://github.com/MiSTer-devel/mr-fusion/releases/latest)
 1. Bake the mr-fusion image file you downloaded in the previous step to your micro-SD card using a tool like [Win32
@@ -279,7 +281,7 @@ you trust me and don't panic. :smile:)
       - Note for pros: You can add any script to the existing MiSTer scripts by plugging the MiSTer SD card in
         your computer after setting up mr-fusion. My favorite script is [Update_All](https://github.com/theypsilon/Update_All_MiSTer)
 
-## Configuring your controller
+## Configuring your controller {#controllers}
 
 1. Connect your favorite USB controller in one of the MiSTer USB ports (alternatively, you can use the
    Bluetooth script if you feel courageous).
