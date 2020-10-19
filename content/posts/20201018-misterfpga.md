@@ -59,10 +59,11 @@ dreams would not dare go beyond half of what the MiSTer can deliver. Let me expl
 
 The MiSTer is a project created by [Alexey Melnikov (aka Sorgelig)](https://github.com/sorgelig). It uses the
 power of Field Programmable Gate Arrays (FPGA) from an off-the-shelf board named [Terasic DE-10
-Nano](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=1046) to recreate vintage console
-and computers at the electronic level. It is not the first open-source project of its kind, but it certainly
-is the one that currently has the most momentum. While its exterior might make it look like any other box, a
-"magical" FPGA chip inside allows it to transform into a multitude of systems at the electronic level.
+Nano](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=1046) to recreate vintage
+consoles and computers at the electronic level. It is not the first open-source project of its kind, but it
+certainly is the one that currently has the most momentum. While its exterior might make it look like any
+other box, a "magical" FPGA chip inside allows it to transform into a multitude of systems at the electronic
+level.
 
 When I use the word "transform", I really do mean that the FPGA chip inside the MiSTer re-organizes itself to
 *become* whatever chipset intended by an FPGA developer. This means, if developers are careful enough, they
