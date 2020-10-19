@@ -245,8 +245,8 @@ Ok. Rambling over. I swear the rest of this article will focus on MiSTer. :smile
 
 # Setting up a MiSTer FPGA {#setupguide}
 
-Congratulations! You have decided to get a MiSTer over some Analogue product(s). You are very wise. Here
-is my shopping and getting-started guide.
+Congratulations! You have decided to get a MiSTer. You are very wise. Here is my shopping and getting-started
+guide.
 
 You are going to need:
 
