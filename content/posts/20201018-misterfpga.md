@@ -186,12 +186,7 @@ mister](https://ultimatemister.com/)).
 For roughly a quarter of the price, you get a smaller box that does more than any of the Analogue products
 *combined*.
 
-Can we go lower? You sure bet! The bare MiSTer setup (with SDRAM expansion) will run you 217
-USD+tax, and by itself can already do **more than any Analogue product**. If you include [an HDMI-VGA adapter such
-as this one](https://www.amazon.com/Moread-Gold-Plated-Projector-Chromebook-Raspberry/dp/B00SW9JI9A/), you
-could even be able to connect to a CRT monitor. Now that's a value that's hard to beat. The reason is simple:
-for every console you wish to use, you have to buy a separate console from Analogue. MiSTer contains
-everything for a single low, low price.
+Can we go lower? You sure bet! 
 
 | MiSTer parts -- the bare minimum | Price |
 | :------------- | :----------: |
@@ -199,6 +194,13 @@ everything for a single low, low price.
 | Expansion SDRAM (support more machines)|60|
 | USB mini hub | 7|
 | **Total**|**217 USD without tax and shipping, that's a steal**|
+
+The bare MiSTer setup (with SDRAM expansion) will run you 217
+USD+tax, and by itself can already do **more than any Analogue product**. If you include [an HDMI-VGA adapter such
+as this one](https://www.amazon.com/Moread-Gold-Plated-Projector-Chromebook-Raspberry/dp/B00SW9JI9A/), you
+could even be able to connect to a CRT monitor. Now that's a value that's hard to beat. The reason is simple:
+for every console you wish to use, you have to buy a separate console from Analogue. MiSTer contains
+everything for a single, relatively low price.
 
 Look, the MiSTer may be scrappy, but with it you can emulate more consoles, arcades and computers, for a
 fraction of what Analogue is asking their consumers. You can add as many or as few accessories you want to
