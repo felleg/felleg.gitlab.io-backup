@@ -14,7 +14,7 @@ Reading books. It never gets old.
 If you had the pleasure to receive formal education, you probably know how to read. This is a skill that will
 follow you for the rest of your life.
 
-Out of all the hobbies I had in my lifetime, I find that reading is both the least demanding and most
+Out of all the hobbies I had so far, I find that reading is both the least demanding and most
 rewarding hobby of all. Really, all you need to read are a working set of eyeballs and a brain that can parse
 information.  There is no notion of speed, competition. You can't really sprain your wrist by reading. You
 don't need a working set of legs. You don't need friends, and you don't need an internet connection. As your
