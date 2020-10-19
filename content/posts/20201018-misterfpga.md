@@ -9,6 +9,12 @@ description = "In this post, I officially declare my love for the MiSTer project
 showFullContent = false
 +++
 
+*(Disclaimer: This is an honest view about the MiSTer project. I am in no way affiliated with any of the sellers or
+developers mentioned in this article and have no financial interest in this product. Nobody asked me or paid
+me to write this. I am just a fan.)*
+
+---
+
 Here is a bit of context. I was born in 1993 in an upper-middle class family near Montreal. My parents are not
 geeks. I was first exposed to video games through my cousin who owned a Nintendo Entertainment System. When he
 bought/received the new Sega Genesis system, I received his NES as a hand-me-down. When he bought/received his
@@ -179,7 +185,9 @@ For less than a quarter of the price, you get a smaller box that does more than 
 Can we go lower? You sure bet! The bare MiSTer setup (only the Terasic DE-10 Nano itself) will run you 150
 USD, and by itself can already do **more than any Analogue product**. If you include [an HDMI-VGA adapter such
 as this one](https://www.amazon.com/Moread-Gold-Plated-Projector-Chromebook-Raspberry/dp/B00SW9JI9A/), you
-could even be able to connect to a CRT monitor. Now that's a value that's hard to beat.
+could even be able to connect to a CRT monitor. Now that's a value that's hard to beat. The reason is simple:
+for every console you wish to use, you have to buy a separate console from Analogue. MiSTer contains
+everything for a single low, low price.
 
 | MiSTer parts -- the bare minimum | Price |
 | :------------- | :----------: |
@@ -192,8 +200,8 @@ match your level of comfort. Quantities are also not limited for the MiSTer, so 
 buy at an extra cost from scalpers. Add 60 USD for an SDRAM expansion and you could even play Neo Geo and Game
 Boy Advance games on your MiSTer (which is not at all possible on any Analogue system)!
 
-Marketing is everything, and people keep falling for Analogue's clever tactics. The *only* aces Analogue has in
-its pocket are:
+Marketing is everything, and people keep falling for Analogue's clever tactics. The *only* aces Analogue has
+up its sleeve are:
 
 * their beautiful designs
 * the possibility to load games from actual cartridges instead of an SD card
@@ -264,10 +272,10 @@ you trust me and don't panic. :smile:)
 If you are familiar with technology, setting up MiSTer shouldn't feel too alien. But if not, I hope my guide
 will help you figure it out. To quote Rysha, a MiSTer contributor, "if you can assemble IKEA furniture, you
 can use a MiSTer". Maybe you will learn a thing or two about micro-SD cards and save hundreds of dollars in
-the process. Really, if you have emulated games before, this process could hardly be any straightforward. It
+the process. Really, if you have emulated games before, this process couldn't  be more straightforward. It
 is true that simply plugging a cartridge initially feels more comfortable, but it's also much more expensive
 in the end for little gain. You're much better off taking the time to learn how to do these simple steps than
-spending a rent's worth on equipment you don't need. I'll take a moment to add that adding roms (e.g. play
+spending a rent's worth on equipment you don't need. I'll take a moment to add that adding roms (i.e. play
 games without a cartridge) to an Analogue product, or a flash cart (e.g. [Everdrives](http://krikzz.com/)) is
 exactly the same process as adding games on MiSTer.
 
