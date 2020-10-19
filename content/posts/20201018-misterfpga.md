@@ -28,12 +28,12 @@ could treat their kids. For a while, I enjoyed being part of the mainstream, but
 
 As I begin my journey in the tech industry, I am more and more in awe of what my predecessors were able to
 accomplish with limited means. **Humans are as crafty today as they were hundreds of years ago**. The only
-difference is the accessibility to knowledge is vastly more superior now than it used to be. If you asked me
+difference is the accessibility to knowledge is vastly superior now than it used to be. If you asked me
 to come up with a technology that could show images in a two-dimensional plane, I could hardly do better than
 shadow puppetry.
 
 Do you realize how incredibly creative some humans had to be to come up with photography, let alone the
-cathode-ray tube television or OLED flat panels? Add in the fact that interactive video games can be played
+cathode-ray tube (CRT) television or OLED flat panels? Add in the fact that interactive video games can be played
 using such screens, and that I'm able to picture this phenomenon and share it on the Internet for you to
 see... that's enough to make my head spin. :smile:
 
@@ -52,7 +52,7 @@ If retro video games are magical to me, then the MiSTer FPGA is a dream come tru
 dreams would not dare go beyond half of what the MiSTer can deliver. Let me explain what MiSTer is all about.
 
 The MiSTer is a project created by [Alexey Melnikov (aka Sorgelig)](https://github.com/sorgelig). It uses the
-power of FPGA from an off-the-shelf board named [Terasic DE-10
+power of Field Programmable Gate Arrays (FPGA) from an off-the-shelf board named [Terasic DE-10
 Nano](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=1046) to recreate vintage console
 and computers at the electronic level. It is not the first open-source project of its kind, but it certainly
 is the one that currently has the most momentum. While its exterior might make it look like any other box, a
@@ -96,7 +96,7 @@ accessories. The flexibility of the video outputs is truly staggering on the MiS
 its own discussion. This is not only great for console games, but also for arcade games.
 
 Do you know how expensive original arcade hardware is in 2020? With MiSTer, you can play most golden-age games
-as if you owned the actual PCB, with the added bonus of USB controllers and peace of mind of never having to
+as if you owned the actual ptined circuit-board (PCB), with the added bonus of USB controllers and peace of mind of never having to
 re-solder capacitors.
 
 Long story short, emulating original systems on the MiSTer is as good, if not better, than playing on original
