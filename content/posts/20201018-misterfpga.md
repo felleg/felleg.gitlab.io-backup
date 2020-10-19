@@ -155,7 +155,7 @@ Analogue systems.
 | Analogue Pocket (GB, GBC, GG, NGPC, Lynx)|199.99 |
 | Mega Sg (Sega Genesis)|189.99 |
 | Super Nt (Super Nintendo)|189.99 |
-| Nt Mini (Nintendo Entertainment System)|499.99 |
+| Nt Mini (Nintendo Entertainment System / Famicom)|499.99 |
 | DAC (HDMI to analog converter)|79.99 |
 | **Total** | **1359.94 USD without tax and shipping** |
 
