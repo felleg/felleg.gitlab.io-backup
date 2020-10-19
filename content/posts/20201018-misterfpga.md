@@ -151,7 +151,7 @@ Analogue systems.
 | Super Nt|189.99 |
 | Nt Mini|499.99 |
 | DAC|79.99 |
-| **Total** | **1359.95 USD without tax and shipping** |
+| **Total** | **1359.94 USD without tax and shipping** |
 
 This is the price (before tax and shipping) you would have to pay to access everything Analogue has to offer,
 and that's if you can find these items at their lowest price. To be fair, for this price you would get quality
