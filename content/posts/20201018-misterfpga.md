@@ -264,7 +264,7 @@ You are going to need:
 
 ## Setting up the micro-SD card
 
-([Click here to skip this section if you bought a pre-configured card]({{< ref "#controllers" >}}).)
+[(Click here to skip this section if you bought a pre-configured card.)]({{< ref "#controllers" >}})
 
 Take a deep breath. This entire section should take roughly 10 minutes if you trust me and don't panic.
 :smile:
