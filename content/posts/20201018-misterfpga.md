@@ -134,7 +134,7 @@ to be Microsoft..?).
 
 The problem here is that Analogue products are so prohibitively expensive (or limited in
 quantities) that people rarely get to compare the experience of playing on a MiSTer or an Analogue device. If
-you invest on one of them, there are many factors that will make you not want to invest in the other. The few
+you invest in one camp, there are many factors that will make you not want to invest in the other. The few
 people who managed to experience both sides of the fence will invariably tell you that the MiSTer developers
 are (in the long run) more detail-oriented and support their work far more than Analogue themselves. In the
 end, you can expect the same gameplay experience between both devices, if not slightly more accurate on MiSTer (the
