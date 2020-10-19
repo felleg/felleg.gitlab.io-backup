@@ -266,7 +266,7 @@ You are going to need:
 Take a deep breath. This entire section should take roughly 10 minutes if you trust me and don't panic.
 :smile:
 
-1. Download and unzip the `mr-fusion-vx.y.img.zip` file from [this link](https://github.com/MiSTer-devel/mr-fusion/releases/latest)
+1. Download and unzip the `mr-fusion-vX.Y.img.zip` file from [this link](https://github.com/MiSTer-devel/mr-fusion/releases/latest)
 1. Bake the mr-fusion image file you downloaded in the previous step to your micro-SD card using a tool like [Win32
    Disk Imager](https://sourceforge.net/projects/win32diskimager/)
       - If you don't know how to do this basic procedure, learn about it in [this mini tutorial](https://www.ev3dev.org/docs/tutorials/writing-sd-card-image-win32diskimager/), starting at step 4 :smile:
