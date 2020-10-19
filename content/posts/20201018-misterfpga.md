@@ -102,7 +102,7 @@ accessories. The flexibility of the video outputs is truly staggering on the MiS
 its own discussion. This is not only great for console games, but also for arcade games.
 
 Do you know how expensive original arcade hardware is in 2020? With MiSTer, you can play most golden-age games
-as if you owned the actual ptined circuit-board (PCB), with the added bonus of USB controllers and peace of mind of never having to
+as if you owned the actual printed circuit board (PCB), with the added bonus of USB controllers and peace of mind of never having to
 re-solder capacitors.
 
 Long story short, emulating original systems on the MiSTer is as good, if not better, than playing on original
