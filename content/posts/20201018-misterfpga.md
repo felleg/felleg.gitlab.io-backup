@@ -71,7 +71,7 @@ difference!
 
 I won't bother trying to explain it in more details than that,
 because I don't want to break the spell.  :smile: At least, it comforts me to know that some people fully
-understand this technology and are generous enough to open-source their work, for the benefit of human-kind.
+understand this technology and are generous enough to open-source their work, for the benefit of humankind.
 
 {{< figure src="/img/my-mister.png" caption="My very own MiSTer from zerohimself, in its 3D-printed case." position="center" >}}
 
