@@ -93,8 +93,8 @@ even I would have difficulty in a blind test to know when I'm playing on an FPGA
 the MiSTer can even follow original specs more closely than the original consoles, in some way it is often
 more accurate than the machines it is emulating. If you dread input lag in your gaming sessions, the MiSTer
 has you covered. Using FPGA, you can switch between different console revisions on the fly (e.g. sound chips
-on the Sega Genesis, color palettes, etc.). You don't have to fear about aging chips: every time you load a
-console on an FPGA, it's as if it was fresh from the factory!
+on the Sega Genesis, different color palettes, etc.). You don't have to fear about aging chips: every time you
+load a console on an FPGA, it's as if it was fresh from the factory!
 
 A great quality of life improvement is that the MiSTer can connect to HDMI monitors, as well as CRT monitors.
 It can do everything the original machines could, while also conveniently being compatible with modern-day
