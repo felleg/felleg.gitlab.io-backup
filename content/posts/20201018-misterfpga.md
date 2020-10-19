@@ -230,10 +230,10 @@ eye, I boldened the name of consoles I think might interest most retronauts.
 
 As you might notice, MiSTer does a good job in general of supporting platforms that spark interest. This is
 natural: MiSTer developers work for free, so they have the luxury of working on platforms they care about. New
-platforms are added every year, as long as the developers stay motivated.  Analogue, on the other hand does
+platforms are added every year, as long as the developers stay motivated. On the flip side, Analogue does
 support a few consoles not present on MiSTer, but most of them require an expensive and jailbroken Nt Mini,
-are not popular, and could become supported on MiSTer in the future.  Analogue also does not support any
-arcade game, or classic computer.
+are not popular, and could regardlessly become supported on MiSTer in the future. Analogue also does not
+support any arcade game, or classic computer.
 
 Remember that on the MiSTer side, one device does all of this. You need at least 5 devices from Analogue to
 access all these platforms.
