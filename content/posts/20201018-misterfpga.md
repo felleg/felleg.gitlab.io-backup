@@ -115,7 +115,9 @@ I honestly don't know.
 I think it only comes down to lack of marketing. Since this is an open-source project made by enthusiasts
 using off-the-shelf parts, opportunities to make money are limited. Thus, it is rare to see influencers spread
 the good news. But more than that, the retro gaming community is currently swarmed under a tsunami of
-marketing from [Analogue inc.](https://www.analogue.co/).
+marketing from [Analogue inc.](https://www.analogue.co/) This might be the only opportunity I have to vent on
+this topic, so buckle up and grab your popcorn. [Click here to jump straight to the MiSTer setup guide.]({{<
+ref "#setupguide" >}})
 
 {{< figure src="/img/analogue-inc.png" caption="They may be small, but they're making big waves."
 position="center" >}}
@@ -239,7 +241,7 @@ To give Analogue credit, I personally am a huge fan of their [NSF visualizer on 
 Mini](https://www.youtube.com/watch?v=sF4CTtPOtXc). This is the killer feature that I wish will get
 implemented on MiSTer.
 
-# Setting up a MiSTer FPGA
+# Setting up a MiSTer FPGA {#setupguide}
 
 Congratulations! You have decided to get a MiSTer over some Analogue product(s). You are very wise. Here
 is my shopping and getting-started guide.
