@@ -306,10 +306,10 @@ Take a deep breath. This entire section should take roughly 10 minutes if you tr
 If you are familiar with technology, setting up MiSTer shouldn't feel too alien. But if not, I hope my guide
 will help you figure it out. To quote Rysha, a MiSTer contributor, "if you can assemble IKEA furniture, you
 can use a MiSTer". Maybe you will learn a thing or two about micro-SD cards and save hundreds of dollars in
-the process. Really, if you have emulated games before, this process couldn't  be more straightforward. It
-is true that simply plugging a cartridge initially feels more comfortable, but it's also much more expensive
-in the end for little gain. You're much better off taking the time to learn how to do these simple steps than
-spending a rent's worth on equipment you don't need. I'll take a moment to add that adding roms (i.e. play
+the process. Really, if you have emulated games before, this process couldn't  be more straightforward. It is
+true that simply plugging a cartridge initially feels more comfortable, but it's also much more expensive in
+the end for little gain. You're much better off taking the time to learn how to do these simple steps than
+spending a rent's worth on equipment you don't need. I'll take a moment to mention that adding roms (i.e. play
 games without a cartridge) to an Analogue product, or a flash cart (e.g. [Everdrives](http://krikzz.com/)) is
 exactly the same process as adding games on MiSTer.
 
