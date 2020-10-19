@@ -312,7 +312,6 @@ spending a rent's worth on equipment you don't need. I'll take a moment to add t
 games without a cartridge) to an Analogue product, or a flash cart (e.g. [Everdrives](http://krikzz.com/)) is
 exactly the same process as adding games on MiSTer.
 
-
-Support open-source efforts! Do not support shady business practices.
+Support open-source efforts! This is how we can ensure the preservation of this historic hardware.
 
 {{< figure src="/img/crt-gaming.jpg" caption="Happy gaming!">}}
