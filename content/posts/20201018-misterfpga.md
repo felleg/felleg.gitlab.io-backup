@@ -89,14 +89,27 @@ Yes, and then some. It is more than accurate.
 
 {{< figure src="/img/nullobject-workbench2.jpeg" caption="The workbench of [nullobject](https://twitter.com/nullobject), one of many FPGA developers specializing in reverse engineering arcade games">}}
 
-Since the same electronic circuits are being replicated, the electronic output is also the same.
-**Audiophiles, this should especially make your ears perk up. This is cycle-accurate audio.** In reality,
-even I would have difficulty in a blind test to know whether I'm playing on an FPGA or on the real deal. Since
-the MiSTer can even follow original specs more closely than the original consoles, in some way it can often be
-more accurate than the machines it is emulating. If you dread input lag in your gaming sessions, the MiSTer
-has you covered. Using FPGA, you can switch between different console revisions on the fly (e.g. sound chips
-on the Sega Genesis, different color palettes, etc.). You don't have to fear about aging chips: every time you
-load a console on an FPGA, it's as if it was fresh from the factory!
+Since the same electronic circuits are being replicated, the electronic output is also the same. This means
+the timings are the same (this means the same lack of input lag). The colors are the same. The sound waves are
+the same.  **Audiophiles, this should especially make your ears perk up. This is cycle-accuracy.** I'm not
+just writing this way to dazzle you with buzzwords: it's Physics. An electronic circuit will behave the same
+way no matter what is the shape of the box that contains it. This means you won't have to fear about your
+precious original electronics starting to degrade: every time you load a console on an FPGA, it's as if it was
+fresh from the factory!
+
+Even more impressive, using FPGA you can switch between different console revisions on the fly (e.g. sound
+chips on the Sega Genesis, different color palettes, bigger sprite limits to prevent flickering, etc.). This
+gives us the unique opportunity of creating consoles that are more powerful than their original versions! Do
+you realize what this means? With an FPGA chip in hand and the right code, you are a few lines of code away
+from having what would normally require physical, irreversible modifications to existing consoles. It should
+almost seem too good to be true.
+
+This sounds like a sales pitch, I know, but I am truly moved by how *significant* this is. I have been playing
+these video games all my life and it is the first time that I can honestly say we have managed to capture the
+essence of these older technologies. In reality, even
+I would have difficulty in a blind test to know whether I'm playing on an FPGA or on the real deal.
+
+## An added bonus: flexibility
 
 A great quality of life improvement is that the MiSTer can connect to HDMI monitors, as well as CRT monitors.
 It can do everything the original machines could, while also conveniently being compatible with modern-day
@@ -108,7 +121,9 @@ as if you owned the actual printed circuit board (PCB), with the added bonus of 
 re-solder capacitors.
 
 Long story short, emulating original systems on the MiSTer is as good, if not better, than playing on original
-consoles. It is more reliable, convenient, and in some cases more accurate.
+consoles. It is more reliable, convenient, and guarantees the authenticity of the electronic circuit that
+powers your games. This is why I like to (half-jokingly) say that the MiSTer is even more accurate than what
+it is replicating.
 
 # If MiSTer is so great, why doesn't everyone rush to get one?
 
@@ -187,7 +202,7 @@ mister](https://ultimatemister.com/)).
 For roughly a quarter of the price, you get a smaller box that does more than any of the Analogue products
 *combined*.
 
-Can we go lower? You sure bet! 
+Can we go lower? You sure bet!
 
 | MiSTer parts -- the bare minimum | Price |
 | :------------- | :----------: |
