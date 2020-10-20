@@ -89,9 +89,10 @@ Yes, and then some. It is more than accurate.
 
 {{< figure src="/img/nullobject-workbench2.jpeg" caption="The workbench of [nullobject](https://twitter.com/nullobject), one of many FPGA developers specializing in reverse engineering arcade games">}}
 
-Since the same electronic circuits are being replicated, the electronic output is also the same. In reality,
+Since the same electronic circuits are being replicated, the electronic output is also the same.
+**Audiophiles, this should especially make your ears perk up. This is cycle-accurate audio.** In reality,
 even I would have difficulty in a blind test to know whether I'm playing on an FPGA or on the real deal. Since
-the MiSTer can even follow original specs more closely than the original consoles, in some way it is often
+the MiSTer can even follow original specs more closely than the original consoles, in some way it can often be
 more accurate than the machines it is emulating. If you dread input lag in your gaming sessions, the MiSTer
 has you covered. Using FPGA, you can switch between different console revisions on the fly (e.g. sound chips
 on the Sega Genesis, different color palettes, etc.). You don't have to fear about aging chips: every time you
@@ -318,3 +319,15 @@ exactly the same process as adding games on MiSTer.
 Support open-source efforts! This is how we can ensure the preservation of this historic hardware.
 
 {{< figure src="/img/crt-gaming.jpg" caption="Happy gaming!">}}
+
+# Resources
+
+The MiSTer project is ever-expanding and can already do much more than what I only mentioned in this article.
+If you want to learn more about the MiSTer project, or connect with the incredible comunity of MiSTer users,
+check out these links:
+
+* [MiSTer Wiki](https://github.com/MiSTer-devel/Main_MiSTer/wiki), the official and constantly updated source
+  of information about MiSTer.
+* [MiSTer forums](https://misterfpga.org/), slow-paced, but quality content.
+* [MiSTer on the Classic Gaming Server (Discord)](https://discord.com/invite/UDu5ztY). *Very active*
+  chatrooms, covers everything related to classic gaming in general. This is where everybody meets.
