@@ -89,9 +89,14 @@ Yes, and then some. It is more than accurate.
 
 {{< figure src="/img/nullobject-workbench2.jpeg" caption="The workbench of [nullobject](https://twitter.com/nullobject), one of many FPGA developers specializing in reverse engineering arcade games">}}
 
-Since the same electronic circuits are being replicated, the electronic output is also the same. This means
-the timings are the same (this means the same lack of input lag). The colors are the same. The sound waves are
-the same.  **Audiophiles, this should especially make your ears perk up. This is cycle-accuracy.** I'm not
+Since the same electronic circuits are being replicated, the electronic output is also the same. This means:
+
+* the timings are the same 
+* the same "lack" of input lag is the same
+* the colors are the same
+* the sound waves are the same (**Audiophiles, this should especially make your ears perk up.**)
+
+This is cycle-accuracy. I'm not
 just writing this way to dazzle you with buzzwords: it's Physics. I have followed an Electronics class during
 my studies of Physics, and I can assure you that it is a *precise* science. We can measure how these circuits
 behave, we don't have to rely on our eyes and ears to approximate the final result. An electronic circuit will
