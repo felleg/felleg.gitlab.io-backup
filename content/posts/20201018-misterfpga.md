@@ -92,10 +92,12 @@ Yes, and then some. It is more than accurate.
 Since the same electronic circuits are being replicated, the electronic output is also the same. This means
 the timings are the same (this means the same lack of input lag). The colors are the same. The sound waves are
 the same.  **Audiophiles, this should especially make your ears perk up. This is cycle-accuracy.** I'm not
-just writing this way to dazzle you with buzzwords: it's Physics. An electronic circuit will behave the same
-way no matter what is the shape of the box that contains it. This means you won't have to fear about your
-precious original electronics starting to degrade: every time you load a console on an FPGA, it's as if it was
-fresh from the factory!
+just writing this way to dazzle you with buzzwords: it's Physics. I have followed an Electronics class during
+my studies of Physics, and I can assure you that it is a *precise* science. We can measure how these circuits
+behave, we don't have to rely on our eyes and ears to approximate the final result. An electronic circuit will
+behave the same way no matter what is the shape of the box that contains it. This also means you won't have to
+fear about your precious original electronics starting to degrade: every time you load a console on an FPGA,
+it's as if it was fresh from the factory!
 
 Even more impressive, using FPGA you can switch between different console revisions on the fly (e.g. sound
 chips on the Sega Genesis, different color palettes, bigger sprite limits to prevent flickering, etc.). This
