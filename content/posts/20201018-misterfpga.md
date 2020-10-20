@@ -104,14 +104,14 @@ behave the same way no matter what is the shape of the box that contains it. Thi
 fear about your precious original electronics starting to degrade: every time you load a console on an FPGA,
 it's as if it was fresh from the factory!
 
-Even more impressive, using FPGA you can switch between different console revisions on the fly (e.g. sound
-chips on the Sega Genesis, different color palettes, bigger sprite limits to prevent flickering, etc.). This
-gives us the unique opportunity of creating consoles that are more powerful than their original versions! Do
-you realize what this means? With an FPGA chip in hand and the right code, you are a few lines of code away
-from having what would normally require physical, irreversible modifications to existing consoles. It should
-almost seem too good to be true.
+Even more impressive, using FPGA you can switch between different console revisions on the fly (e.g. bigger
+sprite limits to prevent flickering, different color palettes, different sound chips on the Sega Genesis,
+etc.). This gives us the unique opportunity of creating consoles that are more powerful than their original
+versions! Do you realize what this means? With an FPGA chip in hand and the right code, you are a few lines of
+code away from having what would normally require physical, irreversible modifications to existing consoles.
+It should almost sound too good to be true.
 
-This sounds like a sales pitch, I know, but I am truly moved by how *significant* this is. I have been playing
+This seems like a sales pitch, I know, but I am truly moved by how *significant* this is. I have been playing
 these video games all my life and it is the first time that I can honestly say we have managed to capture the
 essence of these older technologies. In reality, even
 I would have difficulty in a blind test to know whether I'm playing on an FPGA or on the real deal.
