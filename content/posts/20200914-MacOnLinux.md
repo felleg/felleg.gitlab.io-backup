@@ -2,7 +2,7 @@
 title = "Running macOS on your Linux machine"
 date = "2020-09-14"
 author = "Félix Léger"
-cover = "/img/tux-and-apple.jpeg"
+cover = "img/tux-and-apple.jpeg"
 tags = ["macOS", "Linux", "VM", "virtual machine", "KVM", "QEMU"]
 keywords = ["macOS", "Linux", "VM", "virtual machine", "KVM", "QEMU"]
 description = "It has become so easy, even Mac users could do it!"

@@ -4,7 +4,7 @@ title = "About"
 
 Hi there! :wave: My name is Félix.
 
-{{< figure src="/img/felixleger.png" caption="Hello!" position="center" >}}
+{{< figure src="img/felixleger.png" caption="Hello!" position="center" >}}
 
 When I was in primary school, I knew I wanted to become a writer.
 
@@ -18,12 +18,3 @@ computers. I fell in love.
 By writing this blog, I am doing everything I love at once. I write about lessons I learned while
 experimenting with technology, and other fun parts of life. And who knows, maybe I'll share some unexpected
 discoveries with you!
-
-# Contact
-
-[hi@felixleger.com](mailto:hi@felixleger.com)
-
-[{{< fontawesome gitlab >}}](https://gitlab.com/felleg)
-[{{< fontawesome linkedin >}}](https://www.linkedin.com/in/felleg/)
-[{{< fontawesome twitter >}}](https://twitter.com/felllleg)
-[{{< fontawesome github >}}](https://github.com/felleg)

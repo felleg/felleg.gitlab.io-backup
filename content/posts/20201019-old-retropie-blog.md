@@ -2,7 +2,7 @@
 title = "My old RetroPie blog posts"
 date = "2020-10-19"
 author = "Félix Léger"
-cover = "/img/yetanothergamingblog.png"
+cover = "img/yetanothergamingblog.png"
 tags = ["retropie", "old"]
 keywords = [""]
 description = "A link to my old blog focused on RetroPie (2017)"

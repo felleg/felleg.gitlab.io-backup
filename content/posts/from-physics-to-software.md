@@ -2,7 +2,7 @@
 title = "Why I Shifted From Physics to Focus on Software"
 date = "2019-10-14"
 author = "Félix Léger"
-cover = "/img/change.png"
+cover = "img/change.png"
 tags = ["why", "career paths", "physics", "unix", "imposter syndrome"]
 keywords = ["why", "career paths", "physics", "unix", "imposter syndrome"]
 description = "Believe it or not, writing software was not my initial career path. But in hindsight, I was headed in that direction without knowing it."
