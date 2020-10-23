@@ -1,9 +1,0 @@
-[submodule "themes/hugo-theme-terminal"]
-	path = themes/hugo-theme-terminal
-	url = https://github.com/panr/hugo-theme-terminal.git
-[submodule "themes/hugo-theme-hello-friend"]
-	path = themes/hugo-theme-hello-friend
-	url = https://github.com/panr/hugo-theme-hello-friend.git
-[submodule "static/js/hugo-footnotes-popup"]
-	path = static/js/hugo-footnotes-popup
-	url = https://github.com/vaetas/hugo-footnotes-popup.git
