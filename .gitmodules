@@ -1,0 +1,4 @@
+[submodule "static/js/hugo-footnotes-popup"]
+	path = static/js/hugo-footnotes-popup
+	url = https://github.com/vaetas/hugo-footnotes-popup.git
+
