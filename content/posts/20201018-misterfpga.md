@@ -2,6 +2,7 @@
 title = "Dream Machine: MiSTer FPGA"
 date = "2020-10-18"
 author = "Félix Léger"
+toc = true
 cover = "img/misterfpga.png"
 tags = ["mister", "fpga", "retro", "gaming", "diy"]
 keywords = ["mister", "fpga", "retro", "gaming", "diy"]
@@ -166,7 +167,7 @@ are (in the long run) more detail-oriented and support their work far more than 
 end, you can expect the same gameplay experience between both devices, if not slightly more accurate on MiSTer (the
 cheaper system).
 
-# Crunching the numbers
+## Crunching the numbers
 
 Really, it just pains me when I see article after article telling people to hurry up and buy the new
 "fantastic" Analogue project. Just two days ago (Oct. 16 2020), they announced a new product, the

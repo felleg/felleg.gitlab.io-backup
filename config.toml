@@ -106,7 +106,7 @@ disableHugoGeneratorInject = false
     theme = "#252627"
 
   [params.logo]
-    logoText     = "$ cd /home/felixleger"
+    logoText     = "cd /home/felleg"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
@@ -118,7 +118,7 @@ disableHugoGeneratorInject = false
   [params.portrait]
     path     = "img/felixleger.png"
     alt      = "Portrait"
-    maxWidth = "200px"
+    maxWidth = "150px"
 
   # Social icons
   [[params.social]]
@@ -169,3 +169,9 @@ disableHugoGeneratorInject = false
   #  identifier = "tags"
   #  name       = "Tags"
   #  url        = "tags/"
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 1
+    ordered = false
+    startLevel = 1
