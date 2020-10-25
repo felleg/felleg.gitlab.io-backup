@@ -10,8 +10,9 @@ tags:
   - best practices
 ---
 
-*(Disclaimer: I am not a security expert. This post describes my current security setup, but every setup is as
-secure as its weakest link. Please remember to be critical when security topics are being discussed.)*
+*(Disclaimer: I am not a security expert. Though I try to have the best possible practices, I cannot guarantee
+these tips will prevent you from getting hacked. Know that every security setup is as secure as its weakest
+link. Please remember to be critical when security topics are being discussed.)*
 
 ---
 

@@ -8,6 +8,9 @@ tags = ["mister", "fpga", "retro", "gaming", "diy"]
 keywords = ["mister", "fpga", "retro", "gaming", "diy"]
 description = "In this post, I officially declare my love for the MiSTer project, and I show you how to get started."
 showFullContent = false
+aliases = [
+   "posts/20201018-misterfpga/"
+]
 +++
 
 *(Disclaimer: This is an honest view about the MiSTer project. I am in no way affiliated with any of the sellers or
