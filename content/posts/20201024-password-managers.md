@@ -10,9 +10,12 @@ tags:
   - best practices
 ---
 
-*(Disclaimer: I am not a security expert. Though I try to have the best possible practices, I cannot guarantee
-these tips will prevent you from getting hacked. Know that every security setup is as secure as its weakest
-link. Please remember to be critical when security topics are being discussed.)*
+*(Disclaimer: I have no ties to any of the products or developers listed in this article. No one paid me or asked me to write this.
+
+Also, I am not a security expert (if I was, I probably would not share one of my real passwords).
+Though I try to have the best possible practices, I cannot guarantee these tips will prevent you from getting
+hacked. Know that every security setup is as secure as its weakest link. Please remember to be critical when
+security topics are being discussed.)*
 
 ---
 
@@ -33,29 +36,81 @@ mashable](https://mashable.com/2013/12/30/history-of-the-password/). In this pos
 perspective on growing up alongside the Internet in a world where web security is a relatively alien concept
 to most people.
 
-We all start with a single password. It seems to be like the only way we can remember it. Something "unique"
-to ourself that we have not told anyone, yet we know we can't forget. The more we use it, the more we go down
-this spiral. 
-
 My first password was `tazmanio`. I based it off a game called [Taz in Escape from
 Mars](https://en.wikipedia.org/wiki/Taz_in_Escape_from_Mars) which I was playing at the time. I figured "taz"
 and "tasmania" were both too easy to guess, so I twisted the end with an `o` and that was that. Eight
-characters long. No capitalization. No special characters. There were no best practices to follow back then.
-And I believe me, used it *everywhere*.
+characters long. No capitalization. No special characters. And believe me, I used it *everywhere*.
 
-I was not the only one. The temptation was too strong. When the notion of "passwords" was created, the
-internet did not exist. A password was meant to authenticate you on a unique, physical machine.
+To my knowledge, there were no best practices to follow back then. I even had a friend whose father bragged
+about using `secret` as his password. It made for great innuendos, that's for sure ("What's your password,
+dad?", "It's `secret`!", "Aw man. You're no fun.").
 
-Fast-forward to present day. It is 2020. I have 295 accounts scattered around the Internet. I have finally rid myself of this password on all my accounts. It is
-no longer part of my identity, which is why I can share it with the world today. Believe me, it feels *good*.
+# Password reuse is the problem
 
-# Passwords are here to stay
+I like to think we all started with a single password. Something "unique" to ourself that we have not told
+anyone, yet we knew we couldn't forget. The more we used our password to register new accounts, the more we
+went down this spiral.
+
+At some point, we all realize(d) that our single password was a real problem; while it's easier for us to
+remember, but if someone else gets hold of it, they can log into our *entire* personal life. Then
+again, the prospect of making more than just 10 different and secure passwords is enough to make most people
+uncomfortable. Cycling through a mental list of passwords on a login screen is painful, frustrating. In this
+situation, it is not infrequent to see someone click "forgot my password" and put back their old, comfortable,
+insecure initial password. And the spiral continues.
+
+When web developers started noticing this trend, they enforced "stronger" passwords. "Use numbers". "Use mixed
+capitalization". "Use symbols". I'm sure you can guess the evolution of my password, since most of us followed
+the same pattern:
+
+1. `tazmanio`
+1. `tazmanio1993`
+1. `Tazmanio1993`
+1. `Tazmanio1993!`
+
+The real problem these web developers could not address is **password reuse**. Indeed, the issur with
+`tazmanio` is not that it is too easy to guess (though it sure does not help). What makes it dangerous is that
+I used it everywhere. It might have felt safer to change all my passwords from `tazmanio` to `Tazmanio1993!`
+(every registration form assured me that my new password was *strong*), but in reality it was as weak as
+before.  All it took was a data breach from any of the websites I was registered to in order to open my
+digital life to anyone. In fact, according to [haveibeenpwned.com](https://haveibeenpwned.com), here are all
+the data breaches that revealed my "user:password" combination to the world:
+
+* Adobe (October 2013)
+* Chegg (April 2018)
+* Emuparadise (April 2018)
+* FlashFlashRevolution (February 2016 AND July 2019)
+* Kickstarter (February 2014)
+* MySpace (2008)
+
+Fast-forward to present day. It is 2020. I have 295 accounts scattered around the Internet. I have finally rid
+myself of `tazmanio` on all my accounts. It is no longer part of my identity, which is why I can share it
+with the world today. Believe me, it feels *good*.
+
+# Shopping list of security features
 
 Let's admit it. At best, the notion of passwords were a naive idea in the early days. In the present, they are
 not enough to be considered "secure". At the same time, it is impossible to find a perfect solution for
-everyone. Any attempt will have a weaker link that will be exploitable/ So, what can we realistically do to
-protect ourselves from forgery while impacting our every day use of technology as little as possible?
-design?
+everyone. Every security design has an exploitable weaker link.
+
+Passwords are not going anywhere anytime soon. Knowing this, what do we need to satisfyingly protect ourselves
+from forgery while impacting our every day use of technology as little as possible? Here is a "shopping list"
+of features that I find would solve most (if not all) our problems:
+
+1. **Having "strong", randomly generated and impossible to memorize passwords on all my online accounts** (this
+  solves password reuse)
+1. **Store all these passwords in a digital vault** (this makes sure I do not have to memorize anything or use a
+  crib sheet)
+1. **Make this vault accessible from any of my personal devices** (this makes sure that security does not come at
+  the cost of convenience)
+1. **Protect this vault from anyone else as much as possible** (because if someone else gets access to this vault, I'm
+  toast)
+
+After exploring the different options at our disposal today, I find that the combination of a password manager
+along with two-factor authentication is what comes closest to addressing our every needs.
+
+# My favorite password manager: Bitwarden
+
+
 
 # A grain of salt
 
