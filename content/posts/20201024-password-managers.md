@@ -10,9 +10,9 @@ tags:
   - best practices
 ---
 
-*(Disclaimer: I have no ties to any of the products or developers listed in this article. No one paid me or asked me to write this.
+*(Disclaimer: I have no ties to any of the products or developers listed in this article. No one paid me or asked me to write this.*
 
-Also, I am not a security expert (if I was, I probably would not share one of my real passwords).
+*Also, I am not a security expert (if I was, I probably would not share one of my real passwords).
 Though I try to have the best possible practices, I cannot guarantee these tips will prevent you from getting
 hacked. Know that every security setup is as secure as its weakest link. Please remember to be critical when
 security topics are being discussed.)*
@@ -31,19 +31,21 @@ It is 1998. I am 5 years old.
 
 # tazmanio
 
+<!---
 For a brief history of the "password", checkout [this interesting article from
 mashable](https://mashable.com/2013/12/30/history-of-the-password/). In this post, I will instead give you my
 perspective on growing up alongside the Internet in a world where web security is a relatively alien concept
 to most people.
+-->
 
-My first password was `tazmanio`. I based it off a game called [Taz in Escape from
+My first password was indeed `tazmanio`, whatever that meant. I based it off a game called [Taz in Escape from
 Mars](https://en.wikipedia.org/wiki/Taz_in_Escape_from_Mars) which I was playing at the time. I figured "taz"
 and "tasmania" were both too easy to guess, so I twisted the end with an `o` and that was that. Eight
 characters long. No capitalization. No special characters. And believe me, I used it *everywhere*.
 
 To my knowledge, there were no best practices to follow back then. I even had a friend whose father bragged
 about using `secret` as his password. It made for great innuendos, that's for sure ("What's your password,
-dad?", "It's `secret`!", "Aw man. You're no fun.").
+dad?", "It's `secret`!", "Aw dad, you're no fun").
 
 # Password reuse is the problem
 
@@ -67,8 +69,8 @@ the same pattern:
 1. `Tazmanio1993`
 1. `Tazmanio1993!`
 
-The real problem these web developers could not address is **password reuse**. Indeed, the issur with
-`tazmanio` is not that it is too easy to guess (though it sure does not help). What makes it dangerous is that
+The real problem these web developers could not address is **password reuse**. Indeed, the issue with
+`tazmanio` is not that it is memorable (though it sure does not help). What makes it dangerous is that
 I used it everywhere. It might have felt safer to change all my passwords from `tazmanio` to `Tazmanio1993!`
 (every registration form assured me that my new password was *strong*), but in reality it was as weak as
 before.  All it took was a data breach from any of the websites I was registered to in order to open my
@@ -110,7 +112,7 @@ along with two-factor authentication is what comes closest to addressing our eve
 
 # My favorite password manager: Bitwarden
 
-
+{{< figure src="/img/passwordmanager-features.png" >}}
 
 # A grain of salt
 
