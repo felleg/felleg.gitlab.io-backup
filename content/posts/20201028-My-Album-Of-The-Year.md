@@ -15,7 +15,7 @@ progarchives.com to see what are the highest rated albums of the current year. T
 their material.
 
 This year, I was caught by surprise by the album currently in third place ([see
-list](http://www.progarchives.com/top-prog-albums.asp?ssubgenres=&syears=2020&scountries=&sminratings=0&smaxratings=0&sminavgratings=0&smaxresults=100&x=75&y=6#list),
+list](http://www.progarchives.com/top-prog-albums.asp?ssubgenres=&syears=2020&scountries=&sminratings=0&smaxratings=0&sminavgratings=0&smaxresults=100&x=75&y=6#list)),
 namely [Sadako e le mille gru di carta](https://logosprog.bandcamp.com/album/sadako-e-le-mille-gru-di-carta)
 from Italian band [LogoS](https://logosprog.bandcamp.com/). The album is in the Rock Progresivo Italiano (RPI)
 subgenre of progressive rock, and is obviously in Italian. I have not yet read deeply into the (translated)
@@ -52,8 +52,10 @@ want to give my appreciate to Theo Katzman for creating such a rich album.
 # A playlist of songs I aggregated during the year
 
 During the beginning of the year, I started accumulating "modern psychedelic-pop" songs in a playlist I called
-"Soar with me". If you like this genre (think Beatles-like, but more indie with a modern twist), give this playlist a
+"Soar with me". If you like this genre (think Beatles-like, but more indie with a modern spin), give this playlist a
 listen!  https://open.spotify.com/playlist/1iZEDzF689EY3PUDCeHtZY?si=TpuikavhSgalTeHqf7Sjkg
+
+---
 
 # My Past Albums of the Year
 
