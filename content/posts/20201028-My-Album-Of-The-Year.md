@@ -2,6 +2,9 @@
 title: "My Musical Album of the Year 2020 (and more!)"
 date: 2020-10-28T13:49:22-04:00
 cover: "img/2020-albumoftheyear-sadako.jpg"
+tags:
+   - best of the year
+   - music
 ---
 
 It's time to declare the winner of this year's prestigious prize: the **felixleger.com album of the year!**
