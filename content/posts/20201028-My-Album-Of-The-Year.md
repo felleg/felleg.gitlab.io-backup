@@ -14,13 +14,15 @@ help with the moody reality of the pandemic. At the last quarter of every year, 
 progarchives.com to see what are the highest rated albums of the current year. These fellows dig deep to find
 their material.
 
-This year, I was caught by surprise by the album currently in third place ([see
-list](http://www.progarchives.com/top-prog-albums.asp?ssubgenres=&syears=2020&scountries=&sminratings=0&smaxratings=0&sminavgratings=0&smaxresults=100&x=75&y=6#list)),
-namely [Sadako e le mille gru di carta](https://logosprog.bandcamp.com/album/sadako-e-le-mille-gru-di-carta)
-from Italian band [LogoS](https://logosprog.bandcamp.com/). The album is in the Rock Progresivo Italiano (RPI)
-subgenre of progressive rock, and is obviously in Italian. I have not yet read deeply into the (translated)
-lyrics, but the album has a theme revolving around a true life story involving origami and a sick child that
-survived the Hiroshima bombing disaster. That should be enough to grab anyone's interest.
+This year, I was caught by surprise by [Sadako e le mille gru di
+carta](https://logosprog.bandcamp.com/album/sadako-e-le-mille-gru-di-carta) from Italian band
+[LogoS](https://logosprog.bandcamp.com/). While the users of progarchives rank *Sadako* in third place at the
+moment in [their top 100 albums of the
+year](http://www.progarchives.com/top-prog-albums.asp?ssubgenres=&syears=2020&scountries=&sminratings=0&smaxratings=0&sminavgratings=0&smaxresults=100&x=75&y=6#list),
+it managed to run away with my heart. The album is in the Rock Progresivo Italiano (RPI) subgenre of
+progressive rock, and is obviously in Italian. I have not yet read deeply into the (translated) lyrics, but
+the album has a theme revolving around a true life story involving origami and a sick child that survived the
+Hiroshima bombing disaster. That should be enough to grab anyone's interest.
 
 I don't quite know how they do it, but artists in the RPI subgenre are excellent at creating ambiances that
 sound out this world: but incredibly beautiful and haunting. Even in more quiet parts of the music, the energy
@@ -60,7 +62,9 @@ listen!  https://open.spotify.com/playlist/1iZEDzF689EY3PUDCeHtZY?si=TpuikavhSga
 # My Past Albums of the Year
 
 Since this is the first time I create a post to award a musical album, I couldn't declare a winner for any of
-the past years. Here are those that I could pin down:
+the past years. In order to remedy this, let me award two more *official* awards, this time for the years 2019
+and 2018. It feels like a lifetime ago, but I managed to remember what managed to win my heart back in those
+days:
 
 ## 2019 - Twenty Twenty (Djo)
 
@@ -69,6 +73,8 @@ The album is nothing revolutionary, but it takes many of the best ideas from the
 honest package that feels genuine and effortless. It's a *cool* album. I'm looking forward to more content
 from Djo (aka Joe Keery, aka Steve from Stranger Things (!!)). I'm already tapping my feet to his new single,
 *Keep Your Head Up*.
+
+**Congratulations, Djo! I'm still waiting on that vinyl version to release!**
 
 [Click here to listen to Twenty
 Twenty](https://www.youtube.com/playlist?list=PLd8W-283kUR8gk9AS_E6kCAt4KWtXC8pS)
@@ -83,4 +89,21 @@ right place, regardless). I don't know if it qualifies as traditional progressiv
 with a transitional nature, if not with a bit of pop on top. The sound production is absolutely crisp, too. I
 like to say this album reconnected me to my inner teen.
 
+**Congratulations, Hubert! Looking forward to whatever else you have in store. No pressure!**
+
 [Click here to listen to Darlène](https://hubertlenoir.bandcamp.com/album/darl-ne)
+
+## 2017 - ????????????????????????
+
+Coming soon when I remember what it was! :smile:
+
+## 2016 - The Similitude of a Dream (The Neal Morse Band)
+
+The less I say about this band, the better will be your surprise. These old rockers still got it. It's one of
+the few albums I [had the privilege to see played live](https://www.youtube.com/watch?v=yH1m0wjYn98), along
+with 3 of my friends who discovered the band thanks to this album. It's ok if you don't care much for the
+theme, at least give the music an honest chance. You just might be surprised! I, for one, find the theme very
+fresh in these current times. Few artists do what Neal Morse is doing at the moment (other than Neal Morse
+himself).
+
+Did I make you curious? Good! [Have a listen](https://www.youtube.com/watch?v=kKfD85ZAHB4).
