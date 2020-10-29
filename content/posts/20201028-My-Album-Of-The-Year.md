@@ -104,6 +104,6 @@ the few albums I [had the privilege to see played live](https://www.youtube.com/
 with 3 of my friends who discovered the band thanks to this album. It's ok if you don't care much for the
 theme, at least give the music an honest chance. You just might be surprised! I, for one, find the theme very
 fresh in these current times. Few artists do what Neal Morse is doing at the moment (other than Neal Morse
-himself).
+himself). I hope I made you curious enough to check it out!
 
-Did I make you curious? Good! [Have a listen](https://www.youtube.com/watch?v=kKfD85ZAHB4).
+[Click here to listen to The Similitude of a Dream](https://www.youtube.com/watch?v=kKfD85ZAHB4).
