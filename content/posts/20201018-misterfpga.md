@@ -96,7 +96,7 @@ Yes, and then some. It is more than accurate.
 Since the same electronic circuits are being replicated, the electronic output is also the same. This means:
 
 * the timings are the same 
-* the same "lack" of input lag is the same
+* the "lack" of input lag is the same
 * the colors are the same
 * the sound waves are the same (**Audiophiles, this should especially make your ears perk up.**)
 
