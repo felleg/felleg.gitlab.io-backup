@@ -54,7 +54,7 @@ after many repeated listens. As for 2020, though, I won't bother waiting for Dec
 
 ## A special mention
 
-Before the pandemic rolled around, I was in love with Theo Katzman's [Modern Johnny Sings: Songs in the Age of
+Before the pandemic changed our lives, I was in love with Theo Katzman's [Modern Johnny Sings: Songs in the Age of
 Vibe](https://theokatzman.bandcamp.com/album/modern-johnny-sings-songs-in-the-age-of-vibe), so much so that I
 had bought tickets to see him play the album in person. I'm saddened that covid had other plans, but I still
 want to give my appreciate to Theo Katzman for creating such a rich album.
