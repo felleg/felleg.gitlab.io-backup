@@ -24,6 +24,7 @@ progressive rock, and is obviously in Italian. I have not yet read deeply into t
 the album has a theme revolving around a true life story involving origami and a sick child that survived the
 Hiroshima bombing disaster. That should be enough to grab anyone's interest!
 
+One thing I like in particular about *Sadako* is that it sounds both more complex and more simple than it truly is.
 While I like to listen to the album from front to back, my favorite highlight is *Il sarto* (track 4). The calm between two storms,
 it also reminds me in part to the music of Beau Dommage, a band that achieved mainstream popularity in Quebec in the 70s.
 The ending of the next track, *Zaini di elio*, is bombastic and tasteful. Upon hearing the impressive church
