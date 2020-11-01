@@ -15,18 +15,25 @@ progarchives.com to see what are the highest rated albums of the current year. T
 their material.
 
 This year, I was caught by surprise by [Sadako e le mille gru di
-carta](https://logosprog.bandcamp.com/album/sadako-e-le-mille-gru-di-carta) from Italian band
+carta](https://logosprog.bandcamp.com/album/sadako-e-le-mille-gru-di-carta) (translation: Sadako and the thousand paper cranes) from Italian band
 [LogoS](https://logosprog.bandcamp.com/). While the users of progarchives rank *Sadako* in third place at the
 moment in [their top 100 albums of the
 year](http://www.progarchives.com/top-prog-albums.asp?ssubgenres=&syears=2020&scountries=&sminratings=0&smaxratings=0&sminavgratings=0&smaxresults=100&x=75&y=6#list),
 it managed to run away with my heart. The album is in the Rock Progresivo Italiano (RPI) subgenre of
 progressive rock, and is obviously in Italian. I have not yet read deeply into the (translated) lyrics, but
 the album has a theme revolving around a true life story involving origami and a sick child that survived the
-Hiroshima bombing disaster. That should be enough to grab anyone's interest.
+Hiroshima bombing disaster. That should be enough to grab anyone's interest!
+
+While I like to listen to the album from front to back, my favorite highlight is *Il sarto* (track 4). The calm between two storms,
+it also reminds me in part to the music of Beau Dommage, a band that achieved mainstream popularity in Quebec in the 70s.
+The ending of the next track, *Zaini di elio*, is bombastic and tasteful. Upon hearing the impressive church
+bells, you would be forgiven for thinking it is the end of the album, when over twenty minutes remain in the final
+tital track. The album has many moments that flow into each other, and uses slow-paced leitmotifs under different
+instrumentations that manage to sound both fresh and familiar.
 
 I don't quite know how they do it, but artists in the RPI subgenre are excellent at creating ambiances that
 sound out this world: but incredibly beautiful and haunting. Even in more quiet parts of the music, the energy
-is always present and almost menacing. No other genre of rock makes me feel quite as invested in their quiet
+is always present and almost menacing. No other genre of rock makes me feel quite as invested in their *quiet*
 parts.  After a few listens, when you learn to trust this menace (nothing bad will happen! These tensions will
 get resolved, I swear!), the music just becomes an immense bed of feathers waiting for you to dive into. In
 regards to *Sadako* itself, if you enjoy music from the band Camel and give it an Italian twist, it might give
@@ -69,7 +76,8 @@ days:
 ## 2019 - Twenty Twenty (Djo)
 
 Believe it or not, Twenty Twenty was released in September 2019! If only 2020 was as sweet as Twenty Twenty...
-The album is nothing revolutionary, but it takes many of the best ideas from the past and wraps them up in an
+The album is nothing revolutionary, but it takes many of the best ideas from the past (it is apparent that
+Djo is a fan of the Beatles from his song structure) and wraps them up in an
 honest package that feels genuine and effortless. It's a *cool* album. I'm looking forward to more content
 from Djo (aka Joe Keery, aka Steve from Stranger Things (!!)). I'm already tapping my feet to his new single,
 *Keep Your Head Up*.
@@ -103,7 +111,8 @@ The less I say about this band, the better will be your surprise. These old rock
 the few albums I [had the privilege to see played live](https://www.youtube.com/watch?v=yH1m0wjYn98), along
 with 3 of my friends who discovered the band thanks to this album. It's ok if you don't care much for the
 theme, at least give the music an honest chance. You just might be surprised! I, for one, find the theme very
-fresh in these current times. Few artists do what Neal Morse is doing at the moment (other than Neal Morse
-himself). I hope I made you curious enough to check it out!
+fresh in these modern times. Few artists do what Neal Morse is doing at the moment (other than Neal Morse
+himself). I hope I made you curious enough to check it out! The album has a great cast of characters and
+many moments that will keep you coming back for more.
 
 [Click here to listen to The Similitude of a Dream](https://www.youtube.com/watch?v=kKfD85ZAHB4).
