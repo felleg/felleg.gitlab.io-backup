@@ -116,4 +116,8 @@ fresh in these modern times. Few artists do what Neal Morse is doing at the mome
 himself). I hope I made you curious enough to check it out! The album has a great cast of characters and
 many moments that will keep you coming back for more.
 
+Note: If you like this album, a sequel named [The Great Adventure](http://www.progarchives.com/album.asp?id=60605) 
+was released in 2019. To me, it does not live up to the incredible heights of *Similitude*, but it is still a worthy
+listen.
+
 [Click here to listen to The Similitude of a Dream](https://www.youtube.com/watch?v=kKfD85ZAHB4).
