@@ -52,7 +52,7 @@ after many repeated listens. As for 2020, though, I won't bother waiting for Dec
 
 **Congratulations, LogoS!**
 
-## A special mention
+## A special mention - Theo Katzman
 
 Before the pandemic changed our lives, I was in love with Theo Katzman's [Modern Johnny Sings: Songs in the Age of
 Vibe](https://theokatzman.bandcamp.com/album/modern-johnny-sings-songs-in-the-age-of-vibe), so much so that I
