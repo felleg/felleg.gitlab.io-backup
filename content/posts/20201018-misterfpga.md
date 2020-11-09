@@ -95,7 +95,7 @@ Yes, and then some. It is more than accurate.
 
 Since the same electronic circuits are being replicated, the electronic output is also the same. This means:
 
-* the timings are the same 
+* the timings are the same
 * the "lack" of input lag is the same
 * the colors are the same
 * the sound waves are the same (**Audiophiles, this should especially make your ears perk up.**)
@@ -320,9 +320,7 @@ Take a deep breath. This entire section should take roughly 10 minutes if you tr
 
 ## Adding games
 
-1. Visit the [Everdrive pack game archive](https://archive.org/download/everdrivepack/) (yes, that's a direct
-   link, you're welcome). The zip files that
-   start with an `'@'` character are compatible with MiSTer.
+1. Visit the Everdrive pack game archive on archive.org (sometimes gets taken down, this step is TBD), or download ROMs online...
 1. Download the zip files (and optionally the Pack add-ons and Game Series Collections) for your favorite
    consoles.
 1. Connect your fully setup MiSTer micro-SD card into your computer
