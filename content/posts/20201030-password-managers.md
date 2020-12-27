@@ -124,7 +124,7 @@ into your vault, all your eggs will sit in the same basket.
 I already hear you asking: **"What if someone gets hold of my master password? Won't they have access to all my
 organized credentials? How is this better and not actually worse than password re-use?"**
 
-While this concern is understandable, you have to understand that this burden falls on the shoulders of the
+While this concern is legitimate, you have to understand that this burden falls on the shoulders of the
 developers of password managers. I'll illustrate this with a concrete example.
 
 Let's suppose you use a password manager that gives you access to sensitive accounts (bank, email, social
@@ -138,7 +138,7 @@ asking you to confirm if this unidentified login was intentional. And here's the
 email credentials are not weakened by passsword re-use (they are in your password manager vault), the hacker
 will have no way of hacking into your email to confirm their login.**
 
-## What if the hacker manages to snoop into your email?
+## What if the hacker crosses this first security layer?
 
 Indeed, there are many ways to be hacked. Maybe, for some reason, the hacker has physical access to your
 computer (e.g. you left your browser open at work and someone used it while you were away). At this
@@ -151,10 +151,16 @@ snoop in your emails, they got your passwords from the source! This is a pretty 
 were you careless enough to leave your computer unlocked without being around it, it also means you did it
 around people you shouldn't trust.
 
-If your password manager is locked, there is no way a hacker could get in without your master password or
-recovery code (which you wouldn't leave around for people to see, more on that later).
+This nightmare scenario should rarely happen. If your password manager is locked, there is no way a hacker
+could get in without your master password or recovery code (which you wouldn't leave around for people to see,
+more on that later). And the coup de grace would be to implement Two-Factor Authentication in your password
+manager (and other accounts).
 
-to be continued.. end it by saying that 2fa aims to cover that, and also basic common sense.
+## Summary: Risks of getting hacked
+
+To summarize, security is a messy subject with many ramifications. What you should understand is that, unless
+you are careless and don't do basic common sense steps towards securizing your password manager, **using a
+password manager properly will increase your security.**
 
 # My favorite password manager: Bitwarden
 
