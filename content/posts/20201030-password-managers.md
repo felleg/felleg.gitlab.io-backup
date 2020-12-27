@@ -10,12 +10,12 @@ tags:
   - best practices
 ---
 
-*(Disclaimer: I have no ties to any of the products or developers listed in this article. No one paid me or asked me to write this.*
+*Disclaimer: I have no ties to any of the products or developers listed in this article. No one paid me or asked me to write this.*
 
 *Also, I am not a security expert (if I was, I probably would not share one of my real passwords).
 Though I try to have the best possible practices, I cannot guarantee these tips will prevent you from getting
 hacked. Know that every security setup is as secure as its weakest link. Please remember to be critical when
-security topics are being discussed.)*
+security topics are being discussed.*
 
 ---
 
@@ -45,7 +45,7 @@ characters long. No capitalization. No special characters. And believe me, I use
 
 To my knowledge, there were no best practices to follow back then. I even had a friend whose father bragged
 about using `secret` as his password. It made for great innuendos, that's for sure ("What's your password,
-dad?", "It's `secret`!", "Aw dad, you're no fun").
+dad?", "It's `secret`!", "Aw dad, you're no fun"). Whether is was actually secure is another story.
 
 # Password reuse is the problem
 
@@ -113,6 +113,48 @@ of features that I find would solve most (if not all) our problems:
 
 After exploring the different options at our disposal today, I find that the combination of a password manager
 along with two-factor authentication is what comes closest to addressing our every needs.
+
+# Risks of getting your password manager hacked
+
+{{< figure src="/img/eggs-in-basket.png" position="center">}}
+
+There is one potential security flaw with password managers: after you finished importing all your accounts
+into your vault, all your eggs will sit in the same basket.
+
+I already hear you asking: **"What if someone gets hold of my master password? Won't they have access to all my
+organized credentials? How is this better and not actually worse than password re-use?"**
+
+While this concern is understandable, you have to understand that this burden falls on the shoulders of the
+developers of password managers. I'll illustrate this with a concrete example.
+
+Let's suppose you use a password manager that gives you access to sensitive accounts (bank, email, social
+media, etc.). If someone gains access to any of these accounts, it's game over for you. Now, let's also
+suppose that someone figured out your password manager's master password and attempts to log into your vault.
+What then?
+
+The first security layer that will be triggered is that, because the hacker is logging from a new
+browser/device, the login process will be halted on their end. An email will be sent to your email address
+asking you to confirm if this unidentified login was intentional. And here's the magical thing: **because your
+email credentials are not weakened by passsword re-use (they are in your password manager vault), the hacker
+will have no way of hacking into your email to confirm their login.**
+
+## What if the hacker manages to snoop into your email?
+
+Indeed, there are many ways to be hacked. Maybe, for some reason, the hacker has physical access to your
+computer (e.g. you left your browser open at work and someone used it while you were away). At this
+point it all depends on what you are already logged in - which doors you left open for the hacker to walk
+into.
+
+The worst case scenario is, of course, that they will have direct access to your password manager there and
+then. They could open it, scribble down your most valuable passwords, and keep them for later. No need to
+snoop in your emails, they got your passwords from the source! This is a pretty unlucky scenario: no only
+were you careless enough to leave your computer unlocked without being around it, it also means you did it
+around people you shouldn't trust.
+
+If your password manager is locked, there is no way a hacker could get in without your master password or
+recovery code (which you wouldn't leave around for people to see, more on that later).
+
+to be continued.. end it by saying that 2fa aims to cover that, and also basic common sense.
 
 # My favorite password manager: Bitwarden
 
