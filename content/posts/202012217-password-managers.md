@@ -1,6 +1,6 @@
 ---
 title: "Password Managers"
-date: 2020-10-30T11:43:11-04:00
+date: 2020-12-27T11:43:11-04:00
 draft: true
 toc: false
 cover : "img/carvalet.jpg"
@@ -45,7 +45,7 @@ characters long. No capitalization. No special characters. And believe me, I use
 
 To my knowledge, there were no best practices to follow back then. I even had a friend whose father bragged
 about using `secret` as his password. It made for great innuendos, that's for sure ("What's your password,
-dad?", "It's `secret`!", "Aw dad, you're no fun"). Whether is was actually secure is another story.
+dad?", "It's `secret`!", "Aw dad, you're no fun"). Whether is was actually secure is another story...
 
 # Password reuse is the problem
 
@@ -54,11 +54,12 @@ anyone, yet we knew we couldn't forget. The more we used our password to registe
 went down this spiral.
 
 At some point, we all realize(d) that our single password was a real problem; while it's easier for us to
-remember, but if someone else gets hold of it, they can log into our *entire* personal life. Then
-again, the prospect of making more than just 10 different and secure passwords is enough to make most people
-uncomfortable. Cycling through a mental list of passwords on a login screen is painful, frustrating. In this
-situation, it is not infrequent to see someone click "forgot my password" and put back their old, comfortable,
-insecure initial password. And the spiral continues.
+remember, if someone else gets hold of it, they can log into our *entire* personal life. Then again, the
+prospect of making more than just 10 different and secure passwords is enough to make most people
+uncomfortable. Cycling through a mental list of passwords on a login screen is painful, frustrating. Some
+websites block your account after as little as 4 unsuccessful login attempts. In this situation, it is not
+infrequent to see someone click "forgot my password" and put back their old, comfortable, insecure initial
+password. And the spiral continues.
 
 When web developers started noticing this trend, they enforced "stronger" passwords. "Use numbers". "Use mixed
 capitalization". "Use symbols". I'm sure you can guess the evolution of my password, since most of us followed
@@ -114,54 +115,6 @@ of features that I find would solve most (if not all) our problems:
 After exploring the different options at our disposal today, I find that the combination of a password manager
 along with two-factor authentication is what comes closest to addressing our every needs.
 
-# Risks of getting your password manager hacked
-
-{{< figure src="/img/eggs-in-basket.png" position="center">}}
-
-There is one potential security flaw with password managers: after you finished importing all your accounts
-into your vault, all your eggs will sit in the same basket.
-
-I already hear you asking: **"What if someone gets hold of my master password? Won't they have access to all my
-organized credentials? How is this better and not actually worse than password re-use?"**
-
-While this concern is legitimate, you have to understand that this burden falls on the shoulders of the
-developers of password managers. I'll illustrate this with a concrete example.
-
-Let's suppose you use a password manager that gives you access to sensitive accounts (bank, email, social
-media, etc.). If someone gains access to any of these accounts, it's game over for you. Now, let's also
-suppose that someone figured out your password manager's master password and attempts to log into your vault.
-What then?
-
-The first security layer that will be triggered is that, because the hacker is logging from a new
-browser/device, the login process will be halted on their end. An email will be sent to your email address
-asking you to confirm if this unidentified login was intentional. And here's the magical thing: **because your
-email credentials are not weakened by passsword re-use (they are in your password manager vault), the hacker
-will have no way of hacking into your email to confirm their login.**
-
-## What if the hacker crosses this first security layer?
-
-Indeed, there are many ways to be hacked. Maybe, for some reason, the hacker has physical access to your
-computer (e.g. you left your browser open at work and someone used it while you were away). At this
-point it all depends on what you are already logged in - which doors you left open for the hacker to walk
-into.
-
-The worst case scenario is, of course, that they will have direct access to your password manager there and
-then. They could open it, scribble down your most valuable passwords, and keep them for later. No need to
-snoop in your emails, they got your passwords from the source! This is a pretty unlucky scenario: no only
-were you careless enough to leave your computer unlocked without being around it, it also means you did it
-around people you shouldn't trust.
-
-This nightmare scenario should rarely happen. If your password manager is locked, there is no way a hacker
-could get in without your master password or recovery code (which you wouldn't leave around for people to see,
-more on that later). And the coup de grace would be to implement Two-Factor Authentication in your password
-manager (and other accounts).
-
-## Summary: Risks of getting hacked
-
-To summarize, security is a messy subject with many ramifications. What you should understand is that, unless
-you are careless and don't do basic common sense steps towards securizing your password manager, **using a
-password manager properly will increase your security.**
-
 # My favorite password manager: Bitwarden
 
 There are many password manager offerings out there. They all have different feels and most of them do the
@@ -189,7 +142,11 @@ practices tips to maximize your online security.
 
 # Getting started with Bitwarden
 
-.............. ........... blablablablabla
+Just like most password managers, Bitwarden is easy to set-up and use. On your computer, you will use
+Bitwarden from a browser add-on, and on your mobile device you will use Bitwarden from a dedicated
+application. Here is a video from the creators of Bitwarden that shows you how to use the browser extension: 
+
+{{< youtube J_z4VqERVkQ >}}
 
 # Make sure you protect your email address!
 
@@ -203,8 +160,6 @@ Thus, your email address is special and must be protected with extra care.
 
 Make sure you use two-factor authentication to protect your email address (and if you store your 2FA keys in
 Bitwarden using your premium account, make sure not to store your email's 2FA key in Bitwarden).
-
-
 
 # A grain of salt
 
