@@ -1,7 +1,6 @@
 ---
 title: "History Fighter, a game I made!"
 date: 2020-12-30T11:51:17-05:00
-draft: true
 cover: img/history-fighter.png
 tags:
   - game
