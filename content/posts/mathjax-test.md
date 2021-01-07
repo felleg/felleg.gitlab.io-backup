@@ -1,0 +1,77 @@
+---
+title: "Launching something at a 45 degree angle"
+date: 2021-01-07T16:09:35-05:00
+draft: true
+toc: false
+cover:
+tags:
+  - physics
+  - exercise
+  - algebra
+  - mathjax
+---
+
+I recently discovered how to write equations in my Hugo website using Mathjax (credit goes to
+[kunlei](https://kunlei.github.io/2019/08/19/mathjax-setup/) for the instructions!). In order to demonstrate
+the awesomeness of this tool (and also to refresh my memory on basic Physics concepts I have not used in a
+long time), let me demonstrate why 45 degrees is the ideal angle to throw something at maximum range.
+
+First off, for simplification purposes, let us suppose the friction due to air resistance is negligible.
+
+If we use a referential where the $x$ axis is parallel to the ground and $y$ axis is perpendicular to the
+ground, what we want to maximum is the function $x(\theta)$, i.e. the distance travelled by our object as a
+function of the angle at which we throw it. Let's define $\theta$ as the angle we throw the object with
+respect to the $y$ axis.
+
+Intuitively, we know that if we throw the object with $\theta=0$, the object not travel any distance because
+it reaches the ground immediately. Similarly, we know that throwing the object with $\theta=90$ will have the
+same result: the object will go up in the air, and in the absence of wind, will fall back exactly from where
+it left the ground initially. Thus, the angle that maximises the distance ($\theta_m$) is an angle
+between 0 and 90.
+
+Naively, we can assume this function looks a little something like this:
+
+{{< figure src="/img/x-theta.png" position="center" >}}
+
+Because the thrown object moves in a fluid motion that follows the laws of kinematics, it is reasonable to
+expect that $\theta_m$ is found exactly where the derivative of $x(\theta)$ becomes 0, that is to say
+$\frac{dx}{d\theta}=0$.
+
+So, our game plan is to find the equation of $x(\theta)$ and find which value of $\theta$ makes
+$\frac{dx}{d\theta}=0$.
+
+A well known equation of kinematics is $d=v_i\Delta t + \frac{1}{2}a\Delta t^2$. When applied to the movement
+of our thrown object over the $x$ axis, this becomes
+
+$$ x=v_{ix}\Delta t + \frac{1}{2} a_x \Delta t^2$$
+$$ \Leftrightarrow x=  v_{ix}\Delta t \quad \text{because $a_x$ = 0}$$
+
+{{< figure src="/img/velocity-components.png" position="center" >}}
+
+By expressing the velocity in terms of $x$ and $y$ components (see figure above), we can re-express $x$ as
+
+$$ x = v\cos\theta\Delta t $$
+
+Ah ha! We are starting to unfold how $x$ is dependent of $theta$ explicitely. However, inside $\Delta t$,
+there is a hidden dependency on $theta$. Indeed, you can imagine, if we throw an object at $theta=0$, its
+airborne time will be null. On the other hand, if we throw that same object at $theta=90$, its airborne time
+will certainly be $>0$ (assuming $v \neq 0$). Thus, what is the expression for $\Delta t (\theta)$?
+
+Let's use the kinematics equation in the $y$ axis to get some insight.
+
+$$ \Delta y = v_{iy}\Delta t+\frac{1}{2}a_y\Delta t^2$$
+
+Because we throw the object from a flat plane and we suppose it falls at the same height from which it was
+launched (i.e. $\Delta y = 0$), we get
+
+$$ 0 = v_{iy}\Delta t + \frac{1}{2}a_y\Delta t^2$$
+$$ 0 = v\sin\theta\Delta t+\frac{a_y}{2}\Delta t^2 $$
+$$ 0 = \Delta t(v\sin\theta + \frac{a_y}{2}\Delta t) \quad \text{(here we divide by $\Delta t \neq 0$)}$$
+$$ 0 = v\sin\theta + \frac{a_y}{2}\Delta t $$
+$$ \Leftrightarrow \Delta t = \frac{-2v\sin\theta}{a_y}$$
+
+Hurray, we found our equation for $\Delta t (\theta)$, it is $\Delta t(\theta) = \frac{-2v\sin\theta}{a_y}$
+
+We can thus substitute this value in the earlier equation we found for $x(\theta)$:
+
+$$ x(\theta)=v\cos\theta\Delta t(\theta) = v\cos\theta\left(\frac{-2v\sin\theta}{a_y}\right) = \frac{-2v^2\cos\theta\sin\theta}{a_y}$$
