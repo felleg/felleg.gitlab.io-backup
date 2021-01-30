@@ -233,4 +233,6 @@ original homebrew software available for free, along with some of my personal fa
 * [Legend of Zelda and Super Metroid Crossover Randomizer](https://samus.link/): Mix Zelda and Super Metroid
   in a single randomized adventure. It's great.
 
+  For more suggestions, have a look at this video from My Life in Gaming: [Useful ROM Hacks for Retro Games - Restorations, Fan Translations, Colorizations](https://www.youtube.com/watch?v=SFN972KabBQ)
+
 {{< figure src="/img/lawnmower.png" position="center" caption="Have fun, may you make interesting discoveries!" >}}
