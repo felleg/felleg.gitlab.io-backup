@@ -59,17 +59,18 @@ growing every day.
 
 {{< figure src="/img/newhacks.png" position="center" >}}
 
-Now for a sad realization: there is little money to make in ROM hacks. As was proven time and time again, these
-little works of art will probably never be supported by companies such as Nintendo, even though the quality of
-some ROM hacks and translations rivals some of their own products. The greatest example of this is the
-[English translation for the game Mother 3](https://www.romhacking.net/translations/1333/). This game has been
-requested by die-hard fans of the Mother series of RPG to be officially released in the Western hemisphere,
-but Nintendo never made it happen.  In the end, some devoted fans took it upon themselves to translate the
-game in their own spare time to allow more people to get into the third instalment of the franchise. The
-result has to be seen to be believed: you could never tell that this work was made by unpaid fans. Even more
-impressive, their love for the game is such that they officially gave Nintendo their blessing to use their
-translation work in part or in full if it would allow the game to get an official release. But instead of
-embracing it, Nintendo shunned all these efforts.
+Now for a sad realization: there is little money to make in ROM hacks. This means that all the legwork of
+making ROM hacks and maintaining them is mostly handled by enthusiasts like you and me. As was proven time and
+time again, these little works of art will probably never be supported by companies such as Nintendo, even
+though the quality of some ROM hacks and translations rivals some of their own products. The greatest example
+of this is the [English translation for the game Mother 3](https://www.romhacking.net/translations/1333/).
+This game has been requested by die-hard fans of the Mother series of RPG to be officially released in the
+Western hemisphere, but Nintendo never made it happen.  In the end, some devoted fans took it upon themselves
+to translate the game in their own spare time to allow more people to get into the third instalment of the
+franchise. The result has to be seen to be believed: you could never tell that this work was made by unpaid
+fans. Even more impressive, their love for the game is such that they officially gave Nintendo their blessing
+to use their translation work in part or in full if it would allow the game to get an official release. But
+instead of embracing it, Nintendo shunned all these efforts.
 
 There is hope, though. Recently, a Japanese company known as
 [M2](https://en.wikipedia.org/wiki/M2_(game_developer)) has assembled an impressive crew of ROM hackers and
