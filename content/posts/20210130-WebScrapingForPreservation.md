@@ -116,7 +116,7 @@ downloaded in bulk because they have implemented a CAPTCHA security feature when
 {{< figure src="/img/rhdn-captcha.png" position="center" caption="A password must be copy-pasted to download files. This aims to prevent automatic downloads." >}}
 
 For quite some time, ROM hackers have been uneasy about this situation. The "GitHub" of ROM hacks could shut
-down at any moment, since it is hosted by enthusiasts who don't owe anything to anyone. At the same time, an
+down at any moment, since it is hosted by enthusiasts who don't owe anything to anyone. At the same time, a
 backup of the website's content is not available to anyone outside of RHDN's administration team. This is a
 recipe for disaster, as far as preservationists are concerned.
 
