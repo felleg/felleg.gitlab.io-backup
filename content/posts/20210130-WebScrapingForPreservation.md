@@ -235,7 +235,7 @@ original homebrew software available for free, along with some of my personal fa
 
   For more suggestions, have a look at this video from My Life in Gaming: [Useful ROM Hacks for Retro Games - Restorations, Fan Translations, Colorizations](https://www.youtube.com/watch?v=SFN972KabBQ)
 
-Finally, here are even more suggestions: [Reddit's RROM Hack best-of
+Finally, here are even more suggestions: [Reddit's ROM Hack best-of
 list](https://www.reddit.com/r/emulation/comments/8nw1vp/a_rom_hack_best_of_list/)
 
 {{< figure src="/img/lawnmower.png" position="center" caption="Have fun, may you make interesting discoveries!" >}}
