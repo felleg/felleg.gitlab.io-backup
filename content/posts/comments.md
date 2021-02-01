@@ -6,6 +6,9 @@ cover = ""
 tags = ["announcement", "comments"]
 keywords = ["comments"]
 showFullContent = false
+aliases = [
+   "/posts/comments/"
+]
 +++
 
 Good news, everyone! Comments are now enabled on the blog. I'm currently using

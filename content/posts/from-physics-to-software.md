@@ -7,6 +7,9 @@ tags = ["why", "career paths", "physics", "unix", "imposter syndrome"]
 keywords = ["why", "career paths", "physics", "unix", "imposter syndrome"]
 description = "Believe it or not, writing software was not my initial career path. But in hindsight, I was headed in that direction without knowing it."
 showFullContent = false
+aliases = [
+   "/posts/from-physics-to-software/"
+]
 +++
 
 Changing careers. It's not always pleasant.

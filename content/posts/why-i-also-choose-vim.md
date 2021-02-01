@@ -7,6 +7,9 @@ tags = ["vim", "why"]
 keywords = ["vim", "why"]
 description = "A co-worker walked by my station today and glanced at my screen.  \"Wow, you use Vim, you must be pretty hardcore\", he said.  "
 showFullContent = false
+aliases = [
+   "/posts/why-i-also-choose-vim/"
+]
 +++
 
 A co-worker walked by my station today and glanced at my screen.

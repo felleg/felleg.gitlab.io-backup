@@ -7,6 +7,9 @@ tags = ["road map", "blog", "future"]
 keywords = ["", ""]
 description = "While owning a blog on the web certainly is cool, what one does with it is that truly matters. In this post, I will discuss ideas I have in store for this blog."
 showFullContent = false
+aliases = [
+   "/posts/what-is-this-blog-about/"
+]
 +++
 
 While owning a blog on the web certainly is cool, what one does with it is that truly matters. Because it took
