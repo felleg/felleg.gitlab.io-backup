@@ -89,24 +89,25 @@ dreamy-eyed about it (I hope I didn't jinx it just now!).
 
 # Is it really accurate?
 
-Yes, and then some. It is more than accurate.
+In its current stage, most consoles represented on MiSTer are frightingly accurate.
 
 {{< figure src="/img/nullobject-workbench2.jpeg" caption="The workbench of [nullobject](https://twitter.com/nullobject), one of many FPGA developers specializing in reverse engineering arcade games">}}
 
-Since the same electronic circuits are being replicated, the electronic output is also the same. This means:
+Since the same electronic circuits are being replicated, the electronic output is also the same. Of course,
+the quality of this replication depends on how detail-oriented FPGA developers want to be. In theory, though,
+the replication could be exact, for all intends and purposes. This means:
 
 * the timings are the same
 * the "lack" of input lag is the same
 * the colors are the same
 * the sound waves are the same (**Audiophiles, this should especially make your ears perk up.**)
 
-This is cycle-accuracy. I'm not
-just writing this way to dazzle you with buzzwords: it's Physics. I have followed an Electronics class during
-my studies of Physics, and I can assure you that it is a *precise* science. We can measure how these circuits
-behave, we don't have to rely on our eyes and ears to approximate the final result. An electronic circuit will
-behave the same way no matter what is the shape of the box that contains it. This also means you won't have to
-fear about your precious original electronics starting to degrade: every time you load a console on an FPGA,
-it's as if it was fresh from the factory!
+What is within our grasp is cycle-accuracy. I'm not just writing this way to dazzle you with buzzwords: it's
+Physics. I have followed an Electronics class during my studies of Physics, and I can assure you that it is a
+*precise* science. We can measure how these circuits behave, we don't have to rely on our eyes and ears to
+approximate the final result. An electronic circuit will behave the same way no matter what is the shape of
+the box that contains it. This also means you won't have to fear about your precious original electronics
+starting to degrade: every time you load a console on an FPGA, it's as if it was fresh from the factory!
 
 Even more impressive, using FPGA you can switch between different console revisions on the fly (e.g. bigger
 sprite limits to prevent flickering, different color palettes, different sound chips on the Sega Genesis,
@@ -118,18 +119,26 @@ It should almost sound too good to be true.
 This seems like a sales pitch, I know, but I am truly moved by how *significant* this is. I have been playing
 these video games all my life and it is the first time that I can honestly say we have managed to capture the
 essence of these older technologies. In reality, even
-I would have difficulty in a blind test to know whether I'm playing on an FPGA or on the real deal.
+I would have difficulty in a blind test to know whether I'm playing on an FPGA or on the real deal. Emulation
+has been around for a long time, but playing these days on a computer has never felt right to me, either
+because lag was involved, refresh rates were different, or sounds were not accurately represented.
 
 ## An added bonus: flexibility
 
 A great quality of life improvement is that the MiSTer can connect to HDMI monitors, as well as CRT monitors.
 It can do everything the original machines could, while also conveniently being compatible with modern-day
 accessories. The flexibility of the video outputs is truly staggering on the MiSTer and could fully warrant
-its own discussion. This is not only great for console games, but also for arcade games.
+its own discussion. This is not only great for console games, but also for arcade games. After spending some
+time with the MiSTer, I can honestly say that for the right person this is an absolutely killer feature.
 
 Do you know how expensive original arcade hardware is in 2020? With MiSTer, you can play most golden-age games
 as if you owned the actual printed circuit board (PCB), with the added bonus of USB controllers and peace of mind of never having to
 re-solder capacitors.
+
+What if you wanted to display games emulated from a PC to a CRT display? You might have to purchase DACs to
+convert your HDMI signal to digital, or use VGA signal which will not be the native resolution of your game.
+It quickly can quickly become a mess. With MiSTer, you simply need a VGA to component adapter and you're good
+to go.
 
 Long story short, emulating original systems on the MiSTer is as good, if not better, than playing on original
 consoles. It is more reliable, convenient, and guarantees the authenticity of the electronic circuit that
