@@ -367,3 +367,10 @@ check out these links:
   chatrooms, covers everything related to classic gaming in general. This is where everybody meets.
 * [MiSTer cores extravaganza videos](https://www.youtube.com/playlist?list=PLsLxmNa35KdjEtsZb4wfnc4H2po84i0cf), these are the videos that
   initially got me into MiSTer. SmokeMonster makes a great job illustrating what makes the MiSTer special.
+
+## Acknowledgement
+
+Thanks to the following people who helped me correct mistakes in the original version of this post:
+
+* birdybro
+* Rysha
