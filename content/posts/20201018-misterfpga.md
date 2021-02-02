@@ -253,11 +253,11 @@ up its sleeve are:
 * the possibility to load games from actual cartridges instead of an SD card
 * no setup required (though this is misleading, I'll get to that...)
 
-But trust me, they get more mileage than anyone would expect from these (arguably) irrational advantages.
+But trust me, Analogue gets more mileage than anyone would expect from these (arguably) irrational advantages.
 
-The "FPGA wars" is very real between Analogue and MiSTer fans. For an interesting read on the topic, I
-recommend [this well-written article from Ryan Houlihan](https://www.inputmag.com/gaming/is-analogue-evil)
-that summarizes the current state of things.
+The "FPGA wars" is very real between Analogue and MiSTer fans, though it is getting better. For an interesting
+read on the topic, I recommend [this well-written article from Ryan
+Houlihan](https://www.inputmag.com/gaming/is-analogue-evil) that summarizes the current state of things.
 
 ## Supported platforms
 
