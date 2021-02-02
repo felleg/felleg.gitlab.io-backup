@@ -136,10 +136,10 @@ Do you know how expensive original arcade hardware is in 2020? With MiSTer, you 
 as if you owned the actual printed circuit board (PCB), with the added bonus of USB controllers and peace of mind of never having to
 re-solder capacitors.
 
-What if you wanted to display games emulated from a PC to a CRT display? You might have to purchase DACs to
-convert your HDMI signal to digital, or use VGA signal which will not be the native resolution of your game.
-It quickly can quickly become a mess. With MiSTer, you simply need a VGA to component adapter and you're good
-to go.
+What if you wanted to display games emulated from a PC to a CRT display? You might have to purchase a DAC to
+convert your digital video signal to an analog signal, or use a VGA signal which will not be the native
+resolution of your game. It quickly can quickly become a mess. With MiSTer, you simply need the right VGA to
+Component cable and a Direct Video Adapter or Analog I/O board and you’re good to go.
 
 Long story short, emulating original systems on the MiSTer is as good, if not better, than playing on original
 consoles. It is more reliable, convenient, and guarantees the authenticity of the electronic circuit that
