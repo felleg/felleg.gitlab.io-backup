@@ -124,7 +124,7 @@ I would have difficulty in a blind test to know whether I'm playing on an FPGA o
 has been around for a long time, but playing these days on a computer has never felt right to me, either
 because lag was involved, refresh rates were different, or sounds were not accurately represented.
 
-## An added bonus: flexibility
+## An added bonus: analog display
 
 A great quality of life improvement is that the MiSTer can connect to HDMI monitors, as well as CRT monitors.
 It can do everything the original machines could, while also conveniently being compatible with modern-day
