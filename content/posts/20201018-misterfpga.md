@@ -89,7 +89,7 @@ dreamy-eyed about it (I hope I didn't jinx it just now!).
 
 # Is it really accurate?
 
-In its current stage, most consoles represented on MiSTer are frightingly accurate.
+In its current stage, most consoles represented on MiSTer are already frighteningly accurate.
 
 {{< figure src="/img/nullobject-workbench2.jpeg" caption="The workbench of [nullobject](https://twitter.com/nullobject), one of many FPGA developers specializing in reverse engineering arcade games">}}
 
