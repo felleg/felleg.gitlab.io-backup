@@ -95,7 +95,7 @@ In its current stage, most consoles represented on MiSTer are already frightenin
 
 Since the same electronic circuits are being replicated, the electronic output is also the same. Of course,
 the quality of this replication depends on how detail-oriented FPGA developers want to be. In theory, though,
-the replication could be exact, for all intends and purposes. This means:
+the replication could be exact, for all intents and purposes. This means:
 
 * the timings are the same
 * the "lack" of input lag is the same
