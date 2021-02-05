@@ -155,9 +155,9 @@ do not belong in this conversation.
 This is a criticism that caught me completely off-guard. And I think I understand what it means, but at the
 same time I'm not sure I agree with what it's getting at.
 
-I concede that every time I pick up a book I read, I am transported back to the locations, the contexts in which
-I read them. I can picture the exact moment in my mind when, book in hand, I reached a certain plot point in an
-interesting story.
+I concede that every time I pick up a book I previously read, I am transported back to the locations, the
+contexts in which I read them. I can picture the exact moment in my mind when, book in hand, I reached a
+certain plot point in an interesting story.
 
 So... what gives? Why can't the same thing happen with an E-reader?
 
