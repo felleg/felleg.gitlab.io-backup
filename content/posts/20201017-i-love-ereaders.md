@@ -76,7 +76,7 @@ But saying E-readers are expensive is kind of missing the big picture. They are 
 term, sure, just like a ski pass is more expensive than paying for a single ticket. If you purchase an
 E-reader, the more you use it, the more you will get value out of it.
 
-Side note, do you know how many free digital books are available out there? I'm not talking even about piracy,
+Side note, do you know how many free digital books are available out there? I'm not even talking about piracy,
 I mean books with expired copyright, or free licenses. Check out [Project
 Gutenberg](http://www.gutenberg.org/) for an astounding amount of free, quality eBooks.
 
