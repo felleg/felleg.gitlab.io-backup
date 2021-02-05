@@ -42,6 +42,8 @@ Mars](https://en.wikipedia.org/wiki/Taz_in_Escape_from_Mars) which I was playing
 and "tasmania" were both too easy to guess, so I twisted the end with an `o` and that was that. Eight
 characters long. No capitalization. No special characters. And believe me, I used it *everywhere*.
 
+{{< figure src="/img/taz.png" position="center" caption="Thank you, 'Taz in Escape from Mars', for having given me my first password." >}}
+
 To my knowledge, there were no best practices to follow back then. I even had a friend whose father bragged
 about using `secret` as his password. It made for great innuendos, that's for sure ("What's your password,
 dad?", "It's `secret`!", "Aw dad, you're no fun"). Whether is was actually secure is another story...
