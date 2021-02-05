@@ -39,8 +39,8 @@ Here are some potential blog topics I hope I'll get to discuss:
 - Contributing to open source projects
 - Google Cloud Platform
 - Google Data Studio
-- [Scraping websites in Python and analyzing data with
-  pandas](https://felixleger.com/posts/2021/01/web-scraping-for-preservation/)
+- [Scraping websites in Python](https://felixleger.com/posts/2021/01/web-scraping-for-preservation/) and
+  analyzing data with pandas
 
 Some of my hobbies and other topics unrelated to tech
 
