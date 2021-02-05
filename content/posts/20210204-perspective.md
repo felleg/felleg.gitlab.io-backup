@@ -41,7 +41,7 @@ cette histoire?
 - Je n'ai pas à m'emcombrer d'un vinyle à aditionnel
 
 À bien y réfléchir, ceci est en fait la meilleure suite d'action qui aurait pu se produire. De ce fait, la
-musique de LogoS voyage, et moi je réussis à garder ma collection de vinyles sous contrôle.
+musique de LogoS voyage, et de mon côté je réussis à garder ma collection de vinyles sous contrôle.
 
 Je ne serai donc pas malheureux de cette mésaventure. Je ne contacterai pas LogoS et je ne me plaindrai pas à
 Bandcamp ou Postes Canada de ne pas avoir validé mon adresse. Je vais tout simplement lever mon verre à cet
