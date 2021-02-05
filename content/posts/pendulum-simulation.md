@@ -22,7 +22,7 @@ experience. Let's celebrate the third year anniversary with a new blog post!
 {{< figure src="/pendulum/animation.gif" position="center" >}}
 
 In 2016, while I was completing my masters degree in Physics at McGill University, the first edition of the
-McGill Physics Hackathon happened. My brother, Justin Léger, was studying Software Engineering at Concordia at
+McGill Physics Hackathon happened. My brother, [Justin Léger](https://justinleger.ca/), was studying Software Engineering at Concordia at
 that time. He often told me how excited he was about participating to hackathons. I figured: with my knowledge
 of physics, his knowledge of software, and our combined love of computers, this had the potential to be a fun
 experience. It was the first time we were able to use our respective field of study to collaborate on a common
