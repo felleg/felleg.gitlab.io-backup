@@ -1,7 +1,6 @@
 ---
 title: "Une question de perspective"
 date: 2021-02-04T22:11:47-05:00
-draft: true
 toc: false
 cover:
 tags:
