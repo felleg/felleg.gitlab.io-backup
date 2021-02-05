@@ -12,6 +12,7 @@ aliases = [
 ]
 +++
 
+{{< partial "mathjax_support" >}}
 Changing careers. It's not always pleasant.
 
 I'm willing to bet that every day, at least one person reorients their career.
