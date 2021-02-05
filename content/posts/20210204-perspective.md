@@ -18,7 +18,7 @@ un coup de coeur pour cet album.
 Le coup de foudre était tel que j'ai décidé d'en acheter la version vinyle limitée afin d'encourager le
 groupe.
 
-{{< figure src="/img/sadako-listing.png" position="center" caption="A listing for the limited crystal vinyl version" >}}
+{{< figure src="/img/sadako-listing.png" position="center" caption="Le bon de commande pour acheter le disque" >}}
 
 Or, au moment de passer la commande, une erreur se glissa dans mon adresse: le numéro civique n'était pas indiqué!
 Quelques jours plus tard, m'apercevant de mon erreur, je décidai donc de contacter le groupe par courriel afin
