@@ -173,7 +173,8 @@ I have to keep these passwords in my head:
 
 This is list still much better than it used to be. Out of all of them, only Bitwarden could potentially be
 cracked by hackers through the internet, since it doesn't require access to a physical device. This is where
-Two-factor authentication comes in to save the day!
+**Two-factor authentication** comes in to save the day!... But it will be another story for another time.
+:smiley:
 
 {{< figure src="https://imgs.xkcd.com/comics/security.png" caption="As always, XKCD reminds us to stay grounded in reality" position="center" >}}
 
