@@ -48,6 +48,6 @@ Bandcamp ou Postes Canada de ne pas avoir validé mon adresse. Je vais tout simp
 inconnu qui, après avoir déballé un colis qui s'est retrouvé aux objets perdus, va faire une excellente
 découverte musicale.
 
-À toi, mon cher, je te fais ce cadeau, et j'espère qu'il te fera plaisir! :smiley:
+À toi, je te fais ce cadeau. J'espère qu'il te fera plaisir! :smiley:
 
 {{< figure src="/img/turntable.jpg" position="center" caption="Ma table tournante est vide, mais j'espère que la tienne tourne!">}}
