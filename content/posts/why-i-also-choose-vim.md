@@ -71,7 +71,7 @@ developers, which usually goes like this:
 "Hah, easy. Uhh, it's just a black screen, I can't do anything"
 > Press i and type your text.
 "Weird. But ok, (type type type), done. Um, it won't close, I'm stuck."
-> Press escape, then type :wq and enter, or ZZ if you're in a hurry.
+> Press escape, then type :wq and enter, or just ZZ if you're in a hurry...
 "!@#$, this is madness, I hope I never have to use Vim again."
 ```
 
