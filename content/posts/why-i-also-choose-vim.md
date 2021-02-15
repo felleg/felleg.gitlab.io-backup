@@ -71,7 +71,7 @@ developers, which usually goes like this:
 "Hah, easy. Uhh, it's just a black screen, I can't do anything"
 > Press i and type your text.
 "Weird. But ok, (type type type), done. Um, it won't close, I'm stuck."
-> Press escape, then type :wq and enter, or just ZZ if you're in a hurry...
+> Press escape, then type :wq and enter, or actually :x and enter does the same thing and saves a character. You can also do ZZ if you're in a hurry...
 "!@#$, this is madness, I hope I never have to use Vim again."
 ```
 
@@ -373,4 +373,4 @@ Vim.
 
 {{< figure src="/img/myvim.png" caption="My current config of Vim, complete with line numbers, syntax coloring, airline status bars, text width color column and English spell checker. All running under tmux, of course!" position="center" >}}
 
-[^1]: For example, Android or iOS applications
+[^0]: For example, Android or iOS applications
