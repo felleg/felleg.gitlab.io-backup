@@ -169,7 +169,7 @@ we're missing out on features laying right in front of our eyes.
 
 {{< figure src="/img/guibuttons.png" caption="Most editors: \"Look at these buttons! I'm fairly certain they address all my needs.\"" position="center" >}}
 
-{{< figure src="/img/emptyvim.png" caption="Vim: It's like peering into a dark hole." position="center" >}}
+{{< figure src="/img/emptyvim.png" caption="Vim: It's like peering into a black hole." position="center" >}}
 
 I'll admit I can understand the dread felt by someone the first time they open
 Vim. There are simply no buttons to click on, let alone understand. There is no
