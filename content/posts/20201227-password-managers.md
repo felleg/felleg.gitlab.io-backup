@@ -124,7 +124,7 @@ job. Some require a paid membership to access more niche feature.
 I initially tried LastPass and was fairly satisfied with it, until I tried
 [Bitwarden](https://bitwarden.com) which really clicked
 with me. Some password managers receive much more news coverage than others, mostly due to marketing (that's
-why some are also more expansive than others, despite doing the same job). I ended up liking Bitwarden it so
+why some are also more expensive than others, despite doing the same job). I ended up liking Bitwarden it so
 much (despite it never being ranked as the top password manager on any tech website you will find) that I
 ended up paying for a membership (10 USD/year). I recommend that you create an account on any of these
 services and see which one is a right fit for you. Most (if not all) of these password managers can import and
