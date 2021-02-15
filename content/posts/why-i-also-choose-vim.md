@@ -368,7 +368,7 @@ The only thing I ask of you next time you boot your favorite editor is:
 
 **Why is it your favorite editor?**
 
-If the answer has something to do with laziness, it might be time to try out
+If the answer has something to do with laziness, or how your editor fits you like a glove, it might be time to try out
 Vim.
 
 {{< figure src="/img/myvim.png" caption="My current config of Vim, complete with line numbers, syntax coloring, airline status bars, text width color column and English spell checker. All running under tmux, of course!" position="center" >}}
