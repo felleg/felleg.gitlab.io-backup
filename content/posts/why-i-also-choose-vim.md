@@ -364,7 +364,7 @@ I rambled on Vim for far longer than I had anticipated. I guess I had a lot of
 repressed emotions on the topic. I hope you see Vim in a new light, and maybe
 learned a new trick or two.
 
-The only think I ask of you next time you boot your favorite editor is:
+The only thing I ask of you next time you boot your favorite editor is:
 
 **Why is it your favorite editor?**
 
