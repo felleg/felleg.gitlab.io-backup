@@ -30,28 +30,27 @@ Here is my story.
 
 The Tender Years
 ================
-Back then, all that mattered were friends and video games. My father
-was a system administrator at a bank, my mother was a dental
-hygienist. I played The Legend of Zelda: Oracle of Ages on my Game Boy
-Color on road trips.  I don't remember much from that period, but I
-remember I didn't want my dad's job: he was not exercising, his back
-hurt, he was getting calls in the middle of the night. It seemed like
-the worst kind of job possible.
+Back then, all that mattered were friends and video games. My father was (and still is!) a system
+administrator at a bank, my mother was a dental hygienist. I played The Legend of Zelda: Oracle of Ages on my
+Game Boy Color on road trips.  I don't remember much from that period, but I remember I didn't want my dad's
+job: he was not exercising, his back hurt, his knees hurt, and his sleep schedule was out of funk because he
+kept getting calls in the middle of the night. It seemed like the worst kind of job possible.
 
 As you might expect, this worry-free period didn't last very long.
 
 Getting a Diary
 ===============
-On my 8th birthday, I received the usual gifts: a backpack,
+On my 8th birthday, I received the "usual" gifts: a backpack,
 educational PC games, etc. However, my grandparents sneaked in a blank
 diary. The cover was made of metal, with a big red heart on the front.
 It had a heart-shaped padlock. It came with a green mechanical pencil
 equipped with green lead. The gift caught me by total surprise.
 
-It was a sight to behold.
+{{< figure src="/img/mon-journal.jpg" position="center" caption="It was a sight to behold. Still got it to prove it!" >}}
 
 I wasn't immediately sure what I was meant to do with it and, let's be honest, I
-wasn't sure I wanted anyone to see me holding this thing. "Write anything you
+wasn't sure I wanted anyone to see me holding this thing. This is probably the second picture of it I have
+ever took. To this day, there is no picture of me holding it my hands in any photo album. "Write anything you
 want in it. You can draw, you can write about how you feel, you can write about your
 day. Every page filled in this book is a gift to your future self.", my
 grandmother told me in French. So I started writing!
@@ -70,8 +69,8 @@ It honestly reminds me about the principles of documenting software: this diary
 was my SSOT, my single source of truth.  But I digress!
 
 I wrote about all the insecurities I had over the years, the thoughts
-and reflections. They mostly seem really childish now, traces of a
-different chapter in my life, but at the time they sometimes felt like
+and reflections. They mostly seem childish now, traces of a
+different chapter of my life, but at the time they sometimes felt like
 huge milestones. High school. My first girlfriend.  University.
 Changing careers. Writing is still my best tool put things in
 perspective, both in space and time.
