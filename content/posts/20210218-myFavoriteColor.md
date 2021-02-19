@@ -22,6 +22,12 @@ And my answer surprised everyone. Every time.
 
 "Yellow".
 
+To be absolutely precise, the answer I meant to give was RAL 1023 / Traffic Yellow / #f7b500 Hex Color Code.
+According to [Encycolorpedia](https://encycolorpedia.com/f7b500), the hexadecimal color code #f7b500 is a
+shade of yellow. In the RGB color model #f7b500 is comprised of 96.86% red, 70.98% green and 0% blue. In the
+HSL color space #f7b500 has a hue of 44° (degrees), 100% saturation and 48% lightness. This color has an
+approximate wavelength of 579.95 nm.
+
 'How can you prefer yellow above all the other colors?', would ask the friend. 'Boys like blue, girls like
 pink, and both are allowed to like red without being cut from their group', implying no boy or girl likes
 yellow, which leaves me to not be human.
