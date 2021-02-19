@@ -1,7 +1,6 @@
 ---
-title: "What's your favorite color?"
+title: "What's Your Favorite Color?"
 date: 2021-02-18T21:30:09-05:00
-draft: true
 toc: false
 cover: img/yellow.png
 tags:
@@ -10,9 +9,8 @@ tags:
 ---
 
 I am starting to understand that in this world, you have to be sincere to be reach others that do not
-understand you. Opening up is hard, it makes us vulnerable. To not be noticed or understood is one of my
-deepest fears, so I don't want to stand out and become misunderstood. However, in order to be understood by a
-crowd that is not listening to your message, you have to grab their attention. So you have to be noticed.
+understand you. However, opening up is hard, it makes us vulnerable. It gives others the opportunity to strike
+you down for what you are not.
 
 I guess I'm just afraid to look like a fool.
 
@@ -31,11 +29,12 @@ yellow, which leaves me to not be human.
 When you look at this (admittedly anectodal) [social study of humanity's favorite
 color](https://www.livescience.com/34105-favorite-colors.html), you can clearly see that I'm
 pretty much all alone in my camp. My favorite color is, on average, the most disliked by both genders.
-Incidentally, most of my hobbies have endured the same fate in real life!
+Incidentally, most of my hobbies have endured the same fate in real life! I'm used to feel like the weird one
+in a crowd.
 
 {{< figure src="/img/color-study.png" position="center" caption="Shades of yellow are, for both gender, less popular than any color of the rainbow." >}}
 
-That seemed to follow my narrative a bit too well, so here's another random one I found:
+These results seemed to follow my narrative a bit too well, so here's another random one I found:
 
 {{< figure src="/img/color-survey.png" position="center" caption="Source: https://www.hotdesign.com/marketing/whats-your-favorite-color/" >}}
 
@@ -48,12 +47,12 @@ was met with the same confused reaction, something that felt like the person was
 like yellow? What good thing in this world is yellow? Yellow is the color of urine, don't you know?"
 
 Well, I do know. Thank you very much. My urine is yellow too. That doesn't mean I admire the inside of the
-toilet when I'm done. I don't particularly enjoy staring at urine. I just like the color yellow. I like it on
-school buses, I like it on warning signs, I like it on bananas, I like it on lemons, I like it on pop art. It's just
-the color that first grabs my eye's attention anywhere I look, almost as if my brain is constantly looking for
-it. I can't do anything about it. If I could have a yellow cake for my birthday, that's the color I'd choose.
-Yellow is *fun*. Yellow says to everyone: **it's ok to look!** Yellow is butter. Yellow is potato chips out of
-the oven. Yellow is toasts grilled to perfection. Yellow is gold.
+toilet when I'm done. I just like the color yellow. I like it on school buses, I like it on warning signs, I
+like it on bananas, I like it on lemons, I like it on pop art. It's just the color that first grabs my eye's
+attention anywhere I look, almost as if my brain is constantly looking for it. I can't do anything about it.
+If I could have a yellow cake for my birthday, that's the color I'd choose.  Yellow is *fun*. Yellow says to
+everyone: **it's ok to look!** Yellow is a golden sunset. Yellow is butter. Yellow is cheese. Yellow is potato
+chips out of the oven.  Yellow is toasts grilled to perfection. Yellow is gold.
 
 When I was young, I wanted to fit in and to be accepted. I wanted to be normal. As an adult, I still have that
 fear. I want to fit in the crowd. I want to have meaningful, reciprocal interactions with my peers.
@@ -71,13 +70,17 @@ shouldn't be scared of being different, it's literally baked into my end goal.
 
 All this time, I lied to myself in order to please others.
 
-At first, I just flat out pretended that blue was my favorite color. "If you can't beat 'em, 'join 'em!". But
-even myself wouldn't buy such an obvious lie. To my eyes, blue is one of the most passive colors of the
-rainbow.
+# The road to truth
+
+{{< figure src="/img/favcolors.png" position="center" >}}
+
+At first, I just flat out pretended that blue was my favorite color. "If you can't beat 'em, 'join 'em!". I
+think this phase did not last longer than a few days. Even myself wouldn't buy such an obvious lie. To my eyes, blue is one of the most passive colors of the
+rainbow. Sure, blue is nice and all, but it doesn't grab me.
 
 Then, I switched gear. I went for my second favorite color, brown. I figured it was still part of my top, so
 I'd still somewhat respect myself. But people were almost even more bewildered than when I told them my
-favorite color was yellow. Your favorite color can be anything, even black and white, but brown is almost an
+favorite color was yellow. I swear, your favorite color could be anything, even black and white, but brown is almost an
 alien choice. Almost as if brown is less of a color than black and white.
 
 Finally, I settled on the green for my lie. It was halfway between yellow and blue, and was still prominently
@@ -105,3 +108,17 @@ to get to know you. But I think it's an interesting question because it asks a p
 a subject that does not matter, that shouldn't have any concrete consequence in this world. Is answerer going
 to be truthful? How many layers will their answer have? Are they the type of person that lies to themself to
 make it easier to lie to others?
+
+# In conclusion
+
+This has to be the first time I personally spend more than two minutes talking about colors. I told you what
+growing up felt like having yellow as a favorite color. It felt bad. I can't even begin to imagine how
+detached from society a handicap or different skin color can make someone feel. No amount of lies or
+pretending can get you out of that type of rejection.
+
+I tried to be as objective as I could when telling my story after seeing the results I have shown regarding
+the favorite color of people in general, but I must admit that it is hard not to be influenced by these
+charts.
+
+So, what's your favorite color? As far as you can remember, has it always been the same? What does this say
+about you?
