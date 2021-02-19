@@ -22,7 +22,7 @@ And my answer surprised everyone. Every time.
 
 "Yellow".
 
-'How can you prefer yellow above all ther other colors?', would ask the friend. 'Boys like blue, girls like
+'How can you prefer yellow above all the other colors?', would ask the friend. 'Boys like blue, girls like
 pink, and both are allowed to like red without being cut from their group', implying no boy or girl likes
 yellow, which leaves me to not be human.
 
