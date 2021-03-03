@@ -1,5 +1,6 @@
 # Available Social Icons:
 
+- [amazon](https://simpleicons.org/?q=amazon)
 - [box](https://simpleicons.org/?q=box)
 - [behance](https://simpleicons.org/?q=behance)
 - [bitbucket](https://simpleicons.org/?q=bitbucket)
@@ -27,12 +28,13 @@
 - [kaggle](https://simpleicons.org/?q=kaggle)
 - [keybase](https://simpleicons.org/?q=keybase)
 - [lastfm](https://simpleicons.org/?q=lastfm)
+- [leetcode](https://simpleicons.org/?q=leetcode)
+- [linkedin](https://feathericons.com/?query=linked)
 - [mastodon](https://simpleicons.org/?q=mastodon)
 - [matrix](https://simpleicons.org/?q=matrix)
 - [medium](https://simpleicons.org/?q=medium)
 - [mixcloud](https://simpleicons.org/?q=mixcloud)
 - [orcid](https://simpleicons.org/?q=orcid)
-- [linkedin](https://feathericons.com/?query=linked)
 - [pinterest](https://simpleicons.org/?q=pinterest)
 - [peertube](https://simpleicons.org/?q=peertube)
 - [podcasts-apple](https://simpleicons.org/?q=podcast)

@@ -1,3 +1,7 @@
+{{ define "body" }}
+    <body class="{{ if ne $.Site.Params.defaultTheme "light" -}} dark-theme {{- end -}} {{ if .Site.Params.background_image }} background-image" style="background-image: url('{{ .Site.Params.backgroundImage }}');" {{ else }}"{{ end }}>
+{{ end }}
+
 {{ define "main" }}
     <main aria-role="main">
         <div>
@@ -7,7 +11,7 @@
 
             <h1>{{ .Site.Title }}</h1>
             {{- with .Site.Params.homeSubtitle }}
-               <p>{{.}} at <a href="https://www.contxtful.com">Contxtful</a></p>
+                <p>{{.}}</p>
             {{- end }}
 
             {{- with .Site.Params.social }}
