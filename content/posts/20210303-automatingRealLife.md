@@ -43,9 +43,11 @@ def get_data_from_institution(username, password):
     portfolio_website = "redacted (sorry again folks)"
     br = mechanize.Browser()
     br.set_handle_robots(False)
-    # Pro-tip: if your security can be defeated by faking a user-agent, you don't have security.
+    # Pro-tip: if your security can be defeated by faking a
+    # user-agent, you don't have security.
     br.addheaders = [('User-agent',
-      'Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.1) Gecko/2008071615 Fedora/3.0.1-1.fc9 Firefox/3.0.1')]
+      'Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.1)' \
+          + Gecko/2008071615 Fedora/3.0.1-1.fc9 Firefox/3.0.1')]
 
     br.open(website)
     br.select_form(id='login')
@@ -60,14 +62,16 @@ def get_data_from_institution(username, password):
     data = {'date': datetime.datetime.now().strftime("%Y%m%d")}
 
     # Get the amount of money in each account
-    for i, acc in enumerate(soup.find_all('img', attrs={'src':'images/arrow.gif'})):
+    for i, acc in enumerate(soup.find_all('img',
+         attrs={'src':'images/arrow.gif'})):
         plan_id = acc.findNext('td')
         description = plan_id.findNext('td')
         plan_holder = description.findNext('td')
         usd = plan_holder.findNext('td')
         cad = usd.findNext('td')
 
-        account_name = description.get_text() + ' ' + plan_id.get_text()
+        account_name = description.get_text() + ' ' \
+            + plan_id.get_text()
         data[account_name] = [cad.get_text().replace(',', '')]
 
     return pd.DataFrame(data)
