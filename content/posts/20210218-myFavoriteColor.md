@@ -109,6 +109,14 @@ featured in my logo and website icon is orange-yellow:
 
 {{< figure src="/favicon-32x32.png" position="center" caption="My current website favicon" >}}
 
+The deeper I look into my history, the more evidence I find. Just look at the glorious colors of the first
+journal I bought for myself (this is actually my second journal, first one I used was given to me and can be seen
+[here](https://felixleger.com/posts/2019/10/why-i-shifted-from-physics-to-focus-on-software/)):
+
+{{< figure src="/img/journal_tome2.jpg" position="center" caption="Surprise surprise, yellow and brown all along!" >}}
+
+Maybe it's all a self-confirmation bias... But I'll give myself the benefit of the doubt. :smiley:
+
 "What's your favorite color" is a line people jokingly say when they want to amusingly pretend like they want
 to get to know you. But I think it's an interesting question because it asks a person to give their opinion on
 a subject that does not matter, that shouldn't have any concrete consequence in this world. Is answerer going
