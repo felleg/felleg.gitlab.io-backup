@@ -115,7 +115,7 @@ journal I bought for myself (this is actually my second journal, first one I use
 
 {{< figure src="/img/journal_tome2.jpg" position="center" caption="Surprise surprise, yellow and brown all along!" >}}
 
-Maybe it's all a self-confirmation bias... But I'll give myself the benefit of the doubt. :smiley:
+Maybe this is all a dumb confirmation bias... But I'll give myself the benefit of the doubt, just for once. :smiley:
 
 "What's your favorite color" is a line people jokingly say when they want to amusingly pretend like they want
 to get to know you. But I think it's an interesting question because it asks a person to give their opinion on
