@@ -12,6 +12,8 @@ tags:
 LastPass changed their free product by making it inferior. Users flock to Bitwarden. How did they not see this
 coming? What's their goal?
 
+https://blog.lastpass.com/2021/02/changes-to-lastpass-free/
+
 This thread is currently pinned in the subreddit for LastPass:
 
 {{< figure src="/img/lastpass-reddit.png" position="center" >}}
