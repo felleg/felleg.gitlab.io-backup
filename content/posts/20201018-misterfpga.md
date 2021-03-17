@@ -330,7 +330,7 @@ Take a deep breath. This entire section should take roughly 10 minutes if you tr
 
 ## Adding games
 
-1. Visit the Everdrive pack game archive on archive.org (sometimes gets taken down, this step is TBD), or download ROMs online...
+1. Visit the [HTGDB pack on archive.org](https://archive.org/details/htgdb-gamepacks), or download ROMs online...
 1. Download the zip files (and optionally the Pack add-ons and Game Series Collections) for your favorite
    consoles.
 1. Connect your fully setup MiSTer micro-SD card into your computer
