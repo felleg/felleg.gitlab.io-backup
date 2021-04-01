@@ -13,8 +13,7 @@ HDMI switcher (on the right). All of this is housed behind the main drawer of my
 
 {{< figure src="/img/micke-desk.png" position="center" caption="According to IKEA, the Micke desk is  made for kids!" >}}
 
-It wasn't always like that. Just two weeks ago, this same Raspberry Pi was gathering dust on a tableta. What
-happened?
+It wasn't always like that. Just two weeks ago, this same Raspberry Pi had been gathering dust on a tablet for a couple of years. What happened?
 
 # Money talks
 
