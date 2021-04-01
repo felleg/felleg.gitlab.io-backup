@@ -1,7 +1,6 @@
 ---
-title: "Automating in Real Life"
+title: "Automation in Real Life"
 date: 2021-03-03T12:02:39-05:00
-draft: true
 toc: false
 cover: "img/pi-in-desk.jpg"
 tags:
@@ -78,13 +77,13 @@ def get_data_from_institution(username, password):
 ```
 
 I had a working script. What was remaining to do was to automate the process and make it accessible through
-the web. Bonus brownie points if I managed to automate a visualization of my investments (spoiler: I did!)
-
-(fill this section)
+the web. Bonus brownie points if I managed to automate a visualization of my investments (spoiler: I did!).
+Using my basic knowledge of Google Data Studio acquired at work, I was able to build a free dashboard to
+monitor my savings at home.
 
 {{< figure src="/img/data-studio-invest.png" position="center" caption="Automatic visualization from Google Data Studio, updated every day!" >}}
 
-Now I read some books that suggest "couch potato" strategies for investing that require you not to panick
+Side note, I read some books that suggest "couch potato" strategies for investing that require you not to panic
 when markets go down, and all that. Indeed, I'm just doing this for fun. I won't use this graph to make
 financial decisions. I'm just glad that I get more data points than my partner without having to bother remembering to
 actually track my investments (just kidding, babe!).
@@ -94,13 +93,25 @@ actually track my investments (just kidding, babe!).
 I now had a machine always connected that could perform automatic tasks as often as I wished. What else could
 I automate?
 
-(Discuss romhacking scraping added here)
+The next step I took was to automate the web scraping of RomHacking.net. Instead of doing it manually once in
+a while, my RPi 3 does it automatically once a day. This was, if the website goes down for whatever reason, I
+would already have saved most of what it contained. While this is still a local backup not available to the
+rest of the video game community, I will try to find a way to share these files automatically as well. Be
+patient, good things are coming! :smiley:
 
-# text ideas
+# Final thoughts
 
-This is really neat, in the past I only considered Raspberry Pis as machines to play video games at home and
-perform simple tasks in labs. But why not combine them? Now, my Pi is laways connected to my screen. I can
+This is all really neat. In the past, I only considered Raspberry Pis as RetroPie machines to play retro video games at home and
+perform simple tasks in labs. But why not combine them? Now, my Pi is always connected to my screen. I can
 play RetroPie any time I want, while knowing at the same time that my Pi is being useful by automatically
 doing background tasks that help me in my personal life.
 
-I love when knowledge from my profession trickles down into my personal life and empowers me.
+Computers are mind-bogglingly awesome. Nowadays, we can do so much with so little. In fact, for the tasks I described in this article, 
+even the RPi 3 is overpowered, since I could have used a [Pi
+Zero](https://www.raspberrypi.org/products/raspberry-pi-zero/).
+The only missing ingredient is our
+creativity and basic programming knowledge. I encourage everyone to learn scripting languages like Python or
+Bash, which are all that you really need to perform this type of projects.
+
+I love when knowledge from my profession trickles down into my personal life and empowers me. Let me know in
+the comments what kind of crazy projects you came up with!
