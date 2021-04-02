@@ -188,7 +188,7 @@ collection. I now have more storage space than I know what to do with, and it ho
 this sounds like I'm bragging, I want to assure you that I'm not. I am simply relieved that I managed to find
 the light at the end of my collecting tunnel.
 
-Looking back, I realize that, for the longest time, I wasn't collecting for myself; I was collecting for my
+This might surprise you, but looking back, I realize that for the longest time I wasn't collecting for myself; I was collecting for my
 (still unborn) children. I wanted to give them artifacts of my youth and of a generation's youth, something my
 parents did not pass down to me as much as I'd hoped. My goal seemed noble enough, except it was flawed. Would
 I have children in the first place? Would I want to be pressured by my collection to have kids? If I did start
