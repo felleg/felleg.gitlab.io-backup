@@ -43,12 +43,13 @@ to decide between leaving your "addiction" and potentially distancing yourself f
 # Living Small
 
 In America, the dream society gives us is to live large, but there is something to be said about living small.
+In a way, it forces you to only focus on what matters in your life.
 
 Growing up, I had the luxury of having a bedroom that could almost contain my current kitchen and living room
 combined. It wasn't particularly fancy, but it sure was big. It was filled to the brim, not only with my own
 stuff, but with my father's hoardings too!
 
-{{< figure src="/img/hoarding-project/hoarding-on-top-of-parents-hoarding.JPG" position="center" caption="The stuff in the back is not mine, I swear!" >}}
+{{< figure src="/img/hoarding-project/hoarding-on-top-of-parents-hoarding.JPG" position="center" caption="Every nook and cranny was filled to the brim. The stuff in the back is not mine, I swear!" >}}
 
 Moving into my second apartment (this time with my partner), things got small. However big you imagine my
 first bedroom, here's the new space I could claim in the apartment (excluding hard to access storage):
