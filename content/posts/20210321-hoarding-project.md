@@ -196,7 +196,7 @@ a family, would I want them to spend their time looking at a screen? Was there e
 would share this hobby with me? Ultimately, I came to the conclusion that kids need love and time, *not
 things*. That truly is the most generous gift a parent, or anyone really, can give.
 
-There is something about retro video games that will stick to me forever. While I can't really pin down what
+There is something about retro video games that will stick with me forever. While I can't really pin down what
 that is, I now know that the physical objects themselves, for the most part, are not it. Now, whenever someone
 tells me "wow, you had *that* in your collection?", it feels bittersweet.
 
