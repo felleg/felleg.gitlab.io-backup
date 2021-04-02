@@ -98,7 +98,7 @@ me realize how ready I was for a change. On December 22 2020, as a new year's re
 Quick disgression, I chose the name for this project on a whim because it felt right to me. I did not
 initially aim to make this project public. It was pointed out to me that it might give the impression that I
 think video game collecting is hoarding. I just want to clarify that my collection felt like hoarding *to me*.
-I wasn't having fun anymore: it felt pathological. If you also have over 450 games and don't feel like it's a
+I wasn't having fun anymore: it felt pathological. If you happen to have over 450 games and don't feel like it's a
 problem, more power to you!
 
 Back on topic, the Hoarding Project was actually the culmination of a process had already begun years ago. In 2018, I had
