@@ -118,6 +118,8 @@ of stuff that made me unhappy (and, as a bonus, I made a bit of money). It was a
 
 {{< figure src="/img/hoarding-project/selling-games.jpg" position="center" caption="Selling brought me joy.  Earthbound and Chrono Trigger (and so many more) are no longer my responsibility!" >}}
 
+{{< figure src="/img/hoarding-project/controllers.jpg" position="center" caption="Controllers and cables are notoriously difficult to get rid of." >}}
+
 {{< figure src="/img/hoarding-project/touching-back-of-shelf.jpg" position="center" caption="For the first time in years, I was able to touch the back of my Billy shelf!">}}
 
 It took a long time, but eventually I managed to separate myself from most of my possessions: games I grew up on,
