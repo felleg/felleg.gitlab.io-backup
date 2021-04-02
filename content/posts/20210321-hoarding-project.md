@@ -132,8 +132,9 @@ the weight off my shoulders. Sometimes, losing is great!  And I must admit that 
 exciting to see the value of my collection drop as I was confirming sales.
 
 At the same time, even my partner was shocked, since she had gotten used to my collection taking up the space
-it did; in her own words, she had "grown used to it". She worried that I was selling too much too fast.
-However, when she understood the joy it brought me to free myself of this burden, she did not mind!
+it did. In her own words, she "even began to find its presence comforting". My apparently quick change of
+heart made her worried that I was selling too much too fast.  However, when she understood the joy it brought
+me to free myself of this burden, she did not mind! :smiley:
 
 {{< figure src="/img/hoarding-project/playing-mister.png" position="center" >}}
 
