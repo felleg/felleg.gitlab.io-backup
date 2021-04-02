@@ -6,7 +6,7 @@ description: "In this post, I discuss how I learned to let go of a collection th
 tags:
   - collecting
   - growing up
-  - video games
+  - gaming
   - mental health
 ---
 
