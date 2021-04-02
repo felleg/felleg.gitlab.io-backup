@@ -127,7 +127,7 @@ games worth hundreds of dollars, games that were gifted to me, games I forgot I 
 gone straight to the trash. With a little help from my [Everdrives](https://krikzz.com/store/) at first and eventually my [MiSTer](/posts/2020/10/dream-machine-mister-fpga), the
 original game cartridges became nothing more than fancy packaging. And since I'm all about function and not
 about packaging, this is when my mind was finally put at ease; all I was losing by purging my collection was
-the weight off my shoulder. Sometimes, losing is great!  And I must admit that cataloguing services like
+the weight off my shoulders. Sometimes, losing is great!  And I must admit that cataloguing services like
 [pricecharting.com](http://pricecharting.com) were a tremendous help to find fair prices for my items. It was
 exciting to see the value of my collection drop as I was confirming sales.
 
