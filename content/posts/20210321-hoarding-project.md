@@ -26,7 +26,7 @@ let it all go (well, most of it).
 
 # I owned a lot of stuff
 
-I started collecting video games in 2011 when I got disposable income. I had not collected anything in my life
+I started collecting video games in 2009 when I got disposable income. I had not collected anything in my life
 before then. I still vividly remember the rush of walking in the game store and looking at all these old
 games, artifacts of a different era. Some of them I had always wanted to try, some of them I had never heard
 of. They fascinated me. Of course, my parents were not thrilled, but it was my money so I made my own
@@ -34,11 +34,21 @@ decisions.
 
 {{< figure src="/img/hoarding-project/initial-collection-1.JPG" position="center" caption="The humble beginnings of a massive collection" >}}
 
+Looking at websites such as [racketboy.com](http://www.racketboy.com/), I was fascinated by their
+game lists, organized by the historical relevance, or modern value of games. In particular, I was very fond of
+their shoot 'em up guides. It was thanks to this website that I learned about [Treasure Co
+Ltd.](https://en.wikipedia.org/wiki/Treasure_(company)), who is now arguably my favorite video game developer.
+For a few years, getting to play games like Radiant Silvergun and Ikaruga were my biggest ambitions, back when
+they were only available on their original hardware. I remember daydreaming about what it felt like to play
+Radiant Silvergun, since I was not able to emulate it. At over $200 for a copy, it was my Mt. Everest.
+
+{{< figure src="/img/hoarding-project/racketboy-guides.png" position="center" caption="To anyone new to retro gaming, racketboy.com is the absolute best reference to begin your journey." >}}
+
 Over the years, I made friends inside the video gaming community. In fact, one of my closest friends came from
-this community (you know who you are)!  By being able to put our interests in common, we were empowering
+this community (you know who you are)! By being able to put our interests in common, we were empowering
 ourselves to go deeper in this hobby than any of us had previously thought possible. It's very easy to get in
-a rabbit hole when all your friends are also doing it. But that's also what makes it hard to stop: it's hard
-to decide between leaving your "addiction" and potentially distancing yourself from your friends.
+a rabbit hole when all your friends are also doing it. But that's also what makes it hard to stop: it's
+difficult to decide between leaving your "addiction" and potentially distancing yourself from your friends.
 
 # Living Small
 
@@ -110,9 +120,9 @@ of stuff that made me unhappy (and, as a bonus, I made a bit of money). It was a
 
 {{< figure src="/img/hoarding-project/touching-back-of-shelf.jpg" position="center" caption="For the first time in years, I was able to touch the back of my Billy shelf!">}}
 
-It took a long time, but eventually I managed to separate myself from most of possessions: games I grew up on,
+It took a long time, but eventually I managed to separate myself from most of my possessions: games I grew up on,
 games worth hundreds of dollars, games that were gifted to me, games I forgot I had, and games that could have
-gone straight to the trash. With a little help from [MiSTer](/posts/2020/10/dream-machine-mister-fpga), my
+gone straight to the trash. With a little help from my [Everdrives](https://krikzz.com/store/) at first and eventually my [MiSTer](/posts/2020/10/dream-machine-mister-fpga), the
 original game cartridges became nothing more than fancy packaging. And since I'm all about function and not
 about packaging, this is when my mind was finally put at ease; all I was losing by purging my collection was
 the weight off my shoulder. Sometimes, losing is great!  And I must admit that cataloguing services like
@@ -140,9 +150,18 @@ get it over with, and I was happy to support their business. To be fair, [they d
 
 Looking at the games that remain in my collection, I find it interesting to notice that, on average, I have
 only kept about 5-6 games per console. The Sega Saturn is over-represented here, because I am waiting for the
-Sega Saturn core to arrive on the MiSTer before selling any of those games. As for the pink Famicom
+Saturn core to arrive on the MiSTer before selling any of those games. As for the pink Famicom
 cartridges, they are the only unplayed games I will tolerate in my collection: they are too pretty to let go.
 :smiley: Fortunately, their value is quite low, so they are not stressful assets to own.
+
+This is what I keep for now, but nothing excludes the possibility to trim the collection down even further.
+I'm not making promises to anyone, anymore!
+
+Of course, I'd be hard-pressed to be separated from my precious Radiant Silvergun copy. To me, owning this
+game is like owning a picture of myself on Mt. Everest. It was the goal I had set out for myself, and I have
+the proof that I conquered it. Sure, since then I have owned games that were worth triple its value, but that
+was not my original intent. Radiant Silvergun is now the crown jewel of my collection 3.0, as it rightly
+deserves.
 
 # Final thoughts
 
@@ -165,5 +184,17 @@ collection. I now have more storage space than I know what to do with, and it ho
 this sounds like I'm bragging, I want to assure you that I'm not. I am simply relieved that I managed to find
 the light at the end of my collecting tunnel.
 
+Looking back, I realize that, for the longest time, I wasn't collecting for myself; I was collecting for my
+(still unborn) children. I wanted to give them artifacts of my youth and of a generation's youth, something my
+parents did not pass down to me as much as I'd hoped. My goal seemed noble enough, except it was flawed. Would
+I have children in the first place? Would I want to be pressured by my collection to have kids? If I did start
+a family, would I want them to spend their time looking at a screen? Was there even a guarantee that they
+would share this hobby with me? Ultimately, I came to the conclusion that kids need love and time, *not
+things*. That truly is the most generous gift a parent, or anyone really, can give.
+
 There is something about retro video games that will stick to me forever. While I can't really pin down what
-that is, I now know that the physical objects themselves, for the most part, are not it.
+that is, I now know that the physical objects themselves, for the most part, are not it. Now, whenever someone
+tells me "wow, you had *that* in your collection?", it feels bittersweet.
+
+Yes, I owned a lot of cool things. I accomplished more than I could have ever imagined. But above all, I am
+happy to report that this hobby did not consume me.
