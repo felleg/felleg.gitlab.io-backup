@@ -149,7 +149,7 @@ get it over with, and I was happy to support their business. To be fair, [they d
 
 {{< figure src="/img/hoarding-project/me-at-the-store.jpg" position="center" caption="Side plug, Retro MTL is a great store if you like collecting video games." >}}
 
-{{< figure src="/img/hoarding-project/what-is-left.jpg" position="center" caption="This is my collection 3.0: only the best of the best *to me* (and some PS2 games that a friend lent me, try to guess which ones!)" >}}
+{{< figure src="/img/hoarding-project/what-is-left.jpg" position="center" caption="This is my collection 3.0: only the best of the best *to me* (and some PS2 games lent by a friend, try to guess which ones!)" >}}
 
 Looking at the games that remain in my collection, I find it interesting to notice that, on average, I have
 only kept about 5-6 games per console. The Sega Saturn is over-represented here, because I am waiting for the
