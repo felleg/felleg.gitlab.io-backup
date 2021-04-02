@@ -103,7 +103,7 @@ problem, more power to you!
 
 Back on topic, the Hoarding Project was actually the culmination of a process that had already begun years ago. In 2018, I had
 already started selling what I considered "junk" in my collection. By "junk", I mean objects that I hadn't
-touched in over 3 years. None of this was in display in my Billy shelf, believe it or not...
+touched in over 3 years. None of this was in display in my bookcase, believe it or not...
 
 {{< figure src="/img/hoarding-project/first-bundle-sold.jpg" position="center" caption="Hard to believe that all of this was completely useless to me. I hardly noticed it when it was gone." >}}
 
@@ -120,7 +120,7 @@ of stuff that made me unhappy (and, as a bonus, I made a bit of money). It was a
 
 {{< figure src="/img/hoarding-project/controllers.jpg" position="center" caption="Controllers and cables are notoriously difficult to get rid of." >}}
 
-{{< figure src="/img/hoarding-project/touching-back-of-shelf.jpg" position="center" caption="For the first time in years, I was able to touch the back of my Billy shelf!">}}
+{{< figure src="/img/hoarding-project/touching-back-of-shelf.jpg" position="center" caption="For the first time in years, I was able to touch the back of my bookcase!">}}
 
 It took a long time, but eventually I managed to separate myself from most of my possessions: games I grew up on,
 games worth hundreds of dollars, games that were gifted to me, games I forgot I had, and games that could have
