@@ -131,9 +131,9 @@ the weight off my shoulder. Sometimes, losing is great!  And I must admit that c
 [pricecharting.com](http://pricecharting.com) were a tremendous help to find fair prices for my items. It was
 exciting to see the value of my collection drop as I was confirming sales.
 
-At the same time, even my partner was shock, since she had gotten used to my collection
-taking up the space it did; in her own words, she had "grown used to it". However, when she saw the joy it brought
-me to free myself of this burden, she did not mind!
+At the same time, even my partner was shocked, since she had gotten used to my collection taking up the space
+it did; in her own words, she had "grown used to it". She worried that I was selling too much too fast.
+However, when she saw the joy it brought me to free myself of this burden, she did not mind!
 
 {{< figure src="/img/hoarding-project/collection-value.png" position="center" >}}
 
