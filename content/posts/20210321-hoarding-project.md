@@ -1,9 +1,7 @@
 ---
 title: "The Hoarding Project"
 date: 2021-03-21T11:23:11-04:00
-draft: true
 toc: true
-#cover: "img/hoarding-project/emptyspace.jpg"
 description: "In this post, I discuss how I learned to let go of a collection that took its toll on me."
 tags:
   - collecting
@@ -19,10 +17,12 @@ that, I owned 200 musical albums, evenly split between CDs and vinyls discs, and
 
 {{< figure src="/img/hoarding-project/og-shelf.jpeg" position="center" caption="My collection proudly displayed in my first apartment" >}}
 
-When I was 16, if I had seen that picture online, I would have dreamed to live in that bedroom. But life sure
-has its ways. Now that I have experienced the reality of owning all of that stuff, I want to share the story
-of how I realized my collection was bringing me more pain than joy, and how I managed to let it all go (well,
-most of it).
+When I was 16, if I had seen that picture online, I would have dreamed to live in that bedroom. True story, I
+used to watch [John Hancock's Game Room Tours](https://www.youtube.com/watch?v=Bf2c1tlXwUU) and drool.
+
+However, life sure has its ways. Now that I have experienced the reality of owning all of that stuff, I want
+to share the story of how I realized my collection was bringing me more pain than joy, and how I managed to
+let it all go (well, most of it).
 
 # I owned a lot of stuff
 
@@ -55,13 +55,17 @@ first bedroom, here's the new space I could claim in the apartment (excluding ha
 
 {{< figure src="/img/hoarding-project/small-current-space.JPG" position="center" caption="My space as it was when we moved in. A drastic change! Cool keyboard, though." >}}
 
+Meanwhile, here's what part of my collection looked like when I moved in the apartment:
+
+{{< figure src="/img/hoarding-project/collection-in-bags.jpg" position="center" caption="Not so glamorous, is it?" >}}
+
 True story, for some months, I stored my entire collection next to my washing machine. Admittedly, not the
 sexiest storage strategy, but I needed to fit it somewhere...
 
 {{< figure src="/img/hoarding-project/games-next-to-washing-machine.jpg" position="center" >}}
 
 Eventually, I decided to buy a Billy bookcase to display my favorite items, but that also had its limits. It
-was double stacked all the time. Overall, the magic seemed lost.
+was double stacked all the time. Overall, the magic seemed lost, despite my best efforts to rekindle it.
 
 {{< figure src="/img/hoarding-project/billy-shelf.png" position="center" >}}
 
@@ -78,19 +82,69 @@ Another [video by Toy Galaxy about the stages of collecting](https://www.youtube
 hit the nail on the head for me. This all made me realize how ready I was for a change.
 
 To be fair, this process had already begun years ago. In 2018, I had already started selling what I considered
-"junk" in my collection. By "junk", I mean objects that I hadn't touched in over 3 years.
+"junk" in my collection. By "junk", I mean objects that I hadn't touched in over 3 years. None of this was in
+display in my Billy shelf, believe it or not...
 
-{{<figure src="/img/hoarding-project/first-bundle-sold.jpg" position="center" caption="Hard to believe that all of this was completely useless to me" >}}
+{{< figure src="/img/hoarding-project/first-bundle-sold.jpg" position="center" caption="Hard to believe that all of this was completely useless to me" >}}
 
+Eventually, I started contacting my collector friends on Facebook to see who was interested in the remaining
+stock I was willing to sell. Slowly, but surely, I shipped packages all over the province of Québec and met
+people in person to sell my games. That was the eureka moment: I brought joy to these people by ridding myself
+of stuff that made me unhappy (and, as a bonus, I made a bit of money). It was a win-win!
 
+{{< figure src="/img/hoarding-project/shipping-games.jpg" position="center" caption="I had never shipped so many packages at once!" >}}
 
-Still, it's interesting how much I learned through this journey. I learned a lot of video games facts, but I
-also learned so much more. I learned to make my own opinions. Believe it or not, I was once part of the group
-that wanted to fit in by saying [The Legend of Zelda: Ocarina of Time was the best game ever made by
-Nintendo](https://www.youtube.com/watch?v=ST3Bq4PJq50&feature=youtu.be). When that video was made, in 2008, I
-hadn't played more than a total of 2 hours of the game. I just assumed it was the best game, since everywhere
-I looked (for the longest time), the game came out on top all the time, even 10 years after its original
-release. Coincidentally, after giving it the time it deserves, I can safely say that the game is just not for
-me and even ranks as some of my least enjoyable gaming experiences. In my honest opinion, it's a slow, boring
-game that happens to be very stylish. Just the total opposite of what I'm looking for in a game: I like fun
-games that look bad.
+{{< figure src="/img/hoarding-project/selling-games-2.jpg" position="center" caption="I was especially proud of my Sega Genesis collection." >}}
+
+{{< figure src="/img/hoarding-project/selling-games.jpg" position="center" caption="Selling brought me joy.  Earthbound and Chrono Trigger (and so many more) are no longer my responsibility!" >}}
+
+{{< figure src="/img/hoarding-project/touching-back-of-shelf.jpg" position="center" caption="For the first time in years, I was able to touch the back of my Billy shelf!">}}
+
+It took a long time, but eventually I managed to separate myself from my most prized possessions. Games I grew
+up on. Games worth hundreds of dollars. With the little help of
+[MiSTer](posts/2020/10/dream-machine-mister-fpga), my original game cartridges became nothing more than fancy
+packaging. And since I'm all about function and not about packaging, this is when my mind was finally put at
+ease; all I was losing by purging my collection was the weight off my shoulder. Sometimes, losing is great!
+And I must admit that cataloguing services like [pricecharting.com](http://pricecharting.com) were a
+tremendous help to find fair prices for my items. It was exciting to see the value of my collection drop as I
+was confirming sales.
+
+{{< figure src="/img/hoarding-project/collection-value.png" position="center" >}}
+
+{{< figure src="/img/hoarding-project/playing-mister.png" position="center" caption="While the value of my belongings was dropping (due to selling them), I was happily enjoying my MiSTer" >}}
+
+Eventually, when my contacts on Facebook slowed down on the buying, I sold at a loss to [Retro MTL](https://retromtl.com). I wanted to
+get it over with, and I was happy to support their business. To be fair, [they did offer me a reasonable price.](/img/hoarding-project/cold-hard-cash.jpg)
+
+{{< figure src="/img/hoarding-project/final-bundle.jpg" position="center" caption="The final bundle! I am ready to enter a new chapter of my life." >}}
+
+{{< figure src="/img/hoarding-project/my-games-at-the-store.jpg" position="center" caption="My games in their new home" >}}
+
+{{< figure src="/img/hoarding-project/me-at-the-store.jpg" position="center" caption="Side plug, Retro MTL is a great store if you like collecting video games." >}}
+
+{{< figure src="/img/hoarding-project/what-is-left.jpg" position="center" caption="This is my collection 3.0: only the best of the best *to me* (and some PS2 games that a friend lent me, try to guess which ones!)" >}}
+
+Looking at the games that remain in my collection, I find it interesting to notice that, on average, I have
+only kept about 5-6 games per console.
+
+# Final thoughts
+
+I feel freer than I have ever felt before in regards to my possessions and my personal space. I feel more in
+control of my destiny. I feel like I own my possessions, instead of the other way around.
+
+{{< figure src="/img/hoarding-project/things-you-own.gif" position="center" caption="I had this quote stuck in my head for years." >}}
+
+I used to be afraid that by selling all my stuff, I would lose a part of who I am. In reality, I feel more
+like myself than I have in many years; I feel like, in some way, I managed to slightly reconnect with who I am
+at my core.
+
+My friends who still collect might disagree with my decision, but they appreciate the fact that I did this for
+my own good. They are not complaining about the friendly prices I gave them on some nice items, that's for
+sure! :smiley: In that sense, my fear of being alienated from my community by getting rid of my stuff was
+unfounded.
+
+I also ended up selling 90% of my vinyls, and am in the process of finding use to the majority of my CD
+collection. I now have more storage space than I know what to do with, and it honestly feels wonderful.
+
+There is something about retro video games that will stick to me forever. While I can't really pin down what
+that is, I now know that the physical objects themselves, for the most part, are not it.
