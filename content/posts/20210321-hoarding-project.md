@@ -101,7 +101,7 @@ think video game collecting is hoarding. I just want to clarify that my collecti
 I wasn't having fun anymore: it felt pathological. If you happen to have over 450 games and don't feel like it's a
 problem, more power to you!
 
-Back on topic, the Hoarding Project was actually the culmination of a process had already begun years ago. In 2018, I had
+Back on topic, the Hoarding Project was actually the culmination of a process that had already begun years ago. In 2018, I had
 already started selling what I considered "junk" in my collection. By "junk", I mean objects that I hadn't
 touched in over 3 years. None of this was in display in my Billy shelf, believe it or not...
 
