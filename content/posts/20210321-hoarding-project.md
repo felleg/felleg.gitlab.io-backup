@@ -104,14 +104,14 @@ of stuff that made me unhappy (and, as a bonus, I made a bit of money). It was a
 
 {{< figure src="/img/hoarding-project/touching-back-of-shelf.jpg" position="center" caption="For the first time in years, I was able to touch the back of my Billy shelf!">}}
 
-It took a long time, but eventually I managed to separate myself from most of possessions: games I grew
-up on, games worth hundreds of dollars, and games that could have gone straight to the trash. With the little help from
-[MiSTer](/posts/2020/10/dream-machine-mister-fpga), my original game cartridges became nothing more than fancy
-packaging. And since I'm all about function and not about packaging, this is when my mind was finally put at
-ease; all I was losing by purging my collection was the weight off my shoulder. Sometimes, losing is great!
-And I must admit that cataloguing services like [pricecharting.com](http://pricecharting.com) were a
-tremendous help to find fair prices for my items. It was exciting to see the value of my collection drop as I
-was confirming sales.
+It took a long time, but eventually I managed to separate myself from most of possessions: games I grew up on,
+games worth hundreds of dollars, games that were gifted to me, games I forgot I had, and games that could have
+gone straight to the trash. With a little help from [MiSTer](/posts/2020/10/dream-machine-mister-fpga), my
+original game cartridges became nothing more than fancy packaging. And since I'm all about function and not
+about packaging, this is when my mind was finally put at ease; all I was losing by purging my collection was
+the weight off my shoulder. Sometimes, losing is great!  And I must admit that cataloguing services like
+[pricecharting.com](http://pricecharting.com) were a tremendous help to find fair prices for my items. It was
+exciting to see the value of my collection drop as I was confirming sales.
 
 At the same time, even my partner was shock, since she had gotten used to my collection
 taking up the space it did; in her own words, she had "grown used to it". However, when she saw the joy it brought
