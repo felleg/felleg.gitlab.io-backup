@@ -105,7 +105,7 @@ of stuff that made me unhappy (and, as a bonus, I made a bit of money). It was a
 {{< figure src="/img/hoarding-project/touching-back-of-shelf.jpg" position="center" caption="For the first time in years, I was able to touch the back of my Billy shelf!">}}
 
 It took a long time, but eventually I managed to separate myself from most of possessions: games I grew
-up on, games worth hundreds of dollars, and games that could have gone straight to the trash. With the little help of
+up on, games worth hundreds of dollars, and games that could have gone straight to the trash. With the little help from
 [MiSTer](/posts/2020/10/dream-machine-mister-fpga), my original game cartridges became nothing more than fancy
 packaging. And since I'm all about function and not about packaging, this is when my mind was finally put at
 ease; all I was losing by purging my collection was the weight off my shoulder. Sometimes, losing is great!
