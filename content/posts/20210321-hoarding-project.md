@@ -105,7 +105,7 @@ Back on topic, the Hoarding Project was actually the culmination of a process ha
 already started selling what I considered "junk" in my collection. By "junk", I mean objects that I hadn't
 touched in over 3 years. None of this was in display in my Billy shelf, believe it or not...
 
-{{< figure src="/img/hoarding-project/first-bundle-sold.jpg" position="center" caption="Hard to believe that all of this was completely useless to me" >}}
+{{< figure src="/img/hoarding-project/first-bundle-sold.jpg" position="center" caption="Hard to believe that all of this was completely useless to me. I hardly noticed it when it was gone." >}}
 
 As my first move in 2021, I started contacting my collector friends on Facebook to see who was interested in the remaining
 stock I was willing to sell. Slowly, but surely, I shipped packages all over the province of Québec and met
