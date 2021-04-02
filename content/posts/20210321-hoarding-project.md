@@ -133,7 +133,7 @@ exciting to see the value of my collection drop as I was confirming sales.
 
 At the same time, even my partner was shocked, since she had gotten used to my collection taking up the space
 it did; in her own words, she had "grown used to it". She worried that I was selling too much too fast.
-However, when she saw the joy it brought me to free myself of this burden, she did not mind!
+However, when she understood the joy it brought me to free myself of this burden, she did not mind!
 
 {{< figure src="/img/hoarding-project/collection-value.png" position="center" >}}
 
