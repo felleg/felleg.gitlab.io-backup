@@ -51,8 +51,8 @@ stuff, but with my father's hoardings too!
 
 {{< figure src="/img/hoarding-project/hoarding-on-top-of-parents-hoarding.JPG" position="center" caption="Every nook and cranny was filled to the brim. The stuff in the back is not mine, I swear!" >}}
 
-Moving into my second apartment (this time with my partner), things got small. However big you imagine my
-first bedroom, here's the new space I could claim in the apartment (excluding hard to access storage):
+Moving into my second apartment, this time with my partner, things got small. However big you imagined my
+first bedroom, the new space I could claim in the apartment (excluding storage that was hard to access) would shock you :
 
 {{< figure src="/img/hoarding-project/small-current-space.JPG" position="center" caption="My space as it was when we moved in. A drastic change! Cool keyboard, though." >}}
 
@@ -76,11 +76,12 @@ The hobby that had defined me for what felt like the longest part of my life did
 
 # Considering a change
 
-In 2020, during covid I made a lot of introspection. I felt the time was right to make changes in my life. My
-collection had been weighing me down for a while. I
-stumbled upon [a resource that nailed exactly how I felt about my possessions](https://www.youtube.com/watch?v=JVDiux8NEWo).
-Another [video by Toy Galaxy about the stages of collecting](https://www.youtube.com/watch?v=aalm8VUuFDk) also
-hit the nail on the head for me. This all made me realize how ready I was for a change.
+In 2020, everything obviously changed, no thanks to COVID. Like everyone, I made a lot of introspection. I
+felt the time was right to make changes in my life. My collection had been weighing me down for a while. I
+stumbled upon [a resource that nailed exactly how I felt about my
+possessions](https://www.youtube.com/watch?v=JVDiux8NEWo).  Another [video by Toy Galaxy about the stages of
+collecting](https://www.youtube.com/watch?v=aalm8VUuFDk) also hit the nail on the head for me. This all made
+me realize how ready I was for a change.
 
 To be fair, this process had already begun years ago. In 2018, I had already started selling what I considered
 "junk" in my collection. By "junk", I mean objects that I hadn't touched in over 3 years. None of this was in
@@ -101,8 +102,8 @@ of stuff that made me unhappy (and, as a bonus, I made a bit of money). It was a
 
 {{< figure src="/img/hoarding-project/touching-back-of-shelf.jpg" position="center" caption="For the first time in years, I was able to touch the back of my Billy shelf!">}}
 
-It took a long time, but eventually I managed to separate myself from my most prized possessions. Games I grew
-up on. Games worth hundreds of dollars. With the little help of
+It took a long time, but eventually I managed to separate myself from my most prized possessions: games I grew
+up on, games worth hundreds of dollars, and games that could have gone straight to the trash. With the little help of
 [MiSTer](posts/2020/10/dream-machine-mister-fpga), my original game cartridges became nothing more than fancy
 packaging. And since I'm all about function and not about packaging, this is when my mind was finally put at
 ease; all I was losing by purging my collection was the weight off my shoulder. Sometimes, losing is great!
@@ -126,7 +127,10 @@ get it over with, and I was happy to support their business. To be fair, [they d
 {{< figure src="/img/hoarding-project/what-is-left.jpg" position="center" caption="This is my collection 3.0: only the best of the best *to me* (and some PS2 games that a friend lent me, try to guess which ones!)" >}}
 
 Looking at the games that remain in my collection, I find it interesting to notice that, on average, I have
-only kept about 5-6 games per console.
+only kept about 5-6 games per console. The Sega Saturn is over-represented here, because I am waiting for the
+Sega Saturn core to arrive on the MiSTer before selling any of those games. As for the pink Famicom
+cartridges, they are the only unplayed games I will tolerate in my collection: they are too pretty to let go.
+:smiley: Fortunately, their value is quite low, so they are not stressful assets to own.
 
 # Final thoughts
 
