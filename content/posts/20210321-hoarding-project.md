@@ -155,7 +155,9 @@ sure! :smiley: In that sense, my fear of being alienated from my community by ge
 unfounded.
 
 I also ended up selling 90% of my vinyls, and am in the process of finding use to the majority of my CD
-collection. I now have more storage space than I know what to do with, and it honestly feels wonderful.
+collection. I now have more storage space than I know what to do with, and it honestly feels wonderful. If
+this sounds like I'm bragging, I want to assure you that I'm not. I am simply relieved that I managed to find
+the light at the end of my collecting tunnel.
 
 There is something about retro video games that will stick to me forever. While I can't really pin down what
 that is, I now know that the physical objects themselves, for the most part, are not it.
