@@ -163,6 +163,8 @@ the proof that I conquered it. Sure, since then I have owned games that were wor
 was not my original intent. Radiant Silvergun is now the crown jewel of my collection 3.0, as it rightly
 deserves.
 
+{{< figure src="/img/hoarding-project/my-radiant-silvergun.jpg" position="center" caption="Regardless of its price, this game is special to me. It represents my video collecting journey." >}}
+
 # Final thoughts
 
 I feel freer than I have ever felt before in regards to my possessions and my personal space. I feel more in
