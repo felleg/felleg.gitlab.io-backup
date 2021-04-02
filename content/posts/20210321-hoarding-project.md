@@ -60,8 +60,9 @@ Meanwhile, here's what part of my collection looked like when I moved in the apa
 
 {{< figure src="/img/hoarding-project/collection-in-bags.jpg" position="center" caption="Not so glamorous, is it?" >}}
 
-True story, for some months, I stored my entire collection next to my washing machine. Admittedly, not the
-sexiest storage strategy, but I needed to fit it somewhere...
+Another true story; for some months, I stored my entire collection next to my washing machine. Admittedly, not the
+sexiest storage strategy, but I needed to fit it somewhere. You can imagine how unattractive it was to play
+games when they were stored this way.
 
 {{< figure src="/img/hoarding-project/games-next-to-washing-machine.jpg" position="center" >}}
 
@@ -81,15 +82,16 @@ felt the time was right to make changes in my life. My collection had been weigh
 stumbled upon [a resource that nailed exactly how I felt about my
 possessions](https://www.youtube.com/watch?v=JVDiux8NEWo).  Another [video by Toy Galaxy about the stages of
 collecting](https://www.youtube.com/watch?v=aalm8VUuFDk) also hit the nail on the head for me. This all made
-me realize how ready I was for a change.
+me realize how ready I was for a change. On December 22 2020, as a new year's resolution, I created the
+"Hoarding Project". The goal was to get rid of the majority of items I don't use at least once in a normal year.
 
-To be fair, this process had already begun years ago. In 2018, I had already started selling what I considered
-"junk" in my collection. By "junk", I mean objects that I hadn't touched in over 3 years. None of this was in
-display in my Billy shelf, believe it or not...
+The Hoarding Project was actually the culmination of a process had already begun years ago. In 2018, I had
+already started selling what I considered "junk" in my collection. By "junk", I mean objects that I hadn't
+touched in over 3 years. None of this was in display in my Billy shelf, believe it or not...
 
 {{< figure src="/img/hoarding-project/first-bundle-sold.jpg" position="center" caption="Hard to believe that all of this was completely useless to me" >}}
 
-Eventually, I started contacting my collector friends on Facebook to see who was interested in the remaining
+As my first move in 2021, I started contacting my collector friends on Facebook to see who was interested in the remaining
 stock I was willing to sell. Slowly, but surely, I shipped packages all over the province of Québec and met
 people in person to sell my games. That was the eureka moment: I brought joy to these people by ridding myself
 of stuff that made me unhappy (and, as a bonus, I made a bit of money). It was a win-win!
@@ -102,14 +104,18 @@ of stuff that made me unhappy (and, as a bonus, I made a bit of money). It was a
 
 {{< figure src="/img/hoarding-project/touching-back-of-shelf.jpg" position="center" caption="For the first time in years, I was able to touch the back of my Billy shelf!">}}
 
-It took a long time, but eventually I managed to separate myself from my most prized possessions: games I grew
+It took a long time, but eventually I managed to separate myself from most of possessions: games I grew
 up on, games worth hundreds of dollars, and games that could have gone straight to the trash. With the little help of
-[MiSTer](posts/2020/10/dream-machine-mister-fpga), my original game cartridges became nothing more than fancy
+[MiSTer](/posts/2020/10/dream-machine-mister-fpga), my original game cartridges became nothing more than fancy
 packaging. And since I'm all about function and not about packaging, this is when my mind was finally put at
 ease; all I was losing by purging my collection was the weight off my shoulder. Sometimes, losing is great!
 And I must admit that cataloguing services like [pricecharting.com](http://pricecharting.com) were a
 tremendous help to find fair prices for my items. It was exciting to see the value of my collection drop as I
 was confirming sales.
+
+At the same time, even my partner was shock, since she had gotten used to my collection
+taking up the space it did; in her own words, she had "grown used to it". However, when she saw the joy it brought
+me to free myself of this burden, she did not mind!
 
 {{< figure src="/img/hoarding-project/collection-value.png" position="center" >}}
 
