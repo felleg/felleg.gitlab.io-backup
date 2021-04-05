@@ -107,6 +107,7 @@ another gadget that:
 - has a battery that lasts days
 - is water resistant (IP57)
 - can find my phone when it's in Bluetooth range
+- costs less than 190 CAD
 
 The watch face, notifications, and fitness tracker are bonuses. Respectively, they are limited in their
 customizability, flat-out broken, and hit-or-miss. I don't mind, since the audio aspect of the Talkband more
@@ -119,3 +120,9 @@ local tech companies on this battleground.
 May the best win! Until then, Huawei, your Talkband has my vote. :smiley:
 
 {{< figure src="/img/thumbs-up.png" position="center" caption="FELIXLEGER.COM FAVORITE GADGET OF 2021 AWARD!" >}}
+
+# Where to buy?
+
+If you are interested in shopping the latest Talkband models, I suggest you give AliExpress.com a look. The
+models on Amazon are many years late, and often overpriced. As of this writing, the latest Talkband is the B6
+model.
