@@ -71,7 +71,7 @@ content).
 {{< figure src="/img/talkband-b5.png" position="center" caption="The model I am currently using: the Talkband B5" >}}
 
 None of the features of the Talkband are groundbreaking or done better than on other devices, but it is their
-combination in a single, wearable object that makes this product truly innovative. Mind you, this came out in 2014, two full
+combination in a single, wearable object that makes this product truly innovative. Mind you, the original Talkband came out in 2014, two full
 years before the Apple AirPods. Credit where credit is due, Huawei was truly being ahead of the curve with
 this design. I'm sure some Apple engineers were envious when working on the Apple Watch...
 
