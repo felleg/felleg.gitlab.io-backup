@@ -38,7 +38,7 @@ If you want my grain of salt on the matter, I once met with Huawei staff through
 most part, they seemed like some of the most fun geeks I had the pleasure of interacting with. On the
 flip side, in my opinion they were constantly trying to pick our brains to get a clever idea without having to pay
 for it. I suppose this type of interaction is par for the course for multinational tech conglomerates. I'm
-certainly not blaming them, even if not much came from this collaboration.
+certainly not blaming them, even if not much came from this collaboration as far as I know.
 
 To give an example, if I pretended the fear-mongering articles written on Huawei didn't exist, I certainly
 wouldn't mind if they were willing to endorse me to review their products on a regular basis (wink :smiley:). Most of their
