@@ -80,7 +80,6 @@ Now for the bad:
 - The device's software experience cannot be customized
 - The Huawei health tracking app is bare-bones compared to what FitBit and others offer
 - The notification management is almost laughable, at least when paired to non-Huawei phones.
-- Waterproofing is not yet an option
 
 # Why do I like the Talkband so much?
 
@@ -106,6 +105,7 @@ another gadget that:
 - has relatively good quality audio (output and input)
 - is always on me
 - has a battery that lasts days
+- is waterproof (IP57)
 - can find my phone when it's in Bluetooth range
 
 The watch face, notifications, and fitness tracker are bonuses. Respectively, they are limited in their
