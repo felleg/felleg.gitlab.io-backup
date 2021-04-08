@@ -1,5 +1,5 @@
 ---
-title: "My custom arcade stick"
+title: "My Custom Arcade Stick"
 date: 2021-04-08T12:08:35-04:00
 toc: false
 cover: "/img/qanba-astro-city.jpg"
