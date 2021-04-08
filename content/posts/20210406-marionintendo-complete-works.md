@@ -13,6 +13,18 @@ the biggest in the world, but they were done over a period that lasted almost a 
 point. It's a huge part of who I am and who I used to be, and I figured there was the off-chance that one of
 my readers would enjoy discovering this aspect of my past life.
 
+I thus present to you: the MarioNintendo Complete Works!
+
+This is a collection of songs playable on Stepmania, and more recently Etterna. It is a game where you use
+your hands to tap arrows to the beat (similarly to Dance Dance Revolution). The "MarioNintendo" in the
+archive's name doesn't refer to the nature of the music in the pack (i.e. these are not all songs from Mario
+games, though there are some). "MarioNintendo" is simply the username I chose for myself when I was 10 years
+old! I retired the username in 2019 when this archive was made available to all.
+
+Here is an example of a song I charted for the game:
+
+{{< youtube 5kxCaogcTyY >}}
+
 That was back when I was part of a vibrant community and was able to push my creativity on a daily basis.
 While the game doesn't suit me now (my "gamer hands" are starting to hurt more quickly than ever in long play
 sessions), I am nostalgic about all the great interactions I was able to have through the game.
