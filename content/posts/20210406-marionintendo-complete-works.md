@@ -1,6 +1,6 @@
 ---
 title: "My Rhythm Gaming Legacy"
-date: 2021-04-04T11:32:36-04:00
+date: 2021-04-06T11:32:36-04:00
 toc: false
 cover: "img/mn-complete-works.png"
 tags:
