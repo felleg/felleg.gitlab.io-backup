@@ -21,6 +21,11 @@ archive's name doesn't refer to the nature of the music in the pack (i.e. these 
 games, though there are some). "MarioNintendo" is simply the username I chose for myself when I was 10 years
 old! I retired the username in 2019 when this archive was made available to all.
 
+One thing I am particularly proud of is how comprehensive this archive is. The `README.md` is full of
+interesting information that would have easily been lost to time, including a song creation timeline. Each
+song also has an `aboutThisFile.txt` written to document everything I could think of regarding the song. This
+way, it will help newcomers which files were more important to me, or the community.
+
 Here is an example of a song I charted for the game:
 
 {{< youtube 5kxCaogcTyY >}}
