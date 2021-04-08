@@ -3,6 +3,7 @@ title: "Analogue Co.: Blatant False Scarcity"
 date: 2021-04-08T14:08:45-04:00
 toc: false
 cover:
+draft: true
 tags:
   - gaming
   - scams
