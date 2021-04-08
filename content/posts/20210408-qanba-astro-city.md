@@ -13,4 +13,4 @@ customized my Qanba Carbon arcade stick to be an homage to the Sega Astro City l
 while, it was my "dream" to go to Japan and see one in person. :smiley: Now, I feel I have my piece of arcade
 history at home, and it perfectly suits my needs.
 
-{{< figure src="/img/sega-astro-city.png" position="center" caption="The original Sega Astro City. Gotta love that 90s look!" >}}
+{{< figure src="/img/sega-astro-city.png" position="center" caption="The original Sega Astro City (not my own). Gotta love that 90s look!" >}}
