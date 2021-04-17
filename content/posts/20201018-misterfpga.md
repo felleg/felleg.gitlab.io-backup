@@ -363,8 +363,8 @@ check out these links:
 * [MiSTer Wiki](https://github.com/MiSTer-devel/Main_MiSTer/wiki), the official and constantly updated source
   of information about MiSTer.
 * [MiSTer forums](https://misterfpga.org/), slow-paced, but quality content.
-* [MiSTer on the Classic Gaming Server (Discord)](https://discord.com/invite/UDu5ztY). *Very active*
-  chatrooms, covers everything related to classic gaming in general. This is where everybody meets.
+* [MiSTer FPGA Discord Server (Discord)](https://discord.gg/4xKVg4XVYn). *Very active*
+  chatrooms, covers everything related to classic gaming and MiSTer in general. This is where everybody meets.
 * [MiSTer cores extravaganza videos](https://www.youtube.com/playlist?list=PLsLxmNa35KdjEtsZb4wfnc4H2po84i0cf), these are the videos that
   initially got me into MiSTer. SmokeMonster makes a great job illustrating what makes the MiSTer special.
 
