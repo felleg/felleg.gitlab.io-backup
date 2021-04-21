@@ -7,6 +7,7 @@ tags:
   - accessories
   - huawei
   - best of the year
+  - award
 description: "The Huawei Talkband line of product wins the felixleger.com 'Favorite Gadget of 2021 Award'!"
 ---
 
