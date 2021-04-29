@@ -5,7 +5,7 @@ cover: "img/2020-albumoftheyear-sadako.jpg"
 tags:
    - best of the year
    - music
-   - music recommendations
+   - award
 ---
 
 It's time to declare the winner of this year's prestigious prize: the **felixleger.com album of the year!**
