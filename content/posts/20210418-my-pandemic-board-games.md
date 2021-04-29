@@ -1,5 +1,5 @@
 ---
-title: "Board Games I Played During the Pandemic"
+title: "5 Board Games I Played During the Pandemic"
 date: 2021-04-18T20:28:51-04:00
 draft: true
 toc: true

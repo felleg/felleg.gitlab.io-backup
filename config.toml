@@ -59,7 +59,8 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = [""]
 
-  homeSubtitle = "DevOps Lead at Contxtful and ordinary human being"
+  #homeSubtitle = "DevOps Lead at Contxtful Technologies"
+  homeSubtitle = "No labels fit, and I'm (sometimes) proud of it."
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
