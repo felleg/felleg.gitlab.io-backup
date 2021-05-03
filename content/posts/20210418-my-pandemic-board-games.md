@@ -129,7 +129,9 @@ of their "liberties" (however, this is not the main goal of the game, unlike Che
 
 The game is very poignant, it manages to be provide a zen experience with real exciting gameplay moments. Each
 game is different, and the game allows for what could almost be seen as "artistic expression". Really, there
-are no words that will do the game justice. You just have to try it out for yourself and see.
+are no words that will do the game justice. You just have to try it out for yourself and see. For the record,
+I am not a fan of the confrontational nature of Chess, but I instantly fell in love with Go. Give it a shot,
+you might like it!
 
 I play most of my Go games online. [Here is my player profile](https://online-go.com/player/416731/), if you would like to challenge me!
 
