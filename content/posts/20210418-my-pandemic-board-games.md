@@ -82,7 +82,7 @@ In this game, the goal is to connect the four different train stations scattered
 said than done, however, since the dice will determine what rail you must use and in which row/column.
 Thankfully, you have the possibility of spinning that rail however you please.
 
-A Great single player game if you want to beat your high score, and a great multiplayer game if you like games
+A great single player game if you want to beat your high score, and a great multiplayer game if you like games
 without confrontation between players. The barrier of entry is almost null, since all you need are two
 distinct dice and a printed piece of paper.
 
