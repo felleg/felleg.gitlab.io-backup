@@ -31,6 +31,19 @@ FAKE = {
 
 See the full code [here](https://gitlab.com/felleg/enjoy-my-fake-data)
 
+I let it run for a night, and the link from the initial phishing email stopped working. I didn't know if I was
+IP banned, or if the domain was changed, but it felt as though it was happening as a reaction to my spam.
+
+Asking my friends, I started finding new domains I could spam with the same robot. I was happy to see that
+most of my friends had received the previous, broken phishing link. This means they were relatively safe from
+potential harm! woohoo!
 
 [Video of the robot in action](https://drive.google.com/file/d/1WTbSl1-61k1KU4L_bCsMWgPUHXfgsry3/view)
+
+I started working with my friend Mathieu and, after realizing that we could POST directly to the hacker URL
+instead of using Selenium, we managed to make the robot 50 times faster. The amount of spam generated was
+getting pretty serious!
+
+This is still a work in progress, but this hopefully shows an example of ethical hacking: spamming a phishing
+website for the good of the community. If you want to do this, remember to always use a VPN!
 
