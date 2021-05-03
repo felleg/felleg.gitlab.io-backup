@@ -84,7 +84,8 @@ Thankfully, you have the possibility of spinning that rail however you please.
 
 A great single player game if you want to beat your high score, and a great multiplayer game if you like games
 without confrontation between players. The barrier of entry is almost null, since all you need are two
-distinct dice and a printed piece of paper.
+distinct dice and a printed piece of paper. It's a perfect game to play during a pandemic, since it is a
+"bingo-style" game: call a value, and the players have to figure out where to place it on their sheets!
 
 [Check out the PDF files for the game and rules
 here!](https://boardgamegeek.com/boardgame/200551/30-rails/files)
