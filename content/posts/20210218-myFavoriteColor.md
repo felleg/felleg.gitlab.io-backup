@@ -107,7 +107,7 @@ featured in my logo and website icon is orange-yellow:
 
 {{< figure src="/img/websitelogo.png" position="center" caption="My current website logo" >}}
 
-{{< figure src="/favicon-32x32.png" position="center" caption="My current website favicon" >}}
+{{< figure src="/img/favicon-32x32-favcolor.png" position="center" caption="My current website favicon" >}}
 
 The deeper I look into my history, the more evidence I find. Just look at the glorious colors of the first
 journal I bought for myself (this is actually my second journal, first one I used was given to me and can be seen
