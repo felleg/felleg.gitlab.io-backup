@@ -120,7 +120,7 @@ custom lists at the moment.
 - Complexity: Minimal
 - Strategy: Deeper than the Mariana Trench
 
-{{< figure src="/img/boardgames/go_natural.png" position="center" caption="Go is very DIY friendly! This set was made from rocks found on a beach ([source](https://boardgamegeek.com/image/773623/go))" >}}
+{{< figure src="/img/boardgames/go_online.png" position="center" caption="A game I played against a bot above my skill level. Very satisfactory win, it took me many tries!" >}}
 
 Go is both the most familiar and mysterious game in human history. It has been around for over 4000 years, and
 it is still just as fascinating as ever. The goal is to divide the landscape to your advantage by using your
@@ -135,6 +135,6 @@ you might like it!
 
 I play most of my Go games online. [Here is my player profile](https://online-go.com/player/416731/), if you would like to challenge me!
 
-{{< figure src="/img/boardgames/go_online.png" position="center" caption="A game I played against a bot above my skill level. Very satisfactory win, it took me many tries!" >}}
 
 
+{{< figure src="/img/boardgames/go_outside.jpg" position="center" caption="It's a beautiful day to Go outside!" >}}
