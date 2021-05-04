@@ -36,20 +36,23 @@ My partner and I like to play this game at dinnertime. It's a game market manipu
 of light strategy and luck. One reason why it's (by far) our most-played game is due to how quick it is to
 setup, play, and cleanup. Each game easily falls under 30 minutes.
 
+When I was beginning to browse through the list of recommended board games on BoardGameGeek.com, two games
+were often mentioned together when it came to market manipulation for two players: Splendor, and Jaipur. If
+you are undecided between both games, from my experience Jaipur feels more like a kid's game than Splendor.
+The design sensibilities of Splendor feel more fresh after repeated games, in my opinion.
+
 We keep scores by writing directly on the inside of the box (blasphemous, I know!). This should be a good
 indication of how confident we are that we will never want to sell this game: it's too good!
 
 We sit side by side and look at the "board" like a market laying in front of us. There is no feeling of
-confrontation, since we are staring at the market instead of taunting each other.
+confrontation, since we are staring at the market instead of taunting each other. However, the interactivity
+is very real: whatever you buy directly impacts the remaining options available to your opponent(s). It's a
+great balance!
 
 
 
 {{< figure src="/img/boardgames/splendor_gameplay.png" position="center" caption="A game of Splendor ([source](https://boardgamegeek.com/image/1995797/splendor))" >}}
 
-When I was beginning to browse through the list of recommended board games on BoardGameGeek.com, two games
-were often mentioned together when it came to market manipulation for two players: Splendor, and Jaipur. If
-you are undecided between both games, from my experience Jaipur feels more like a kid's game than Splendor.
-The design sensibilities of Splendor feel more fresh after repeated games, in my opinion.
 
 # Patchwork
 
