@@ -96,8 +96,10 @@ disableHugoGeneratorInject = false
   # Custom footer
   # If you want, you can easily override the default footer with your own content.
   #
-  footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
-  footerRight = "Theme based on <a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\">Hello Friend NG</a>"
+  #footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
+  #footerRight = "Theme based on <a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\">Hello Friend NG</a>"
+  footerLeft = ""
+  footerRight = ""
 
   # Colors for favicons
   #
