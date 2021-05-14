@@ -7,7 +7,7 @@ tags:
   - untagged
 ---
 
-I wanted to slightly indulge my creative side. Normally I am very shy and sensitive when it comes to sharing
+I wanted to slightly indulge my creative side tonight. Normally I am very shy and sensitive when it comes to sharing
 this stuff, though I want to persuade myself that there is nothing to be afraid of.
 
 [Click here to access my new random thoughts section](/random-thoughts). Let me know if anything caught your
