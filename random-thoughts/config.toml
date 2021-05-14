@@ -2,3 +2,6 @@ baseURL = "https://felixleger.com/random-thoughts"
 languageCode = "en-us"
 title = "Just Random Thoughts (no guarantees)"
 Theme = "dimension"
+
+[params]
+logo = "img/logo.png"
