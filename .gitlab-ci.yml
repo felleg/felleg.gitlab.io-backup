@@ -6,6 +6,9 @@ variables:
 pages:
   script:
   - hugo
+  - cd random-thoughts && hugo && cd -
+  - mv random-thoughts/public public/random-thoughts # This command is artistic
+
   artifacts:
     paths:
     - public
