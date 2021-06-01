@@ -3,7 +3,7 @@ title: "Thoughts on Keyboards"
 date: 2021-05-31T11:47:54-04:00
 draft: true
 toc: true
-cover: "img/vortex-race3-rhinofeed.jpg"
+cover: "img/my_vortex_race3.jpg"
 tags:
   - keyboard
   - programming
@@ -122,4 +122,24 @@ https://help.ubuntu.com/stable/ubuntu-help/shell-keyboard-shortcuts.html.en
 These are goldmines and are worth learning through physical memory. They will make your every day life much
 easier. In fact, today I learned that Super-Shift-Arrow moves a window from one screen to the next. No need to
 use my mouse to do this anymore!
+
+# The Collection
+
+## Showing Off My First Mech (WASD V2 87-key)
+
+{{< figure src="/img/dsotm_mech.png" position="center" caption="Money..." >}}
+
+## My Second Mech (Cherry MX Board 3.0)
+
+{{< figure src="/img/cherry-mx-board-3.0.jpg" position="center" caption="" >}}
+
+## My Third Mech (Vortex Race 3)
+
+{{< figure src="/img/my_vortex_race3.jpg" position="center" caption="" >}}
+
+
+
+## My Next Keyboard: The Planck
+
+{{< figure src="/img/olkb-planck.jpeg" position="center" caption="The Planck" >}}
 
