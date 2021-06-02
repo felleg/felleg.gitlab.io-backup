@@ -1,0 +1,23 @@
+@startuml
+
+participant "Gouvernement" as gouv
+actor "Journaliste" as jour
+actor "Public vulnérable" as pub
+actor "Gloriane Blais" as glo
+
+gouv -> pub : Mesures qui perturbent le quotidien
+pub --> pub : Anxiété
+glo -> pub : Confirmer qu'ils sont des victimes
+pub --> glo : Reconnaissance
+glo -> pub : Fausse rumeur
+pub --> pub : Validation
+jour ->x glo : Demande d'entrevue pour vérifier rumeur
+glo -> pub : "On essaie de me censurer"
+pub --> glo : Support
+jour ->x pub : Les faits
+glo -> pub : Demande si quelqu'un a plus de "détails" sur la rumeur
+pub --> pub : Biais cognitif
+pub -> glo : Certains se manifestent
+glo -> gouv : Recours collectif basé sur une rumeur et des coincidences?
+
+@enduml
