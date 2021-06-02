@@ -81,6 +81,6 @@ a confiance nous ment depuis des mois, des années, et ça donne probablement en
 celle qui nous donne notre dose quotidienne de désinformation.
 
 Je me fous totalement du sort de Gloriane Blais, d'André Pitre, et des autres qui font comme eux. J'ai plutôt
-pitié de ceux qui les écoute et qui souffrent pour rien, qui se font exploiter en voulant supporter leur
+pitié de ceux qui les écoutent et qui souffrent pour rien, qui se font exploiter en voulant supporter leur
 source d'information, ceux qui, enfin, se mettent à dos à leur famille, leur amis, leur société, afin de
 pouvoir continuer à vivre dans un monde encore plus anxiogène que le nôtre et qui n'existe pas.
