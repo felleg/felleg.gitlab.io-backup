@@ -9,11 +9,11 @@ tags:
 
 Depuis 2016 avec l'élection de Donald Trump, on voit l'impact indéniable des réseaux de désinformation.
 
-On a pu se consoler en disant que c'est normal que ça arrive aux Américains: ils sont généralement
-sous-éduqués dû aux frais inaccessibles de leur système d'éducation. L'appât du gain les pousse à vouloir
-faire de l'argent sur le dos des autres, et ça pousse tout le monde dans un climat de terreur. On peut se
-surprendre à penser: "certains sont tellement stupides qu'ils en viennent à croire n'importe quelles folies: la
-terre est plate, les vaccins causent l'autisme, et Donald Trump s'est fait voler l'élection de 2020"
+On a pu se consoler en disant que c'est normal que ça arrive aux Américains: les frais de leur système
+d'éducation supérieure la rende sûrement inaccessible à une majorité de gens. L'appât du gain pousse les plus
+puissants à profiter des plus vulnérables, ce qui engendre un climat de terreur. On peut se surprendre à
+penser: "certains sont tellement perdus qu'ils en viennent à croire n'importe quelles folies: la terre est
+plate, les vaccins causent l'autisme, et Donald Trump s'est fait voler l'élection de 2020"
 
 Eh bien je commence à croire que les malheurs des Américains en général n'ont pas pour cause leur stupidité,
 mais plutôt la force des canaux de désinformation parasitique qui fourmillent sur le web.
