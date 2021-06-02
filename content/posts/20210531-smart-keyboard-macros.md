@@ -9,64 +9,113 @@ tags:
   - programming
 ---
 
-Because it is one of the tools of my trade (computer work), it might not surprise you that I have a deep
-affection for keyboards and ergonomy. While I am no expert on the matter, my personal keyboard setup is
-something that I try to optimize every day, even if just bit by bit. It is a complicated task because there
-are many things to take into account:
+> “Cowboys in the western United States leave their horses when they die. But never leave their saddles, regardless of how long they need to walk in the desert. Saddles are interfaces that are deeply adapted to our bodies whereas horses are consumable items. It should not be forgotten that computers are consumables nowadays, but keyboards are interfaces that we can use through our lives.”
+>
+> -- Eiiti Wada, Professor Emeritus at the University of Tokyo
 
+Because it is one of the rare physical tools of my trade (computer work), it might not surprise you that I
+have a deep affection for keyboards and their ergonomics. While I am no expert on the matter, my personal
+keyboard setup is something that I enjoy trying to optimize every day, even if just bit by bit. It is a
+complicated task because there are many things to take into account:
+
+* The size of your working space
+* The typing speed you must be able to achieve to work comfortably
+* The reliability of a single key stroke
+* How much do you need your mouse as a fallback?
 * What size of keyboard do you need?
 * How many keys do you need?
 * How frequently do you use specific keys?
 * How reliable do you need each key press to be?
 * How fast do you need to be able to write?
 
-These questions may seem frivolous for most people when keyboards are just a mean of inputing keys into a
+These questions may seem frivolous for most people when keyboards are just a mean of inputting keys into a
 computer, with no time limit or sense of danger. However, as you achieve higher and higher levels of security
-clearence in the technological world, you start to realize that pressing keys can be as dangerous as handling
-a sharp blade. Too often, one wrong key press can be the difference between global success and failure.
+clearance in the technological world, you start to realize that pressing keys can be as dangerous as handling
+a sharp blade. Too often, one wrong key press can be the difference between global success and catastrophic
+failure, or waste of time.
 
-Not to get too overly dramatic, of course. I just want to picture how essential it feels to me to have the
-freedom of optimizing my keyboard setup as much as I want. Fortunately, I do have that freedom, and it has
-brought me delightful bits of joy that I wish to share with you today.
-
-Nice quote about keyboards:
-
-
-
-> “Cowboys in the western United States leave their horses when they die. But never leave their saddles, regardless of how long they need to walk in the desert. Saddles are interfaces that are deeply adapted to our bodies whereas horses are consumable items. It should not be forgotten that computers are consumables nowadays, but keyboards are interfaces that we can use through our lives.”
-
-- Eiiti Wada, Professor Emeritus at the University of Tokyo
-
-
-
+Not to get too overly dramatic, of course. Luckily, we live in a golden age where it is possible to customize
+your typing experience to tailor your exact needs (and I do mean *exact*). All it requires is some knowledge
+of the basic parts, a bit of money, some elbow grease, and *a lot* of creativity and patience.
 
 ---
 
-Ideas
+# How I got into keyboards
 
-- I started looking into mechanical keyboards after trying one to play Stepmania at an anime convention. My
-  taps felt way more satisfying and reliable. I wanted a mechanical keyboard for gaming purposes, to get an
-  edge in my scoring
-- My first mechanical keyboard was fully customized in its looks, but not in its functionality (wasd
-  keyboard). I took it without a numpad because I figured I don't need that (I rarely input numbers, if I need
-  to I can get an additional dongle, etc). It was big and I liked it.
-- I have come to realize that it is important for a keyboard not to move while you type. If you want
-  precision, it is crucial for your keyboard to be as immobile as a stone
-- I got a cherry mx board 3.0 for work initially because I wanted a no frills board, that I wouldn't fear to
-  get stolen from me, and that I could still game on. This purchase ended up being a mistake that I regretted
-  because this keyboard was not right for me.
-- My next purchase was the Vortex Race 3, and I struck gold. Three years after initial purchase, it is still
-  fully suited to my needs, thanks to its ability to program macros directly on the keyboard itself. All keys
-  can be used as macros, not just dedicated keys.
-- In my opinion, high-tech keyboard enthusiasts focus too much on the switch type, i.e. how a key feels when
-  it is pressed. Sure, a mechanical key is generally better than any other type of key: this is what will make
-  your key presses consistent. However, I don't think this is where the "keyboard endgame" lies. I think
-  flexible layouts is really what will send your keyboard-game to the stratosphere. Having 10g vs 20g of force
-  required for a key press makes a difference, sure. Applying lubricants inside your key switches will make a
-  difference, sure. There are so many things one can do to optimize their keyboard. However, in my experience,
-  a good layout is effort better invested: it is not something that hardware can break, in theory. It is
-  something you will be able to rely on for a longer period of time.
+As you might suspect, I wasn't always a keyboard nut. It was a process that happened organically.
 
+It all started with a little PC game called [StepMania](https://stepmania.com). This is a Dance Dance
+Revolution clone where you taps keys on your keyboard to the rhythm of the music.
+
+{{< figure src="/img/stepmania logo.png" position="center" caption="Are you ready to STEP?" >}}
+
+(Shameless side-plug, you might remember [this previous blog post](/posts/2021/04/my-rhythm-gaming-legacy/)
+where I discuss the content I made for StepMania over the years)
+
+For many years, I played the game without a second thought of what keyboard I was using to play. Of course, I
+realized that some keyboards were better than others, for example most laptop keyboards I could find would not
+give me scores as good as what I could get from a USB keyboard. However, it wasn't until I tried a game on a
+Leopold FC660M mechanical keyboard that I saw the light.
+
+{{< figure src="/img/leopold-fc660m.jpg" position="center" caption="The Leopold FC660M" >}}
+
+This small, unassuming keyboard actually contained mechanical switches instead of the typical rubber dome
+contacts one would find on the cheap end of the spectrum. This subtle difference actually changed everything
+in how the keyboard felt: the keys did not wobble. They were firmly in place. They did not flex at all. Their
+click-clacks were satisfying.
+
+I was hooked!
+
+# My first mech
+
+Wanting to keep getting better at the game, I invested in my own mechanical keyboard. After much research, I
+ended up buying this gem (or abomination, depending on your tastes!):
+
+{{< figure src="/img/dsotm_mech.png" position="center" caption="A small tribute to Pink Floyd, can you see it?" >}}
+
+Because this was a keyboard meant to be used strictly for gaming, I decided that all keycaps would be blank to
+make the design more striking. I also made sure that the keyboard would have no rectangular numpad, in order
+to avoid unnecessary bulk.
+
+# My second mech
+
+Being hooked on the feel of mechanical keys at home, I began wanting that same experience at work. Thus, I
+bought my first no frills office-style mechanical keyboard, the very boring Cherry MX Board 3.0:
+
+{{< figure src="/img/cherry-mx-board-3.0.jpg" position="center" caption="Cherry MX Board 3.0" >}}
+
+This is a keyboard I thoroughly enjoyed. It was relatively cheap and filled my needs perfectly. However, over
+time, I started to dislike its big size. I also wanted to customize my experience using onboard macros. Thus,
+I started looking for my next target...
+
+# My current mech
+
+The mechanical keyboard I am using to write this post is a Vortex Race 3 with Cherry MX Brown switches. I love
+this baby very much.
+
+{{< figure src="/img/my_vortex_race3.jpg" position="center" caption="Vortex Race 3, my current keyboard" >}}
+
+The features I love most about this keyboard are:
+
+- Its compactness
+- Dedicated buttons for everything I need (including arrows)
+- Every key is programmable from the keyboard itself
+- It has a nice weight that makes it stable
+
+## My Next Keyboard: The Planck
+
+{{< figure src="/img/olkb-planck.jpeg" position="center" caption="The Planck" >}}
+
+A keyboard I am very much looking forward to is known as The Planck. It is an ortholinear keyboard that
+contains a minuscule set of keys: 47, to be exact. However, in order to mitigate the fact that this keyboard
+has very few buttons, it uses many layers and macros that let you cram as many things as you want in its
+limited space. As a nice trade-off, this limited space means that your fingers are within reach of any key at
+all times: no need to stretch your pinky to reach any of the keys on this board.
+
+It's definitely not for everybody, but it sure sounds like a challenge I'd like to tackle (for nice rewards
+in return). See this video summary of the ideas that make the keyboard:
+
+{{< youtube bEPg8kk84gw >}}
 
 # Macros
 
@@ -76,7 +125,7 @@ F11 and F12, quick and easy way to lower and raise volume
 
 ## Stealing ideas from the Happy Hacking Keyboard
 
-The Happy Hacking Keyboard has interesting key placement. 
+The Happy Hacking Keyboard has interesting key placement.
 
 - Control in place of Caps Lock: game changer
 - Backspace in place of `\` key
@@ -127,11 +176,8 @@ use my mouse to do this anymore!
 
 ## Showing Off My First Mech (WASD V2 87-key)
 
-{{< figure src="/img/dsotm_mech.png" position="center" caption="Money..." >}}
-
 ## My Second Mech (Cherry MX Board 3.0)
 
-{{< figure src="/img/cherry-mx-board-3.0.jpg" position="center" caption="" >}}
 
 ## My Third Mech (Vortex Race 3)
 
@@ -139,7 +185,19 @@ use my mouse to do this anymore!
 
 
 
-## My Next Keyboard: The Planck
 
-{{< figure src="/img/olkb-planck.jpeg" position="center" caption="The Planck" >}}
+
+Ideas
+
+- I have come to realize that it is important for a keyboard not to move while you type. If you want
+  precision, it is crucial for your keyboard to be as immobile as a stone
+- In my opinion, high-tech keyboard enthusiasts focus too much on the switch type, i.e. how a key feels when
+  it is pressed. Sure, a mechanical key is generally better than any other type of key: this is what will make
+  your key presses consistent. However, I don't think this is where the "keyboard endgame" lies. I think
+  flexible layouts is really what will send your keyboard-game to the stratosphere. Having 10g vs 20g of force
+  required for a key press makes a difference, sure. Applying lubricants inside your key switches will make a
+  difference, sure. There are so many things one can do to optimize their keyboard. However, in my experience,
+  a good layout is effort better invested: it is not something that hardware can break, in theory. It is
+  something you will be able to rely on for a longer period of time.
+
 
