@@ -14,16 +14,21 @@ tags:
 > -- Eiiti Wada, Professor Emeritus at the University of Tokyo
 
 Because it is one of the rare physical tools of my trade (computer work), it might not surprise you that I
-have a deep affection for keyboards and their ergonomics. While I am no expert on the matter, my personal
+have a certain fascination when it comes to keyboards. While I am no expert on the matter, my personal
 keyboard setup is something that I enjoy trying to optimize every day, even if just bit by bit. It is a
 complicated task because there are many things to take into account:
 
-* The size of your working space
-* The typing speed you must be able to achieve to work comfortably
+* The size of my working space
+* The typing speed I must be able to achieve to work comfortably
 * The reliability of a single key stroke
-* How much do you need your mouse as a fallback?
+* How much I want to rely on my mouse
+* The amount of customization I want (aesthetics and functional)
+
+This leads to questions that might seem easy to answer at first, but can actually lead to surprisingly nuanced
+answers:
+
 * What size of keyboard do you need?
-* How many keys do you need?
+* How many actual keys do you need?
 * How frequently do you use specific keys?
 * How reliable do you need each key press to be?
 * How fast do you need to be able to write?
@@ -31,7 +36,7 @@ complicated task because there are many things to take into account:
 These questions may seem frivolous for most people when keyboards are just a mean of inputting keys into a
 computer, with no time limit or sense of danger. However, as you achieve higher and higher levels of security
 clearance in the technological world, you start to realize that pressing keys can be as dangerous as handling
-a sharp blade. Too often, one wrong key press can be the difference between global success and catastrophic
+a bomb. Too often, one wrong key press can be the difference between global success and catastrophic
 failure, or waste of time.
 
 Not to get too overly dramatic, of course. Luckily, we live in a golden age where it is possible to customize
@@ -52,30 +57,38 @@ Revolution clone where you taps keys on your keyboard to the rhythm of the music
 (Shameless side-plug, you might remember [this previous blog post](/posts/2021/04/my-rhythm-gaming-legacy/)
 where I discuss the content I made for StepMania over the years)
 
-For many years, I played the game without a second thought of what keyboard I was using to play. Of course, I
-realized that some keyboards were better than others, for example most laptop keyboards I could find would not
-give me scores as good as what I could get from a USB keyboard. However, it wasn't until I tried a game on a
-Leopold FC660M mechanical keyboard that I saw the light.
+For many years, I played the game with whatever keyboard was at my disposal. I simply was not good enough to
+have the luxury of blaming my equipment for my poor performance. Of course, I
+realized that some keyboards were better than others, for example some keyboards don't allow for more than two
+simultaneous key presses at a time, which is very problematic in a rhythm game that uses four independent
+keys.  However, it wasn't until I tried a game on a Leopold FC660M mechanical keyboard that my horizons were
+completely blown open: it gave me a peek at the depths of the keyboard world.
 
 {{< figure src="/img/leopold-fc660m.jpg" position="center" caption="The Leopold FC660M" >}}
 
-This small, unassuming keyboard actually contained mechanical switches instead of the typical rubber dome
+Among other things, this small, unassuming keyboard actually contained mechanical switches instead of the typical rubber dome
 contacts one would find on the cheap end of the spectrum. This subtle difference actually changed everything
 in how the keyboard felt: the keys did not wobble. They were firmly in place. They did not flex at all. Their
-click-clacks were satisfying.
+click-clacks were satisfying. Its retro style gave nods to keyboards I grew up on, such as the IBM Model M.
 
-I was hooked!
+I was instantly hooked!
 
 # My first mech
 
-Wanting to keep getting better at the game, I invested in my own mechanical keyboard. After much research, I
-ended up buying this gem (or abomination, depending on your tastes!):
+Wanting to keep getting better at StepMania, I eventually invested in my own mechanical keyboard. It wasn't an
+easy process, since there were so many things to consider at once. I had to learn what Cherry MX switches
+were, and the different available options. I had to decide in which manufacturer I would put all my faith. I
+had to decide if I wanted lighting, if I wanted arrow keys, if I wanted stabilizers, etc. It was process that
+was both fun and nerve-wracking ("I don't know the answer to any of these questions, I just want a good
+keyboard!"). After much research, I ended up buying this gem (or abomination, depending on your tastes!):
 
 {{< figure src="/img/dsotm_mech.png" position="center" caption="A small tribute to Pink Floyd, can you see it?" >}}
 
 Because this was a keyboard meant to be used strictly for gaming, I decided that all keycaps would be blank to
 make the design more striking. I also made sure that the keyboard would have no rectangular numpad, in order
 to avoid unnecessary bulk.
+
+You can see how excited I was when I received the keyboard in 2014: {{< youtube aDkU2b_t8XA >}}
 
 # My second mech
 
@@ -116,6 +129,13 @@ It's definitely not for everybody, but it sure sounds like a challenge I'd like 
 in return). See this video summary of the ideas that make the keyboard:
 
 {{< youtube bEPg8kk84gw >}}
+
+The pattern I'm starting to notice is that I really enjoy keyboards that feature less keys. As a result, they
+are smaller on my desk and cost less to customize. I personally don't expect the Planck to give me cramps,
+since the size of the keys are the same as a regular keyboard: there's just fewer keys, which means less hand
+travel (this should be a good thing in theory).
+
+I will keep you posted on my thoughts of the Planck when I receive it!
 
 # Macros
 
