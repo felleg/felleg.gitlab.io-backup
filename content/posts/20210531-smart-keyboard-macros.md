@@ -3,7 +3,7 @@ title: "Thoughts on Keyboards"
 date: 2021-05-31T11:47:54-04:00
 draft: true
 toc: true
-cover: "img/my_vortex_race3.jpg"
+cover: "img/myplanck-feature.jpg"
 tags:
   - keyboard
   - programming
@@ -101,7 +101,7 @@ This is a keyboard I thoroughly enjoyed. It was relatively cheap and filled my n
 time, I started to dislike its big size. I also wanted to customize my experience using onboard macros. Thus,
 I started looking for my next target...
 
-# My current mech
+# My current keyboards
 
 The mechanical keyboard I am using to write this post is a Vortex Race 3 with Cherry MX Brown switches. I love
 this baby very much.
@@ -115,9 +115,9 @@ The features I love most about this keyboard are:
 - Every key is programmable from the keyboard itself
 - It has a nice weight that makes it stable
 
-## My Next Keyboard: The Planck
+## Newest addition: The Planck
 
-{{< figure src="/img/olkb-planck.jpeg" position="center" caption="The Planck" >}}
+{{< figure src="/img/my-planck.jpg" position="center" caption="The Planck" >}}
 
 A keyboard I am very much looking forward to is known as The Planck. It is an ortholinear keyboard that
 contains a minuscule set of keys: 47, to be exact. However, in order to mitigate the fact that this keyboard
@@ -136,6 +136,8 @@ since the size of the keys are the same as a regular keyboard: there's just fewe
 travel (this should be a good thing in theory).
 
 I will keep you posted on my thoughts of the Planck when I receive it!
+
+### Buying my Planck: What a story!
 
 # Macros
 
@@ -203,6 +205,9 @@ use my mouse to do this anymore!
 
 {{< figure src="/img/my_vortex_race3.jpg" position="center" caption="" >}}
 
+## My newest acquisition (OLKB Planck)
+
+{{< figure src="/img/myplanck-desk.jpg" position="center" caption="Look at all that desk space!" >}}
 
 
 
