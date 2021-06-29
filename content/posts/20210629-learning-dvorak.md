@@ -17,4 +17,4 @@ milestone on the Dvorak layout, then it is officially mission accomplished.
 
 | Date | Characters / min | Words / min|
 |:-------------:|:-------------:|:-------------:|
-| (20210629) Tue Jun 29 12:30:55 | 99 | 20 |
+| Tue Jun 29 12:30:55 | 99 | 20 |
