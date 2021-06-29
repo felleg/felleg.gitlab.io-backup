@@ -2,6 +2,8 @@
 title: "Learning Dvorak"
 date: 2021-06-29T12:18:59-04:00
 toc: false
+tags:
+  - keyboard
 cover: "img/dvorak.png"
 ---
 
