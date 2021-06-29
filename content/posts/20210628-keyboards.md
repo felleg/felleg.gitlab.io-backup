@@ -14,8 +14,8 @@ tags:
 
 Because it is one of the rare physical tools of my trade (computer work), it might not surprise you that I
 have a certain fascination when it comes to keyboards. While I am no expert on the matter, my personal
-keyboard setup is something that I enjoy trying to optimize every day, even if just bit by bit. It is a
-complicated task because there are many things to take into account:
+keyboard setup is something I enjoy trying to optimize every day, even if just bit by bit. It is a
+quite the puzzle because there are many things to take into account:
 
 * The size of the working space
 * The typing speed required to work comfortably
@@ -33,19 +33,19 @@ answers:
 * How fast do you need to be able to write?
 * etc.
 
-These questions may seem frivolous for most people when keyboards are just a mean of inputting keys into a
+These questions may seem frivolous for most people when keyboards are just a mean of inputting data into a
 computer, with no time limit or sense of danger. However, as you achieve higher and higher levels of security
 clearance in the technological world, you start to realize that pressing keys can be as dangerous as handling
 a bomb. Too often, one wrong key press can be the difference between global success and catastrophic
-failure, or waste of time.
+failure, or enormous waste of time.
 
 Not to get too overly dramatic, of course. Luckily, we live in a golden age where it is possible to customize
 your typing experience to tailor your exact needs (and I do mean *exact*). All it requires is some knowledge
 of the basic parts, a bit of money, some elbow grease, and *a lot* of creativity and patience.
 
-I won't claim to be an expert when it comes to keyboard, but I trust my tastes to make recommendations to
-anyone looking for an efficient keyboard made for a work environment. My mentality is that layout comes first,
-then the quality of the switches.
+Again, I am far from clamining to be an expert when it comes to keyboards, but I trust my tastes enough to
+make recommendations to anyone looking for an efficient keyboard made for a work environment. My mentality is
+that layout comes first, then the quality of the switches.
 
 But this is me getting ahead of myself... Let's go back to the beginning, where it obviously all started.
 
@@ -123,7 +123,7 @@ The features I love most about this keyboard are:
 
 ## Newest addition: The Planck
 
-{{< figure src="/img/my-planck.jpg" position="center" caption="The Planck" >}}
+{{< figure src="/img/my-planck.jpg" position="center" caption="The Planck. Notice my N key is misaligned, this is a story for another time..." >}}
 
 Surprise! In the process of writing this post, a new keyboard entered the family. This is is not compulsive
 keyboard shopping: just a demonstration of how slow I am at writing these posts :smiley:
@@ -141,7 +141,7 @@ in return). See this video summary of the ideas that make the keyboard:
 
 It has been two days since I started getting accustomed to the keyboard, and I can confidently say that it
 will become my main keyboard until further notice. The ortholinear keys are surprisingly ergonomic, but above
-all the QMK firmware compiler is a total game changer. I might need to make a future post about that in the
+all the QMK firmware compiler is a total game changer. I might need to make a post about that in the
 future...
 
 The pattern I'm starting to notice is that I really enjoy keyboards that feature less keys. As a result, they
