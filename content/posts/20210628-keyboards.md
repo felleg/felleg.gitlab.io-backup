@@ -1,7 +1,6 @@
 ---
 title: "Thoughts on Keyboards"
-date: 2021-05-31T11:47:54-04:00
-draft: true
+date: 2021-06-28T11:47:54-04:00
 toc: true
 cover: "img/myplanck-feature.jpg"
 tags:
@@ -18,11 +17,11 @@ have a certain fascination when it comes to keyboards. While I am no expert on t
 keyboard setup is something that I enjoy trying to optimize every day, even if just bit by bit. It is a
 complicated task because there are many things to take into account:
 
-* The size of my working space
-* The typing speed I must be able to achieve to work comfortably
+* The size of the working space
+* The typing speed required to work comfortably
 * The reliability of a single key stroke
-* How much I want to rely on my mouse
-* The amount of customization I want (aesthetics and functional)
+* How often is the mouse required
+* How much customization is expected (aesthetics and functional)
 
 This leads to questions that might seem easy to answer at first, but can actually lead to surprisingly nuanced
 answers:
@@ -32,6 +31,7 @@ answers:
 * How frequently do you use specific keys?
 * How reliable do you need each key press to be?
 * How fast do you need to be able to write?
+* etc.
 
 These questions may seem frivolous for most people when keyboards are just a mean of inputting keys into a
 computer, with no time limit or sense of danger. However, as you achieve higher and higher levels of security
@@ -42,6 +42,12 @@ failure, or waste of time.
 Not to get too overly dramatic, of course. Luckily, we live in a golden age where it is possible to customize
 your typing experience to tailor your exact needs (and I do mean *exact*). All it requires is some knowledge
 of the basic parts, a bit of money, some elbow grease, and *a lot* of creativity and patience.
+
+I won't claim to be an expert when it comes to keyboard, but I trust my tastes to make recommendations to
+anyone looking for an efficient keyboard made for a work environment. My mentality is that layout comes first,
+then the quality of the switches.
+
+But this is me getting ahead of myself... Let's go back to the beginning, where it obviously all started.
 
 ---
 
@@ -119,7 +125,10 @@ The features I love most about this keyboard are:
 
 {{< figure src="/img/my-planck.jpg" position="center" caption="The Planck" >}}
 
-A keyboard I am very much looking forward to is known as The Planck. It is an ortholinear keyboard that
+Surprise! In the process of writing this post, a new keyboard entered the family. This is is not compulsive
+keyboard shopping: just a demonstration of how slow I am at writing these posts :smiley:
+
+I was very much looking forward to the Planck. It is an ortholinear keyboard that
 contains a minuscule set of keys: 47, to be exact. However, in order to mitigate the fact that this keyboard
 has very few buttons, it uses many layers and macros that let you cram as many things as you want in its
 limited space. As a nice trade-off, this limited space means that your fingers are within reach of any key at
@@ -130,16 +139,21 @@ in return). See this video summary of the ideas that make the keyboard:
 
 {{< youtube bEPg8kk84gw >}}
 
+It has been two days since I started getting accustomed to the keyboard, and I can confidently say that it
+will become my main keyboard until further notice. The ortholinear keys are surprisingly ergonomic, but above
+all the QMK firmware compiler is a total game changer. I might need to make a future post about that in the
+future...
+
 The pattern I'm starting to notice is that I really enjoy keyboards that feature less keys. As a result, they
 are smaller on my desk and cost less to customize. I personally don't expect the Planck to give me cramps,
 since the size of the keys are the same as a regular keyboard: there's just fewer keys, which means less hand
 travel (this should be a good thing in theory).
 
-I will keep you posted on my thoughts of the Planck when I receive it!
-
-### Buying my Planck: What a story!
-
 # Macros
+
+These are examples of custom macros I used on my Vortex Race 3. The customizability was not as granular as
+what can be done on the Planck, but they were neat little changes that had a positive impact on my typing
+experience.
 
 ## Volume keys
 
@@ -158,6 +172,8 @@ board without needing to modify my OS settings and without needing to purchase a
 equipment if I want to try a specific ergonomy.
 
 ## Hiding your PC's password in a macro
+
+*(Note: This is stupid. Don't do this, and if you do, know it's at your own risk.)*
 
 This is something I don't feel comfortable recommending to people who work in a public environment, but it is
 something I really enjoy doing when working from home.
@@ -194,35 +210,14 @@ These are goldmines and are worth learning through physical memory. They will ma
 easier. In fact, today I learned that Super-Shift-Arrow moves a window from one screen to the next. No need to
 use my mouse to do this anymore!
 
-# The Collection
+# Conclusion
 
-## Showing Off My First Mech (WASD V2 87-key)
+While I think I might have reached the endgame keyboard with the Planck, I can't say for sure. In a world
+where progress is constantly accelerating, often at the end of people writing from a keyboard, it's difficult
+to predict exactly what the keyboard landscape will look like in 10 years from now.
 
-## My Second Mech (Cherry MX Board 3.0)
+I very much agree with Eliiti Wada from the beginning of this post: the keyboard is the saddle of the modern
+cowboy. In the end, if you are comfortable with your current interface and feel efficient with it, that's all
+you need.
 
-
-## My Third Mech (Vortex Race 3)
-
-{{< figure src="/img/my_vortex_race3.jpg" position="center" caption="" >}}
-
-## My newest acquisition (OLKB Planck)
-
-{{< figure src="/img/myplanck-desk.jpg" position="center" caption="Look at all that desk space!" >}}
-
-
-
-
-Ideas
-
-- I have come to realize that it is important for a keyboard not to move while you type. If you want
-  precision, it is crucial for your keyboard to be as immobile as a stone
-- In my opinion, high-tech keyboard enthusiasts focus too much on the switch type, i.e. how a key feels when
-  it is pressed. Sure, a mechanical key is generally better than any other type of key: this is what will make
-  your key presses consistent. However, I don't think this is where the "keyboard endgame" lies. I think
-  flexible layouts is really what will send your keyboard-game to the stratosphere. Having 10g vs 20g of force
-  required for a key press makes a difference, sure. Applying lubricants inside your key switches will make a
-  difference, sure. There are so many things one can do to optimize their keyboard. However, in my experience,
-  a good layout is effort better invested: it is not something that hardware can break, in theory. It is
-  something you will be able to rely on for a longer period of time.
-
-
+I wish you all a nice ride in the pursuit of perfection!
