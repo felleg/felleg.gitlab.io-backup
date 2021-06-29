@@ -18,3 +18,16 @@ milestone on the Dvorak layout, then it is officially mission accomplished.
 | Date | Characters / min | Words / min|
 |:-------------:|:-------------:|:-------------:|
 | Tue Jun 29 12:30:55 | 99 | 20 |
+
+# Update
+
+I have spent 4 hours using the Dvorak layout at work. It has been a mostly unpleasant experience, but I kept
+grinding and doing my best.
+
+I eventually stumbled on this article written by someone who learned Dvorak: [I’ve used Dvorak for 10 years,
+and I’m here to tell you it’s not all that](https://www.theverge.com/2019/2/17/18223384/dvorak-qwerty-keyboard-layout-10-years-speed-ergonomics)
+
+Well, screw this. I can touch type in QWERTY just fine. The customizability of the OLKB Planck satisfies all
+mt ergonomic needs. I'm going back to QWERTY.
+
+So long, Dvorak. It was nice knowing you. Maybe I'll give you another shot someday when I retire.
