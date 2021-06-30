@@ -127,7 +127,7 @@ third row of the board and notice something is wrong with the hole where the N k
 As you can see, the alignment of the N key was off by less than a millimetre, which was just enough to make it
 enter in contact with the space bar.
 
-Now that moment, for absolute read, no joke, I was legit 100% devastated. Not only had I wasted my money on
+Now at that moment, for absolute real, no joke, I was legit 100% devastated. Not only had I wasted my money on
 this, it felt like I had sold my previous keyboards for nothing, and spent weeks waiting on a broken product.  For a first-world millenial like me, this truly seemed like the worst possible outcome.
 
 (I'm joking, of course, but this honestly stung.)
