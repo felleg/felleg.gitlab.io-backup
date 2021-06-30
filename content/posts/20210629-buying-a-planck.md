@@ -29,7 +29,7 @@ Vortex Race 3 at the time and was enamoured with the ability of programming macr
 software required!). I can't remember if this was a prompted advice or not, but it definitely did not fall into deaf ears.
 
 Fast-forward some weeks, and I eventually asked him if he picked up a new keyboard. His response completely
-caught me off-guard, because he had settled for this tiny keyboard:
+caught me off-guard, because he had settled for this comically tiny keyboard:
 
 {{< figure src="/img/olkb-planck.jpeg" position="center" caption="The OLKB Planck" >}}
 
@@ -37,7 +37,8 @@ He told me about how the QMK firmware compiler allowed this board for practicall
 remember he was quite excited about it, on the level that I was with my trusted Vortex Race 3.
 
 I brushed it off initially, thinking: "Bah! Anyone who gets a new keyboard fall in love with it. I'm sure it's
-not that good.". Besides, I wasn't convinced that the grid-like design of the keyboard was good design: what was wrong with the standard staggered design?
+not that good.". Besides, I wasn't convinced that the grid-like layout of the keyboard was good design: what
+was wrong with the standard staggered layout?
 
 To tell the truth, my ego took a hit: was it possible that I had a lesser version of what my
 friend was having? It would have been unthinkable to betray my beloved Race 3 with a puny board such as the
