@@ -1,5 +1,5 @@
 ---
-title: "The Hoarding Project"
+title: "Selling My Video Game Collection - The Hoarding Project"
 date: 2021-03-21T11:23:11-04:00
 toc: true
 description: "In this post, I discuss how I learned to let go of a collection that took its toll on me."
