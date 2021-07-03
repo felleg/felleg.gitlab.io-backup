@@ -119,8 +119,8 @@ Luckily, one spare screw was part of the package, so if I could contain all my r
 afternoon, everything would be fine. :smiley:
 
 20 minutes later, the PCB is in place, and the metal plate is set as well. Time to attach the Gateron
-switches. The first two rows are no problem, I feel like a million bucks. But then I start working on the
-third row of the board and notice something is wrong with the hole where the N key is supposed to go...
+switches. The first two rows were no problem, as I was just cruising along. But then as I start working on the
+third row of the board, I notice something is wrong with the hole where the N key is supposed to go...
 
 {{< figure src="/img/planck-misalign-1.jpg" position="center" caption="" >}}
 {{< figure src="/img/planck-misalign-2.jpg" position="center" caption="" >}}
@@ -130,9 +130,9 @@ As you can see, the alignment of the N key was off by less than a millimetre, wh
 enter in contact with the space bar.
 
 Now at that moment, for absolute real, no joke, I was legit 100% devastated. Not only had I wasted my money on
-this, it felt like I had sold my previous keyboards for nothing, and spent weeks waiting on a broken product.  For a first-world millenial like me, this truly seemed like the worst possible outcome.
+this, it felt like I had sold my previous keyboards for nothing, and spent weeks waiting on a broken product.  For a first-world millenial like me, this truly seemed like the worst possible outcome. The fact it all happened on an off day just made it all worse.
 
-(I'm joking, of course, but this honestly stung.)
+(I'm joking, of course, but this whole ordeal honestly stung.)
 
 I proceeded to contacting the seller, telling them about the manufacture issue with their Planck's metal
 plate. To their full credit, they offered to return the board at their own cost. I brokenheartedly agreed.
@@ -152,7 +152,7 @@ In total, it had cost me ~35 USD, which was excellent, all things considered.
 Still, I wasn't able to type on it, until one clever Reddit user suggested that I completely bypass the metal
 plate and directly connect my Gateron switches into the PCB.
 
-The suggestion wasn't perfect, but it was good enough to get me started. A fifth of the keys were so wobbly that
+The suggestion wasn't perfect, but it was good enough to get me started. Unfortunately, a fifth of the keys were so wobbly that
 on occasion they would completely jump out of the board as if they had a life of their own. That eventually
 made me want to go back to my previous Vortex Race 3, which had never failed me in such a way before.
 
@@ -212,4 +212,4 @@ to cram as many keys in as little space as possible. Also, the QMK firmware is m
 If you're curious, [look at their documentation](https://docs.qmk.fm/#/) and see how deep the rabbit hole goes!
 
 I hope you found this read somewhat interesting, let me know if you have any questions regarding my
-experience! 
+experience!
