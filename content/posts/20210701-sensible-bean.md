@@ -22,10 +22,10 @@ The type of cooking you'll find on the blog is something that is very near and d
 cooking that tastes good. Moreover, she decided to tackle an additional challenge. Indeed, each recipe found
 on the blog is:
 
-* **vegan**
 * **without added sugar**
 * **gluten free**
-* **healthy**
+* **vegan** (except for fish and some fermented dairy products)
+* **generally healthy**
 
 While we don't expect everyone to jump at the idea of cooking such a niche cuisine, we know from first-hand
 experience that finding recipes that both match even some these criteria **and** taste good is surprisingly rare. In
