@@ -208,7 +208,7 @@ cool stuff.
 Let's head over to the MiSTer side and see how it compares. Let's pretend you buy your system from
 [misteraddons.com](https://misteraddons.com), run by a trusted enthusiast known as [Porkchop
 Express](https://twitter.com/misteraddons) (other alternatives include
-[zerohimself](https://www.etsy.com/ca/shop/zerohimself), where I bought my own, or [ultimate
+[zerohimself](https://misterkits.com), where I bought my own, or [ultimate
 mister](https://ultimatemister.com/)).
 
 | MiSTer parts -- comfortable setup| Price |
