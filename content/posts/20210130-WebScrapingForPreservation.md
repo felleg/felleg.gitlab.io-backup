@@ -207,8 +207,8 @@ POST header to validate the download. Very strange, but I am glad that it was an
 ## Some recommended ROM hacks and homebrews
 
 If you are interested in retro gaming but have never tried ROM hacks, you are seriously missing out. Some of
-the best retro gaming goodness is to be found here, and has been created by people like me and you for your
-own enjoyment. To help you dive into this incredible catalog, here are some noteworthy ROM hacks or completely
+the best retro gaming goodness is to be found here, and has been created by die-hard fans for your
+enjoyment. To help you dive into this incredible catalog, here are some noteworthy ROM hacks or completely
 original homebrew software available for free, along with some of my personal favorites:
 
 * [Ultimate Mortal Kombat Trilogy](https://www.romhacking.net/hacks/1059/): For people like me who grew up playing Mortal Kombat on the Sega Genesis, this hack is simply out of this world.
