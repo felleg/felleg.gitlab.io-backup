@@ -189,11 +189,12 @@ the light at the end of my collecting tunnel.
 
 This might surprise you, but looking back, I realize that for the longest time I wasn't collecting for myself; I was collecting for my
 (still unborn) children. I wanted to give them artifacts of my youth and of a generation's youth, something my
-parents did not pass down to me as much as I'd hoped. My goal seemed noble enough, except it was flawed. Would
+parents did not pass down to me as much as I'd naively hoped. My goal seemed noble enough, except it was flawed. Would
 I have children in the first place? Would I want to be pressured by my collection to have kids? If I did start
 a family, would I want them to spend their time looking at a screen? Was there even a guarantee that they
 would share this hobby with me? Ultimately, I came to the conclusion that kids need love and time, *not
-things*. That truly is the most generous gift a parent, or anyone really, can give.
+things*. On that front, I was very fortunate, because my parents gave me plenty of both. I have come to
+appreciate that it truly is the most generous gift a parent, or anyone really, can give.
 
 There is something about retro video games that will stick with me forever. While I can't really pin down what
 that is, I now know that the physical objects themselves, for the most part, are not it. Now, whenever someone
