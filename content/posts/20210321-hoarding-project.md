@@ -138,7 +138,7 @@ me to free myself of this burden, she did not mind! :smiley:
 
 {{< figure src="/img/hoarding-project/playing-mister.png" position="center" caption="While the value of my belongings was dropping (due to selling them), I was happily enjoying my MiSTer" >}}
 
-Eventually, when my contacts on Facebook slowed down on the buying, I sold at a loss to [Retro MTL](https://retromtl.com). I wanted to
+Eventually, when my contacts on Facebook slowed down on the buying, I struck a deal with [Retro MTL](https://retromtl.com). I wanted to
 get it over with, and I was happy to support their business. To be fair, they did offer me a reasonable price.
 
 {{< figure src="/img/hoarding-project/final-bundle.jpg" position="center" caption="The final bundle! I am ready to enter a new chapter of my life." >}}
