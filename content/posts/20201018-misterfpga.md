@@ -107,12 +107,9 @@ What is within our grasp is cycle-accuracy. I'm not just writing this way to daz
 Physics. I have followed an Electronics class during my studies of Physics, and I can assure you that it is a
 *precise* science. We can measure how these circuits behave, we don't have to rely on our eyes and ears to
 approximate the final result. An electronic circuit will behave the same way no matter what is the shape of
-the box that contains it. This also means you won't have to fear about your precious original electronics
+the box that contains it. This also means you won't have to fear about any of your precious original electronics,
+motors or driving belts
 starting to degrade: every time you load a console on an FPGA, it's as if it was fresh from the factory!
-
-This protection from hardware failures of aging components is a big plus, not only for the electronics but
-also for any moving parts on original consoles (I'm looking at you, Sega CD Model 1...). Everything breaks
-eventually, it's a law of nature.
 
 Even more impressive, using FPGA you can switch between different console revisions on the fly (e.g. bigger
 sprite limits to prevent flickering, different color palettes, different sound chips on the Sega Genesis,
