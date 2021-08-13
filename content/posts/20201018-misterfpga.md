@@ -269,7 +269,7 @@ up on the majority of Analogue's products based on value alone when the MiSTer e
 ## Supported platforms
 
 Just for a fun comparison, I compiled a list of platforms supported by Analogue and by MiSTer. To guide your
-eye, I boldened the name of consoles I think might interest most retronauts.
+eye, I boldened and colored the name of consoles I think might interest most retronauts interested in gaming.
 
 {{< figure src="/img/supported-platforms-analogue-vs-mister.png" position="center">}}
 
