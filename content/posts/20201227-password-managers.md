@@ -1,5 +1,5 @@
 ---
-title: "Password Managers"
+title: "You Need a Password Manager"
 date: 2020-12-27T11:43:11-04:00
 toc: false
 cover : "img/carvalet.jpg"
@@ -8,6 +8,9 @@ tags:
   - password
   - security
   - best practices
+aliases : [
+   "/posts/2020/12/password-managers/"
+]
 ---
 
 *Disclaimer: I have no ties to any of the products or developers listed in this article. No one paid me or asked me to write this.*
