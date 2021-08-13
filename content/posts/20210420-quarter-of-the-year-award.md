@@ -1,7 +1,7 @@
 ---
 title: "2021 Musical Quarter of the Year Award"
 date: 2021-04-20T22:56:26-04:00
-draft: true
+draft: false
 toc: false
 cover: "img/the-mother-stone.jpeg"
 tags:

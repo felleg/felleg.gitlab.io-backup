@@ -7,6 +7,7 @@ tags = ["e-readers", "underappreciated-tech"]
 keywords = ["e-readers", "kindle", "kobo"]
 description = "Join me in celebration to sing the praise of an underappreciated technology: E-readers"
 showFullContent = false
+type = "featured"
 +++
 
 Reading books. It never gets old.
