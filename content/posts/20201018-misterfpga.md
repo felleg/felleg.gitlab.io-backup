@@ -231,7 +231,7 @@ Can we go lower? You sure bet!
 | Terasic DE-10 Nano (main brain)|150|
 | Expansion SDRAM (support more machines)|60|
 | USB mini hub | 7|
-| **Total**|**217 USD without tax and shipping, that's a steal**|
+| **Total**|**217 USD without tax and shipping, that's a steal in comparison**|
 
 The bare MiSTer setup (with SDRAM expansion) will run you 217
 USD+tax, and by itself can already do **more than any Analogue product**. If you include [an HDMI-VGA adapter such
@@ -252,14 +252,19 @@ Marketing is everything, and people keep falling for Analogue's clever tactics. 
 up its sleeve are:
 
 * their beautiful designs
-* the possibility to load games from actual cartridges instead of an SD card
-* no setup required (though this is misleading, I'll get to that...)
+* the possibility to play in portable mode (Analogue Pocket)
+* the possibility to play games from actual cartridges
+* no additional setup required to play cartridges (although a setup is required to play ROMs)
 
-But trust me, Analogue gets more mileage than anyone would expect from these (arguably) irrational advantages.
+Trust me, Analogue gets more mileage than anyone would expect from these (arguably) irrational advantages.
 
-The "FPGA wars" is very real between Analogue and MiSTer fans, though it is getting better. For an interesting
+The "FPGA wars" is very real between Analogue and MiSTer fans, though it is getting better as the hype dies
+down. For an interesting
 read on the topic, I recommend [this well-written article from Ryan
-Houlihan](https://www.inputmag.com/gaming/is-analogue-evil) that summarizes the current state of things.
+Houlihan](https://www.inputmag.com/gaming/is-analogue-evil) that summarizes the current state of things. Of
+course, the positive approach would be to say "we are living a golden age in retro gaming, let everyone enjoy
+their favorite way to play". While I totally agree with that sentiment in theory, I simply can't give a thumbs
+up on the majority of Analogue's products based on value alone when the MiSTer exists.
 
 ## Supported platforms
 
