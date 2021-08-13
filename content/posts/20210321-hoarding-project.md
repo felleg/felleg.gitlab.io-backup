@@ -132,6 +132,9 @@ the weight off my shoulders. Sometimes, losing is great!  And I must admit that 
 [pricecharting.com](http://pricecharting.com) were a tremendous help to find fair prices for my items. It was
 exciting to see the value of my collection drop as I was confirming sales.
 
+{{< figure src="/img/pricecharting-drop.png" position="center" caption="Unlike the stock market, this drop felt amazing because it meant my collection was shrinking." >}}
+
+
 At the same time, my partner was shocked, since she had gotten used to my collection taking up the space
 it did. In her own words, she "even began to find its presence comforting". My apparently quick change of
 heart made her worried that I was selling too much too fast.  However, when she understood the joy it brought
