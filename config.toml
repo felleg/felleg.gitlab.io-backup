@@ -125,24 +125,25 @@ disableHugoGeneratorInject = false
 
   # Social icons
   [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/felllleg"
-
-  [[params.social]]
     name = "email"
     url  = "mailto:hi@felixleger.com"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/felleg"
 
   [[params.social]]
     name = "gitlab"
     url  = "https://gitlab.com/felleg"
 
   [[params.social]]
-    name = "github"
-    url  = "https://github.com/felleg"
+    name = "twitter"
+    url  = "https://twitter.com/felllleg"
+
 
   [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/in/felleg"
+    name = "github"
+    url  = "https://github.com/felleg"
 
   [[params.social]]
     name = "stackoverflow"
