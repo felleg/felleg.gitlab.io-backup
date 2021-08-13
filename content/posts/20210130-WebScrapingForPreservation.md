@@ -3,7 +3,7 @@ title: "Web Scraping for Preservation"
 date: 2021-01-30T12:19:11-05:00
 toc: true
 cover: "img/rhdn.png"
-type: "featured"
+featured: "true"
 tags:
   - scraping
   - beautifulsoup

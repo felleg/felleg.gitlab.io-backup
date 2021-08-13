@@ -3,7 +3,7 @@ title: "Password Managers"
 date: 2020-12-27T11:43:11-04:00
 toc: false
 cover : "img/carvalet.jpg"
-type: "featured"
+featured: "true"
 tags:
   - password
   - security

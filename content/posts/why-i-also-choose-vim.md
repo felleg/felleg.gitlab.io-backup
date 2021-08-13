@@ -10,7 +10,7 @@ showFullContent = false
 aliases = [
    "/posts/why-i-also-choose-vim/"
 ]
-type = "featured"
+featured = "true"
 +++
 
 A co-worker walked by my station today and glanced at my screen.

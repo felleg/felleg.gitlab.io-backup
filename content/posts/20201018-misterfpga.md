@@ -11,7 +11,7 @@ showFullContent = false
 aliases = [
    "/posts/20201018-misterfpga/"
 ]
-type = "featured"
+featured = "true"
 +++
 
 *(Disclaimer: This is an honest view about the MiSTer project. I am in no way affiliated with any of the sellers or
