@@ -101,7 +101,7 @@ Let's admit it. At best, the notion of passwords was a naive idea, even in the e
 present, they are not sufficient to be considered "secure". At the same time, it is impossible to find a perfect
 solution for everyone. Every security design has an exploitable weaker link.
 
-At this point, you should realize that password reuse is one of, if not *the* weakest links in online security
+At this point, you should realize that password reuse is one of, if not *the* weakest link in online security
 (or security in general). Here are some good news: it is also the first thing that any password manager will help you strengthen.
 
 Passwords are not going anywhere anytime soon. They are a ubiquitous part of web design. Knowing this, what do
