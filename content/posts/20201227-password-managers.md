@@ -129,8 +129,9 @@ job. Some require a paid membership to access more niche feature.
 I initially tried LastPass and was fairly satisfied with it, until I tried
 [Bitwarden](https://bitwarden.com) which really clicked
 with me. Some password managers receive much more news coverage than others, mostly due to marketing (that's
-why some are also more expensive than others, despite doing the same job). I ended up liking Bitwarden it so
-much (despite it never being ranked as the top password manager on any tech website you will find) that I
+why some are also more expensive than others, despite doing the same job). I ended up liking Bitwarden so
+much (despite it never being ranked as the top password manager on any tech website you will find as of this
+writing) that I
 ended up paying for a membership (10 USD/year). I recommend that you create an account on any of these
 services and see which one is a right fit for you. Most (if not all) of these password managers can import and
 export your passwords between different services, so don't be afraid to try as many as your heart desires.
@@ -138,7 +139,7 @@ export your passwords between different services, so don't be afraid to try as m
 Just make sure that you trust the company behind the password manager of your choice. In the case of
 Bitwarden, I trust the developers because they made Bitwarden open-source from the start and [because they
 completed a security assessment from an independent third party
-source](https://bitwarden.com/blog/post/bitwarden-network-security-assessment-2020/). Because all your
+source](https://bitwarden.com/blog/post/bitwarden-network-security-assessment-2020/). Since all your
 passwords will be stored under one roof, trust is paramount.
 
 {{< figure src="/img/passwordmanager-features.png" caption="For my money, Bitwarden satisfies all my needs and more">}}
@@ -176,11 +177,11 @@ I have to keep these passwords in my head:
 * My phone's lock screen password
 * My laptops' password(s)
 
-This is list still much better than it used to be. Out of all of them, only Bitwarden could potentially be
+This list still much better than it used to be. Out of all of them, only Bitwarden could potentially be
 cracked by hackers through the internet, since it doesn't require access to a physical device. This is where
 **Two-factor authentication** comes in to save the day!... But it will be another story for another time.
 :smiley:
 
 {{< figure src="https://imgs.xkcd.com/comics/security.png" caption="As always, XKCD reminds us to stay grounded in reality" position="center" >}}
 
-What was your first password? How did you come up with it? And when did you finally break from its shackles?
+What was your first password? How did you come up with it? And when did you finally break free from its shackles?
