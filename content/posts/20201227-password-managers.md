@@ -97,16 +97,17 @@ with the world today. Believe me, it feels *good*.
 
 # Shopping list of security features
 
-Let's admit it. At best, the notion of passwords were a naive idea in the early days. In the present, they are
-not enough to be considered "secure". At the same time, it is impossible to find a perfect solution for
-everyone. Every security design has an exploitable weaker link.
+Let's admit it. At best, the notion of passwords was a naive idea, even in the early days of computing. In the
+present, they are not sufficient to be considered "secure". At the same time, it is impossible to find a perfect
+solution for everyone. Every security design has an exploitable weaker link.
 
 At this point, you should realize that password reuse is one of, if not *the* weakest links in online security
 (or security in general). Here are some good news: it is also the first thing that any password manager will help you strengthen.
 
-Passwords are not going anywhere anytime soon. Knowing this, what do we need to satisfyingly protect ourselves
-from forgery while impacting our every day use of technology as little as possible? Here is a "shopping list"
-of features that I find would solve most (if not all) our problems:
+Passwords are not going anywhere anytime soon. They are a ubiquitous part of web design. Knowing this, what do
+we need to satisfyingly protect ourselves from forgery? Keep in mind that this solution must not negatively
+impact our every day use of technology. Thus, here is my "shopping list" of features that I find would solve most
+(if not all) our problems:
 
 1. **Have "strong", randomly generated and impossible to memorize passwords on all our online accounts** (this
   solves password reuse)
