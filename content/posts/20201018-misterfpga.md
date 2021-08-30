@@ -43,10 +43,11 @@ difference is the accessibility to knowledge is vastly superior now than it used
 to come up with a technology that could show images in a two-dimensional plane, I could hardly do better than
 shadow puppetry.
 
-Do you realize how incredibly creative some humans had to be to come up with photography, let alone the
-cathode-ray tube (CRT) television or OLED flat panels? Add in the fact that interactive video games can be played
-using such screens, and that I'm able to picture this phenomenon and share it on the Internet for you to
-see... that's enough to make my head spin. :smile:
+I am always amazed at the inner workings of common household items that, over time, become considered like
+"junk". If we pause for a moment, do you realize how incredibly creative some humans had to be to come up with
+something even as basic as photography, let alone the cathode-ray tube (CRT) television or OLED flat panels?
+Add in the fact that interactive video games can be played using such screens, and that I'm able to picture
+this phenomenon and share it on the Internet for you to see... that's enough to make my head spin. :smile:
 
 {{< figure src="/img/gun-nac-setup.jpg" position="center" caption="It boggles the mind to think how many layers of knowledge were required to get the result pictured here. And this is essentially a toy for kids!" >}}
 
@@ -82,22 +83,47 @@ understand this technology and are generous enough to open-source their work, fo
 
 {{< figure src="/img/my-mister.png" caption="My very own MiSTer from zerohimself, in its 3D-printed case." position="center" >}}
 
-The MiSTer is a completely different beast than products such as the RetroPie, which uses *software* emulation
-instead of *hardware* emulation. Software emulation has been around for decades, and is also fascinating in
-its own way. But hardware emulation based on FPGA is a whole new thing that became mainstream around 2015. I
-like to think of it like the 3D-printing of electronic circuitry. It is a tool that empowers us, and the
-technology is young enough that we don't yet have to fear about its potential misuse. Now is the time to be
-dreamy-eyed about it (I hope I didn't jinx it just now!).
+## Hardware vs Software Emulation
 
-# Is it really accurate?
+A quick word on types of emulation.
 
-In its current stage, most consoles represented on MiSTer are already frighteningly accurate.
+The most common type of emulation (which has been around since the early 90s at least) is *software*
+emulation. This is what the popular RetroPie platform uses, for example.  The MiSTer is a completely different
+beast than products such as the RetroPie, because it relies on *hardware* emulation. Both types of emulation
+run the same ROMs, they just run them differently. As I said, software
+emulation has been around for decades (so it is already very robust), and is also fascinating in its own way.
+Just to prove I'm not a MiSTer fanboy, here's a [blog](http://yetanothergamingblog.blogspot.com/) I started in 2016 to put a spotlight on the
+RetroPie emulation platform. :smile:
+
+Hardware emulation based on FPGA is a whole new thing that became mainstream
+around 2015.  I like to think of it like the 3D-printing of electronic circuitry. It is a tool that empowers
+us: NASA frequently uses it in its machines (though sadly not for video game related objectives).
+
+To sum it up, *hardware* emulation can do things impossible via *software*, and vice versa. One of the
+greatest strengths of software emulation on modern hardware, for example, is to run games from current
+consoles (e.g. Nintendo Switch). However, when it comes to retro games, what really matters most is the
+absence of lag, sound accuracy, accurate clock speed, and (icing on the cake) the possibility to connect to
+retro displays, i.e. CRTs. This is something that the MiSTer is simply more suited to deliver than software
+emulation.
+
+This is not to say that because hardware emulation exists we should stop all work on the software emulation of
+retro games: emulation is a tool, and every use case has different requirements!
+
+# Why the MiSTer's Accuracy Matters
+
+In its current stage, most consoles represented on MiSTer are already frighteningly accurate to their original
+counterparts. In fact, they are so accurate that I'm willing to bet that a majority of retro gaming
+aficionados wouldn't be able to tell if they're playing a MiSTer core or the original hardware when similar
+video connections are used. I know this is a bold statement to make, but trust me, it's that good.
 
 {{< figure src="/img/nullobject-workbench2.jpeg" caption="The workbench of [nullobject](https://twitter.com/nullobject), one of many FPGA developers specializing in reverse engineering arcade games">}}
 
-Since the same electronic circuits are being replicated, the electronic output is also the same. Of course,
-the quality of this replication depends on how detail-oriented FPGA developers want to be. In theory, though,
-the replication could be exact, for all intents and purposes. This means:
+All hype aside, how is this accuracy achieved? With measurements, microscopes, and lots of patience. Most FPGA
+developers go as far as to tracking down original schematics for chips used in original consoles to make sure
+what they output is accurate. Since the
+same electronic circuits are being replicated, the electronic output is also the same. Of course, the quality
+of this replication depends on how detail-oriented FPGA developers want to be. In theory, though, the
+replication could be exact, for all intents and purposes. This means:
 
 * the timings are the same
 * the "lack" of input lag is the same
@@ -108,9 +134,9 @@ What is within our grasp is cycle-accuracy. I'm not just writing this way to daz
 Physics. I have followed an Electronics class during my studies of Physics, and I can assure you that it is a
 *precise* science. We can measure how these circuits behave, we don't have to rely on our eyes and ears to
 approximate the final result. An electronic circuit will behave the same way no matter what is the shape of
-the box that contains it. This also means you won't have to fear about any of your precious original electronics,
-motors or driving belts
-starting to degrade: every time you load a console on an FPGA, it's as if it was fresh from the factory!
+the box that contains it or what sticker you slap on it. As a bonus, this also means you won't have to fear
+about any of your precious original electronics, motors or driving belts starting to degrade: every time you
+load a console on an FPGA, it's as if it was fresh from the factory!
 
 Even more impressive, using FPGA you can switch between different console revisions on the fly (e.g. bigger
 sprite limits to prevent flickering, different color palettes, different sound chips on the Sega Genesis,
@@ -140,7 +166,7 @@ re-solder capacitors.
 
 What if you wanted to display games emulated from a PC to a CRT display? You might have to purchase a DAC to
 convert your digital video signal to an analog signal, or use a VGA signal which will not be the native
-resolution of your game. It quickly can quickly become a mess. With MiSTer, you simply need the right VGA to
+resolution of your game. It can quickly become a mess. With MiSTer, you simply need the right VGA to
 Component cable and a Direct Video Adapter or Analog I/O board and you’re good to go.
 
 Long story short, emulating original systems on the MiSTer is as good, if not better, than playing on original
