@@ -109,7 +109,7 @@ emulation.
 This is not to say that because hardware emulation exists we should stop all work on the software emulation of
 retro games: emulation is a tool, and every use case has different requirements!
 
-# Why the MiSTer's Accuracy Matters
+# Why the MiSTer's accuracy matters
 
 In its current stage, most consoles represented on MiSTer are already frighteningly accurate to their original
 counterparts. In fact, they are so accurate that I'm willing to bet that a majority of retro gaming
