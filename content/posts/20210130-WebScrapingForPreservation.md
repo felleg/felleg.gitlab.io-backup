@@ -184,7 +184,7 @@ And here is the reason we are all here today. On January 19 2021, I have perform
 the available ROM hacks on romhacking.net. Some hacks had their download links removed by their authors, which
 is a shame... But, for the most part, everything of note is here.
 
-[Download today! (5.4 Gb)](https://archive.org/details/rhdn-20210119)
+[Download today! (6.1 Gb)](https://archive.org/details/rhdn-20210914)
 
 As long as my scraper is compatible with RHDN's website (and weak CAPTCHA), I will do my best to keep backing
 up the site's content for everyone's benefit. I believe the work of the ROM hacking community must be preserved
