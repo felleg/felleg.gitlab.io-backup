@@ -199,7 +199,8 @@ message and I'll give you access to my repository.~~
 The wait is over! Eight months after starting this project, I am finally ready to open the source code. You
 can find it here: https://gitlab.com/felleg/rhdn-scraper
 
-I'm looking forward to merge requests! :smile:
+Thanks to the open sourcing of this work, you won't have to wait for me to upload the latest archive. Just run
+the scraper on your PC and get the latest files. I'm looking forward to merge requests! :smile:
 
 # Closing comments
 
