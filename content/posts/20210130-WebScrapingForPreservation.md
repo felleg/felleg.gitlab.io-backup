@@ -199,7 +199,7 @@ message and I'll give you access to my repository.~~
 The wait is over! Eight months after starting this project, I am finally ready to open the source code. You
 can find it here: https://gitlab.com/felleg/rhdn-scraper
 
-I'm looking forward to look at your merge requests! :smile:
+I'm looking forward to merge requests! :smile:
 
 # Closing comments
 
