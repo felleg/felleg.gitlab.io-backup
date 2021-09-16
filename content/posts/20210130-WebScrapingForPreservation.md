@@ -190,9 +190,16 @@ As long as my scraper is compatible with RHDN's website (and weak CAPTCHA), I wi
 up the site's content for everyone's benefit. I believe the work of the ROM hacking community must be preserved
 at all cost. Its history is part of gaming culture and should never be forgotten.
 
-I might open source my scraper someday, but since this is fairly new and I want to keep a low profile to
+# Source to my scraper
+
+~~I might open source my scraper someday, but since this is fairly new and I want to keep a low profile to
 limit the risk of DDoSing RHDN's servers, I will keep it closed for now. If you want the source, send me a
-message and I'll give you access to my repository :smile:
+message and I'll give you access to my repository.~~
+
+The wait is over! Eight months after starting this project, I am finally ready to open the source code. You
+can find it here: https://gitlab.com/felleg/rhdn-scraper
+
+I'm looking forward to look at your merge requests! :smile:
 
 # Closing comments
 
