@@ -15,7 +15,7 @@ tags:
 *Update (20210927): RHDN has made it quite clear that the work discussed in this post has had a negative financial
 impact on their daily operations. Thus, even though I am proud of what I managed to accomplish given my
 skills, I cannot continue working on this project in good conscience. I hope that in time the RHDN community
-will see what outsiders saw in this project: an attempt at transparency and preservation in the rom hacking
+will see what other outsiders saw in this project: an attempt at transparency and preservation in the rom hacking
 world.*
 
 *It is bittersweet to read words in public like "what a dumbass" and "How does a webscraper take 8 months to make?"
