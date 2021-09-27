@@ -1,0 +1,55 @@
+Hi NC!
+
+My name is Félix. I'm a big fan of your website (I have been using it for over 10 years). It literally changed the way I play video games.
+
+I apologize for the long text, I did my best to keep my thoughts short.
+
+In January of 2021, I was looking for a project and decided to create an archive of the content of RHDN. It was a project I did for myself, out of fear the website would unexpectedly disappear at some point in time.  I must admit, it was a great project for me at this point in time. I wrote all about it on my website here: https://felixleger.com/posts/2021/01/web-scraping-for-preservation/
+
+Let me summarize the output of that blog post:
+- I have created a public archive of the hacks, translations and homebrews publicly available on RHDN: https://archive.org/details/rhdn-20210914
+- I have created a script that can automatically create the archive mentioned above.
+
+Why am I contacing you today?
+=============================
+
+Contacting you directly was the final step in this journey for me. From day 1, I didn't want to step on anyone's toes. I know am I walking on a thin line, but at every step I tried to act on the smallest scale possible.
+- I first began by sharing the archive only on the MiSTer community.
+- Then I began accepting contributors on the script who contacted me through my website (currently numbered at 2).
+- Then I opened the source of the script on GitLab (https://gitlab.com/felleg/rhdn-scraper).
+- And now I am contacting you to let you know about it.
+
+I don't know what reaction to expect from you, but out of caution I am expecting fear that your servers will be negatively impacted by this project.  This fear is reasonable, and is the main reason why I am contacting you today.  It is my belief that my scraper will pose no threat to the integrity of RHDN in the way it is currently designed, which is something I suppose is worth discussing.
+
+A quick summary of why I believe this script is safe for your infrastructure:
+- It runs in single thread (downloads 1 hack at a time)
+- By default, the script sleeps for 5 seconds between each download
+- The total size of the archive generated is 6.1 Gb as of September 14
+- When run multiple times, the script skips files that are found locally
+
+Another reasonable fear I'm expecting is that with a complete archive, users would be able to migrate the content to a new website and create competition to your website. I cannot guarantee that this will not happen, but I find this highly unlikely. Your website has been the reference for rom hacks for close to 20 years. All over the internet, recommendations of rom hacks link back to your website. Thus, it is my belief that if this archive is used as the backend for a new website, it would only be if RHDN stopped existing.
+
+Finally, I am expecting annoyment that I did all of this without asking for permission from anyone involved with RHDN. Please understand I didn't expect this project to amount to much in the beginning. When it started working, I kept it under wraps out of fear it would be badly received. I don't want you to feel like I am twisting your arm; I like to believe I am on your side.
+
+Why am I releasing this tool publicly?
+======================================
+
+I believe the two archive releases (20210119, 20210914) are not sufficient to backup the content of your website in the long term.  Meanwhile, I am moving on to new projects and don't plan on maintaining this tool much longer. I want the community to be able to keep benefiting from the peace of mind of having an independent backup even while I am away or dead (God forbid).
+
+What am I asking for?
+=====================
+
+All I want is your blessing to keep this project alive. I am not looking for any more promotion of this tool than the blog post I wrote on my website. Indeed, it is not necessary to have every RHDN user run this script locally to keep a healthy backup alive. However, if as little as 10 random users could run this script on their machine once a day through a cronjob, that might be enough to save the content from any catastrophe.  Eventually, someone could undertake the task of uploading an archive annually like the no-index roms.
+
+I cannot hold this objective in good faith without letting you know about it. I don't want people implicated in this project to feel like thieves. In my view, our projects could not only co-exist, but benefit from each other's existence.
+
+Of course, if you want to break my script, all you have to do is modify your website's template. In my script, you can find the name of all objects retrieved by beautifulsoup and simply rename them to something else on your end. An even easier way to block all of this would be to implement a Google-like CAPTCHA instead of the password system currently in place. I hope you will not resort to these methods and instead agree that all this script aims to do is keep the RHDN content safe forever and, by extension, encourage people to keep using RHDN.
+
+Should you have any unaddressed concerns...
+==========================================
+
+I would be more than happy to meet with you and answer any specific questions you might have regarding my work. When possible, I am also willing to compromise should you have any suggestion. As always, the future of this hobby is more or less in your hands. :-)
+
+Thank you for your time, and have a nice day.
+
+-Félix
