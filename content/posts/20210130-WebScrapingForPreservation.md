@@ -12,6 +12,19 @@ tags:
   - romhacking
 ---
 
+*Update (20210927): RHDN has made it quite clear that the work discussed in this post has had a negative financial
+impact on their daily operations. Thus, even though I am proud of what I managed to accomplish given my
+skills, I cannot continue working on this project in good conscience. I hope that in time the RHDN community
+will see what outsiders saw in this project: an attempt at transparency and preservation in the rom hacking
+world.*
+
+*It is bittersweet to read words in public like "what a dumbass" and "How does a webscraper take 8 months to make?"
+(hint: look at the commits for proof that it didn't). I wish I could find a way to discuss this work with the
+community without adding fuel to the fire. Oh well, I'll get over it as I move on to other projects. This has
+been a great learning experience overall.*
+
+---
+
 You might have never heard about it, but [romhacking.net](https://www.romhacking.net) (or RHDN, for short) is
 a treasured website in the retro gaming community, and has been for quite some time. The website serves
 essentially as a global repository for ROM hacks, and is home to a wildly interesting community. While it is
@@ -190,28 +203,43 @@ As long as my scraper is compatible with RHDN's website (and weak CAPTCHA), I wi
 up the site's content for everyone's benefit. I believe the work of the ROM hacking community must be preserved
 at all cost. Its history is part of gaming culture and should never be forgotten.
 
-# Source to my scraper
+# Source to my scraper (and some drama)
 
 ~~I might open source my scraper someday, but since this is fairly new and I want to keep a low profile to
 limit the risk of DDoSing RHDN's servers, I will keep it closed for now. If you want the source, send me a
 message and I'll give you access to my repository.~~
 
-The wait is over! Eight months after starting this project, I am finally ready to open the source code. You
-can find it here: https://gitlab.com/felleg/rhdn-scraper
+The wait is over! Eight months after finishing this project, I am finally ready to open the source code.
+Unfortunately, a few days after the code has been made public, security has been (slightly) upgraded on RHDN
+and made this scraper inefficient in its current form. You can the latest version here:
+https://gitlab.com/felleg/rhdn-scraper
 
-Thanks to the open sourcing of this work, you won't have to wait for me to upload the latest archive. Just run
-the scraper on your PC and get the latest files. I'm looking forward to merge requests! :smile:
+Here is a timeline of how things unfolded:
+
+- Jan 2021: First working version of the scraper and first archive made publicly available: https://archive.org/details/rhdn-20210119
+- Sept 2021: Second archive made publicly available: https://archive.org/details/rhdn-20210914. Open sourced
+  the scraper.
+- Sept 23 2021: Contacted Nightcrawler of RHDN to let them know of the project and ask for their blessing.
+- Sept 25 2021: Received negative response, website template modifed to heighten security (downloads behing
+  accounts).
+- Sept 26 2021: Disabled scraper on master branch to prevent useless requests.
 
 # Closing comments
 
 This was a wild ride for me. This is probably the biggest contribution I will do for retro gaming in my
 lifetime. The project hit a sweet spot in terms of difficulty and public appeal. I am glad that my work got a
-positive response in the hacking community, but I am ecstatic that this catalog can finally be considered "saved". The more people download the archive link I posted above, the more likely it is that these hacks will
+positive response in the hacking community, but I am ecstatic that this catalog can finally be considered
+"saved". The more people download the archive link I posted above, the more likely it is that these hacks will
 live forever.
 
 I especially want to thank my friend Mathieu who helped me debug part of this project. I was having a tough
 time at fooling the CAPTCHA, and he noticed that RHDN's servers require us to send a "Referer" value in the
 POST header to validate the download. Very strange, but I am glad that it was an easy fix. :smile:
+
+It saddens me that RHDN doesn't seem to agree on the urgency of making bulk downloads available.
+As of this writing, the scraper has been de-activated and further developments have been halted. I hope they
+have a contingency plan in case something goes wrong with their servers or their administration. I wish them
+the best of luck, for the sake of the community they have built over the years.
 
 ## Some recommended ROM hacks and homebrews
 
