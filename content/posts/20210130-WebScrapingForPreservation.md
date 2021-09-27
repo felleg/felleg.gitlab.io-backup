@@ -227,19 +227,20 @@ Here is a timeline of how things unfolded:
 # Closing comments
 
 This was a wild ride for me. This is probably the biggest contribution I will do for retro gaming in my
-lifetime. The project hit a sweet spot in terms of difficulty and public appeal. I am glad that my work got a
-positive response in the hacking community, but I am ecstatic that this catalog can finally be considered
-"saved". The more people download the archive link I posted above, the more likely it is that these hacks will
-live forever.
+lifetime. It might not seem like much from some people's point of view, but to me the project hit a sweet spot
+in terms of difficulty and public appeal. I am glad that my work got a positive response in the hacking
+community, but I am ecstatic that this catalog can finally be considered "saved". The more people download the
+archive link I posted above, the more likely it is that these hacks will live forever.
 
 I especially want to thank my friend Mathieu who helped me debug part of this project. I was having a tough
 time at fooling the CAPTCHA, and he noticed that RHDN's servers require us to send a "Referer" value in the
 POST header to validate the download. Very strange, but I am glad that it was an easy fix. :smile:
 
-It saddens me that RHDN doesn't seem to agree on the urgency of making bulk downloads available.
-As of this writing, the scraper has been de-activated and further developments have been halted. I hope they
-have a contingency plan in case something goes wrong with their servers or their administration. I wish them
-the best of luck, for the sake of the community they have built over the years.
+It saddens me that RHDN doesn't seem to agree on the urgency of making bulk downloads like this available for
+archival purposes. As of this writing, the scraper has been de-activated and further developments have been
+halted. I hope they have a contingency plan in case something goes wrong with their servers or their
+administration. To my limited knowledge, such a plan has never been made public. I wish them the best of luck,
+for the sake of the community they have built over the years.
 
 ## Some recommended ROM hacks and homebrews
 
