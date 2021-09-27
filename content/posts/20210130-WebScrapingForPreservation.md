@@ -220,7 +220,7 @@ Here is a timeline of how things unfolded:
 - Sept 2021: Second archive made publicly available: https://archive.org/details/rhdn-20210914. Open sourced
   the scraper.
 - Sept 23 2021: Contacted Nightcrawler of RHDN to let them know of the project and ask for their blessing.
-- Sept 25 2021: Received negative response, website template modifed to heighten security (downloads behing
+- Sept 25 2021: Received negative response, website template modified to heighten security (downloads behind
   accounts).
 - Sept 26 2021: Disabled scraper on master branch to prevent useless requests.
 
