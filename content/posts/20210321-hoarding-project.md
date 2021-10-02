@@ -40,7 +40,8 @@ game lists, organized by the historical relevance, or modern value of games. In 
 their shoot 'em up guides. It was thanks to this website that I learned about [Treasure Co
 Ltd.](https://en.wikipedia.org/wiki/Treasure_(company)), who is now arguably my favorite video game developer.
 For a few years, getting to play games like Radiant Silvergun and Ikaruga were my biggest ambitions, back when
-they were only available on their original hardware. I remember daydreaming about what it felt like to play
+they were only available on their original hardware. Gotta imagine how peaceful life was back then to have this kind of
+ambition... I remember daydreaming about what it felt like to play
 Radiant Silvergun, since I was unable to emulate it. At over $200 for a copy, it was my Mt. Everest.
 
 {{< figure src="/img/hoarding-project/racketboy-guides.png" position="center" caption="To anyone new to retro gaming, racketboy.com is the absolute best reference to begin your journey." >}}
