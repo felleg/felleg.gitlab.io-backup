@@ -1,30 +1,22 @@
 <!DOCTYPE html>
 <html>
 <head>
+<link rel="stylesheet" href="main.css">
 <script src="//cdnjs.cloudflare.com/ajax/libs/seedrandom/3.0.5/seedrandom.min.js"></script>
-<style type="text/css">
-progress[value] {
-   width: 100%;
-   height: 100px;
-}
-h1 {
-   margin: 35px;
-}
-</style>
 </head>
 <body>
 
-<h1 id="greeting"></h1>
+<h1 id="greeting"></h1><br>
 
-<h1 id="ex1" style="color:red;"></h1>
-<h1 id="ex2" style="color:purple;"></h1>
-<h1 id="ex3" style="color:green;"></h1>
-<h1 id="ex4" style="color:blue;"></h1>
+<label class="container"><b><p id="ex1" style="color:red;"></p></b><input type="checkbox"><span class="checkmark"></span></label>
+<label class="container"><b><p id="ex2" style="color:purple;"></p></b><input type="checkbox"><span class="checkmark"></span></label>
+<label class="container"><b><p id="ex3" style="color:green;"></p></b><input type="checkbox"><span class="checkmark"></span></label>
+<label class="container"><b><p id="ex4" style="color:blue;"></p></b><input type="checkbox"><span class="checkmark"></span></label>
 
 <script src="workout.js"></script>
 
 <progress value="0" max="1200" id="pbar" ></progress><br>
-<center><h2 id="counting">Get Ready!</h2></center
+<center><h2 id="counting">Get Ready!</h2></center>
 
 </body>
 </html>
