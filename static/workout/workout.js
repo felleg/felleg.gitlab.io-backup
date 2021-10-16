@@ -103,5 +103,13 @@ document.getElementById("ex4").innerHTML = ex4;
       if(reverse_counter <= 0)
          clearInterval(downloadTimer);
       document.getElementById("counting").innerHTML= Math.floor(reverse_counter / 60) +":"+ String(reverse_counter%60).padStart(2,'0');
+
+      // Slowly reveal exercices
+      for (let i=0; i<4; i++) {
+         if (reverse_counter < 1200-60*i) {
+            document.getElementById("e"+(i+1).toString()).style = "display:block;"
+         }
+      }
+
    },1000);
 })();
