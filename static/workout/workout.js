@@ -102,6 +102,6 @@ document.getElementById("ex4").innerHTML = ex4;
       document.getElementById("pbar").value = 1200 - --reverse_counter;
       if(reverse_counter <= 0)
          clearInterval(downloadTimer);
-      document.getElementById("counting").innerHTML= Math.floor(reverse_counter / 60) +":"+ reverse_counter%60;
+      document.getElementById("counting").innerHTML= Math.floor(reverse_counter / 60) +":"+ String(reverse_counter%60).padStart(2,'0');
    },1000);
 })();
