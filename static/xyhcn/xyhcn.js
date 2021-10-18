@@ -72,7 +72,7 @@ function swapColors(i,j) {
 var x = 5;
 var y = 5;
 var h = 0;
-var c = 2 + randint(7);
+var c = 2 + randint(8);
 
 let table = document.querySelector("table");
 generateTable(table);
