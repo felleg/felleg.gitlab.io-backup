@@ -113,7 +113,7 @@ document.getElementById("ex5").innerHTML = ex5;
 
       // Slowly reveal exercices
       for (let i=0; i<5; i++) {
-         if (reverse_counter < 1200-i) {
+         if (reverse_counter < 1200-60*i) {
             document.getElementById("e"+(i+1).toString()).style = "display:block;"
          }
       }
