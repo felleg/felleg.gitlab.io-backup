@@ -85,8 +85,14 @@ while (ex2 == ex1) {
    ex2 = cat123[Math.floor(Math.random() * cat123.length)];
 }
 
-var ex3 = stretch[Math.floor(Math.random() * stretch.length)];
-var ex4 = meditation[Math.floor(Math.random() * meditation.length)];
+var ex3 = null;
+
+while (ex3 == null || (ex3 == ex2 || ex3 == ex1)) {
+   ex3 = cat123[Math.floor(Math.random() * cat123.length)];
+}
+
+var ex4 = stretch[Math.floor(Math.random() * stretch.length)];
+var ex5 = meditation[Math.floor(Math.random() * meditation.length)];
 
 // Show selected values on screen
 document.getElementById("greeting").innerHTML = greet;
@@ -94,6 +100,7 @@ document.getElementById("ex1").innerHTML = ex1;
 document.getElementById("ex2").innerHTML = ex2;
 document.getElementById("ex3").innerHTML = ex3;
 document.getElementById("ex4").innerHTML = ex4;
+document.getElementById("ex5").innerHTML = ex5;
 
 // Progress bar
 (function(){
@@ -105,8 +112,8 @@ document.getElementById("ex4").innerHTML = ex4;
       document.getElementById("counting").innerHTML= Math.floor(reverse_counter / 60) +":"+ String(reverse_counter%60).padStart(2,'0');
 
       // Slowly reveal exercices
-      for (let i=0; i<4; i++) {
-         if (reverse_counter < 1200-60*i) {
+      for (let i=0; i<5; i++) {
+         if (reverse_counter < 1200-i) {
             document.getElementById("e"+(i+1).toString()).style = "display:block;"
          }
       }
