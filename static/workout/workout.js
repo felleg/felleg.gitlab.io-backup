@@ -94,13 +94,21 @@ while (ex3 == null || (ex3 == ex2 || ex3 == ex1)) {
 var ex4 = stretch[Math.floor(Math.random() * stretch.length)];
 var ex5 = meditation[Math.floor(Math.random() * meditation.length)];
 
-// Show selected values on screen
+// Set exercise values on screen
 document.getElementById("greeting").innerHTML = greet;
 document.getElementById("ex1").innerHTML = ex1;
 document.getElementById("ex2").innerHTML = ex2;
 document.getElementById("ex3").innerHTML = ex3;
 document.getElementById("ex4").innerHTML = ex4;
 document.getElementById("ex5").innerHTML = ex5;
+
+// Print exercises in console
+console.log(greet);
+console.log(ex1);
+console.log(ex2);
+console.log(ex3);
+console.log(ex4);
+console.log(ex5);
 
 // Progress bar
 (function(){
