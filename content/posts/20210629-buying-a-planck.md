@@ -5,6 +5,9 @@ cover: "img/my-planck.jpg"
 toc: false
 tags:
   - keyboard
+aliases : [
+   "/posts/2021/06/buying-a-planck/"
+]
 ---
 
 It doesn't take much during a pandemic to generate excitement, This is the story of me purchasing an OLKB
