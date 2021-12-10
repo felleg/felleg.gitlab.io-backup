@@ -52,18 +52,18 @@ var warmup = [
 ]
 
 // Category 4
-var stretch = [
+var calm = [
+   "Ouverture et fermeture du torse 15 reps (on inspire vers le plafond, on forme une boule en expirant)",
+   "Respiration profonde assis au sol, position zen 15 reps (les épaules vers l'arrière)",
+   "Respiration profonde assis au sol, position en croix 15 reps (les main sur la cuisse devant nous)",
    "Salutation soleil 10 reps",
    "Esquio-jambier 15 reps (assis au sol, 1 sec, on essaie de toucher les pieds)",
    "Étirements des jambes en lunges 15 reps environ (on déplace me genoux au besoin)",
 ]
 
 // Category 5
-var meditation = [
-   "Ouverture et fermeture du torse 15 reps (on inspire vers le plafond, on forme une boule en expirant)",
-   "Respiration profonde assis au sol, position zen 15 reps (les épaules vers l'arrière)",
-   "Respiration profonde assis au sol, position en croix 15 reps (les main sur la cuisse devant nous)",
-]
+//var meditation = [
+//]
 
 // Get today's date for random seed
 var today = new Date();
@@ -91,8 +91,8 @@ while (ex3 == null || (ex3 == ex2 || ex3 == ex1)) {
    ex3 = cat123[Math.floor(Math.random() * cat123.length)];
 }
 
-var ex4 = stretch[Math.floor(Math.random() * stretch.length)];
-var ex5 = meditation[Math.floor(Math.random() * meditation.length)];
+var ex4 = calm[Math.floor(Math.random() * calm.length)];
+//var ex5 = meditation[Math.floor(Math.random() * meditation.length)];
 
 // Set exercise values on screen
 document.getElementById("greeting").innerHTML = greet;
@@ -100,7 +100,7 @@ document.getElementById("ex1").innerHTML = ex1;
 document.getElementById("ex2").innerHTML = ex2;
 document.getElementById("ex3").innerHTML = ex3;
 document.getElementById("ex4").innerHTML = ex4;
-document.getElementById("ex5").innerHTML = ex5;
+//document.getElementById("ex5").innerHTML = ex5;
 
 // Print exercises in console
 console.log(greet);
