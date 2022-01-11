@@ -2,6 +2,7 @@ baseURL = "https://felixleger.com"
 title   = "Félix Léger"
 languageCode = "en-us"
 theme = "hello-friend-ng"
+pluralizelisttitles = "false"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
