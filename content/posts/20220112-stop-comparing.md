@@ -7,6 +7,11 @@ tags:
   - motivational
 ---
 
+_(Spoiler alert: I wrote this text for myself to help me learn how to stop comparing myself to others. Indeed,
+I compare myself to others more than is probably recommended!)_
+
+---
+
 Yesterday, I was spending some time on one of the websites I adored most during my youth:
 [flashflashrevolution.com](https://flashflashrevolution.com). It was one of my frequent nostalgia trips, where
 I like to reminisce about the "good old days". In particular, the good old days of "rhythm gaming".
