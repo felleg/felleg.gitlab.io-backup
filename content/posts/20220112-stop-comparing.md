@@ -66,7 +66,7 @@ I still look at these results in disbelief. I can hardly believe that, out of th
 content on the website over close to 20 years, I sit in 16th place. It kind of required me to rethink all the
 self-doubts and insecurities I might have felt throughout the years.
 
-# Why I think comparing yourself to others is a bad idea
+# Comparing yourself to others is shooting yourself in the foot
 
 The title of this section might lead someone to believe I have mastered the art of "not comparing oneself to
 others". Nothing could be farther from the truth. The reality is that, now more than ever, I struggle to keep
