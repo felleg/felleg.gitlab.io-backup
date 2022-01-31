@@ -29,7 +29,7 @@ var abdos = [
    "Deadbugs 10-12 reps",
    "Lève jambes pieds-collés 10-12 reps",
    "Battre des pieds 10secs (5 sets)",
-   "Planche 10sec (5 sets)",
+   "Planche 20sec (5 sets)",
    "Planche-côté 10sec (5 sets)",
 ]
 
