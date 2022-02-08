@@ -2,8 +2,6 @@
 title: "20220118-fake-it-till-you-make-it"
 date: 2022-01-18T18:39:04-05:00
 cover:
-tags:
-  - untagged
 ---
 
 Cher Journal Bad Boy,
