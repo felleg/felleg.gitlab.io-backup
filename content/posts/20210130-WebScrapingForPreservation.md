@@ -276,4 +276,4 @@ For more suggestions, have a look at this video from My Life in Gaming: [Useful 
 Finally, here are **even more** suggestions: [Reddit's ROM Hack best-of
 list](https://www.reddit.com/r/emulation/comments/8nw1vp/a_rom_hack_best_of_list/)
 
-{{< figure src="/img/lawnmower.png" position="center" caption="Have fun, may you make interesting discoveries!" >}}
+{{< figure src="/img/lawnmower.png" position="center" caption="Have fun, may you make interesting discoveries! ([Lawn Mower](https://www.romhacking.net/homebrew/42/))" >}}
