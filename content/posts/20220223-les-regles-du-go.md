@@ -2,7 +2,7 @@
 title: "Les Règles du Go"
 date: 2022-02-23T10:55:29-05:00
 toc: false
-cover:
+cover: img/go-game-2022.png
 tags:
   - français
   - go
@@ -13,7 +13,8 @@ réussir à synthétiser ces règles pour les simplifier au maximum, de sorte qu
 rapidement commencer à jouer après les avoir lues. Voici donc les règles du Go, expliquées à ma façon:
 
 > 1. Le Go est un jeu où deux joueurs s'affrontent. Un des joueurs utilise les pierres noires, et l'autre
->    utilise les pierres blanches.
+>    utilise les pierres blanches. Le plateau de jeu est une grille, typiquement de dimensions 9x9, 13x13 ou
+>    19x19.
 > 1. Noir joue d'abord. Les joueurs alternent en mettant une pierre de leur couleur sur les intersections (y compris celles des côtés et les coins). Un joueur peut passer son tour.
 > 1. Une pierre déposée sur le jeu ne peut jamais se déplacer.
 > 1. **Définition**: le concept de "liberté" au Go correspond aux lignes qui "émanent" d'une pièce ou d'un groupe.
