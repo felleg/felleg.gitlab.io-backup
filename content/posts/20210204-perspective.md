@@ -6,7 +6,7 @@ cover:
 tags:
   - histoire vraie
   - true story
-  - francais
+  - français
   - feel good
 ---
 
