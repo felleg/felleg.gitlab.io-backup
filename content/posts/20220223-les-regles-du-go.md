@@ -27,5 +27,5 @@ rapidement commencer à jouer après les avoir lues. Voici donc les règles du G
 > {{< figure src="/img/go-points.png" position="center" caption="Dans cette image, Noir a 21 points (triangles) et Blanc a 29 points (cercles). La zone dans le coin inférieur droit (X) est nulle car elle est entourée par Noir et Blanc." >}}
 
 
-Évidemment, cette formulation des règles omettent de mentionner quelques nuances qui deviennent importantes lorsqu'un certain
+Évidemment, cette formulation des règles omet de mentionner quelques nuances qui deviennent importantes lorsqu'un certain
 niveau de jeu est atteint, mais je crois que pour des débutants c'est un bon début!
