@@ -29,3 +29,6 @@ rapidement commencer à jouer après les avoir lues. Voici donc les règles du G
 
 Évidemment, cette formulation des règles omet de mentionner quelques nuances qui deviennent importantes lorsqu'un certain
 niveau de jeu est atteint, mais je crois que pour des débutants c'est un bon début!
+
+(P.S.: Si vous trouvez ces règles trop compliquées, je vous invite à lire [les règles du jeu
+d'échec](https://fr.wikipedia.org/wiki/R%C3%A8gles_du_jeu_d%27%C3%A9checs) à titre de comparaison!)
