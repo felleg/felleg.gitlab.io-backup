@@ -40,7 +40,7 @@ niveau de jeu est atteint, mais je crois que pour des dÃ©butants c'est un bon dÃ
 ---
 
 # English Version
-Here is a concise statement of the rules of Go, provided by James Davies ([source](https://en.wikipedia.org/wiki/Rules_of_Go#Concise_statement)). It is probably even more accurate than my own statement of the rules:
+Here is a concise statement of the rules of Go, provided by James Davies ([source](https://en.wikipedia.org/wiki/Rules_of_Go#Concise_statement)). It is probably even more accurate than my own statement of the rules (though less explicit):
 
 > 1. The board is empty at the onset of the game (unless players agree to place a handicap).
 > 1. Black makes the first move, after which White and Black alternate.
