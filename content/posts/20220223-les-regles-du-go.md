@@ -2,7 +2,6 @@
 title: "Les Règles du Go"
 date: 2022-02-23T10:55:29-05:00
 toc: false
-cover: img/go-game-2022.png
 tags:
   - français
   - go
@@ -32,6 +31,9 @@ rapidement commencer à jouer après les avoir lues. Voici donc les règles du G
 
 Évidemment, cette formulation des règles omet de mentionner quelques nuances qui deviennent importantes lorsqu'un certain
 niveau de jeu est atteint, mais je crois que pour des débutants c'est un bon début!
+
+{{< figure src="/img/go-game-2022.png" position="center" caption="" >}}
+
 
 ---
 
