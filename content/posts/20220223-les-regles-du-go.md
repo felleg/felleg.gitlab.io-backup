@@ -1,5 +1,5 @@
 ---
-title: "Les Règles Du Go"
+title: "Les Règles du Go"
 date: 2022-02-23T10:55:29-05:00
 toc: false
 cover:
@@ -19,11 +19,13 @@ rapidement commencer à jouer après les avoir lues. Voici donc les règles du G
 > 1. **Définition**: le concept de "liberté" au Go correspond aux lignes qui "émanent" d'une pièce ou d'un groupe.
 >    Par exemple, dans l'image ci-dessous, la pierre blanche possède 4 libertés (identifiées par les
 >    triangles). Le groupe de pierres noires possède 7 libertés.
-{{< figure src="/img/go-liberties.png" position="center" caption="" >}}
+> {{< figure src="/img/go-liberties.png" position="center" caption="" >}}
 > 1. Il est possible de capturer un groupe adverse en l'entourant (i.e. mettre une pierre adverse sur toutes ses "libertés"). Un groupe capturé est retiré du jeu et contribuera plus tard aux points du joueur adverse.
 > 1. La partie se termine quand les deux joueurs passent leur tour de façon consécutive, ou qu'un des deux joueurs abandonne.
 > 1. À la fin de la partie, s'il reste certains groupes qui ne seraient pas capables de survivre une attaque adverse, ceux-ci deviennent automatiquement capturés. En cas de doute, la partie reprend.
 > 1. On compte ses points en additionnant les intersections entourées exclusivement par notre couleur de pierres avec le nombre de pierres qu'on a capturées à l'autre joueur. Le joueur avec le plus de points remporte la partie.
+> {{< figure src="/img/go-points.png" position="center" caption="Dans cette image, Noir a 21 points (triangles) et Blanc a 29 points (cercles). La zone dans le coin inférieur droit (X) est nulle car elle est entourée par Noir et Blanc." >}}
 
-(Évidemment, cette formulation des règles omettent de mentionner quelques nuances qui deviennent importantes lorsqu'un certain
-niveau de jeu est atteint, mais je crois que pour des débutants c'est un bon début!)
+
+Évidemment, cette formulation des règles omettent de mentionner quelques nuances qui deviennent importantes lorsqu'un certain
+niveau de jeu est atteint, mais je crois que pour des débutants c'est un bon début!
