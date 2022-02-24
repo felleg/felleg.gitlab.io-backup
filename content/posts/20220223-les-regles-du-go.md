@@ -25,7 +25,7 @@ rapidement commencer à jouer après les avoir lues. Voici donc les règles du G
 > 1. Il est possible de capturer un groupe adverse en l'entourant (i.e. mettre une pierre adverse sur toutes ses "libertés"). Un groupe capturé est retiré du jeu et contribuera plus tard aux points du joueur adverse.
 > 1. La partie se termine lorsque les deux joueurs passent leur tour de façon consécutive, ou qu'un des deux joueurs abandonne la partie.
 >     - Si la partie se termine parce que les joueurs ont passé leur tour consécutivement, on identifie les groupes qui sont installés dans une zone adverse. Les groupes qui ne seraient pas capables de survivre une attaque adverse sont automatiquement capturés. En cas de doute, la partie reprend au tour du joueur qui a passé son tour en premier.
-> {{< figure src="/img/auto-capture.png" position="center" caption="Si la partie illustrée est terminée, les 3 pierres noires marquées d'un X sont automatiquement capturées par Blanc." >}}
+> {{< figure src="/img/auto-capture.png" position="center" caption="Cette partie étant terminée, les 3 pierres noires marquées d'un X sont automatiquement capturées par Blanc." >}}
 >
 > 1. On compte ses points en additionnant les intersections entourées exclusivement par notre couleur de pierres avec le nombre de pierres qu'on a capturées à l'autre joueur. Le joueur avec le plus de points remporte la partie.
 > {{< figure src="/img/go-points.png" position="center" caption="Dans cette image, Noir a 21 points (triangles) et Blanc a 29 points (cercles). La zone dans le coin inférieur droit (X) est nulle car elle est entourée par Noir et Blanc." >}}
