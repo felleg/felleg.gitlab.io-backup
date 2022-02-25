@@ -21,9 +21,11 @@
             {{- end }}
         </div>
         <h1>Featured Posts</h1>
+          <ul>
           {{ range where .Site.Pages "Params.featured" "true" }}
-          <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a><br>
+          <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
           {{ end }}
+          </ul>
 
     </main>
 {{ end }}
