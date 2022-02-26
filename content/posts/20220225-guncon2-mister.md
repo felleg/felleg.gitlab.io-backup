@@ -11,7 +11,7 @@ tags:
   - gaming
   - retro
   - featured
-description: "Gaming preservation got a serious boost with the inclusion of GunCon 2 support for the MiSTer FPGA project."
+description: "Gaming preservation just got a serious boost with the inclusion of GunCon 2 support for the MiSTer FPGA project."
 ---
 
 Not more than two weeks ago, a major milestone was achieved for the MiSTer FPGA project:
