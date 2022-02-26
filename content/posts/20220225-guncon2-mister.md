@@ -141,7 +141,7 @@ world of FPGA gaming for video game preservation are immense:
 
 I do not want these geniuses suffer or live in fear, let alone die. I do not want any civilian to live the consequences of yet another war.
 MiSTer is an international project that gathers people from everywhere; the maintainer of the MiSTer project (Sorgelig) is
-Russian himself. This is truly an international project. It is a shame that people have to give up
+Russian himself. It is a shame that people have to give up
 on a passion that brings joy to the world because they have to literally flee death.
 
 Another way to phrase this is to realize that even though the MiSTer project is
