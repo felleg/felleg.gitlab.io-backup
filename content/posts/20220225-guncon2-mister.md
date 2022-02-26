@@ -10,6 +10,7 @@ tags:
   - video-games
   - gaming
   - retro
+  - featured
 description: "Gaming preservation got a serious boost with the inclusion of GunCon 2 support for the MiSTer FPGA project."
 ---
 

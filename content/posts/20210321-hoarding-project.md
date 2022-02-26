@@ -9,6 +9,7 @@ tags:
   - growing up
   - gaming
   - mental health
+  - featured
 ---
 
 Those that know me personally know that I have been collecting video games (among other things) for a long

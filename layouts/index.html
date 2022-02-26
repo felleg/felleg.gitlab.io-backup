@@ -20,9 +20,9 @@
                 </div>
             {{- end }}
         </div>
-        <h1>Featured Posts</h1>
+        <h1>Latest Featured Posts</h1>
           <ul>
-          {{ range where .Site.Pages "Params.featured" "true" }}
+          {{ range first 13 (where .Site.Pages "Params.featured" "true") }}
           <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
           {{ end }}
           </ul>

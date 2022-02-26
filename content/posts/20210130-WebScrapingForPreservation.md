@@ -10,6 +10,7 @@ tags:
   - python
   - rom hacks
   - romhacking
+  - featured
 ---
 
 *Update (20210927): RHDN has made it quite clear that the work discussed in this post has had a negative financial

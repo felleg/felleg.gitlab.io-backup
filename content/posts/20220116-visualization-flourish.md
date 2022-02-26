@@ -5,6 +5,7 @@ toc: false
 cover:
 tags:
   - visualization
+  - featured
 ---
 
 I made an animated visualization of the analysis I made in my earlier post [Stop Comparing Yourself to

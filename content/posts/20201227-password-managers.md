@@ -8,6 +8,7 @@ tags:
   - password
   - security
   - best practices
+  - featured
 aliases : [
    "/posts/2020/12/password-managers/"
 ]
