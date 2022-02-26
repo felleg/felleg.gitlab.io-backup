@@ -2,9 +2,11 @@
 title: "Stop Comparing Yourself to Others"
 date: 2022-01-12T09:47:50-05:00
 toc: false
+featured: "true"
 cover:
 tags:
   - motivational
+  - featured
 ---
 
 _(Spoiler alert: I wrote this text for myself to help me learn how to stop comparing myself to others. Indeed,

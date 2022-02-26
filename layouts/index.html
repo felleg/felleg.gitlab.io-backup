@@ -22,9 +22,10 @@
         </div>
         <h1>Latest Featured Posts</h1>
           <ul>
-          {{ range first 13 (where .Site.Pages "Params.featured" "true") }}
+          {{ range first 12 (where .Site.Pages "Params.featured" "true") }}
           <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
           {{ end }}
+          <li><span style="color:#4d4d4d"><a href="tags/featured">(Full list)</a></p></li>
           </ul>
 
     </main>
