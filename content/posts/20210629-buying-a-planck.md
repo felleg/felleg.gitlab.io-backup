@@ -3,8 +3,10 @@ title: "Buying a Planck Keyboard"
 date: 2021-06-29T17:59:47-04:00
 cover: "img/my-planck.jpg"
 toc: false
+featured: "true"
 tags:
   - keyboard
+  - featured
 aliases : [
    "/posts/2021/06/buying-a-planck/"
 ]
