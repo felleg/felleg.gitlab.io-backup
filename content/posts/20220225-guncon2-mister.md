@@ -125,7 +125,7 @@ midst of all this recent excitement, yesterday the President of Russia Vladimir 
 declared war on Ukraine and launched attacks on civilians. Two of the best FPGA developers
 in the scene right now, Krikzz and srg320, live in Ukraine near the attacks. Although
 they have not directly worked on GunCon 2 support, their respective contributions in the
-world of FPGA gaming for video game preservation is immense:
+world of FPGA gaming for video game preservation are immense:
 - Krikzz was one of the pioneers of FPGA gaming with his [line of
   everdrives](https://krikzz.com/our-products/). He has been at it before the MiSTer
   project had even begun. He is constantly pushing firmware updates to support his
