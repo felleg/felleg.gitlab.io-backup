@@ -144,7 +144,7 @@ MiSTer is an international project that gathers people from everywhere; the main
 Russian himself. It is a shame that people have to give up
 on a passion that brings joy to the world because they have to literally flee death.
 
-Another way to phrase this is to realize that war has an impact on everything, even quintessentially niche like MiSTer. What's more, the people of Ukraine are stuck in a war they have not chosen.
+Another way to phrase this is to realize that war has an impact on everything, even quintessentially niche projects like MiSTer. What's more, the people of Ukraine are stuck in a war they have not chosen.
 
 {{< figure src="/img/krikzz-war.png" position="center" caption="" >}}
 
