@@ -133,7 +133,7 @@ world of FPGA gaming for video game preservation are immense:
   customers.
 - Srg320 is currently working on a Sega Saturn core for the MiSTer, which many developers
   thought would not be feasible. He is a wizard in this regard. He has also been
-  contributing to an impressive live of cores for the MiSTer project:
+  contributing to an impressive line of cores for the MiSTer project:
    - Super Nintendo
    - Sega Genesis
    - Sega CD
