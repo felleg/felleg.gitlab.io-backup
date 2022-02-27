@@ -111,7 +111,9 @@ feature. :smile:
 
 
 Note: You can connect your GunCon 2 to the composite signal exiting the MiSTer while still
-using the S-Video signal
+using the S-Video signal. This is what I do to get the best picture quality on my Commodore 1702 monitor,
+since the composite signal from Antonio Villena's adaptor creates annoying "dot crawl" patterns on the screen
+due to mismatched timings.
 
 {{< figure src="/img/guncon-mister/s-video-adapter-commodore.jpg" position="center" caption="A Y-splitter to use S-Video on a Commodore 1702 monitor, [link to buy](http://herculesworkshop.com/cgi-bin/p/awtp-product.cgi?d=hercules-workshop&item=76537)." >}}
 
