@@ -149,7 +149,7 @@ Another way to phrase this is to realize that war has an impact on everything, e
 {{< figure src="/img/krikzz-war.png" position="center" caption="" >}}
 
 
-The MiSTer project shows that collaboration allows great things to happen. We are all
+The MiSTer project shows that collaboration allows seemingly impossible challenges to be overcome. We are all
 human and we all need each other in order to make incredible things happen. It is a shame
 to have war in this day and age. I hope everyone in Ukraine will be alright and that this
 conflict will be solved soon. I can only observe from my distant vantage point. My heart
