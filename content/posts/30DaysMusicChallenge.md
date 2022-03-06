@@ -38,7 +38,7 @@ also introduced me to a video game developer that would also become my favorite 
 Fun fact: you cannot hear the full version of this song during the actual title screen because the demo mode
 launches too early. Instead, you must head to the sound test menu if you want to hear the full piece.
 
-{{< youtube L8Azf_48jew >}}
+{{< youtube F32IwXLhC4Y >}}
 
 # Day 02: Opening level - Kingdom of Zebulos (Rocket Knight Adventures)
 In my opinion, the first level in a video game is its most important. It has to leave an impression on the
@@ -48,8 +48,7 @@ impression, thanks in no small part to its amazing soundtrack.
 
 Full disclosure, this is my favorite platformer of all time.
 
-(Warning: audio levels in this video are unusually high)
-{{< youtube jGxx0YzbwFM >}}
+{{< youtube zg6NL36CbRQ >}}
 
 # Day 03: 8-bit - Artificial Intelligence Bomb (8Bit Music Power Final)
 
@@ -112,7 +111,7 @@ is only accessible after roughly 5 hours of gameplay (when you know what you're 
 the pace of the game. To hear this airy theme as the world opens up before you is just awesome. Despite all
 its flaws, Final Fantasy VII is awesome.
 
-{{< youtube 6UARM4q7hHU >}}
+{{< youtube R2hG6naMJd4 >}}
 
 # Day 06: Makes me feel relaxed - Last Wave (Out Run)
 
@@ -148,7 +147,7 @@ which is an on-rails shooter for the Nintendo Wii where you see your character i
 developed by Treasure Co. Ltd, which means heavy explosions are to be expected. It is a great action title,
 surely one of the best available on the Wii.
 
-{{< youtube QHskNvfeuuE >}}
+{{< youtube 6ooao7LROp0 >}}
 
 # Day 09: Licensed game - Building Theme (Dick Tracy NES)
 
@@ -168,7 +167,7 @@ from a Nintendo game.
 
 I love Earthbound.
 
-{{< youtube QLR4mnndnj0 >}}
+{{< youtube t4z82byt5mA >}}
 
 # Day 11: Puzzle game - 2 Player Versus (Dr. Robotnik's Mean Bean Machine)
 
@@ -253,11 +252,11 @@ driver to craft his songs, making them easily recognizable across different game
 are pushing the Genesis to its absolute limit.
 
 Verytex is one such game with Sakimoto compositions, but it has the distinction of also being entirely
-directed by Sakimoto himself. Thus, the music really is at the forefront (it even keeps playing when the game
+directed by Sakimoto himself(?). Thus, the music really is at the forefront (it even keeps playing when the game
 pauses, and does not restart when you lose a life). While Verytex is an average shoot-em-up at best, it's very
 apparent that Sakimoto gave it his all in the sound department. This is 16-bit music at its peak.
 
-{{< youtube JXutCv0UCfI >}}
+{{< youtube 68ghJkFNLiQ >}}
 
 # Day 17: Music I never get tired of - Unforgotten Memories (Halo 2)
 
@@ -334,7 +333,7 @@ constant road block for me. It requires my full attention and best reflexes, whi
 I'm trying to relax by playing video games. Thus, as much as I want to love Gaiares, when I hear Stage 2's
 music, I know that I might soon have to power it off.
 
-{{< youtube YM9EvXlPWqA >}}
+{{< youtube -P4ZfoPdIB0 >}}
 
 # Day 22: Town/village - Lynna City (The Legend of Zelda: Oracle of Ages)
 
