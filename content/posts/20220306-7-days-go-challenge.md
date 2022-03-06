@@ -8,7 +8,7 @@ tags:
 ---
 
 The goal: play 7 games with strangers over the span of 7 days. This is to force me to let go of my ego, and
-face my fear of losing head-on, in order to become a better player.
+face head-on my fear of losing in order to become a better player (and a better person!).
 
 - Game 1 (lost): https://online-go.com/game/41699537
 - Game 2 (lost): https://online-go.com/game/41734993
