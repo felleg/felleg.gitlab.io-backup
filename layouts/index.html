@@ -1,4 +1,7 @@
 {{ define "body" }}
+<!--style type="text/css">
+A:hover { COLOR: orange; TEXT-DECORATION: none; font-weight: none }
+</style-->
     <body class="{{ if ne $.Site.Params.defaultTheme "light" -}} dark-theme {{- end -}} {{ if .Site.Params.background_image }} background-image" style="background-image: url('{{ .Site.Params.backgroundImage }}');" {{ else }}"{{ end }}>
 {{ end }}
 
@@ -21,12 +24,10 @@
             {{- end }}
         </div>
         <h1>Latest Featured Posts</h1>
-          <ul>
           {{ range first 12 (where .Site.Pages "Params.featured" "true") }}
-          <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+          <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a><br>
           {{ end }}
-          <li><span style="color:#4d4d4d"><a href="tags/featured">(Full list)</a></p></li>
-          </ul>
+          <p style="color:#4d4d4d"><a href="tags/featured">(Full list)</a></p>
 
     </main>
 {{ end }}
