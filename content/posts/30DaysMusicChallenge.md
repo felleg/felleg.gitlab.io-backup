@@ -480,5 +480,11 @@ is usually beat within 30 seconds. Yes, the credits last longer than the game it
 
 {{< youtube VmuiwOGi5gA >}}
 
+I just realized that one of my favorite games of all time (tied with Rocket Knight Adventures for #1), Atomic Runner, wasn't featured at all in this
+post... That's sad, because it does have incredible music! In order to prevent Atomic Runner from feeling left
+out, here is its OST, which you can listen to. Consider this day 31: extra bonus!
+
+{{< youtube xfbEtjQboFc >}}
+
 # Listen to my playlist!
 If you want to listen to the songs in order, [here is a YouTube playlist I created](https://www.youtube.com/playlist?list=PLtFyTYxiac55aA5eU4mSNmhtjcBlYAABy).
