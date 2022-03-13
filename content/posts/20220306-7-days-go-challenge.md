@@ -20,3 +20,6 @@ face head-on my fear of losing in order to become a better player (and a better 
 Well, all in all, I ended up being 1 game short. I still gave it my best, though. I feel less scared about
 losing the game. Each loss is still painful, but the pain gets gradually lessened with each game, thankfully.
 I'll try to do this again sometime in the future!
+
+(Update) Here is the seventh game. A little late, but it did happen!
+- Game 7 (lost): https://online-go.com/game/view/41980748
