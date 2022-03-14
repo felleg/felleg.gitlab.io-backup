@@ -19,6 +19,8 @@ Quick video to summarize:
 
 {{< youtube Gy7lyvAfOSw >}}
 
+You can download the Multi-Container add-on for Firefox [here](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
+
 Firefox is not perfect, but its native multi-containers are priceless.
 Apparently, Chrome users can use [SessionBox](https://chrome.google.com/webstore/detail/sessionbox-multi-login-to/megbklhjamjbcafknkgmokldgolkdfig?hl=en), but reviews seem to suggest a
 poorer implementation than the one found on Firefox.
