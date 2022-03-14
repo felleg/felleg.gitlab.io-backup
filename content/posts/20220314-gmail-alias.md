@@ -9,10 +9,19 @@ tags:
 description: "This post is an exact copy of a post I found on woorkup.com from Brian Jackson. It helped me a lot, so I'm keeping a version here to make sure these instructions are not lost until Google streamlines their own documentation."
 ---
 
+Today I tried to add a new alias to my Gmail account after taking the decision
+of moving my felix@felixleger.com address from Hotmail to Gmail (about time!).
+Turns out, I couldn't figure out how. The instructions from Google that had tons of missing information : [https://support.google.com/mail/answer/22370](https://web.archive.org/web/20220314201647/https://support.google.com/mail/answer/22370)
+
+I found the answers to my questions in a blog post, and for posterity I copied
+the exact contents of this post here.
+
 The original version of this text can be found at
 https://woorkup.com/gmail-alias/ and was written by [Brian Jackson](https://woorkup.com/author/brian-jackson/). Below is the original text.
 
 ---
+
+(January 19, 2022)
 
 {{< figure src="/img/gmail-alias/1.png" position="center" caption="" >}}
 
@@ -104,5 +113,6 @@ You can also change the defaults and the behavior of replies.
 
 Another nice feature is that you can set up different default signatures for each email address. This way, when you respond, you can keep separate branding for each email address.
 
+---
 (See original post at
 [https://woorkup.com/gmail-alias/](https://woorkup.com/gmail-alias/))
