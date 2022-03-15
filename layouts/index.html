@@ -20,7 +20,7 @@
                 </div>
             {{- end }}
         </div>
-        <h1>Latest Featured Posts</h1>
+        <h1><a href="tags/featured" style="text-decoration:none">Latest Featured Posts</a></h1>
           {{ range first 12 (where .Site.Pages "Params.featured" "true") }}
           <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a><br>
           {{ end }}
