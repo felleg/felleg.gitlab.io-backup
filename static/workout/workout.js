@@ -45,9 +45,7 @@ var musculation = [
 // Category 3
 var warmup = [
    "Élastique 10 reps (circuit complet)",
-   "Kick de jambes 10 reps (circuit complet, genoux haut, côté-côté, devant)",
    "Kick aérobique 10 reps (au sol, on retient la jambe en descendant)",
-   "Circuit des Bras 10 reps (circuit complet habituel)",
    "Superman 10rep (5 sets) (sur le ventre)",
 ]
 
