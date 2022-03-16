@@ -2,7 +2,7 @@
 title = "About"
 +++
 
-Hi there! :wave: My name is Félix. I live in Montreal, Quebec. I speak French at home, and English at work.
+Hi there! :wave: My name is Félix. I live in Montreal, Quebec. Je parle français à la maison, and English at work.
 Thanks for visiting my website!
 
 This is my personal blog where I discuss things that spark my interest. I hope I will find a way to make them
