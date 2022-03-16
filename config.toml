@@ -135,21 +135,25 @@ disableHugoGeneratorInject = false
     url  = "https://www.linkedin.com/in/felleg"
 
   [[params.social]]
-    name = "gitlab"
-    url  = "https://gitlab.com/felleg"
-
-  [[params.social]]
     name = "twitter"
     url  = "https://twitter.com/felllleg"
+
+  [[params.social]]
+    name = "gitlab"
+    url  = "https://gitlab.com/felleg"
 
 
   [[params.social]]
     name = "github"
     url  = "https://github.com/felleg"
 
+#  [[params.social]]
+#    name = "stackoverflow"
+#    url  = "https://stackoverflow.com/users/5565172/felleg"
+
   [[params.social]]
-    name = "stackoverflow"
-    url  = "https://stackoverflow.com/users/5565172/felleg"
+    name = "online-go"
+    url  = "https://online-go.com/player/416731/"
 
 [languages]
   [languages.en]
