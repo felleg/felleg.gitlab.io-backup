@@ -11,7 +11,7 @@ All scores were performed on a [MiSTer FPGA](/posts/2020/10/dream-machine-mister
 
 
 
-| Game | Score | Note |
+| Game | Score | Notes |
 |------|-------|------|
 |[DoDonPachi](https://en.wikipedia.org/wiki/DoDonPachi)      | [18,848,190](/img/highscores/dodonpachi-20220321.jpg)      |International version      |
 |[Giga Wing](https://en.wikipedia.org/wiki/Giga_Wing)      | [718,236,244,250](/img/highscores/giga-wing-20220326.jpg)      |      |
