@@ -1,5 +1,6 @@
 ---
 title: "Shmups to Try If You Like Zeroranger"
+cover: "img/zeroranger.jpg"
 ---
 
 [ZeroRanger](https://store.steampowered.com/app/809020/ZeroRanger/) is a
@@ -9,7 +10,7 @@ mixes stylish visuals with storytelling that is frankly too good for an
 action game without dialogue.
 
 A shmup newcomer [on
-Reddit](https://www.reddit.com/r/shmups/comments/tgux9v/zeroranger_one_of_the_best_shmups_ever_made/i153qw5/?context=3)
+Reddit](https://www.reddit.com/r/shmups/comments/tgux9v/zeroranger_one_of_the_best_shmups_ever_made/)
 wondered about other shmups to try, since ZeroRanger made them realize how
 great shmups could be. Thus, here are the games I would suggest to try if
 you too enjoyed ZeroRanger and want more:
@@ -32,3 +33,8 @@ you too enjoyed ZeroRanger and want more:
 1. Gradius V
 1. Cho Ren Sha 68k
 1. RayStorm
+
+---
+
+P.S. If you have already played games from this list but have yet to give
+ZeroRanger a shot, you're seriously missing out! :smile:
