@@ -30,7 +30,7 @@
         <figure class="post-cover">
 
            <center><img src="{{ .Params.Cover | absURL }}" alt="{{ .Title }}" /></center>
-          
+
           {{ if .Params.CoverCaption }}
             <figcaption class="center">{{ .Params.CoverCaption | markdownify }}</figcaption>
           {{ end }}
@@ -81,11 +81,11 @@
           {{ dateFormat "2006-01-02 15:04" .Date.Local }}
         {{ end }}
 
-        {{ if .Lastmod }} 
+        {{ if .Lastmod }}
           {{ if not (eq .Lastmod .Date )}}
             {{ if .Site.Params.dateformNumTime }}
               ({{ i18n "lastModified" }}: {{ dateFormat .Site.Params.dateformNumTime .Lastmod.Local }})
-            {{ else }} 
+            {{ else }}
               ({{ i18n "lastModified" }}: {{ dateFormat "2006-01-02 15:04" .Lastmod.Local }})
             {{ end }}
           {{ end }}
