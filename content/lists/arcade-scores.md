@@ -5,7 +5,7 @@ title: "My Arcade High Scores"
 Long live the arcade! I use this page to track my high scores at different
 games I enjoy. I find great joy in managing to push the boundaries of my
 reflexes and gaming skills. If you feel competitive, you are welcome to try these
-games and try to beat my high scores!
+games and beat my high scores (in fact, I dare you)!
 
 All scores were performed on a [MiSTer FPGA](/posts/2020/10/dream-machine-mister-fpga/) (unless stated otherwise).
 
