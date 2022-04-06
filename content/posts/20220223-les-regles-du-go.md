@@ -17,6 +17,7 @@ rapidement commencer à jouer après les avoir lues. Voici donc les règles du G
 > 1. Le Go est un jeu où deux joueurs s'affrontent. Un des joueurs utilise les pierres noires, et l'autre
 >    utilise les pierres blanches. Le plateau de jeu est une grille, typiquement de dimensions 9x9, 13x13 ou
 >    19x19.
+> {{< figure src="/img/go-board-sizes.png" position="center" caption="" >}}
 > 1. La partie commence avec un plateau vide. Noir joue d'abord. Les joueurs alternent en mettant une pierre de leur couleur sur les intersections (y compris celles des côtés et les coins). Un joueur peut passer son tour s'il le désire.
 > 1. Une pierre déposée sur le jeu ne peut jamais se déplacer.
 > 1. **Définition**: le concept de "liberté" au Go correspond aux lignes qui "émanent" d'une pièce ou d'un groupe.
