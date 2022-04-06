@@ -2,6 +2,7 @@
 title: "Les Règles du Go"
 date: 2022-02-23T10:55:29-05:00
 toc: true
+featured: "true"
 tags:
   - français
   - go
@@ -19,8 +20,11 @@ rapidement commencer à jouer après les avoir lues. Voici donc les règles du G
 > 1. La partie commence avec un plateau vide. Noir joue d'abord. Les joueurs alternent en mettant une pierre de leur couleur sur les intersections (y compris celles des côtés et les coins). Un joueur peut passer son tour s'il le désire.
 > 1. Une pierre déposée sur le jeu ne peut jamais se déplacer.
 > 1. **Définition**: le concept de "liberté" au Go correspond aux lignes qui "émanent" d'une pièce ou d'un groupe.
->    Par exemple, dans l'image ci-dessous, la pierre blanche possède 4 libertés (identifiées par les
->    triangles). Le groupe de pierres noires possède 7 libertés.
+>    Par exemple, dans l'image ci-dessous:
+>     - la pierre A possède 4 libertés (identifiées par les triangles)
+>     - le groupe de pierres noires B possède 7 libertés
+>     - la pierre noire C possède 3 libertés
+>     - la pierre blanche D possède 2 libertés
 > {{< figure src="/img/go-liberties.png" position="center" caption="" >}}
 > 1. Il est possible de capturer un groupe adverse en l'entourant (i.e. mettre une pierre adverse sur toutes ses "libertés"). Un groupe capturé est retiré du jeu et contribuera plus tard aux points du joueur adverse.
 > 1. La partie se termine lorsque les deux joueurs passent leur tour de façon consécutive, ou qu'un des deux joueurs abandonne la partie.
