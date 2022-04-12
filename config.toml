@@ -1,5 +1,6 @@
 baseURL = "https://felixleger.com"
 title   = "Félix Léger"
+disableKinds = ["sitemap", "RSS"]
 languageCode = "en-us"
 theme = "hello-friend-ng"
 pluralizelisttitles = "false"
@@ -29,8 +30,8 @@ enableRobotsTXT = true
 enableGitInfo   = false
 enableEmoji     = true
 enableMissingTranslationPlaceholders = false
-disableRSS     = true
-disableSitemap = true
+disableRSS     = false
+disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
 
