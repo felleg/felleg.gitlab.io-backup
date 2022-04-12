@@ -29,8 +29,8 @@ enableRobotsTXT = true
 enableGitInfo   = false
 enableEmoji     = true
 enableMissingTranslationPlaceholders = false
-disableRSS     = false
-disableSitemap = false
+disableRSS     = true
+disableSitemap = true
 disable404     = false
 disableHugoGeneratorInject = false
 
