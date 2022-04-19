@@ -11,3 +11,6 @@ description: "A talk about the game of Go I have given to colleagues during a 'L
 ---
 
 {{< youtube GJmlzbiy-4o >}}
+
+_Note: Some small errors creeped into this talk, please check the video
+description on YouTube for corrections._ :smile:
