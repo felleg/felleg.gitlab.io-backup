@@ -3,6 +3,7 @@ title: "When Will We Be Millionaires?"
 date: 2022-04-23T10:21:23-04:00
 draft: false
 toc: false
+featured: "true"
 cover:
 tags:
   - investing
