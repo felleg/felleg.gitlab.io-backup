@@ -6,6 +6,7 @@ cover: "img/pi-in-desk.jpg"
 tags:
   - pi
   - automation
+  - investing
 ---
 
 The picture in the banner of this post is a Raspberry Pi 3B in its Short Crust case (on the left), next to an
