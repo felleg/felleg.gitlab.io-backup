@@ -29,7 +29,7 @@ this chart:
 {{< figure src="/img/millionaire-age.png" position="center" caption="[Google Sheets version](https://docs.google.com/spreadsheets/d/1IB0ZfB9MXd1muLqLs9iG1o9E4qbSOfsP5hPE61MyOTw/edit?usp=sharing)" >}}
 
 You can [browse the different figures](/files/millionaire-age-per-rate.pdf) to
-for interest rates from 1% to 15%. I find it
+for interest rates from 0% to 15%. I find it
 fascinating to see the evolution of the resulting heat maps!
 
 For your information, this is how the heat map's color-coding was chosen:
