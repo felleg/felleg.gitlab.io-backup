@@ -2,7 +2,7 @@
 title: "Reviving Light Gun Games with FPGA Technology (and Namco's Help!)"
 date: 2022-02-25T12:44:25-05:00
 toc: true
-featured: "true"
+frontpage: "true"
 cover: img/guncon-mister/duck-hunt.jpg
 tags:
   - mister

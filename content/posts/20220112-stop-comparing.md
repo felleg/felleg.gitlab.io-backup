@@ -2,7 +2,7 @@
 title: "I Should Stop Comparing Myself to Others"
 date: 2022-01-12T09:47:50-05:00
 toc: false
-featured: "true"
+frontpage: "false"
 cover:
 tags:
   - motivational

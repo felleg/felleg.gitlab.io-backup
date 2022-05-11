@@ -2,9 +2,10 @@
 title: "Les Règles du Go"
 date: 2022-02-23T10:55:29-05:00
 toc: true
-featured: "true"
+featured: "false"
 tags:
   - français
+  - featured
   - go
 ---
 

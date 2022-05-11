@@ -3,7 +3,7 @@ title: "You Need a Password Manager"
 date: 2020-12-27T11:43:11-04:00
 toc: false
 cover : "img/carvalet.jpg"
-featured: "true"
+frontpage: "true"
 tags:
   - password
   - security

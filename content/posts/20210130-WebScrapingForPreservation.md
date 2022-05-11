@@ -1,9 +1,9 @@
 ---
-title: "Web Scraping for Preservation"
+title: "Web Scraping for ROM Hacking Preservation"
 date: 2021-01-30T12:19:11-05:00
 toc: true
 cover: "img/rhdn.png"
-featured: "true"
+frontpage: "true"
 tags:
   - scraping
   - beautifulsoup
@@ -11,6 +11,9 @@ tags:
   - rom hacks
   - romhacking
   - featured
+aliases: [
+        /posts/2021/01/web-scraping-for-preservation/
+]
 ---
 
 *Update (20210927): RHDN has made it quite clear that the work discussed in this post has had a negative financial
