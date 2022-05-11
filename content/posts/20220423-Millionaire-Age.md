@@ -14,10 +14,10 @@ I am not a financial expert (far from it). I am a normal man, mystified
 by the magic of compounding interest.
 
 Here's an interesting question: how long does it take to become a
-millionaire? That's a tricky question to evaluate, given the magic
+millionaire? That's a tricky thing to evaluate, given the magic
 properties of compounding interest. Indeed, you might become a
 millionaire sooner than you think (just like Scotia Bank's slogan
-says). This question can be answered with three simple questions:
+says). This question can be divded in three sub-questions:
 
 - At what age have you started investing?
 - How much money can you reliably save per year?
