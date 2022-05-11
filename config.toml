@@ -1,6 +1,6 @@
 baseURL = "https://felixleger.com"
 title   = "Félix Léger"
-disableKinds = ["sitemap", "RSS"]
+disableKinds = ["sitemap",]
 languageCode = "en-us"
 theme = "hello-friend-ng"
 pluralizelisttitles = "false"
