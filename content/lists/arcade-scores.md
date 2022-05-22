@@ -23,6 +23,6 @@ All scores were performed on a [MiSTer FPGA](/posts/2020/10/dream-machine-mister
 |[Progear](https://en.wikipedia.org/wiki/Progear) |[4,612,220](/img/highscores/progear-20220327.jpg)       |Got the extend!      |
 |[Strikers 1945 Plus](https://en.wikipedia.org/wiki/Strikers_1945_Plus)      | [273,900](/img/highscores/strikers-1945-plus-20220317.jpg)      | 2 lives (default MVS)     |
 |[Terra Cresta](https://en.wikipedia.org/wiki/Terra_Cresta)     |[41,300](/img/highscores/terra-cresta-20220327.jpg)       |Alpha MiSTer core      |
-|[Tetris: The Grand Master](https://en.wikipedia.org/wiki/Tetris:_The_Grand_Master)  | [Level 447](/img/highscores/tgm-20220518.png)       |Played on MiSTer PSX core using [ZN-2 to PSX conversion](https://www.romhacking.net/reviews/8921/)      |
+|[Tetris: The Grand Master](https://en.wikipedia.org/wiki/Tetris:_The_Grand_Master)  | [Level 468](/img/highscores/tgm-20220521.png)       |Played on MiSTer PSX core using [ZN-2 to PSX conversion](https://www.romhacking.net/reviews/8921/)      |
 |[Tetris: The Grand Master](https://en.wikipedia.org/wiki/Tetris:_The_Grand_Master)  (20G)    | [Level 319](https://www.youtube.com/watch?v=6wJqaH9RW9M)       |Played on [Heboris](https://github.com/nightmareci/HeborisC7EX-SDL2)      |
 |[Truxton](https://en.wikipedia.org/wiki/Truxton_(video_game))      | [201,950](/img/highscores/truxton-20220317.jpg)      | |
