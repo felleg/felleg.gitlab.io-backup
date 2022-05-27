@@ -156,6 +156,10 @@ disableHugoGeneratorInject = false
     name = "online-go"
     url  = "https://online-go.com/player/416731/"
 
+  [[params.social]]
+    name = "spotify"
+    url  = "https://open.spotify.com/playlist/1iZEDzF689EY3PUDCeHtZY"
+
 [languages]
   [languages.en]
     subtitle  = "Welcome!"
