@@ -25,4 +25,5 @@ All scores were performed on a [MiSTer FPGA](/posts/2020/10/dream-machine-mister
 |[Terra Cresta](https://en.wikipedia.org/wiki/Terra_Cresta)     |[41,300](/img/highscores/terra-cresta-20220327.jpg)       |Alpha MiSTer core      |
 |[Tetris: The Grand Master](https://en.wikipedia.org/wiki/Tetris:_The_Grand_Master)  | [Level 549](/img/highscores/tgm-20220523.png)       |Played on MiSTer PSX core using [ZN-2 to PSX conversion](https://www.romhacking.net/reviews/8921/)      |
 |[Tetris: The Grand Master](https://en.wikipedia.org/wiki/Tetris:_The_Grand_Master)  (20G)    | [Level 319](https://www.youtube.com/watch?v=6wJqaH9RW9M)       |Played on [Heboris](https://github.com/nightmareci/HeborisC7EX-SDL2)      |
+|[Time Pilot '84](https://en.wikipedia.org/wiki/Time_Pilot_%2784) |[59400](/img/highscores/timepilot84-20220528.png)       |     |
 |[Truxton](https://en.wikipedia.org/wiki/Truxton_(video_game))      | [201,950](/img/highscores/truxton-20220317.jpg)      | |
