@@ -154,7 +154,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "online-go"
-    url  = "https://online-go.com/player/416731/"
+    url  = "go"
 
   [[params.social]]
     name = "spotify"
