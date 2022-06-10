@@ -19,6 +19,7 @@ All scores were performed on a [MiSTer FPGA](/posts/2020/10/dream-machine-mister
 |[DoDonPachi](https://en.wikipedia.org/wiki/DoDonPachi)      | [18,848,190](/img/highscores/dodonpachi-20220321.jpg)      |International version      |
 |[Esp Ra. De.](https://en.wikipedia.org/wiki/ESP_Ra.De.) | [3,183,730](/img/highscores/esp-ra-de-20220416.jpg) |
 |[Giga Wing](https://en.wikipedia.org/wiki/Giga_Wing)      | [718,236,244,250](/img/highscores/giga-wing-20220326.jpg)      |      |
+|[Guwange](https://en.wikipedia.org/wiki/Guwange)      | [99,9310](/img/highscores/guwange-20220610.jpg)      |      |
 |[Out Zone](https://en.wikipedia.org/wiki/Out_Zone)     | [697,690](/img/highscores/out-zone-20220326.jpg)      |      |
 |[Progear](https://en.wikipedia.org/wiki/Progear) |[4,612,220](/img/highscores/progear-20220327.jpg)       |Got the extend!      |
 |[Strikers 1945 Plus](https://en.wikipedia.org/wiki/Strikers_1945_Plus)      | [273,900](/img/highscores/strikers-1945-plus-20220317.jpg)      | 2 lives (default MVS)     |
