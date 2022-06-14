@@ -12,7 +12,7 @@ tags:
   - featured
 ---
 
-Those that know me personally know that I have been collecting video games (among other things) for a long
+Those who know me personally know that I have been collecting video games (among other things) for a long
 time. So long, in fact, that it probably felt like it was part of my DNA. At my peak, I owned 455 unique
 games. This number doesn't account for controllers, consoles, TV screens, cables and adapters, etc. On top of
 that, I owned 200 musical albums, evenly split between CDs and vinyls discs, and some 30 books and novels.
