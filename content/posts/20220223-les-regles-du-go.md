@@ -1,8 +1,8 @@
 ---
-title: "Les Règles du Go"
+title: "Les Règles du Go (pour les gens pressés!)"
 date: 2022-02-23T10:55:29-05:00
 toc: true
-featured: "false"
+frontpage: "true"
 tags:
   - français
   - featured
