@@ -385,8 +385,7 @@ exactly the same process as adding games on MiSTer.
 
 Support open-source efforts! This is how we can ensure the preservation of this historic hardware.
 
-{{< figure src="/img/crt-gaming.jpg" caption="Happy gaming! (Twinkle
-Tale, Sega Genesis, 1992)">}}
+{{< figure src="/img/crt-gaming.jpg" caption="Happy gaming! (Twinkle Tale, Sega Genesis, 1992)">}}
 
 # High scores
 
