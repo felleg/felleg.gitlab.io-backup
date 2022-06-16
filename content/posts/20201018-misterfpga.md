@@ -387,6 +387,14 @@ Support open-source efforts! This is how we can ensure the preservation of this 
 
 {{< figure src="/img/crt-gaming.jpg" caption="Happy gaming!">}}
 
+# High scores
+
+Because MiSTer reduces lag to its minimum, I find it is a great score to
+finally start chasing high scores on hard to obtain video games, such as
+shoot 'em ups many shoot 'em ups that were only released in the arcades
+of Japan. If you would like to compare your scores to mine, [check out
+my latest high scores here](/lists/arcade-scores/)!
+
 # Resources
 
 The MiSTer project is ever-expanding and can already do much more than what I only mentioned in this article.
