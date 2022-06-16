@@ -49,14 +49,14 @@ something even as basic as photography, let alone the cathode-ray tube (CRT) tel
 Add in the fact that interactive video games can be played using such screens, and that I'm able to picture
 this phenomenon and share it on the Internet for you to see... that's enough to make my head spin. :smile:
 
-{{< figure src="/img/gun-nac-setup.jpg" position="center" caption="It boggles the mind to think how many layers of knowledge were required to get the result pictured here. And this is essentially a toy for kids!" >}}
+{{< figure src="/img/gun-nac-setup.jpg" position="center" caption="It boggles the mind to think how many layers of knowledge were required to get the result pictured here. And this is essentially a toy for kids! (Gun-Nac, NES, 1990)" >}}
 
 We too often forget how the everyday technology that surrounds us is fascinating. People worked *hard* to
 allow us to attain a certain level of comfort that is also reliable. If the definition of "magic" is "a
 phenomenon you personally don't understand", then you have to admit... Under this definition, we are all
 surrounded by magic!
 
-{{< figure src="/img/dirty-harry-crt.jpg" caption="Some old games can also be surprisingly stylish. (Dirty Harry NES)" >}}
+{{< figure src="/img/dirty-harry-crt.jpg" caption="Some old games can also be surprisingly stylish. (Dirty Harry, NES, 1990)" >}}
 
 # So, what is the MiSTer FPGA?
 
@@ -385,7 +385,8 @@ exactly the same process as adding games on MiSTer.
 
 Support open-source efforts! This is how we can ensure the preservation of this historic hardware.
 
-{{< figure src="/img/crt-gaming.jpg" caption="Happy gaming!">}}
+{{< figure src="/img/crt-gaming.jpg" caption="Happy gaming! (Twinkle
+Tale, Sega Genesis, 1992)">}}
 
 # High scores
 
