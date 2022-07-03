@@ -6,3 +6,5 @@ cover: img/devopsengineer.png
 
 I must admit, I'm quite pleased with this summary. Now I know
 what I'll be able to tell my family at reunions! :smile:
+
+Besides, who doesn't love plumbers?
