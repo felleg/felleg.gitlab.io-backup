@@ -40,12 +40,17 @@ Looking at websites such as [racketboy.com](http://www.racketboy.com/), I was fa
 game lists, organized by the historical relevance, or modern value of games. In particular, I was very fond of
 their shoot 'em up guides. It was thanks to this website that I learned about [Treasure Co
 Ltd.](https://en.wikipedia.org/wiki/Treasure_(company)), who is now arguably my favorite video game developer.
-For a few years, getting to play games like Radiant Silvergun and Ikaruga were my biggest ambitions, back when
-they were only available on their original hardware. Gotta imagine how peaceful life was back then to have this kind of
-ambition... I remember daydreaming about what it felt like to play
-Radiant Silvergun, since I was unable to emulate it. At over $200 for a copy, it was my Mt. Everest.
 
 {{< figure src="/img/hoarding-project/racketboy-guides.png" position="center" caption="To anyone new to retro gaming, racketboy.com is the absolute best reference to begin your journey." >}}
+
+For a few years, getting to play games like [Radiant Silvergun](https://en.wikipedia.org/wiki/Radiant_Silvergun) and [Ikaruga](https://en.wikipedia.org/wiki/Ikaruga) were my biggest ambitions, back when
+they were only available on their original hardware. Imagine how peaceful life was back then to have this kind of
+"ambition"... I vividly remember daydreaming about what it would feel like to try
+Radiant Silvergun, since I was unable to emulate it and [video footage of it online at the time was of low quality](https://www.youtube.com/watch?v=csb5aYoMal8). At over $200 for a copy, it was my Mt. Everest.
+
+{{< figure src="/img/hoarding-project/radiant-silvergun-youtube.png" position="center" caption="I couldn't wait to see this game run natively on my television." >}}
+
+
 
 Over the years, I made friends inside the video gaming community. In fact, one of my closest friends came from
 this community (you know who you are)! By being able to put our interests in common, we were empowering
