@@ -18,6 +18,7 @@ All scores were performed on a [MiSTer FPGA](/posts/2020/10/dream-machine-mister
 |------|-------|------|
 |[Carrier Air Wing](https://en.wikipedia.org/wiki/Carrier_Air_Wing_(video_game))      | [165210](/img/highscores/carrier-air-wing-20210911.jpg)      |The sequel to U.N. Squadron      |
 |[DoDonPachi](https://en.wikipedia.org/wiki/DoDonPachi)      | [18,848,190](/img/highscores/dodonpachi-20220321.jpg)      |International version      |
+|[DonPachi](https://en.wikipedia.org/wiki/DonPachi)      | [3,972,870](/img/highscores/donpachi-20220709.jpg)      |      |
 |[Esp Ra. De.](https://en.wikipedia.org/wiki/ESP_Ra.De.) | [3,183,730](/img/highscores/esp-ra-de-20220416.jpg) |
 |[Giga Wing](https://en.wikipedia.org/wiki/Giga_Wing)      | [718,236,244,250](/img/highscores/giga-wing-20220326.jpg)      |      |
 |[Guwange](https://en.wikipedia.org/wiki/Guwange)      | [99,9310](/img/highscores/guwange-20220610.jpg)      | If you need a refresher on Chinese numerals, [click here](https://en.wikipedia.org/wiki/Chinese_numerology).     |
