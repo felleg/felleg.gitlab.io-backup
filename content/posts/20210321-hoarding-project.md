@@ -213,3 +213,10 @@ tells me "wow, you had *that* in your collection?", it feels bittersweet.
 
 Yes, I owned a lot of cool things. I accomplished more than I could have ever imagined. But above all, I am
 happy to report that this hobby did not consume me.
+
+# 2022 Update
+
+Over the past months, I slowly sold even more games. Here is what is
+left in my collection, version 4.0:
+
+{{< figure src="/img/hoarding-project/what-is-left-20220709.jpg" position="center" caption="Update: This is collection 4.0" >}}
