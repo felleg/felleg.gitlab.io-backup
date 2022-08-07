@@ -1,6 +1,6 @@
 ---
 title: "Overcoming Learning Anxiety"
-date: 2022-08-06T22:58:18-04:00
+date: 2022-08-07T15:24:25-04:00
 frontpage: "true"
 toc: true
 cover: img/finished-devops-handbook.jpg
@@ -44,7 +44,18 @@ moment, I was mostly healed.
 
 Let's back up a bit to give you better context.
 
-# Changing careers twice
+# Bad news and career changes
+
+The catalyst that sent me on this whole journey was a piece of bad news
+I received my current employer in mid-June this year: I was
+getting a probation extension. I wasn't quite cutting it in the
+workplace. I had 2 months to course-correct, otherwise I could kiss my
+job goodbye. Part of the problem was the fact that I had trouble
+learning new concepts and remembering important details.
+
+It was an watershed moment. I wasn't going to waste this opportunity.
+
+But how did we get here?
 
 In 2017, I started working for a newly-formed startup then called
 Proximity HCI (now known as [Contxtful](https://contxtful.com)). I had
@@ -77,7 +88,6 @@ paths after my Masters degree (because I felt I was bad at research), to
 become an ML scientist, only to realize I was even worse at that job, so
 much so that my boss recommended another career change, this time into a
 field I knew absolutely nothing about. I was rightfully terrified.
-
 
 # The anxiety surfaces
 
@@ -158,7 +168,7 @@ the purchase of the book, so I decided to benefit from the added
 material.
 
 But that doesn't really matter. What matters is how banged up my copy
-is. Do you notice how curved the spine is? This is because my good
+is. Do you notice the curved spine? This is because my good
 friend Mathieu Frenette showed me (without realizing it?) that I had been
 holding books wrong my entire life. Here's the holding position that
 helped me get through the DevOps Handbook:
