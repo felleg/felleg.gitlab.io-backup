@@ -185,23 +185,24 @@ helped me get through the DevOps Handbook:
 
 What difference does that make? For one, it made me realize an important
 lesson: books are not valuable. It is their content that is valuable.
+Most precisely, their knowledge nuggets.
 
 As a money-poor grad student, I was relatively short on cash and keeping
-my old course manuals is not something I could afford to do. Thus, I
+my old course manuals was not something I could afford to do. Thus, I
 took great care of my manuals, seldom highlighting or writing in them, so
 that I could sell them at a higher price later on.
 
 But this way of thinking is fundamentally flawed. To make an extra $40
 per book sold, I was taking the risk of having a sub-optimized learning
 experience.  Without realizing it, I always saw my books as someone
-else's items that I was borrowing.  This was so wrong. As a student,
-I depriving myself of potentially useful learning tools. Like a
-mechanic afraid to break a wrench. Maybe I did this naturally since I
-was used to owning collectible items (see [how and why I got rid of my
-video game
+else's items that I was borrowing.  This was so wrong. As a student, I
+depriving myself of potentially useful learning tools. I was like a
+mechanic afraid of breaking a wrench. Maybe I did this naturally
+since I was used to owning collectible items (see [how and why I got rid
+of my video game
 collection](/posts/2021/03/selling-my-video-game-collection-the-hoarding-project/)).
 I'm glad I got through my studies despite this backwards mindset, but I
-don't plan on ever doing this again.
+don't plan on doing this ever again.
 
 Now, my mindset is different. A broken book is beautiful. It means
 someone gave it the time it deserved. And, indirectly, if this broken
