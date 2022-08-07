@@ -204,8 +204,8 @@ collection](/posts/2021/03/selling-my-video-game-collection-the-hoarding-project
 I'm glad I got through my studies despite this backwards mindset, but I
 don't plan on doing this ever again.
 
-Now, my mindset is different. A broken book is beautiful. It means
-someone gave it the time it deserved. And, indirectly, if this broken
+Now, my mindset is different. A curved spine is beautiful. It means
+someone gave the book the time it deserved. And, indirectly, if this "damaged"
 book is freely available on a bookshelf in the workplace, it means that this person
 understood the book enough to part with it, and thought it was worth
 sharing with others.
