@@ -217,7 +217,7 @@ coincidence! :smiley:
 
 Ok, so I knew how to hold a paperback book. Big whoop. This didn't
 change the fact that after reading 10 pages, I still felt like my brain
-couldn't contain all the information I was reading through. If 10 pages
+couldn't contain all the information I was reading. If 10 pages
 of info coming in meant 10 pages of info coming out, that does not count
 as learning. That is the equivalent of passively listening to radio
 while driving. All your mind really records are the ads.
@@ -289,7 +289,8 @@ In short, Matt's strategy is the following:
 > - Reread your journal, highlight important bits
 
 The idea behind this system is simple: do the least to get the most.
-Books contains answers to some questions we have. We just have to dig
+Books contain answers to our questions. That is why we choose to read
+them after all! We just have to dig
 through the book to highlight them and capture them. Forget the fluff.
 Grinding through a book takes a lot of time, so do everything you can to
 avoid doing it more than once. Capture information in a concise way that
