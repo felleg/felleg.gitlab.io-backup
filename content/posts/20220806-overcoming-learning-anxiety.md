@@ -183,7 +183,7 @@ helped me get through the DevOps Handbook:
 
 {{< figure src="/img/how-to-hold-book.jpg" position="center" caption="My new favorite way to hold paperbacks." >}}
 
-What difference does that make? For one, it made me realize an important
+What difference does that make? For one, it showed me an important
 lesson: books are not valuable. It is their content that is valuable.
 Most precisely, their knowledge nuggets.
 
