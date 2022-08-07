@@ -167,7 +167,7 @@ For those keeping count at home, that means three years of lead time. What happe
 
 # Conquering *The Devops Handbook*
 
-{{< figure src="/img/finished-devops-handbook.jpg" position="center" caption="I conquered The DevOps Handbook. Noticed the curved spine." >}}
+{{< figure src="/img/finished-devops-handbook.jpg" position="center" caption="I conquered The DevOps Handbook. Notice the curved spine." >}}
 
 Here it is, the DevOps Handbook. It's actually my second copy of the
 book, because it took so long for me to read the first edition that in
