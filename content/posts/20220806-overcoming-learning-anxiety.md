@@ -246,7 +246,7 @@ right on the first run-through!
 
 ## Attempt 2: Highlighting
 
-{{< figure src="/img/highlighting.jpg" position="center" caption="" >}}
+{{< figure src="/img/highlighting.jpg" position="center" caption="Gold nuggets of knowledge!" >}}
 
 Armed with a highlighter, I had an idea: if a book is a goldmine of
 information, my highlighter will allow me to illustrate where the actual
