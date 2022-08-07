@@ -14,19 +14,25 @@ aliases: [
 description: "In this post, I discuss how I overcame learning anxiety by creating a system that motivated me to read reference material and allowed me to keep these learnings alive."
 ---
 
-It has been a while since I have taken the time to sit down and write an
-actual blog post. Sometimes, I feel guilty about this and wonder: what
-can I do to write more often? The reason why I would like to write more
-often is that, with each blog post, I feel like the fact I can share
-my learnings with the world means I levelled up as a human being. Today,
-I am sharing you one of my biggest milestones yet: how I overcame
-learning anxiety. I hope this post will have been worth the wait to you,
-because it certainly has been to me. Behind the curtains, I was hard at
-work on building a better version of myself.
+*It has been a while since I have taken the time to sit down and write an
+actual blog post (I consider my last important post to be [the hoarding
+project](/posts/2021/03/selling-my-video-game-collection-the-hoarding-project/), dating from over a year ago). I feel like sharing
+my learnings with the world means I levelled up as a human being, so why
+don't I write blog posts more often?*
 
-In this post, my mission is to share my light bulb moment with you, in
+*I suppose the blog post you're about to read has been a long time in the
+making. It took 3 hours to write, but it was the result of many days,
+weeks, months, years of work. Today, I am sharing you one of my biggest
+milestones yet: how I overcame learning anxiety. I hope this post will
+have been worth the wait to you, because it certainly has been to me.
+Behind the curtains, I was hard at work on building a better version of
+myself.*
+
+*In this post, my mission is to share my "light bulb" moment with you, in
 the hopes that, if you are also dealing with learning anxiety, you will
-be inspired to take steps towards overcoming this wall.
+be inspired to take steps towards overcoming this wall.*
+
+=L
 
 ---
 
@@ -36,13 +42,14 @@ be inspired to take steps towards overcoming this wall.
 
 Here it is. The moment when my mind clicked and realized I had learning
 anxiety. The words in this photo were written by my own hand. What I
-feel is ironic is that I had to overcome learning anxiety without
-knowing about it to realize this was the problem holding me back from
-learning. In other words, as I was writing "help overcome learning
-anxiety (<- I have that!)", I hadn't realized that, precisely at that
-moment, I was mostly healed.
+feel is ironic is that I had to overcome learning anxiety to realize
+this was precisely the problem holding me back from learning. In other
+words, as I was writing "help overcome learning anxiety (<- I have
+that!)", I hadn't realized that, precisely at that moment, I was mostly
+healed.
 
-Let's back up a bit to give you better context.
+Let's back up a bit to give you better context and hopefully walk you
+through the steps taken to untangle this mental knot.
 
 # Bad news and career changes
 
@@ -55,7 +62,7 @@ learning new concepts and remembering important details.
 
 It was an watershed moment. I wasn't going to waste this opportunity.
 
-But how did we get here?
+But how did I get there?
 
 In 2017, I started working for a newly-formed startup then called
 Proximity HCI (now known as [Contxtful](https://contxtful.com)). I had
@@ -74,17 +81,17 @@ change my life.
 "You know what? I think DevOps would be a good fit for you."
 
 If you are someone with imposter syndrome, receiving this kind of
-information is a mixed bag. On one hand, it finally provides an explanation
-of why you were having so much difficulty accomplishing the tasks you
-were given, which is a big plus. "Of course, it all makes sense now! I'm bad at machine
-learning because, deep down, I'm a DevOps! Change my title now,
-please!", I would say to myself. On the other hand, it places you in
-front of an undodgeable question: "What the heck does DevOps do,
-anyway?".
+information is a mixed bag. On one hand, it finally provides an
+explanation of why you were having so much difficulty accomplishing the
+tasks you were given, which is a big plus. *"Of course, it all makes
+sense now! I'm bad at machine learning because, deep down, I'm a DevOps!
+Change my title now, please! This will fix all my problems"*, I would say
+to myself. On the other hand, it places you in front of an undodgeable
+question: *"What the heck is DevOps, anyway?"*
 
 You can then imagine why, depending on the day, my imposter
 syndrome simply got out of control. I was a Physicist who changed career
-paths after my Masters degree (because I felt I was bad at research), to
+paths after my Masters degree (because I felt I was bad at research) to
 become an ML scientist, only to realize I was even worse at that job, so
 much so that my boss recommended another career change, this time into a
 field I knew absolutely nothing about. I was rightfully terrified.
@@ -92,7 +99,7 @@ field I knew absolutely nothing about. I was rightfully terrified.
 # The anxiety surfaces
 
 Not wanting to waste any time, I feverishly started Googling the most
-basic things, like "what does a DevOps do?", which led me to results
+basic things, like "how to DevOps?", which led me to results
 like this:
 
 > To speed development and improve quality, development teams began
