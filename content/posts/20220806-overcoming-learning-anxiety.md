@@ -36,7 +36,7 @@ be inspired to take steps towards overcoming this wall.*
 
 ---
 
-# My light bulb moment
+# My light bulb moment :bulb:
 
 {{< figure src="/img/learning-anxiety-lightbulb.jpg" position="center" caption="" >}}
 
