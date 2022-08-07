@@ -177,7 +177,7 @@ material.
 
 But that doesn't really matter. What matters is how banged up my copy
 is. Do you notice the curved spine? This is because my good
-friend Mathieu Frenette showed me (without realizing it?) that I had been
+friend Mathieu (and current manager!) showed me (without realizing it?) that I had been
 holding books wrong my entire life. Here's the holding position that
 helped me get through the DevOps Handbook:
 
