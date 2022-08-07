@@ -126,7 +126,8 @@ no use for. In short, I felt like I had missed the boat, and with each
 passing day felt more like giving up. I was 26.
 
 The only thing pushing me forward was the fact that my colleagues
-depended on my work, as amateurish as it was. I didn't mind going down
+depended on my work, as amateurish as it was. I could entertain the idea
+of going down
 in a big ball of fire, but I didn't want my colleagues to suffer the
 fall with me. I wanted them to thrive and excel at their rightfully
 chosen tasks. Ironically, I now believe this is precisely the kind of
