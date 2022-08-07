@@ -210,7 +210,7 @@ book is freely available on a bookshelf in the workplace, it means that person
 understood the book enough to part with it, and thought it was worth
 sharing with others.
 
-A curved spine looks like a smile, and that might just be no
+A curved book spine looks like a smile, and that might just be no
 coincidence! :smiley:
 
 # Creating a system of learning
