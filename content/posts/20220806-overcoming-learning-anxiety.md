@@ -472,17 +472,19 @@ I write. I feel like I am free to choose what activity is right for what
 time. And, most importantly, whatever I end up choosing, I am constantly
 learning.
 
-## Write the source of your information nugget
+## Write the source of your knowledge nuggets
 
 {{< figure src="/img/notes.jpg" position="center" caption="" >}}
 
-Notice in the photo above that most "knowledge nugget" ends with a
+Notice in the photo above that most "knowledge nuggets" end with a
 reference to the source material. This helps finding context or
 correcting notes in the rare cases where your notes are unclear and you
-must refer to the book. Trust me, in the worst case, it saves you a lot
-of time, and in the best case, it makes sharing that nugget in the
+must refer to the book. Trust me, it can save you a lot
+of time, and also makes sharing that nugget in the
 future even easier ("As the DevOps Handbook says on page 49, improvement
 of daily work is even more important than daily work!").
+
+Side effects may include people calling you a bookworm.
 
 ## Have a book reference at the beginning of your notebook
 
@@ -589,16 +591,17 @@ information from reading these 50 pages than from reading 421 pages.
 
 {{< figure src="/img/compressed-book.jpg" position="center" caption="50 pages of pure nuggets!" >}}
 
-Instead of taking weeks to read, it will take me 1 hour. This feels
+Instead of taking weeks to review that information, it will take me 1 hour. This feels
 almost like cheating, except it isn't! I worked hard for this outcome,
 and now I get to savour it.
 
 Books are not something to be afraid of. Not anymore. I realized I now
 get to decide which book I read. As a professional, I am the master of my own
-learning. Textbooks are not meant to be used only in a classroom, with a
-professor dragging you through it. Not all textbooks feature exercises
+learning. Textbooks have a purpose outside the classroom, even if that
+means you won't have a profesor
+dragging you through it. Not all textbooks feature exercises
 and homework; some can be quite fun, relaxing, enlightening to read,
-without creating headaches or feeling like a puzzles. The book you chose
+without creating headaches or feeling like a puzzles. A book you chose
 almost certainly contains the answer to the question that made you
 choose it. Imagine how you will feel when you finally get the answer you
 craved!
@@ -614,8 +617,9 @@ challenge head-on.
 
 As a child who wanted to become a teacher for most of his life, I can't
 be more satisfied with my current career choice: teaching businesses how
-to learn. I have no idea what I did to deserve this great luck, even
-though it was far from a painless experience to get here.
+to learn. I have no idea what I did to land on this path, even
+though it was far from a painless experience to get here. I finally feel
+like I'm my X.
 
 If you personally suffer with learning anxiety and made it this far in
 this blog post, I'm confident that you are already on the right path. I
