@@ -241,8 +241,12 @@ supported by something my partner Gabrielle told me, as she was
 completing her PhD: **"You never want to read the same book twice"**. As a
 fan of novels, this was something I initially disagreed with. However, I
 came to understand what her statement meant: Reading a book twice is
-suboptimal and a potential waste of time. In other words, learn things
-right on the first run-through!
+suboptimal and a potential waste of time. What does that say about the
+first time you read that book?
+
+In short, we obviously want to learn things
+right on the first run-through, so planning on going back to the book is
+an anti-pattern. Unfortunately, I was still a slow learner...
 
 ## Attempt 2: Highlighting
 
