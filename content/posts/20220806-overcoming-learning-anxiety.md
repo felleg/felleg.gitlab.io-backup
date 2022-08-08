@@ -196,7 +196,7 @@ But this way of thinking is fundamentally flawed. To make an extra $40
 per book sold, I was taking the risk of having a sub-optimized learning
 experience.  Without realizing it, I always saw my books as someone
 else's items that I was borrowing.  This was so wrong. As a student, I
-depriving myself of potentially useful learning tools. I was like a
+was depriving myself of potentially useful learning tools. I was like a
 mechanic afraid of breaking a wrench. Maybe I did this naturally
 since I was used to owning collectible items (see [how and why I got rid
 of my video game
