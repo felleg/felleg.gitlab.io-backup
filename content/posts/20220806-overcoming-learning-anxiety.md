@@ -300,9 +300,9 @@ them after all! However, they also contain a lot of context to explain why
 certain knowledge nuggets have meaning. What if we simply recorded the
 nuggets that we want to remember, and ignored the rest? Forget the fluff, literally!
 
-Grinding through a book takes a lot of time, so we do everything we can
+Indeed, grinding through a book takes a lot of time, so we do everything we can
 to avoid doing it more than once. We want to capture information in a
-concise way that will empower us. A book might be a best-seller or a
+concise way that will empower *us*. A book might be a best-seller or a
 classic, you probably already have other books on your bucket list that
 also call for your attention. No time to go down memory lane. Give a
 book the time it needs, then be done with it. For real.
