@@ -266,6 +266,8 @@ nuggets, or worse, re-understand the context in which that nugget made
 sense? Again, I could hear Gabrielle's wise statement in the back of my
 mind: "You never want to read the same book twice."
 
+Duh! Ok, the third time is the charm.
+
 ## Attempt 3: Record knowledge in a journal
 
 After feeling like I was on the right path but struggling to find a
