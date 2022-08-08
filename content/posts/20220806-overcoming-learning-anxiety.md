@@ -380,7 +380,7 @@ advance. This has multiple benefits:
 
 - I can move other events to make sure I have enough time to read
 - It reminds me of the actual quantity of efforts I put into my learning
-- It informs my partner of when I am focused and need my own space
+- It informs my partner when I am focused and need my own space
 
 If I feel like I'm learning too slowly, all I have to do is put more
 time in my schedule to read.
