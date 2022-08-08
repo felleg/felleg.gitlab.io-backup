@@ -2,7 +2,7 @@
 title: "The DevOps Baby"
 date: 2022-08-04T20:46:26-04:00
 draft: false
-frontpage: "true"
+frontpage: "false"
 toc: false
 cover:
 tags:
