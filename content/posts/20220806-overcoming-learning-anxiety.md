@@ -133,7 +133,7 @@ fall with me. I wanted them to thrive and excel at their rightfully
 chosen tasks. Ironically, I now believe this is precisely the kind of
 mindset that drives the DevOps philosophy: do everything you can to
 maximize the value your peers can deliver. However, I was simply too discouraged
-to realize this.
+at the time to realize this.
 
 In 2019, as I was going on vacation, I stumbled upon a book called *The
 Phoenix Project*, which seemed really popular in the DevOps space as an
