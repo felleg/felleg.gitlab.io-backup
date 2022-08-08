@@ -533,7 +533,7 @@ I vaguely remember coming across an online debate about using bookmarks
 vs. folding corners. In the past, I would have been in the bookmark
 camp, but I'm now clearly a folded corners guy.
 
-Because each page has two corners, I use this to my full advantage. The
+Each page has two corners and I use this to my full advantage. The
 top corner indicates my reading progress, and the bottom corner
 indicates my note-taking progress. And no risk of having your bookmark
 fall out of the book!
