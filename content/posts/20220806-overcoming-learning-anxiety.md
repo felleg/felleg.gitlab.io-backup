@@ -473,7 +473,7 @@ But it also had cons:
 
 Being left-handed definitely didn't help with smears. Thus, the search
 for my pen of choice began, a pen that, no matter what type of paper I
-chose, without let me down, and would not smear.
+chose, would not let me down, and would not smear.
 
 Online searches seemed to center on three candidates:
 - Pilot G-2 07 (which I already knew was not for me)
