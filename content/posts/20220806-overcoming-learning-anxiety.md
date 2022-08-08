@@ -310,7 +310,7 @@ work for me:
 ## Make a clear distinction between "books" and "novels"
 
 My system only applies to books, which contain material from which I aim
-to learn. They are not meant to be entertaining, unlike novels.
+to learn. By my definition, books are not designed around entertainment, unlike novels.
 
 The Phoenix Project skirted that line brilliantly and I think that can
 partly explain its incredible success. However, in most cases, before
@@ -320,6 +320,7 @@ apply by answering questions such as:
 - Do you allow yourself to quit that particular book before finishing?
 - Do you consider reading this book a personal project, or
   entertainment?
+- Will you search for knowledge nuggets while reading?
 
 Personally, I read books in physical form, and novels in digital form.
 
@@ -333,6 +334,35 @@ learning visible and tactile to everyone.
 
 {{< figure src="/img/20220807-readlist.jpg" position="center" caption="My current reading list" >}}
 
+## Read a single book at a time
+
+As you start learning, you get excited when you see all the
+possibilities within your grasp. Never forget "Stop starting, start
+finishing".
+
+{{< figure src="/img/stop-starting-start-finishing.jpg" position="center" caption="Words to live by." >}}
+
+
+Choose your book well, and don't start another one before you finished
+your current one. Use this as motivation to get through your current
+book, if needed!
+
+Personally, leaving a book without finishing it only makes me more
+confused. It gives me pieces of the puzzle, but since I lack pieces I
+will never see that puzzle to completion. Bite the bullet, and finish
+the books you start, unless they are novels that fail to grab your
+attention.
+
+Wait until you are in the final pages of a book before ordering your
+next one. You don't want to take commitments that you might not be able
+to complete. I strongly advise to order only a single book at a time -
+don't get carried away!
+
+{{< figure src="/img/continuous-delivery.jpg" position="center" caption="This is the next book I'm tackling. It has been on my radar for years. I finally feel ready to give it an honest try." >}}
+
+Note: Reading a Go book on the side is ok, although I recommend
+reading a single Go book at a time. :smile:
+
 ## Invest in a bound journal
 This is probably basic common-sense, but I'll make it explicit, just in
 case. A spiral-bound Hilroy notebook
@@ -343,13 +373,14 @@ Some features that I personally look for when buying a journal:
 - A5 size - not too big, not too small.
 - comes with stickers for the spine and cover to easily identify in my
   library
-- contains spaces to write personal information (if lost)
-- contains a table of content
-- contains numbered pages
+- dedicate space to write contact information (if lost)
+- table of content
+- numbered pages
 
 I currently write my notes in a TRURED notebook I found at Staples
 (Bureau en Gros) which cost me $10. It was the cheapest dotted bound
-journal in the store.
+journal in the store. It didn't have all the features I listed above,
+but I can work around that easily.
 
 I also bought a Leuchtturm 1917 A5 to use
 as a personal diary and I liked its features, feel, and available
@@ -445,7 +476,15 @@ can easily refer to your knowledge.
 
 {{< figure src="/img/ruler.jpg" position="center" caption="" >}}
 
+## Leave some gaps when you feel you could come back to add details
+
+I try to always leave roughly two empty lines around each knowledge
+nugget in case I ever need to come back and add corrections or related
+ideas/references. (See [photo above](/img/notes.jpg))
+
 ## Track progress by folding the corners of the book you're reading
+
+This is a big part of my system.
 
 I vaguely remember coming across an online debate about using bookmarks
 vs. folding corners. I'm clearly a folded corners guy.
@@ -496,12 +535,6 @@ what the acronyms I use to reference a knowledge nugget stand for.
 
 {{< figure src="/img/book-reference.jpg" position="center" caption="" >}}
 
-## Leave some gaps when you feel you could come back to add details
-
-I try to always leave roughly two empty lines around each knowledge
-nugget in case I ever need to come back and add corrections or related
-ideas/references. (See [photo above](/img/notes.jpg))
-
 ## Have an index in your journal
 
 Eventually, reading your journal will take as long as reading a real
@@ -518,35 +551,6 @@ trade-off I could not imagine myself living without.
 It just makes sense, you know?
 
 {{< figure src="/img/book-index.jpg" position="center" caption="" >}}
-
-## Read a single book at a time
-
-As you start learning, you get excited when you see all the
-possibilities within your grasp. Never forget "Stop starting, start
-finishing".
-
-{{< figure src="/img/stop-starting-start-finishing.jpg" position="center" caption="Words to live by." >}}
-
-
-Choose your book well, and don't start another one before you finished
-your current one. Use this as motivation to get through your current
-book, if needed!
-
-Personally, leaving a book without finishing it only makes me more
-confused. It gives me pieces of the puzzle, but since I lack pieces I
-will never see that puzzle to completion. Bite the bullet, and finish
-the books you start, unless they are novels that fail to grab your
-attention.
-
-Wait until you are in the final pages of a book before ordering your
-next book. You don't want to take commitments that you might not be able
-to complete. I strongly advise to order only a single book at a time -
-don't get carried away!
-
-{{< figure src="/img/continuous-delivery.jpg" position="center" caption="This is the next book I'm tackling. It has been on my radar for years. I finally feel ready to give it an honest try." >}}
-
-Note: Reading a Go book on the side is ok, although I recommend
-reading a single Go book at a time. :smile:
 
 ## Sharing the learning material
 
