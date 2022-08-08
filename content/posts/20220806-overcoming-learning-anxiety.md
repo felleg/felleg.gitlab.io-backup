@@ -332,7 +332,7 @@ because you can physically annotate it, and then pass it along to
 your co-workers. It becomes both a trophy and a reference tool. It makes
 learning visible and tactile to everyone.
 
-{{< figure src="/img/20220807-readlist.jpg" position="center" caption="My current reading list" >}}
+{{< figure src="/img/20220807-readlist.jpg" position="center" caption="My current reading list: a book, a Go book, and a novel." >}}
 
 ## Read a single book at a time
 
