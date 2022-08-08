@@ -519,7 +519,7 @@ can easily refer to your knowledge.
 
 {{< figure src="/img/ruler.jpg" position="center" caption="" >}}
 
-## Leave some gaps when you feel you could come back to add details
+## Leave some gaps to allow for future corrections and details
 
 I try to always leave roughly two empty lines around each knowledge
 nugget in case I ever need to come back and add corrections or related
