@@ -78,7 +78,7 @@ started working towards handling the IT of the company and discovering
 automated deployment pipelines, my manager Alexandre said something that would
 change my life.
 
-"You know what? I think DevOps would be a good fit for you."
+*"You know what? I think DevOps would be a good fit for you."*
 
 If you are someone with imposter syndrome, receiving this kind of
 information is a mixed bag. On one hand, it finally provides an
