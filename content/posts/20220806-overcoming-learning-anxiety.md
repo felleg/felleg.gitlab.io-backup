@@ -165,7 +165,7 @@ I finished it yesterday, August 6 of 2022.
 
 For those keeping count at home, that means three years of lead time. What happened?
 
-# Conquering *The Devops Handbook*
+# Conquering *The DevOps Handbook*
 
 {{< figure src="/img/finished-devops-handbook.jpg" position="center" caption="I conquered The DevOps Handbook. Notice the curved spine." >}}
 
