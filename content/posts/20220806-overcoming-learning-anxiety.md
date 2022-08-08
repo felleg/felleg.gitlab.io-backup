@@ -387,7 +387,7 @@ time in my schedule to read.
 
 We are all equal when it comes to time. On average, our weeks consist of
 roughly 110 awake hours, of which at least 40 are taken by our jobs. If
-we mispend hour weekly remaining 70 hours week after week, no wonder we
+we squander our weekly remaining 70 hours week after week, no wonder we
 feel like we are accomplishing nothing. These 70 hours are all we have
 in our "time tank". Life has no mercy when it comes to time, so we have
 to make sure we plan ahead in order to be able to spend our time in a
