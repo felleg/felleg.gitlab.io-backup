@@ -414,7 +414,7 @@ have a system that works for me.
 
 ## Invest in a bound journal
 
-Alright, now we are getting into the tips you were probably looking for.
+Alright, we are now getting into the tips you were probably looking for.
 What hardware do I recommend?
 
 First off, this is probably basic common-sense, but I'll make it explicit, just in
