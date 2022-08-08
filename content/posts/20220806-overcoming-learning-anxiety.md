@@ -650,7 +650,7 @@ learning. Textbooks have a purpose outside the classroom, even if that
 means you won't have a professor
 dragging you through it. Not all textbooks feature exercises
 and homework; some can be quite fun, relaxing, enlightening to read,
-without creating headaches or feeling like a puzzles. A book you chose
+without creating headaches or feeling like puzzles. A book you chose
 almost certainly contains the answer to the question that made you
 choose it. Imagine how you will feel when you finally get the answer you
 craved!
