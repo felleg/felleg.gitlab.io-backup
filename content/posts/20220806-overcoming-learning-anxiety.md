@@ -565,7 +565,7 @@ reference to the source material. This helps finding context or
 correcting notes in the rare cases where your notes are unclear and you
 must refer to the book. Trust me, it can save you a lot
 of time, and also makes sharing that nugget in the
-future even easier ("As the DevOps Handbook says on page 49, improvement
+future even easier (e.g. "As the DevOps Handbook says on page 49, improvement
 of daily work is even more important than daily work!").
 
 Side effects may include people calling you a bookworm.
