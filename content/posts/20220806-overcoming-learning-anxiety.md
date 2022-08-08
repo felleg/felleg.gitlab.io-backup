@@ -619,7 +619,7 @@ As a child who wanted to become a teacher for most of his life, I can't
 be more satisfied with my current career choice: teaching businesses how
 to learn. I have no idea what I did to land on this path, even
 though it was far from a painless experience to get here. I finally feel
-like I'm my X.
+like I'm on my X.
 
 If you personally suffer with learning anxiety and made it this far in
 this blog post, I'm confident that you are already on the right path. I
