@@ -153,7 +153,7 @@ come back to in this post.
 
 In 1 week, I had finished reading my first DevOps book. Woohoo! I felt like I
 was ready to conquer the world. My mind was now filled with ideas I was
-excited to try. In *The Phoenix Project* subtly advertised
+excited to try. *The Phoenix Project* subtly advertised
 for another book from the same author, *The DevOps Handbook*, which
 supposedly contained everything you needed to know to propel your
 business forward as Bill had done for Parts Unlimited in the Phoenix
