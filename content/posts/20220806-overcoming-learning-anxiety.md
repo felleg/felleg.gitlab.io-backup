@@ -291,7 +291,8 @@ In short, Matt's strategy is the following:
 The idea behind this system is simple: do the least to get the most.
 Books contain answers to our questions. That is why we choose to read
 them after all! We just have to dig
-through the book to highlight them and capture them. Forget the fluff.
+through the book to highlight them and capture them. Forget the fluff,
+literally!
 Grinding through a book takes a lot of time, so do everything you can to
 avoid doing it more than once. Capture information in a concise way that
 will empower you.
