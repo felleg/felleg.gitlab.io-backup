@@ -60,7 +60,7 @@ workplace. I had 2 months to course-correct, otherwise I could kiss my
 job goodbye. Part of the problem was the fact that I had trouble
 learning new concepts and remembering important details.
 
-It was an watershed moment. I wasn't going to waste this opportunity.
+It was a watershed moment. I wasn't going to waste this opportunity.
 
 But how did I get there?
 
