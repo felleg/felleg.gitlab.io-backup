@@ -569,7 +569,7 @@ of daily work is even more important than daily work!").
 
 Side effects may include people calling you a bookworm.
 
-## Have a book reference at the beginning of your notebook
+## Have a book reference at the beginning of your journal
 
 As you add more and more knowledge nuggets and references in your
 journal, it is going to be helpful to know at a glance from which books
