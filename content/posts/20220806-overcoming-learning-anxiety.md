@@ -595,7 +595,7 @@ trade-off I could not imagine myself living without.
 
 It just makes sense, you know?
 
-{{< figure src="/img/book-index.jpg" position="center" caption="" >}}
+{{< figure src="/img/notebook-index.jpg" position="center" caption="" >}}
 
 ## Sharing the learning material
 
