@@ -201,7 +201,7 @@ mechanic who used his hands because he was afraid of breaking a wrench. Maybe I 
 since I was used to owning collectible items (see [how and why I got rid
 of my video game
 collection](/posts/2021/03/selling-my-video-game-collection-the-hoarding-project/)).
-Whatever the reason, I'm glad I got through my studies despite this backwards mindset, but I
+Whatever the reason, I'm glad I got through my studies despite this backwards mindset, because I
 don't plan on doing this ever again.
 
 Now, my mindset is different. A curved spine is beautiful. It means
