@@ -304,7 +304,7 @@ naturally evolved from beginning with this basic system.
 
 {{< figure src="/img/rewriting.png" position="center" caption="" >}}
 
-The core idea stays roughly the same at Matt Morris' strategy outlined
+The core idea stays roughly the same as Matt Morris' strategy outlined
 above. However, there are subtle details that make my method
 work for me:
 
