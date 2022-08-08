@@ -112,7 +112,7 @@ like this:
 > (source: [IBM](https://web.archive.org/web/20220807135552/https://www.ibm.com/cloud/learn/devops-a-complete-guide))
 
 I expect this quote to feel opaque to most Physicists still undergoing
-their studies. At least, it felt completely impenetrable to me.
+their studies. At least, it used to feel completely impenetrable to me.
 
 Every search result required me to do at least three other searches to
 understand what sentences meant. For a while, it felt like I was
