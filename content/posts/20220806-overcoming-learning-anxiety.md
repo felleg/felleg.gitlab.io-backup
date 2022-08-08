@@ -96,7 +96,7 @@ become an ML scientist, only to realize I was even worse at that job, so
 much so that my boss recommended another career change, this time into a
 field I knew absolutely nothing about. I was rightfully terrified.
 
-# The anxiety surfaces
+# The anxiety begins
 
 Not wanting to waste any time, I feverishly started Googling the most
 basic things, like "how to DevOps?", which led me to results
