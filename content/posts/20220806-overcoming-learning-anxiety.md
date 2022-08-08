@@ -416,7 +416,7 @@ Some features that I personally look for when buying a journal:
 - A5 size - not too big, not too small.
 - comes with stickers for the spine and cover to easily identify in my
   library
-- dedicate space to write contact information (if lost)
+- dedicated space to write contact information (if lost)
 - table of content
 - numbered pages
 
