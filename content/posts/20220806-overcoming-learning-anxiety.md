@@ -363,10 +363,52 @@ don't get carried away!
 Note: Reading a Go book on the side is ok, although I recommend
 reading a single Go book at a time. :smile:
 
+## Schedule your book time
+
+{{< figure src="/img/schedule-book-time.png" position="center" caption="" >}}
+
+This tip is so important that it could be its own blog post (and it
+probably will).
+
+How fast you learn is directly proportional to the amount of
+time you are ready to invest in interacting with your books. What I'm
+starting to find out is that time is like money: whatever amount you
+don't invest in yourself has a way of vanishing in mysterious ways.
+
+Personally, I try as much as possible to schedule my reading sessions in
+advance. This has multiple benefits:
+
+- I can move other events to make sure I have enough time to read
+- It reminds me of the actual quantity of efforts I put into my learning
+- It informs my partner of when I am focused and need my own space
+
+If I feel like I'm learning too slowly, all I have to do is put more
+time in my schedule to read.
+
+We are all equal when it comes to time. On average, our weeks consist of
+roughly 110 awake hours, of which at least 40 are taken by our jobs. If
+we mispend hour weekly remaining 70 hours week after week, no wonder we
+feel like we are accomplishing nothing. These 70 hours are all we have
+in our "time tank". Life has no mercy when it comes to time, so we have
+to make sure we plan ahead in order to be able to spend our time in a
+way that is truly meaningful to us.
+
+Personally, I aim at spending at least 6 hours reading or taking notes
+weekly. It can be while in public transport, after dinner, at the
+park... When I'm washing the dishes, I try to watch videos that can help
+me learn (e.g. [Why Scaling Agile Doesn't
+Work](https://www.youtube.com/watch?v=2zYxWEZ0gYg) by Jez Humble). Any
+second I can spend learning is time well invested, especially now that I
+have a system that works for me.
+
 ## Invest in a bound journal
-This is probably basic common-sense, but I'll make it explicit, just in
-case. A spiral-bound Hilroy notebook
-or, worse, a stitched exercise book, won't do much good here if pages
+
+Alright, now we are getting into the tips you were probably looking for.
+What hardware do I recommend?
+
+First off, this is probably basic common-sense, but I'll make it explicit, just in
+case: don't use a spiral-bound Hilroy notebook
+or, worse, a stitched exercise book. These won't do much good here if pages
 keep tearing and falling out of your journal after a few years.
 
 Some features that I personally look for when buying a journal:
