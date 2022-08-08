@@ -617,7 +617,7 @@ personal development, I added a little note on the title page:
 
 {{< figure src="/img/encouraging-others.jpg" position="center" caption="" >}}
 
-## In your next journal, transfer best nuggets from the previous one
+## In your next journal, import your best previous nuggets
 
 Always in a effort to make information accessible, what I plan on doing
 when I fill my current journal and inevitably have to get a new one, is
