@@ -109,7 +109,7 @@ like this:
 > **continuous integration and continuous delivery, or CI/CD**. [...] So
 > DevOps grew out of agile.
 >
-> (source: [IMB](https://web.archive.org/web/20220807135552/https://www.ibm.com/cloud/learn/devops-a-complete-guide))
+> (source: [IBM](https://web.archive.org/web/20220807135552/https://www.ibm.com/cloud/learn/devops-a-complete-guide))
 
 I expect this quote to feel opaque to most Physicists still undergoing
 their studies. At least, it felt completely impenetrable to me.
