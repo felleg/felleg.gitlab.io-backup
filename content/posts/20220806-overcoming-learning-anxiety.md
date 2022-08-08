@@ -294,17 +294,21 @@ In short, Matt's strategy is the following:
 > - Rewrite it into your journal
 > - Reread your journal, highlight important bits
 
-The idea behind this system is simple: Do the least to get the most.
-Books contain answers to our questions. That is why we choose to read
-them after all! We just have to dig
-through the book to highlight them and capture them. Forget the fluff,
-literally!
-Grinding through a book takes a lot of time, so do everything you can to
-avoid doing it more than once. Capture information in a concise way that
-will empower you.
+The idea behind this system is simple: Work smart.
+Books do contain answers to our questions. That is why we choose to read
+them after all! However, they contain a lot of fluff to explain why
+certain knowledge nuggets have meaning. What if we simply recorded the
+nuggets, and ignored the rest? Forget the fluff, literally!
 
-Doing this sent me down an excellent path. My own learning system
-naturally evolved from beginning with this basic system.
+Grinding through a book takes a lot of time, so we do everything we can
+to avoid doing it more than once. We want to capture information in a
+concise way that will empower us. A book might be a best-seller or a
+classic, you probably already have other books on your bucket list that
+also call for your attention. No time to go down memory lane. Give a
+book the time it needs, then be done with it. For real.
+
+Following this basic method already sent me down an excellent path. My own learning system
+naturally evolved from there.
 
 # My current learning system
 
