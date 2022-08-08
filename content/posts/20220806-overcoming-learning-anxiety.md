@@ -216,7 +216,7 @@ coincidence! :smiley:
 # Creating a system of learning
 
 Ok, so I knew how to hold a paperback book. Big whoop. This didn't
-change the fact that after reading 10 pages, I still felt like my brain
+change the fact that after reading 10 pages, I still felt like my head
 couldn't contain all the information I was reading. If 10 pages
 of info coming in my brain meant 10 pages of info coming out, that does not count
 as learning. That is the equivalent of passively listening to radio
