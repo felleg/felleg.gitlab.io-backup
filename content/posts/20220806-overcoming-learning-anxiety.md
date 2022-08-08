@@ -326,7 +326,7 @@ apply by answering questions such as:
 Personally, I read books in physical form, and novels in digital form.
 
 I know, I know! I [used to say that physical books had no reason to
-exist](/posts/2020/10/i-love-e-readers/), but now my stance has changed:
+exist](/posts/2020/10/i-love-e-readers/), but now my stance has softened:
 for books aimed at learning in the workplace, paper is almost
 quintessential,
 because you can physically annotate it, and then pass it along to
@@ -374,7 +374,7 @@ probably will).
 How fast you learn is directly proportional to the amount of
 time you are ready to invest in your learning. What I'm
 starting to find out is that time is like money: whatever amount you
-don't invest in yourself has a way of vanishing in mysterious ways.
+don't actively invest in yourself has a way of vanishing in mysterious ways.
 
 Personally, I try as much as possible to schedule my reading sessions in
 advance. This has multiple benefits:
