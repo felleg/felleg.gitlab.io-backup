@@ -367,7 +367,7 @@ reading a single Go book at a time. :smile:
 
 {{< figure src="/img/schedule-book-time.png" position="center" caption="" >}}
 
-This tip is so important that it could be its own blog post (and it
+**This tip is so important that it could be its own blog post** (and it
 probably will).
 
 How fast you learn is directly proportional to the amount of
