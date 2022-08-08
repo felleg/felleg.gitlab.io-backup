@@ -647,7 +647,7 @@ and now I get to savour it.
 Books are not something to be afraid of. Not anymore. I realized I now
 get to decide which book I read. As a professional, I am the master of my own
 learning. Textbooks have a purpose outside the classroom, even if that
-means you won't have a profesor
+means you won't have a professor
 dragging you through it. Not all textbooks feature exercises
 and homework; some can be quite fun, relaxing, enlightening to read,
 without creating headaches or feeling like a puzzles. A book you chose
