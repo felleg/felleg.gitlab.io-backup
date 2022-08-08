@@ -364,7 +364,7 @@ don't get carried away!
 Note: Reading a Go book on the side is ok, although I recommend
 reading a single Go book at a time. :smile:
 
-## Schedule your book time
+## Schedule (and respect!) your book time
 
 {{< figure src="/img/schedule-book-time.png" position="center" caption="" >}}
 
