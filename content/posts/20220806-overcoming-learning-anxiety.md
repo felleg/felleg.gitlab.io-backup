@@ -131,7 +131,7 @@ of going down
 in a big ball of fire, but I didn't want my colleagues to suffer the
 fall with me. I wanted them to thrive and excel at their rightfully
 chosen tasks. Ironically, I now believe this is precisely the kind of
-mindset that drives the DevOps philosophy: do everything you can to
+mindset that drives the DevOps philosophy: Do everything you can to
 maximize the value your peers can deliver. However, I was simply too discouraged
 at the time to realize this.
 
@@ -184,7 +184,7 @@ helped me get through the DevOps Handbook:
 {{< figure src="/img/how-to-hold-book.jpg" position="center" caption="My new favorite way to hold paperbacks." >}}
 
 What difference does that make? For one, it showed me an important
-lesson: books are not valuable. It is their content that is valuable.
+lesson: Books are not valuable. It is their content that is valuable.
 Most precisely, their knowledge nuggets.
 
 As a money-poor grad student, I was relatively short on cash and keeping
@@ -240,7 +240,7 @@ time to go back to chapters I had already read. And this was
 supported by something my partner Gabrielle told me, as she was
 completing her PhD: "You never want to read the same book twice". As a
 fan of novels, this was something I initially disagreed with. However, I
-came to understand what her statement meant: reading a book twice is
+came to understand what her statement meant: Reading a book twice is
 suboptimal and a potential waste of time. In other words, learn things
 right on the first run-through!
 
@@ -248,7 +248,7 @@ right on the first run-through!
 
 {{< figure src="/img/highlighting.jpg" position="center" caption="Gold nuggets of knowledge!" >}}
 
-Armed with a highlighter, I had an idea: if a book is a goldmine of
+Armed with a highlighter, I had an idea: If a book is a goldmine of
 information, my highlighter will allow me to illustrate where the actual
 gold nuggets are.
 
@@ -256,7 +256,7 @@ Indeed, not every word in a book is going to be useful information to
 *you*. It is up to you to determine what information is worth going back
 to or not.
 
-However, once again, I faced a problem: what good was it to highlight in
+However, once again, I faced a problem: What good was it to highlight in
 a book if that meant I had to keep going back to the book to find these
 nuggets, or worse, re-understand the context in which that nugget made
 sense? Again, I could hear Gabrielle's wise statement in the back of my
@@ -288,7 +288,7 @@ In short, Matt's strategy is the following:
 > - Rewrite it into your journal
 > - Reread your journal, highlight important bits
 
-The idea behind this system is simple: do the least to get the most.
+The idea behind this system is simple: Do the least to get the most.
 Books contain answers to our questions. That is why we choose to read
 them after all! We just have to dig
 through the book to highlight them and capture them. Forget the fluff,
@@ -373,7 +373,7 @@ probably will).
 
 How fast you learn is directly proportional to the amount of
 time you are ready to invest in your learning. What I'm
-starting to find out is that time is like money: whatever amount you
+starting to find out is that time is like money: Whatever amount you
 don't actively invest in yourself has a way of vanishing in mysterious ways.
 
 Personally, I try as much as possible to schedule my reading sessions in
@@ -408,7 +408,7 @@ Alright, now we are getting into the tips you were probably looking for.
 What hardware do I recommend?
 
 First off, this is probably basic common-sense, but I'll make it explicit, just in
-case: don't use a spiral-bound Hilroy notebook
+case: Don't use a spiral-bound Hilroy notebook
 or, worse, a stitched exercise book. These won't do much good here if pages
 keep tearing and falling out of your journal after a few years.
 
@@ -484,8 +484,8 @@ I went to my local pharmacy and saw bags of Paper Mate InkJoys and Bic
 Cristals, similarly priced at 10 pens for $3. "Screw it", I said, and I
 bought both. That is the best $6 investment I have ever made.
 
-I proceeded to write an entry in my personal diary to test the pens. And
-after a couple pages, the results were in: the Bic Cristal ticked all the
+I proceeded to write an entry in my personal diary to test the pens.
+After a couple pages, the results were in: The Bic Cristal ticked all the
 boxes for me. Although its ink was paler than I would have liked, it
 was easy to push on paper, had a comfortable hexagonal barrel, and most
 importantly, **did not smear**.
@@ -584,7 +584,7 @@ what the acronyms I use to reference a knowledge nugget stand for.
 
 Eventually, reading your journal will take as long as reading a real
 book. You will quickly begin to face the same problems that real books
-had to solve ages ago. For example: in my journal, I give information
+had to solve ages ago. For example, in my journal, I give information
 about blameless postmortems in 3 different places. That was unavoidable:
 how could I plan that the book would have nuggets about postmortems in
 different sections and chapters?
