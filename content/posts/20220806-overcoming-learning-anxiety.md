@@ -295,8 +295,8 @@ In short, Matt's strategy is the following:
 > - Reread your journal, highlight important bits
 
 The idea behind this system is simple: Work smart.
-Books do contain answers to our questions. That is why we choose to read
-them after all! However, they contain a lot of fluff to explain why
+Books do contain answers to our questions - that is why we choose to read
+them after all! However, they also contain a lot of fluff to explain why
 certain knowledge nuggets have meaning. What if we simply recorded the
 nuggets, and ignored the rest? Forget the fluff, literally!
 
