@@ -459,8 +459,13 @@ the ground or have given to me, either by a friend or my workplace.
 What I didn't realize is that there is no one-size-fits-all pen. What
 works for you might not work for me, and vice versa.
 
-For example, the first pen I bought this year was a Pilot G-2 07. It was
-definitely a step up from any previous pen I had previously used:
+For example, the first pen I bought was a Pilot G-2 07. I was tired of
+the weak-sauce pen I was using at home for journaling and taking notes.
+I just went to the pharmacy and grabbed whatever black pen looked good
+in the Pilot display at my local pharmacy.
+
+The G-2 was
+definitely a step up from the pen I was previously using:
 - Deep dark ink
 - Effortless glide
 - Satisfying clicky button
@@ -507,8 +512,14 @@ Thus, if you're looking for recommendations, mine are:
 Note: This process led me to learn about the history of the ballpoint
 pen, which was a fascinating read.
 
-Note 2: Interestingly, for drawing on human skin, the Paper Mate InkJoy
+Note 2: I stumbled upon [this video about the Bic Cristal from Joe Van
+Cleave](https://www.youtube.com/watch?v=kuIkTRf8UFc) who, like me, is
+enamoured with his Bic pens. This is what we're aiming for: finding the
+tools that genuinely make us excited to get to work to use them.
+
+Note 3: Interestingly, for drawing on human skin, the Paper Mate InkJoy
 is surprisingly hard to beat. I will not be answering questions.
+
 
 ## Have a ruler handy
 
