@@ -298,7 +298,7 @@ The idea behind this system is simple: Work smart.
 Books do contain answers to our questions - that is why we choose to read
 them after all! However, they also contain a lot of context to explain why
 certain knowledge nuggets have meaning. What if we simply recorded the
-nuggets, and ignored the rest? Forget the fluff, literally!
+nuggets that we want to remember, and ignored the rest? Forget the fluff, literally!
 
 Grinding through a book takes a lot of time, so we do everything we can
 to avoid doing it more than once. We want to capture information in a
