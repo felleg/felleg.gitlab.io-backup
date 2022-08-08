@@ -238,7 +238,7 @@ information as I flipped through the pages.
 Unfortunately, that did not work. Why? Simply because I never took the
 time to go back to chapters I had already read. And this was
 supported by something my partner Gabrielle told me, as she was
-completing her PhD: "You never want to read the same book twice". As a
+completing her PhD: **"You never want to read the same book twice"**. As a
 fan of novels, this was something I initially disagreed with. However, I
 came to understand what her statement meant: Reading a book twice is
 suboptimal and a potential waste of time. In other words, learn things
