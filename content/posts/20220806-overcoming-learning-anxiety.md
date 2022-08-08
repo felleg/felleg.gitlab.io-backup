@@ -354,7 +354,7 @@ the books you start, unless they are novels that fail to grab your
 attention.
 
 Wait until you are in the final pages of a book before ordering your
-next one. You don't want to take commitments that you might not be able
+next one. You don't want to make commitments that you might not be able
 to complete. I strongly advise to order only a single book at a time -
 don't get carried away!
 
