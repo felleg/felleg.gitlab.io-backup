@@ -371,7 +371,7 @@ reading a single Go book at a time. :smile:
 probably will).
 
 How fast you learn is directly proportional to the amount of
-time you are ready to invest in interacting with your books. What I'm
+time you are ready to invest in your learning. What I'm
 starting to find out is that time is like money: whatever amount you
 don't invest in yourself has a way of vanishing in mysterious ways.
 
