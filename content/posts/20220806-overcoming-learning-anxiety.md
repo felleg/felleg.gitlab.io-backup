@@ -460,9 +460,9 @@ works for you might not work for me, and vice versa.
 
 For example, the first pen I bought this year was a Pilot G-2 07. It was
 definitely a step up from any previous pen I had previously used:
-- Clicky button
 - Deep dark ink
 - Effortless glide
+- Satisfying clicky button
 
 But it also had cons:
 - Empties quickly
