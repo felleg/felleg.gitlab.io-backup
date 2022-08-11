@@ -631,7 +631,7 @@ office, where I know they will benefit my colleagues.
 Writing the Slack message announcing the newly available book in the
 library is the victory lap.
 
-{{< figure src="/img/book-sharing.png" position="center" caption="" >}}
+{{< figure src="/img/book-sharing.jpg" position="center" caption="" >}}
 
 For the DevOps Handbook, since this book meant a lot for me during my
 personal development, I added a little note on the title page:
