@@ -464,7 +464,7 @@ Story time, as this is a subject that is near and dear to my heart.
 I bought my first pen in 2022 at 29 years old. Maybe it's me who's
 weird, but for the longest time I did not care about the writing
 material I used. I was perfectly content with whatever pen I'd find on
-the ground or have given to me, either by a friend or my workplace.
+the ground or have given to me, initially by my parents, then by my friends or my workplace.
 
 What I didn't realize is that there is no one-size-fits-all pen. What
 works for you might not work for me, and vice versa.
