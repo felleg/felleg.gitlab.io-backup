@@ -12,7 +12,7 @@ description: "3e axe - Third axis"
 
 {{< figure src="/img/go-game.gif" position="center" caption="Unfortunately, refreshing your web page won't restart this gif.  Sorry." >}}
 
-Le Go est un jeu qui pivote la projection du temps que nous mesurons
+Le Go est un jeu qui pivote la projection de la vie que nous mesurons
 dans nos têtes telle que notre dimension soit le temps.
 
 Jouer au Go nous apprend littéralement à lire le temps.
