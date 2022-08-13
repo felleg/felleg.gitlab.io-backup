@@ -1,5 +1,5 @@
 ---
-title: "Stuff Go makes me say"
+title: "Go Ramblings - 1"
 date: 2022-08-12T20:54:17-04:00
 draft: false
 frontpage: "false"
