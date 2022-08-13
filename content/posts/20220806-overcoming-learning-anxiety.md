@@ -111,8 +111,8 @@ like this:
 >
 > (source: [IBM](https://web.archive.org/web/20220807135552/https://www.ibm.com/cloud/learn/devops-a-complete-guide))
 
-I expect this quote to feel opaque to most Physicists still undergoing
-their studies. At least, it used to feel completely impenetrable to me.
+You better believe that when I saw they were selling a DevOps handbook
+on Amazon, I rushed to buy it.
 
 Every search result required me to do at least three other searches to
 understand what sentences meant. For a while, it felt like I was
@@ -159,7 +159,7 @@ supposedly contained everything you needed to know to propel your
 business forward as Bill had done for Parts Unlimited in the Phoenix
 Project. I felt ready for it. Bring it on!
 
-I ordered my copy of the DevOps Handbook in 2019.
+I ordered my copy of the handbook in 2019.
 
 I finished it yesterday, August 6 of 2022.
 
@@ -167,27 +167,64 @@ For those keeping count at home, that means three years of lead time. What happe
 
 # Conquering *The DevOps Handbook*
 
-{{< figure src="/img/finished-devops-handbook.jpg" position="center" caption="I conquered The DevOps Handbook. Notice the curved spine." >}}
+So, why did I take so long to read it?
 
-Here it is, the DevOps Handbook. It's actually my second copy of the
-book, because it took so long for me to read the first edition that in
-the meantime, the second edition came out. My new employer preapproved
-the purchase of the book, so I decided to benefit from the added
-material.
+Simply put, because I began to feel intimidated. Every new information felt like it took
+the spot of another one in my head, similar to a sort of musical chair of information.
+For example, I had trouble remembering what the Three Ways of
+DevOps stood for, even though they were central parts of both the
+Phoenix Project and the handbook. It felt like I was drowning in
+information, having too much of a good thing. The Phoenix Project
+managed to pass on a reasonable amount of information that didn't really
+detract from the story. The DevOps Handbook (DH) was just the raw knowledge
+nuggets, lined up one after the other.
 
-But that doesn't really matter. What matters is how banged up my copy
-is. Do you notice the curved spine? This is because my good
-friend Mathieu (and current manager!) made me realize that I had been
-holding books wrong my entire life. Here's the holding position that
-helped me get through the DevOps Handbook:
+I initially tried reading the handbook physically, as I had done with the
+Phoenix Project. When I felt my reading velocity diminish, I started
+reading the digital version on my Kobo. Same result: initial progress
+was quick, and then everything grinded to a halt.
 
-{{< figure src="/img/how-to-hold-book.jpg" position="center" caption="My new favorite way to hold paperbacks." >}}
+Reluctantly, I eventually put down the book, feeling ashamed and
+defeated, until an unexpected discovery.
 
-What difference does that make? For one, it showed me an important
-lesson: Books are not valuable. It is their content that is valuable.
-Most precisely, their knowledge nuggets.
 
-As a money-poor grad student, I was relatively short on cash and keeping
+## Pandora's box
+
+{{< figure src="/img/finished-devops-handbook.jpg" position="center" caption="I finished it! Actually, this is my second copy of the DH. It took so long for me to read my first copy that a second edition came out in the meantime." >}}
+
+So, can you spot it? The little detail that allowed me to read the book?
+Look at the spine...
+
+Do you notice how curved it is?
+
+I guess I must explain... I have developed a very recent fondness for
+curved spines (at least, on books). I used to think having a book with a
+curved spine meant you weren't taking care of your stuff. As if you
+dropped your things and threw them around so often that they became folded all
+around. Like a spoiled kid who didn't want to read, screw that, I want
+to run around... (I don't know what I
+was thinking back then). Today, I realize there are good folds, and there
+are bad folds. A bad fold is the kind of fold I had in mind:
+actual damage. A good fold means someone really put their energy to
+extracting everything there was to learn about a specific book. It's a
+subtle difference, but it means a lot.
+
+It was my good
+friend Mathieu (and current manager!) who showed me a "tool" that I
+would be using for the rest of my life. It is a hand position. The
+gesture one does when actually learning. Here is what it looks like:
+
+{{< figure src="/img/how-to-hold-book.jpg" position="center" caption="" >}}
+
+Those who know, know.
+
+You might be asking, What difference does that make? For one, it showed me an important
+lesson: Books, as an object are not valuable. It is their content that is valuable.
+Their poetry, their imaginary worlds, their prose, their wisdom.
+Books are a mere tactile visual support. They are a material that our brain
+associates with learning since when written language was invented.
+
+Going back to me. About 10 years ago, I was a relatively money-poor grad student. I was relatively short on cash and keeping
 my old course manuals was not something I could afford to do. Thus, I
 took great care of my manuals, seldom highlighting or writing in them, so
 that I could sell them at a higher price later on.
@@ -195,8 +232,10 @@ that I could sell them at a higher price later on.
 But this way of thinking is fundamentally flawed. To make an extra $40
 per book sold, I was taking the risk of having a sub-optimized learning
 experience.  Without realizing it, I always saw my books as someone
-else's items that I was borrowing.  This was so wrong. As a student, I
-was depriving myself of potentially useful learning tools. I was like a
+else's items that I was borrowing. Or some item that might become
+desirable in the future, like Pokémon trading cards.  This was so wrong. As a student, I
+was depriving myself of potentially useful learning tools, in fear of
+wasting money. I was like a
 mechanic who used his hands because he was afraid of breaking a wrench. Maybe I did this naturally
 since I was used to owning collectible items (see [how and why I got rid
 of my video game
@@ -204,9 +243,9 @@ collection](/posts/2021/03/selling-my-video-game-collection-the-hoarding-project
 Whatever the reason, I'm glad I got through my studies despite this backwards mindset, because I
 don't plan on doing this ever again.
 
-Now, my mindset is different. A curved spine is beautiful. It means
+So there you have it. Now you know why I believe a curved book spine is beautiful. It means
 someone gave the book the time it deserved. And, indirectly, if this "damaged"
-book is freely available on a bookshelf in the workplace, it means that person
+book is freely available on a bookshelf near you, it means that person
 understood the book enough to part with it, and thought it was worth
 sharing with others.
 
@@ -216,7 +255,7 @@ coincidence! :smiley:
 # Creating a system of learning
 
 Ok, so I knew how to hold a paperback book. Big whoop. This didn't
-change the fact that after reading 10 pages, I still felt like my head
+change the fact that after reading 10 pages, I
 couldn't contain all the information I was reading. If 10 pages
 of info coming in my brain meant 10 pages of info coming out, that does not count
 as learning. That is the equivalent of passively listening to radio
