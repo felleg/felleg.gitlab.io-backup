@@ -169,15 +169,14 @@ For those keeping count at home, that means three years of lead time. What happe
 
 So, why did I take so long to read it?
 
-Simply put, because I began to feel intimidated. Every new information felt like it took
+Simply put, because after a few chapters, I began to feel intimidated. Every new information felt like it took
 the spot of another one in my head, similar to a sort of musical chair of information.
 For example, I had trouble remembering what the Three Ways of
 DevOps stood for, even though they were central parts of both the
 Phoenix Project and the handbook. It felt like I was drowning in
-information, having too much of a good thing. The Phoenix Project
+information, having too much of a good thing. If the Phoenix Project
 managed to pass on a reasonable amount of information that didn't really
-detract from the story. The DevOps Handbook (DH) was just the raw knowledge
-nuggets, lined up one after the other.
+detract from the story, the DevOps Handbook (DH) proved to be too much for me. There seemed to be no time for relaxation: The DH simply lined the knowledge nuggets one after the other.
 
 I initially tried reading the handbook physically, as I had done with the
 Phoenix Project. When I felt my reading velocity diminish, I started
