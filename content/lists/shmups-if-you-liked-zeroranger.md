@@ -1,6 +1,7 @@
 ---
 title: "Shmups to Try If You Like Zeroranger"
 cover: "img/zeroranger.jpg"
+draft: true
 ---
 
 [ZeroRanger](https://store.steampowered.com/app/809020/ZeroRanger/) is a
