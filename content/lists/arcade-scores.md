@@ -14,19 +14,22 @@ All scores were performed on a [MiSTer FPGA](/posts/2020/10/dream-machine-mister
 <!--
 | | | |
 -->
-| Game | Score | Notes |
-|------|-------|------|
-|[Carrier Air Wing](https://en.wikipedia.org/wiki/Carrier_Air_Wing_(video_game))      | [165210](/img/highscores/carrier-air-wing-20210911.jpg)      |The sequel to U.N. Squadron      |
-|[DoDonPachi](https://en.wikipedia.org/wiki/DoDonPachi)      | [18,848,190](/img/highscores/dodonpachi-20220321.jpg)      |International version      |
-|[DonPachi](https://en.wikipedia.org/wiki/DonPachi)      | [3,972,870](/img/highscores/donpachi-20220709.jpg)      |      |
-|[Esp Ra. De.](https://en.wikipedia.org/wiki/ESP_Ra.De.) | [3,183,730](/img/highscores/esp-ra-de-20220416.jpg) |
-|[Giga Wing](https://en.wikipedia.org/wiki/Giga_Wing)      | [718,236,244,250](/img/highscores/giga-wing-20220326.jpg)      |      |
-|[Guwange](https://en.wikipedia.org/wiki/Guwange)      | [99,9310](/img/highscores/guwange-20220610.jpg)      | If you need a refresher on Chinese numerals, [click here](https://en.wikipedia.org/wiki/Chinese_numerology).     |
-|[Out Zone](https://en.wikipedia.org/wiki/Out_Zone)     | [697,690](/img/highscores/out-zone-20220326.jpg)      |      |
-|[Progear](https://en.wikipedia.org/wiki/Progear) |[4,612,220](/img/highscores/progear-20220327.jpg)       |Got the extend!      |
-|[Strikers 1945 Plus](https://en.wikipedia.org/wiki/Strikers_1945_Plus)      | [273,900](/img/highscores/strikers-1945-plus-20220317.jpg)      | 2 lives (default MVS)     |
-|[Terra Cresta](https://en.wikipedia.org/wiki/Terra_Cresta)     |[41,300](/img/highscores/terra-cresta-20220327.jpg)       |Alpha MiSTer core      |
-|[Tetris: The Grand Master](https://en.wikipedia.org/wiki/Tetris:_The_Grand_Master)  | [Level 549](/img/highscores/tgm-20220523.png)       |Played on MiSTer PSX core using [ZN-2 to PSX conversion](https://www.romhacking.net/reviews/8921/)      |
-|[Tetris: The Grand Master](https://en.wikipedia.org/wiki/Tetris:_The_Grand_Master)  (20G)    | [Level 319](https://www.youtube.com/watch?v=6wJqaH9RW9M)       |Played on [Heboris](https://github.com/nightmareci/HeborisC7EX-SDL2)      |
-|[Time Pilot '84](https://en.wikipedia.org/wiki/Time_Pilot_%2784) |[59400](/img/highscores/timepilot84-20220528.png)       |     |
-|[Truxton](https://en.wikipedia.org/wiki/Truxton_(video_game))      | [201,950](/img/highscores/truxton-20220317.jpg)      | |
+| Game | Score | Date | Notes |
+|------|-------|------|-------|
+|[Blazing Star](https://en.wikipedia.org/wiki/Blazing_Star)      | [849,200](/img/highscores/blazing-star-20220813.jpg)      | 20220813|
+|[Carrier Air Wing](https://en.wikipedia.org/wiki/Carrier_Air_Wing_(video_game))      | [165,210](/img/highscores/carrier-air-wing-20210911.jpg)  | 20210911   |The sequel to U.N. Squadron      |
+|[DoDonPachi](https://en.wikipedia.org/wiki/DoDonPachi)      | [18,848,190](/img/highscores/dodonpachi-20220321.jpg) |20220321     |International version      |
+|[DonPachi](https://en.wikipedia.org/wiki/DonPachi)      | [3,972,870](/img/highscores/donpachi-20220709.jpg)   |20220709   |      |
+|[Esp Ra. De.](https://en.wikipedia.org/wiki/ESP_Ra.De.) | [3,183,730](/img/highscores/esp-ra-de-20220416.jpg) |20220416|
+|[Giga Wing](https://en.wikipedia.org/wiki/Giga_Wing)      | [718,236,244,250](/img/highscores/giga-wing-20220326.jpg)     |20220326 |      |
+|[Guwange](https://en.wikipedia.org/wiki/Guwange)      | [99,9310](/img/highscores/guwange-20220610.jpg) | 20220610    | If you need a refresher on Chinese numerals, [click here](https://en.wikipedia.org/wiki/Chinese_numerology).     |
+|[Out Zone](https://en.wikipedia.org/wiki/Out_Zone)     | [697,690](/img/highscores/out-zone-20220326.jpg)      | 20220326 |    |
+|[Progear](https://en.wikipedia.org/wiki/Progear) |[4,612,220](/img/highscores/progear-20220327.jpg)   | 20220327   |Got the extend!      |
+|[Pulstar](https://en.wikipedia.org/wiki/Pulstar_(video_game)) |[134,260](/img/highscores/pulstar-20220813)   | 20220813   |      |
+|[Strikers 1945 Plus](https://en.wikipedia.org/wiki/Strikers_1945_Plus)      | [273,900](/img/highscores/strikers-1945-plus-20220317.jpg)  |20220317    | 2 lives (default MVS)     |
+|[Terra Cresta](https://en.wikipedia.org/wiki/Terra_Cresta)     |[41,300](/img/highscores/terra-cresta-20220327.jpg)  |20220327     |Alpha MiSTer core      |
+|[Tetris: The Grand Master](https://en.wikipedia.org/wiki/Tetris:_The_Grand_Master)  | [Level 549](/img/highscores/tgm-20220523.png)    |20220523   |Played on MiSTer PSX core using [ZN-2 to PSX conversion](https://www.romhacking.net/reviews/8921/)      |
+|[Tetris: The Grand Master](https://en.wikipedia.org/wiki/Tetris:_The_Grand_Master)  (20G)    | [Level 319](https://www.youtube.com/watch?v=6wJqaH9RW9M)   |20220319    |Played on [Heboris](https://github.com/nightmareci/HeborisC7EX-SDL2)      |
+|[Time Pilot '84](https://en.wikipedia.org/wiki/Time_Pilot_%2784) |[59400](/img/highscores/timepilot84-20220528.png)     |20220528  |     |
+|[Truxton](https://en.wikipedia.org/wiki/Truxton_(video_game))      | [201,950](/img/highscores/truxton-20220317.jpg)     |20220317 | |
+|[Twinkle Tale](https://en.wikipedia.org/wiki/Twinkle_Tale)      | [714,510](/img/highscores/twinkle-tale-20220813.jpg)     |20220813 | |
