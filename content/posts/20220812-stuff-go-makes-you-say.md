@@ -20,3 +20,10 @@ Le Go est un jeu qui pivote la projection du temps que nous mesurons
 dans nos têtes telle que notre dimension soit le temps.
 
 Jouer au Go nous apprend littéralement à lire le temps.
+
+{{< figure src="/img/go-game.gif" position="center" caption="" >}}
+
+Note: Bonus gif
+
+{{< figure src="/img/cut.gif" position="center" caption="" >}}
+
