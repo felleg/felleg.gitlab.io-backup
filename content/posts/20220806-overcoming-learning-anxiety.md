@@ -75,7 +75,7 @@ for many months, but clearly things weren't
 working out. With machine learning, I was simply "not on my X", as we say in
 French, meaning I wasn't in the right context to excel. As I naturally
 started working towards handling the IT of the company and discovering
-automated deployment pipelines, my manager Alexandre said something that would
+automated deployment pipelines, my manager (and trusted friend!) Alexandre said something that would
 change my life.
 
 *"You know what? I think DevOps would be a good fit for you."*
