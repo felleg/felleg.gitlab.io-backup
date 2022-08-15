@@ -594,7 +594,7 @@ ideas/references. Sometimes, even that feels too cramped. Be generous
 with your future self, if you can afford the "wasted" space. (See [photo above](/img/ruler.jpg))
 
 
-## Track progress by folding the corners of the book you're reading
+## Track your progress by folding the corners
 
 This is a big part of my system.
 
