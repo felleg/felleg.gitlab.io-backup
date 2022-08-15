@@ -200,18 +200,22 @@ I guess I must explain... I have developed a very recent fondness for
 curved spines (at least, on books). I used to think having a book with a
 curved spine meant you weren't taking care of your stuff. As if you
 dropped your things and threw them around so often that they became folded all
-around. Like a spoiled kid who didn't want to read, screw that, I want
-to run around... (I don't know what I
-was thinking back then). Today, I realize there are good folds, and there
-are bad folds. A bad fold is the kind of fold I had in mind:
-actual damage. A good fold means someone really put their energy to
-extracting everything there was to learn about a specific book. It's a
+around. Like a spoiled kid who didn't want to read: "Screw that, I want
+to run around", the kid would say, as he drops folded books everywhere
+he went (I don't know what I
+was thinking back then).
+
+Today, I realize there are good folds, and there
+are bad folds. A bad fold is the kind of fold I described above:
+actual damage. A good fold is something I discovered recently: it is
+evidence left by someone who really put their energy into
+extracting everything there was to learn from a specific book. It's a
 subtle difference, but it means a lot.
 
-It was my good
-friend Mathieu (and current manager!) who showed me a "tool" that I
-would be using for the rest of my life. It is a hand position. The
-gesture one does when actually learning. Here is what it looks like:
+It was my current manager (and friend!)
+Mathieu who showed me a "tool" that I
+would be using for the rest of my life. It is a hand position, a
+way of holding books that helps the mind focus and actually start learning. Here is what it looks like:
 
 {{< figure src="/img/how-to-hold-book.jpg" position="center" caption="" >}}
 
