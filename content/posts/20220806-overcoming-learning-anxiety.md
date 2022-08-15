@@ -590,7 +590,8 @@ to a previous note.
 
 I try to always leave roughly two empty lines around each knowledge
 nugget in case I ever need to come back and add corrections or related
-ideas/references. (See [photo above](/img/notes.jpg))
+ideas/references. Sometimes, even that feels too cramped. Be generous
+with your future self, if you can afford the "wasted" space. (See [photo above](/img/notes.jpg))
 
 
 ## Track progress by folding the corners of the book you're reading
