@@ -192,11 +192,11 @@ defeated, until an unexpected discovery.
 {{< figure src="/img/finished-devops-handbook.jpg" position="center" caption="I finished it! Actually, this is my second copy of the DH. It took so long for me to read my first copy that a second edition came out in the meantime." >}}
 
 So, can you spot it? The little detail that allowed me to read the book?
-Look at the spine...
+Look at the spine.
 
 Do you notice how curved it is?
 
-I guess I must explain... I have developed a very recent fondness for
+I guess I must explain. I have developed a very recent fondness for
 curved spines (at least, on books). I used to think having a book with a
 curved spine meant you weren't taking care of your stuff. As if you
 dropped your things and threw them around so often that they became folded all
