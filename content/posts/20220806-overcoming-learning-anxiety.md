@@ -224,8 +224,7 @@ Those who know, know.
 You might be asking: What difference does that make? For one, it showed me an important
 lesson: Books, as objects, are not valuable. It is their content that is valuable.
 Their poetry, their imaginary worlds, their prose, their wisdom.
-Books are a mere tactile visual support. They are a material that our brain
-associates with learning since when written language was invented.
+Books are a mere tactile visual support.
 
 Going back to me. About 10 years ago, I was a relatively money-poor grad student. I was relatively short on cash and keeping
 my old course manuals was not something I could afford to do. Thus, I
