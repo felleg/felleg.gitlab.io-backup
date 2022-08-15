@@ -236,7 +236,7 @@ that I could sell them at a higher price later on.
 Unfortunately, this strategy was sub-optimal. To make an extra $40
 per book sold, I was taking the risk of having a sub-optimized learning
 experience.  Without realizing it, I always saw my books as someone
-else's items that I was borrowing. Or some item that might become
+else's items that I was borrowing, or some item that might become
 desirable in the future, like Pokémon trading cards.  This was so wrong. As a student, I
 was depriving myself of potentially useful learning tools, in fear of
 wasting money. I was like a
