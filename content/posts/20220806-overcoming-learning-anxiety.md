@@ -212,7 +212,7 @@ evidence left by someone who really put their energy into
 extracting everything there was to learn from a specific book. It's a
 subtle difference, but it means a lot.
 
-It was my current manager (and friend!)
+It was my current manager (and mentor!)
 Mathieu who showed me a "tool" that I
 would be using for the rest of my life. It is a hand position, a
 way of holding books that helps the mind focus and actually start learning. Here is what it looks like:
