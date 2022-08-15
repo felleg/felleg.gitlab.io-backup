@@ -248,7 +248,7 @@ Whatever the reason, I'm glad I got through my studies despite this backwards mi
 don't plan on doing this ever again.
 
 So there you have it. Now you know why I believe a curved book spine is beautiful. It means
-someone gave the book the time it deserved. And, indirectly, if this "damaged"
+someone probably gave the book the time and energy it deserved. And, indirectly, if this "damaged"
 book is freely available on a bookshelf near you, it means that person
 understood the book enough to part with it, and thought it was worth
 sharing with others.
