@@ -585,9 +585,13 @@ can easily refer to your knowledge.
 
 ## Leave some gaps to allow for future corrections and details
 
+Few things are as powerful as going back and fixing or adding more oomph
+to a previous note.
+
 I try to always leave roughly two empty lines around each knowledge
 nugget in case I ever need to come back and add corrections or related
 ideas/references. (See [photo above](/img/notes.jpg))
+
 
 ## Track progress by folding the corners of the book you're reading
 
