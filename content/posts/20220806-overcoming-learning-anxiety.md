@@ -233,7 +233,7 @@ my old course manuals was not something I could afford to do. Thus, I
 took great care of my manuals, seldom highlighting or writing in them, so
 that I could sell them at a higher price later on.
 
-But this way of thinking is fundamentally flawed. To make an extra $40
+Unfortunately, this strategy is sub-optimal. To make an extra $40
 per book sold, I was taking the risk of having a sub-optimized learning
 experience.  Without realizing it, I always saw my books as someone
 else's items that I was borrowing. Or some item that might become
