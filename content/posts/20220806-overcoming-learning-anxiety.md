@@ -221,7 +221,7 @@ way of holding books that helps the mind focus and actually start learning. Here
 
 Those who know, know.
 
-You might be asking, What difference does that make? For one, it showed me an important
+You might be asking: What difference does that make? For one, it showed me an important
 lesson: Books, as objects, are not valuable. It is their content that is valuable.
 Their poetry, their imaginary worlds, their prose, their wisdom.
 Books are a mere tactile visual support. They are a material that our brain
