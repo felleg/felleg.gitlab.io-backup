@@ -225,7 +225,8 @@ You might be asking: What difference does that make? For one, it showed me an im
 lesson: Books, as objects, are not valuable. It is their content that is valuable.
 Their poetry, their imaginary worlds, their prose, their wisdom.
 Books are a mere tactile visual support. A badly folded book is not impacted
-at all in its capacity to teach us something.
+at all in its capacity to teach us something. Yet, as obvious as this
+might sound, it is a truth that eluded me for many years.
 
 About 10 years ago, I was a relatively money-poor grad student. I was relatively short on cash and keeping
 my old course manuals was not something I could afford to do. Thus, I
