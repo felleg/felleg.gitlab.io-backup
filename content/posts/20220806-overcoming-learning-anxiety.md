@@ -222,8 +222,8 @@ way of holding books that helps the mind focus and actually start learning. Here
 Those who know, know.
 
 You might be asking: What difference does that make? For one, it showed me an important
-lesson: Books, as objects, are not valuable. It is their content that is valuable.
-Their poetry, their imaginary worlds, their prose, their wisdom.
+lesson: Books, as objects, are not valuable. It is their content that is valuable:
+their poetry, their imaginary worlds, their prose, their wisdom, etc.
 Books are a mere tactile visual support. A badly folded book is not impacted
 at all in its capacity to teach us something. Yet, as obvious as this
 might sound, it is a truth that eluded me for many years.
