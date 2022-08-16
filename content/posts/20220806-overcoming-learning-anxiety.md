@@ -189,7 +189,7 @@ This pattern of excitement for learning leading  to bitter abandon was, as you m
 
 I just didn't expect that key to be the threat  of getting the old boot!
 
-## Pandora's box
+## Good fold, Bad fold
 
 So I got to work, big time. My focus in mid-June was higher than ever, thanks to survival instincts that kicked into high gear. One of my first personal goals was to get though the DevOps Handbook before the end of my extended probation. 
 
