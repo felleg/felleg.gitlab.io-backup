@@ -53,7 +53,7 @@ through the steps taken to untangle this mental knot.
 # Bad news and career changes
 
 The catalyst that sent me on this whole journey was a piece of bad news
-I received from my new employer in mid-June this year: I was
+I received from my new employer, [nesto](nesto.ca), in mid-June this year: I was
 getting a probation extension. I wasn't quite cutting it in the
 workplace. I had 2 months to course-correct, otherwise I could kiss my
 job goodbye. Part of the problem was the fact that I had trouble
@@ -61,7 +61,7 @@ learning new concepts and remembering important details.
 
 I had never been put in that kind of situation  before, where a manager told me I was not pulling my own weight. I wasn't going to waste this opportunity  to show the world what I could do when given proper motivation.
 
-So, how did I get there?
+So, how did I end up in this pickle? In my mind, this unfortunate event was the culmination of many years of my personal imposter syndrome.
 
 In 2017, I started working for a newly-formed startup then called
 Proximity HCI (now known as [Contxtful](https://contxtful.com)). I had
@@ -79,7 +79,7 @@ change my life.
 
 *"You know what? I think DevOps would be a good fit for you."*
 
-If you are someone with imposter syndrome, receiving this kind of
+If you are someone with impostor syndrome, receiving this kind of
 information is a mixed bag. On one hand, it finally provides an
 explanation of why you were having so much difficulty accomplishing the
 tasks you were given, which is a big plus. *"Of course, it all makes
@@ -185,15 +185,22 @@ was quick, and then everything grinded to a halt.
 Reluctantly, I eventually put down the book, feeling ashamed and
 defeated, until an unexpected discovery.
 
+This pattern of excitement for learning to bitter abandon was, as you might have guessed, not limited to the DevOps Handbook. Throughout most of my time at Contxtful, I was given the opportunity to learn, and by my own account, failed more than I succeeded. Eventually, the feeling of being unable, for whatever reason, to reach  my full potential with Contxtful led me to join nesto, in the hope that I could find the key that would unlock my potential.
+
+I just didn't expect that key of being shown the very possibility of getting the old boot!
 
 ## Pandora's box
 
+So I got to work, big time. My focus in mid-June was higher than ever, thanks to survival instincts that kicked into high gear. One of mymy first personal goals was to get though the DevOps Handbook before the end of my extended probation. 
+
+And I am  happy to report that I did, thanks in no small  part to a neat little trick that  I am  about to show you:
+
 {{< figure src="/img/finished-devops-handbook.jpg" position="center" caption="I finished it! Actually, this is my second copy of the DH. It took so long for me to read my first copy that a second edition came out in the meantime." >}}
 
-So, can you spot it? The little detail that allowed me to read the book?
+Can you  spot it? The little detail that allowed me to read the book?
 Look at the spine.
 
-Do you notice how curved it is?
+Do you notice how curved it is? Isn't that simply wonderful? Like skid marks on race track...
 
 I guess I must explain. I have developed a very recent fondness for
 curved spines (at least, on books). I used to think having a book with a
