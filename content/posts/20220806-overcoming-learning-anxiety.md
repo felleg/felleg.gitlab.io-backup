@@ -22,14 +22,14 @@ don't I write blog posts more often?*
 
 *I suppose the blog post you're about to read has been a long time in the
 making. It took 3 hours to write, but it was the result of many days,
-weeks, months, years of work. Today, I am sharing you one of my biggest
+weeks, months, years of work behind the scenes. Today, I am sharing you one of my biggest
 milestones yet: how I overcame learning anxiety. I hope this post will
 have been worth the wait to you, because it certainly has been to me.
 Behind the curtains, I was hard at work on building a better version of
 myself.*
 
 *In this post, my mission is to share my "light bulb" moment with you, in
-the hopes that, if you are also dealing with learning anxiety, you will
+the hope that, if you are also dealing with learning anxiety, you will
 be inspired to take steps towards overcoming this wall.*
 
 =L
