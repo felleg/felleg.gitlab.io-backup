@@ -53,15 +53,15 @@ through the steps taken to untangle this mental knot.
 # Bad news and career changes
 
 The catalyst that sent me on this whole journey was a piece of bad news
-I received from my current employer in mid-June this year: I was
+I received from my new employer in mid-June this year: I was
 getting a probation extension. I wasn't quite cutting it in the
 workplace. I had 2 months to course-correct, otherwise I could kiss my
 job goodbye. Part of the problem was the fact that I had trouble
 learning new concepts and remembering important details.
 
-It was a watershed moment. I wasn't going to waste this opportunity.
+I had never been put in that kind of situation  before, where a manager told me I was not pulling my own weight. I wasn't going to waste this opportunity  to show the world what I could do when given proper motivation.
 
-But how did I get there?
+So, how did I get there?
 
 In 2017, I started working for a newly-formed startup then called
 Proximity HCI (now known as [Contxtful](https://contxtful.com)). I had
