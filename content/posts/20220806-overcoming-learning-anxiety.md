@@ -191,7 +191,7 @@ I just didn't expect that key to be the threat  of getting the old boot!
 
 ## Good fold, Bad fold
 
-So I got to work, big time. My focus in mid-June was higher than ever, thanks to survival instincts that kicked into high gear. One of my first personal goals was to get though the DevOps Handbook before the end of my extended probation. 
+So I got to work, big time. My focus in mid-June was higher than ever, thanks to survival instincts that kicked into high gear. One of my first personal goals was to get through the DevOps Handbook before the end of my extended probation. 
 
 And I am  happy to report that I did, thanks in no small  part to a neat little trick that  I am  about to show you:
 
