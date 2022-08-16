@@ -45,8 +45,7 @@ anxiety. The words in this photo were written by my own hand. What I
 feel is ironic is that I had to overcome learning anxiety to realize
 this was precisely the problem holding me back from learning. In other
 words, as I was writing *"help overcome learning anxiety (<- I have
-that!)"*, I hadn't realized that, precisely at that moment, I was mostly
-healed.
+that!)"*, I hadn't realized that, precisely at that moment, I was beginning to heal.
 
 Let's back up a bit to give you better context and hopefully walk you
 through the steps taken to untangle this mental knot.
