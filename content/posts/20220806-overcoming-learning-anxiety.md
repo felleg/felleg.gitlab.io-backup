@@ -79,16 +79,16 @@ change my life.
 
 *"You know what? I think DevOps would be a good fit for you."*
 
-If you are someone with impostor syndrome, receiving this kind of
+For  someone with impostor syndrome, receiving this kind of
 information is a mixed bag. On one hand, it finally provides an
-explanation of why you were having so much difficulty accomplishing the
-tasks you were given, which is a big plus. *"Of course, it all makes
+explanation to  why you are  having such a difficult time  accomplishing the
+tasks you were given. This  is a big plus. *"Of course, it all makes
 sense now! I'm bad at machine learning because, deep down, I'm a DevOps!
 Change my title now, please! This will fix all my problems"*, I would say
 to myself. On the other hand, it places you in front of an undodgeable
 question: *"What the heck is DevOps, anyway?"*
 
-You can then imagine why, depending on the day, my imposter
+You can then imagine why, depending on the day, my impostor
 syndrome simply got out of control. I was a Physicist who changed career
 paths after my Masters degree (because I felt I was bad at research) to
 become an ML scientist, only to realize I was even worse at that job, so
