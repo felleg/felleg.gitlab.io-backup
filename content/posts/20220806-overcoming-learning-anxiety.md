@@ -730,7 +730,7 @@ almost certainly contains the answer to the question that made you
 choose it. Imagine how you will feel when you finally get the answer you
 craved!
 
-**Learning is not a skill. We are all lifelong learners.** What allows some
+Learning  does not have to be  a skill. **We are all lifelong learners.** What allows some
 people to learn faster than others is that they have created and
 optimized a learning system that is suited around their way of learning.
 When I realized that the core mission of DevOps is to create a system that
