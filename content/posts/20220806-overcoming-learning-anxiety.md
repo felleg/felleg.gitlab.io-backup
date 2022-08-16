@@ -183,15 +183,15 @@ reading the digital version on my Kobo. Same result: initial progress
 was quick, and then everything grinded to a halt.
 
 Reluctantly, I eventually put down the book, feeling ashamed and
-defeated, until an unexpected discovery.
+defeated.
 
-This pattern of excitement for learning to bitter abandon was, as you might have guessed, not limited to the DevOps Handbook. Throughout most of my time at Contxtful, I was given the opportunity to learn, and by my own account, failed more than I succeeded. Eventually, the feeling of being unable, for whatever reason, to reach  my full potential with Contxtful led me to join nesto, in the hope that I could find the key that would unlock my potential.
+This pattern of excitement for learning leading  to bitter abandon was, as you might have guessed, not limited to the DevOps Handbook. Throughout most of my time at Contxtful, I was given the opportunity to learn, and by my own account, failed at it more   than I succeeded. Eventually, the feeling of being unable to reach  my full potential with Contxtful (and potentially hurting the company as a result) led me to join nesto, in the hope that there lied the key  that would unlock this  potential.
 
-I just didn't expect that key of being shown the very possibility of getting the old boot!
+I just didn't expect that key to be the  very threat  of getting the old boot!
 
 ## Pandora's box
 
-So I got to work, big time. My focus in mid-June was higher than ever, thanks to survival instincts that kicked into high gear. One of mymy first personal goals was to get though the DevOps Handbook before the end of my extended probation. 
+So I got to work, big time. My focus in mid-June was higher than ever, thanks to survival instincts that kicked into high gear. One of my first personal goals was to get though the DevOps Handbook before the end of my extended probation. 
 
 And I am  happy to report that I did, thanks in no small  part to a neat little trick that  I am  about to show you:
 
