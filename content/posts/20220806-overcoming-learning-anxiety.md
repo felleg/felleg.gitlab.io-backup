@@ -116,7 +116,9 @@ on Amazon, I rushed to buy it.
 Every search result required me to do at least three other searches to
 understand what sentences meant. For a while, it felt like I was
 surrounded by buzzwords, with no one telling me anything. This process
-lasted months, and it was not pleasant.
+lasted months, and it was not pleasant. Oh how I wished Jimmy Neutron's   "book gum" was real!
+
+{{< youtube x1ambhfSnBA >}}
 
 I felt useless. I felt ashamed. I wished I could go back in time and
 learn about agile, CI/CD, and other DevOps requirements during my
