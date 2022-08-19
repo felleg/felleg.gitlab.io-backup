@@ -121,8 +121,8 @@ lasted months, and it was not pleasant. Oh how I wished Jimmy Neutron's   "book 
 I felt useless. I felt ashamed. I wished I could go back in time and
 learn about agile, CI/CD, and other DevOps requirements during my
 studies instead of having filled my brain with equations of motion that I had
-no use for. In short, I felt like I had missed the boat, and with each
-passing day felt more like giving up. I was 26.
+no use for. In short, at 26 years old, I already felt like I had missed the boat, and with each
+passing day felt more like giving up.
 
 The only thing pushing me forward was the fact that my colleagues
 depended on my work, as amateurish as it was. I could entertain the idea
@@ -194,16 +194,12 @@ And I am  happy to report that I did, thanks in no small  part to a neat little 
 Can you  spot it? The little detail that allowed me to read the book?
 Look at the spine.
 
-Do you notice how curved it is? Isn't that simply wonderful? Like skid marks on race track...
+Do you notice how curved it is? Isn't that simply wonderful? It reminds me of  skid marks on a  race track.
 
-I guess I must explain. I have developed a very recent fondness for
+I guess I must explain. See, I have developed a very recent fondness for
 curved spines (at least, on books). I used to think having a book with a
-curved spine meant you weren't taking care of your stuff. As if you
-dropped your things and threw them around so often that they became folded all
-around. Like a spoiled kid who didn't want to read: "Screw that, I want
-to run around", the kid would say, as he drops folded books everywhere
-he went (I don't know what I
-was thinking back then).
+curved spine meant you weren't taking care of your stuff. As if it was folded due to negligence, from   being
+dropped and thrown around regularly.
 
 Today, I realize there are good folds, and there
 are bad folds. A bad fold is the kind of fold I described above:
@@ -211,6 +207,8 @@ actual damage. A good fold is something I discovered recently: it is
 evidence left by someone who really put their energy into
 extracting everything there was to learn from a specific book. It's a
 subtle difference, but it means a lot.
+
+For example, if someone was standing in a gym next to their punching bag, you would probably understand that whatever damage the bag exhibits went directly into making that person stronger. A person holding a folded book is pretty much the same thing. 
 
 It was my current manager (and mentor!)
 Mathieu who showed me a "tool" that I
