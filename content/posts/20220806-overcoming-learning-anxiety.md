@@ -560,7 +560,7 @@ Thus, if you're looking for recommendations, mine are:
 - Pen: Bic Cristal (black or blue)
 - Highlighter: Bic Brite-liner Grip
 
-{{< figure src="/img/bic-cristal-and-brite-liner.jpg" position="center" caption="" >}}
+{{< figure src="/img/bic-cristal-and-brite-liner.jpg" position="center" caption="So, am I a good [pen seller](https://www.youtube.com/watch?v=9UspZGJ-TrI)? ;)" >}}
 
 Note: This process led me to learn about the history of the ballpoint
 pen, which was a fascinating read.
