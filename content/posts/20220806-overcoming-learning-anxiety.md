@@ -163,7 +163,7 @@ Project. I felt ready for it. Bring it on!
 
 I ordered my copy of the handbook in 2019. I finished it on August 6, 2022. For those keeping count, that means the years of lead time. What happened?
 
-Simply put, because after a few chapters, I began to feel intimidated. Every new information felt like it took
+Simply put, after a few chapters, I began to feel intimidated. Every new information felt like it took
 the spot of another one in my head, similar to a sort of musical chair of information.
 For example, I had trouble remembering what the Three Ways of
 DevOps stood for, even though they were central parts of both the
