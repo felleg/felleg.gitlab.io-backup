@@ -219,9 +219,9 @@ way of holding books that helps the mind focus and actually start learning. Here
 
 {{< figure src="/img/how-to-hold-book.jpg" position="center" caption="" >}}
 
-Those who know, know.
+Yup, the good old inverse fold, aka  the broken book spine grab. Those  who know, know.
 
-You might be asking: What difference does that make? For one, it showed me an important
+You might be asking: What difference does that make to hold a bent over backwards? For one, it showed me an important
 lesson: Books, as objects, are not valuable. It is their content that is valuable:
 their poetry, their imaginary worlds, their prose, their wisdom, etc.
 Books are a mere tactile visual support. A badly folded book is not impacted
