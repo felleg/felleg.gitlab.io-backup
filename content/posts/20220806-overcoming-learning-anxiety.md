@@ -74,7 +74,7 @@ for many months, but clearly things weren't
 working out. With machine learning, I was simply "not on my X", as we say in
 French, meaning I wasn't in the right context to excel. As I naturally
 started working towards handling the IT of the company and discovering
-automated deployment pipelines, my manager (and trusted friend!) Alexandre said something that would
+automated deployment pipelines, my manager (and trusted friend!) Alexandre Desilets-Benoit said something that would
 change my life.
 
 *"You know what? I think DevOps would be a good fit for you."*
@@ -213,7 +213,7 @@ For example, if someone was standing in a gym next to their punching bag, you wo
 ## Book Suplex  - Opening Pandora's Box
 
 It was my current manager (and mentor!)
-Mathieu who showed me a "tool" that I
+Mathieu Frenette who showed me a "tool" that I
 would be using for the rest of my life. It is a
 way of holding books that reminds us that our goal is to learn. I call it the *book suplex*, but I also give it other fun names like the inverse fold, or the broken spine grab. Here is what it looks like:
 
