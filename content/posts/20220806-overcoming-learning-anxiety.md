@@ -222,8 +222,7 @@ way of holding books that helps the mind focus and actually start learning. Here
 Yup, the good old book suplex, aka the inverse fold, aka  the broken spine grab. Those  who know, know.
 
 You might be asking: What difference does it make to hold a book bent over backwards? For one, it showed me an important
-lesson: Books, like punching bags, should exhibit some form of damage trough normal use. It is their content that is valuable:
-their poetry, their imaginary worlds, their prose, their wisdom, etc. The extraction process might leave marks,But that does not matter.
+lesson: Books, like punching bags, should exhibit some form of damage trough normal use. It is their content that is valuable, what sticks in your brain after  you are done with them. The extraction process might leave marks, but  that does not matter.
 Books are a mere tactile visual support. A badly folded book is not impacted
 at all in its capacity to teach us something. Yet, as obvious as this
 might sound, it is a truth that eluded me for many years.
