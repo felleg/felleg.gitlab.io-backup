@@ -217,7 +217,7 @@ Mathieu who showed me a "tool" that I
 would be using for the rest of my life. It is a hand position, a
 way of holding books that helps the mind focus and actually start learning. Here is what it looks like:
 
-{{< figure src="/img/how-to-hold-book.jpg" position="center" caption="" >}}
+{{< figure src="/img/how-to-hold-book.jpg" position="center" caption="Suplex that book! Don't be afraid to give it all you've got!" >}}
 
 Yup, the good old book suplex, aka the inverse fold, aka  the broken spine grab. Those  who know, know.
 
