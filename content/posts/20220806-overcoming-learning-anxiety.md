@@ -174,15 +174,14 @@ For example, I had trouble remembering what the Three Ways of
 DevOps stood for, even though they were central parts of both the
 Phoenix Project and the handbook. It felt like I was drowning in
 information, having too much of a good thing. If the Phoenix Project
-managed to pass on a reasonable amount of information that didn't really
-detract from the story, the DevOps Handbook (DH) proved to be too much for me. There seemed to be no time for relaxation: The DH simply lined the knowledge nuggets one after the other.
+managed to organically sneak in   a reasonable amount of information within the context  of  story, the DevOps Handbook proved to be too much for me. There seemed to be no time for relaxation: The handbook  simply lined the knowledge nuggets one after the other relentlessly.
 
-I initially tried reading the handbook physically, as I had done with the
+I initially read  the handbook physically, as I had done with the
 Phoenix Project. When I felt my reading velocity diminish, I started
 reading the digital version on my Kobo. Same result: initial progress
 was quick, and then everything grinded to a halt.
 
-Reluctantly, I eventually put down the book, feeling ashamed and
+Reluctantly, I eventually shelved  the handbook, feeling ashamed and
 defeated.
 
 This pattern of excitement for learning leading  to bitter abandon was, as you might have guessed, not limited to the DevOps Handbook. Throughout most of my time at Contxtful, I was given the opportunity to learn, and by my own account, failed at it more   than I succeeded. Eventually, the feeling of being unable to reach  my full potential with Contxtful (and potentially hurting the company as a result) led me to join nesto, in the hope that there lied the key  that would unlock this  potential.
