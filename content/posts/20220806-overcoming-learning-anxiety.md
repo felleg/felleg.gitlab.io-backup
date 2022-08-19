@@ -210,6 +210,8 @@ subtle difference, but it means a lot.
 
 For example, if someone was standing in a gym next to their punching bag, you would probably understand that whatever damage the bag exhibits went directly into making that person stronger. A person holding a folded book is pretty much the same thing. 
 
+## Book Suplex  - Opening Pandora's Box 
+
 It was my current manager (and mentor!)
 Mathieu who showed me a "tool" that I
 would be using for the rest of my life. It is a hand position, a
@@ -217,11 +219,11 @@ way of holding books that helps the mind focus and actually start learning. Here
 
 {{< figure src="/img/how-to-hold-book.jpg" position="center" caption="" >}}
 
-Yup, the good old inverse fold, aka  the broken book spine grab. Those  who know, know.
+Yup, the good old book suplex, aka the inverse fold, aka  the broken spine grab. Those  who know, know.
 
-You might be asking: What difference does that make to hold a bent over backwards? For one, it showed me an important
-lesson: Books, as objects, are not valuable. It is their content that is valuable:
-their poetry, their imaginary worlds, their prose, their wisdom, etc.
+You might be asking: What difference does it make to hold a book bent over backwards? For one, it showed me an important
+lesson: Books, like punching bags, should exhibit some formform of damage trough normal use. It is their content that is valuable:
+their poetry, their imaginary worlds, their prose, their wisdom, etc. The extraction process might leave marks,But that does not matter.
 Books are a mere tactile visual support. A badly folded book is not impacted
 at all in its capacity to teach us something. Yet, as obvious as this
 might sound, it is a truth that eluded me for many years.
@@ -238,11 +240,11 @@ else's items that I was borrowing, or some item that might become
 desirable in the future, like Pokémon trading cards.  This was so wrong. As a student, I
 was depriving myself of potentially useful learning tools in fear of
 wasting resources (money). I was like a
-mechanic who used his hands because he was afraid of breaking a wrench. Maybe I did this naturally
+boxer who was afraid  to damage his punching bag. Maybe I had this mindset 
 since I was used to owning collectible items (see [how and why I got rid
 of my video game
 collection](/posts/2021/03/selling-my-video-game-collection-the-hoarding-project/)).
-Whatever the reason, I'm glad I got through my studies despite this backwards mindset, because I
+Whatever the reason, I'm glad I made it this far despite this backwards mindset, because I
 don't plan on doing this ever again.
 
 So there you have it. Now you know why I believe a curved book spine is beautiful. It means
