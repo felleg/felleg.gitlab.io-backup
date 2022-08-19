@@ -185,7 +185,7 @@ I just didn't expect that key to be the threat  of getting the old boot!
 
 ## Good fold, Bad fold
 
-So I got to work, big time. My focus in mid-June was higher than ever, thanks to survival instincts that kicked into high gear. One of my first personal goals was to get through the DevOps Handbook before the end of my extended probation. 
+So I got to work, big time. My focus in mid-June was higher than ever, thanks to survival instincts that kicked into high gear. One of my first personal goals was to get through the DevOps Handbook before the end of my extended probation.
 
 And I am  happy to report that I did, thanks in no small  part to a neat little trick that  I am  about to show you:
 
@@ -208,22 +208,26 @@ evidence left by someone who really put their energy into
 extracting everything there was to learn from a specific book. It's a
 subtle difference, but it means a lot.
 
-For example, if someone was standing in a gym next to their punching bag, you would probably understand that whatever damage the bag exhibits went directly into making that person stronger. A person holding a folded book is pretty much the same thing. 
+For example, if someone was standing in a gym next to their punching bag, you would probably understand that whatever damage the bag exhibits went directly into making that person stronger. A person holding a folded book is pretty much the same thing.
 
-## Book Suplex  - Opening Pandora's Box 
+## Book Suplex  - Opening Pandora's Box
 
 It was my current manager (and mentor!)
 Mathieu who showed me a "tool" that I
-would be using for the rest of my life. It is a hand position, a
-way of holding books that helps the mind focus and actually start learning. Here is what it looks like:
+would be using for the rest of my life. It is a
+way of holding books that reminds us that our goal is to learn. I call it the *book suplex*, but I also give it other fun names like the inverse fold, or the broken spine grab. Here is what it looks like:
 
-{{< figure src="/img/how-to-hold-book.jpg" position="center" caption="Suplex that book! Don't be afraid to give it all you've got!" >}}
+{{< figure src="/img/book-suplex.jpg" position="center" caption="Suplex that book, even if it's a hardcover!" >}}
 
-Yup, the good old book suplex, aka the inverse fold, aka  the broken spine grab. Those  who know, know.
+Some people might cringe when seeing this. But those who know, know.
+Indeed, you might be asking: What difference does it make to hold a book
+bent over backwards?
 
-You might be asking: What difference does it make to hold a book bent over backwards? For one, it showed me an important
-lesson: Books, like punching bags, should exhibit some form of damage trough normal use. It is their content that is valuable, what sticks in your brain after  you are done with them. The extraction process might leave marks, but  that does not matter.
-Books are a mere tactile visual support. A badly folded book is not impacted
+Personally, the book suplex taught me an important
+lesson: Books are punching bags. If they are damaged after you are done with them, chances are it's because you showed them who's boss.
+
+A book is just a bunch of pages with ink on them. It is a book's content that is valuable, i.e. what sticks in your brain after  you are done with it.  The extraction process might leave marks, but  that is secondary.
+Books are a mere tactile visual support. A suplexed book is not impacted
 at all in its capacity to teach us something. Yet, as obvious as this
 might sound, it is a truth that eluded me for many years.
 
@@ -239,7 +243,7 @@ else's items that I was borrowing, or some item that might become
 desirable in the future, like Pokémon trading cards.  This was so wrong. As a student, I
 was depriving myself of potentially useful learning tools in fear of
 wasting resources (money). I was like a
-boxer who was afraid  to damage his punching bag. Maybe I had this mindset 
+boxer who was afraid  to damage his punching bag. Maybe I had this mindset
 since I was used to owning collectible items (see [how and why I got rid
 of my video game
 collection](/posts/2021/03/selling-my-video-game-collection-the-hoarding-project/)).
