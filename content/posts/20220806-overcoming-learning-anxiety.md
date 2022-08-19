@@ -666,7 +666,7 @@ It just makes sense, you know?
 
 {{< figure src="/img/notebook-index.jpg" position="center" caption="" >}}
 
-## Sharing the learning material
+## Share  the learning material
 
 This is the fun part. When you finished reading a book and collecting
 all its nuggets in your journal, you are free to share it with the
