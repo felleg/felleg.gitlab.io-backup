@@ -21,7 +21,7 @@ my learnings with the world means I levelled up as a human being, so why
 don't I write blog posts more often?*
 
 *I suppose the blog post you're about to read has been a long time in the
-making. It took 3 hours to write, but it was the result of many days,
+making. It took 3 hours to write its initial version , but it was the result of many days,
 weeks, months, years of work behind the scenes. Today, I am sharing you one of my biggest
 milestones yet: how I overcame learning anxiety. I hope this post will
 have been worth the wait to you, because it certainly has been to me.
@@ -110,8 +110,6 @@ like this:
 >
 > (source: [IBM](https://web.archive.org/web/20220807135552/https://www.ibm.com/cloud/learn/devops-a-complete-guide))
 
-You better believe that when I saw they were selling a DevOps handbook
-on Amazon, I rushed to buy it.
 
 Every search result required me to do at least three other searches to
 understand what sentences meant. For a while, it felt like I was
