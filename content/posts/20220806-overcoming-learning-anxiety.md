@@ -238,8 +238,8 @@ per book sold, I was taking the risk of having a sub-optimized learning
 experience.  Without realizing it, I always saw my books as someone
 else's items that I was borrowing, or some item that might become
 desirable in the future, like Pokémon trading cards.  This was so wrong. As a student, I
-was depriving myself of potentially useful learning tools, in fear of
-wasting money. I was like a
+was depriving myself of potentially useful learning tools in fear of
+wasting resources (money). I was like a
 mechanic who used his hands because he was afraid of breaking a wrench. Maybe I did this naturally
 since I was used to owning collectible items (see [how and why I got rid
 of my video game
