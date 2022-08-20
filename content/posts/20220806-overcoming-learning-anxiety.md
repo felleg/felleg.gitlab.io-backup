@@ -476,7 +476,7 @@ Some features that I personally look for when buying a journal:
 I currently write my notes in a TRURED notebook I found at Staples
 (Bureau en Gros) which cost me $10. It was the cheapest dotted bound
 journal in the store. It didn't have all the features I listed above,
-but I can work around that easily.
+but I worked around that easily.
 
 I also bought a Leuchtturm 1917 A5 to use
 as a personal diary and I liked its features, feel, and available
