@@ -242,7 +242,7 @@ boxer who was afraid  to damage his punching bag. Maybe I had this mindset
 since I was used to owning collectible items (see [how and why I got rid
 of my video game
 collection](/posts/2021/03/selling-my-video-game-collection-the-hoarding-project/)).
-Whatever the reason, I'm glad I made it this far despite this backwards mindset, because I
+Whatever the reason, I'm glad I made it this far in  life  despite this backwards mindset, because I
 don't plan on doing this ever again.
 
 So there you have it. Now you know why I believe a curved book spine is beautiful. It means
