@@ -110,7 +110,7 @@ to know" is said:
 
 Every search result required me to do at least three other searches to
 understand what basic sentences meant. For a while, it felt like I was
-surrounded by buzzwords, with no one telling me anything. Oh how I wished [Jimmy Neutron's "book gum" was real](https://www.youtube.com/watch?v=x1ambhfSnBA)!
+surrounded by buzzwords, with no one telling me anything. Oh how I wished [Jimmy Neutron's "book gum"](https://www.youtube.com/watch?v=x1ambhfSnBA) was real!
 
 This process
 lasted months, and it was not pleasant. I felt useless. I felt ashamed. I wished I could go back in time and
