@@ -511,12 +511,12 @@ the ground or have given to me by my family, my friends, or my workplace.
 What I didn't realize is that there is no one-size-fits-all pen. What
 works for you might not work for me, and vice versa.
 
-For example, the first pen I bought was a Pilot G-2 07. I was tired of
-the weak-sauce pen I was using at home for journaling and taking notes.
+For example, the first pen I bought this year was  a Pilot G-2 07. I was tired of
+the worthless pen I was using at home for journaling and taking notes.
 I just went to the pharmacy and grabbed whatever black pen looked good
 in the Pilot display at my local pharmacy.
 
-The G-2 was
+Luckily, the Pilot G-2 was
 definitely a step up from the pen I was previously using:
 - Deep dark ink
 - Effortless glide
@@ -526,7 +526,7 @@ But it also had cons:
 - Empties quickly
 - Smears!!
 
-{{< figure src="/img/smear.jpg" position="center" caption="Smears! I hate smears!" >}}
+{{< figure src="/img/smear.jpg" position="center" caption="Smears! I hate smears." >}}
 
 Being left-handed definitely didn't help with smears. Thus, the search
 for my pen of choice began, a pen that, no matter what type of paper I
