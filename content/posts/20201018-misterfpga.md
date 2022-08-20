@@ -149,7 +149,7 @@ This seems like a sales pitch, I know, but I am truly moved by how *significant*
 these video games all my life and it is the first time that I can honestly say we have managed to capture the
 essence of these older technologies. In reality, even
 I would have difficulty in a blind test to know whether I'm playing on an FPGA or on the real deal. Emulation
-has been around for a long time, but playing these days on a computer has never felt right to me, either
+has been around for a long time, but playing these games on a computer has never felt right to me, either
 because lag was involved, refresh rates were different, or sounds were not accurately represented.
 
 ## An added bonus: analog display
