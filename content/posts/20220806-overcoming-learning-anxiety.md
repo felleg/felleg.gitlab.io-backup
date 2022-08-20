@@ -722,8 +722,7 @@ dragging you through it. Not all textbooks feature exercises
 and homework; some can be quite fun, relaxing, enlightening to read,
 without creating headaches or feeling like puzzles. A book you chose
 almost certainly contains the answer to the question that made you
-choose it. Imagine how you will feel when you finally get the answer you
-craved!
+choose it. Imagine how you will feel when your book show you a new way to think about a specific problem you couldn't quite put your finger on. Personally, this is among the most freeing experiences I have felt yet. 
 
 Learning  does not have to be  a skill. **We are all lifelong learners.** What allows some
 people to learn faster than others is that they have created and
