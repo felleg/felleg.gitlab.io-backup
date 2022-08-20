@@ -437,7 +437,7 @@ advance. This has multiple benefits:
 If I feel like I'm learning too slowly, all I have to do is put more
 time in my schedule to read.
 
-Eventually , I realized that I had much more free time  than I thought. As reading began to make me feel relaxed and empowered, it mostly replaced my other time wasters (YouTube, Reddit, Twitter, video games, complaining, ...). In short, reading, i.e. learning, started to  feel like knitting. When I read, I shut out the whole world and just focus on my task, almost on auto-pilot, similar to someone watching TV. The difference is that reading (and writing!) for an hour makes me feel both powerful and calm, unlike watching Coffeezilla or the CUPodcast  on YouTube for the same  amount of time.
+Interestingly, this scheduling process made me realize I had much more free time  than I thought. As reading began to make me feel relaxed and empowered, it mostly replaced my other time wasters (YouTube, Reddit, Twitter, video games, complaining, ...), simply because it became a joyful, reassuring part of my day. In short, reading, i.e. learning, started to  feel like knitting. When I read, I shut out the whole world and just focus on my task, almost on auto-pilot, similar to someone watching TV. The difference is that reading (and writing!) for an hour makes me feel both powerful and calm, unlike watching Coffeezilla or the CUPodcast  on YouTube for the same  amount of time.
 
 We are all equal when it comes to time. On average, our weeks consist of
 roughly 110 awake hours, of which at least 40 are taken by our jobs. If
