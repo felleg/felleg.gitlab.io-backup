@@ -135,7 +135,7 @@ entry point into the subject matter. Being written as a novel, I thought:
 "Ah! This is perfect material to read on the beach, without any pressure
 to learn. This is going to be great fun."
 
-{{< figure src="/img/phoenix-project.png" position="center" caption="" >}}
+{{< figure src="/img/phoenix-project.png" position="center" caption="Buying the book is initially the easy part." >}}
 
 And it was! There are many reasons for this, I believe. Firstly, the book
 is, of course, very well written. It wouldn't sell over 500,000 copies
@@ -215,7 +215,7 @@ way of holding books that reminds us that our goal is to learn. I call it the *b
 {{< figure src="/img/book-suplex.jpg" position="center" caption="Suplex that book, even if it's a hardcover!" >}}
 
 Some people might cringe when seeing this. But those who know, know.
-Indeed, you might be asking: What difference does it make to hold a book
+Yet, you might be asking: What difference does it make to hold a book
 bent over backwards?
 
 Personally, the book suplex taught me an important
