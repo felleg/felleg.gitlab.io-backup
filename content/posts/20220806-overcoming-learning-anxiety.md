@@ -650,15 +650,17 @@ good use.
 
 This has many benefits:
 
-- The body of the highlighter is long enough to allow me to reach the
-  full width of a page within having to move my wrist, let alone my arm.
-- The body of the highlighter is vivid in color, which makes it quite
-  eye-catching.
-- The body of the highlighter is wide enough to hide the sentences below
-  what I am reading, which ensures I am not reading "in diagonal".
+- Unlike the tip of your finger, the body of the highlighter is flat. It
+  makes it obvious what line you are currently looking at.
 - You can let your eyes glide along the body of the eye-lighter. It
   feels less jittery than following the movement of a finger, which can
   only point to one word at a time.
+- The body of the highlighter is:
+   - long enough to allow me to reach the full width of a page within
+      having to move my wrist, let alone my arm.
+   - vivid in color, which makes it quite eye-catching.
+   - wide enough to hide the sentences below what I am reading, which
+     ensures I am not reading "in diagonal".
 
 
 ## Write the source of your knowledge nuggets
