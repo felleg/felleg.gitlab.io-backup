@@ -634,7 +634,7 @@ track their progress, like this:
 {{< figure src="/img/reading-with-finger.png" position="center" caption="" >}}
 {{< figure src="/img/reading-with-finger.jpg" position="center" caption="" >}}
 
-However, I found that I never really used this to by advantage. I can't
+However, this method of tracking progress never felt right to me. I can't
 really pinpoint why; maybe it has something to do with the fact that it
 requires moving the entire arm to reach the full width of the page, or
 maybe it's just that I don't appreciate the friction of the page on the
