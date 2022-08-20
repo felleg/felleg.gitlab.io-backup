@@ -309,7 +309,7 @@ mind: "You never want to read the same book twice."
 
 Duh! Ok, the third time is the charm.
 
-## Attempt 3: Record knowledge in a journal
+## Attempt 3 (eureka!): Record knowledge in a journal
 
 After feeling like I was on the right path but struggling to find a
 system that works, I started searching the internet for ideas. How do
