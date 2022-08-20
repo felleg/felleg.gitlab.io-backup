@@ -721,8 +721,10 @@ means you won't have a professor
 dragging you through it. Not all textbooks feature exercises
 and homework; some can be quite fun, relaxing, enlightening to read,
 without creating headaches or feeling like puzzles. A book you chose
-almost certainly contains the answer to the question that made you
-choose it. Imagine how you will feel when your book show you a new way to think about a specific problem you couldn't quite put your finger on. Personally, this is among the most freeing experiences I have felt yet. 
+almost certainly contains parts of the answer to the question that made you
+choose it. 
+
+Imagine how you will feel when your book shows you a new way to think about a specific problem you couldn't quite put your finger on. Suddenly, a new connection occurs in your brain. Now, all you can see is the answer. Everything simply  makes  sense! Personally, this is among the most powerful and freeing experiences I have felt yet. It truly is a transcending moment that cannot overstated.
 
 Learning  does not have to be  a skill. **We are all lifelong learners.** What allows some
 people to learn faster than others is that they have created and
