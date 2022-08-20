@@ -580,6 +580,8 @@ This allows you to make nice lines, for tables or underlines. Any cheap
 is important. After all, the whole point of keeping a journal is so you
 can easily refer to your knowledge.
 
+The best storage place I found for my ruler is directly in my notebook. The book's elastic band keeps it securely shut.
+
 {{< figure src="/img/ruler.jpg" position="center" caption="" >}}
 
 ## Leave some gaps to allow for future corrections and details
