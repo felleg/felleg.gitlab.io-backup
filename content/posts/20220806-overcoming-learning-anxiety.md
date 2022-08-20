@@ -98,27 +98,22 @@ field I knew absolutely nothing about. I was rightfully terrified.
 # The anxiety begins
 
 Not wanting to waste any time, I feverishly started Googling the most
-basic things, like "how to DevOps?", which led me to results
-like this:
+basic things, like "how to DevOps?". To give you an idea of the time of
+learning curve I was faced with, check out this great video from [TechWorld
+with Nina](https://www.youtube.com/c/TechWorldwithNana) and count how
+many times something along the lines of "you need to learn" or "you need
+to know" is said:
 
-> To speed development and improve quality, development teams began
-> adopting **agile software development methodologies**, which are **iterative
-> rather than linear** and focus on making smaller, more frequent updates
-> to the application code base. Chief among these methodologies are
-> **continuous integration and continuous delivery, or CI/CD**. [...] So
-> DevOps grew out of agile.
->
-> (source: [IBM](https://web.archive.org/web/20220807135552/https://www.ibm.com/cloud/learn/devops-a-complete-guide))
+{{< youtube 9pZ2xmsSDdo >}}
 
+(I counted over 30 occurences.)
 
 Every search result required me to do at least three other searches to
-understand what sentences meant. For a while, it felt like I was
-surrounded by buzzwords, with no one telling me anything. This process
-lasted months, and it was not pleasant. Oh how I wished Jimmy Neutron's   "book gum" was real!
+understand what basic sentences meant. For a while, it felt like I was
+surrounded by buzzwords, with no one telling me anything. Oh how I wished [Jimmy Neutron's "book gum" was real](https://www.youtube.com/watch?v=x1ambhfSnBA)!
 
-{{< youtube x1ambhfSnBA >}}
-
-I felt useless. I felt ashamed. I wished I could go back in time and
+This process
+lasted months, and it was not pleasant. I felt useless. I felt ashamed. I wished I could go back in time and
 learn about agile, CI/CD, and other DevOps requirements during my
 studies instead of having filled my brain with equations of motion that I had
 no use for. In short, at 26 years old, I already felt like I had missed the boat, and with each
