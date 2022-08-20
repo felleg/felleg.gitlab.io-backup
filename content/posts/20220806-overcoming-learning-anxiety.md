@@ -626,6 +626,41 @@ I write. I feel like I am free to choose what activity is right for what
 time. And, most importantly, whatever I end up choosing, I am constantly
 learning.
 
+## Use the body of your highlighter as a visual aid
+
+When I picture someone reading, I often see them using their finger to
+track their progress, like this:
+
+{{< figure src="/img/reading-with-finger.png" position="center" caption="" >}}
+{{< figure src="/img/reading-with-finger.jpg" position="center" caption="" >}}
+
+However, I found that I never really used this to by advantage. I can't
+really pinpoint why; maybe it has something to do with the fact that it
+requires moving the entire arm to reach the full width of the page, or
+maybe it's just that I don't appreciate the friction of the page on the
+tip of my index.
+
+The method I now use to guide my eyes as I read is to use the full body
+of my
+highlighter. Since my system is based on Matt Morris' learning strategy,
+I always have a highlighter in my hands when I read, so this puts it to
+good use.
+
+{{< figure src="/img/read-with-highlighter.jpg" position="center" caption="" >}}
+
+This has many benefits:
+
+- The body of the highlighter is long enough to allow me to reach the
+  full width of a page within having to move my wrist, let alone my arm.
+- The body of the highlighter is vivid in color, which makes it quite
+  eye-catching.
+- The body of the highlighter is wide enough to hide the sentences below
+  what I am reading, which ensures I am not reading "in diagonal".
+- You can let your eyes glide along the body of the eye-lighter. It
+  feels less jittery than following the movement of a finger, which can
+  only point to one word at a time.
+
+
 ## Write the source of your knowledge nuggets
 
 {{< figure src="/img/notes.jpg" position="center" caption="" >}}
