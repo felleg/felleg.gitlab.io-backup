@@ -274,7 +274,7 @@ to understand at a glance what a page was about. The reasoning was that
 whenever I pulled the book from my shelf, I would quickly find
 information as I flipped through the pages.
 
-{{< figure src="/img/margin-notes.jpg" position="center" caption="" >}}
+{{< figure src="/img/bad-margin-notes.jpg" position="center" caption="" >}}
 
 Unfortunately, that did not work. Why? Simply because I never took the
 time to go back to chapters I had already read. And this was
@@ -634,11 +634,14 @@ track their progress, like this:
 {{< figure src="/img/reading-with-finger.png" position="center" caption="" >}}
 {{< figure src="/img/reading-with-finger.jpg" position="center" caption="" >}}
 
-However, this method of tracking progress never felt right to me. I can't
-really pinpoint why; maybe it has something to do with the fact that it
-requires moving the entire arm to reach the full width of the page, or
-maybe it's just that I don't appreciate the friction of the page on the
-tip of my index.
+However, this method of tracking progress never felt right to me. There
+are many reasons why:
+
+- My finger is too big to accurately point to specific words on a page
+- To reach the full width of the page with my finger, I have to move my
+  entire arm back and forth as a read, or move the arm holding the book. It wastes energy.
+- I don't particularly appreciate the friction of the page on the tip of
+  my index, especially over extended periods of time.
 
 The method I now use to guide my eyes as I read is to use the full body
 of my
@@ -661,6 +664,33 @@ This has many benefits:
    - vivid in color, which makes it quite eye-catching.
    - wide enough to hide the sentences below what I am reading, which
      ensures I am not reading "in diagonal".
+
+## Identify elements of an enumeration
+
+I noticed that some authors like to create enumerations in prose instead
+of in a list form. In order to help my future note-taking self, I use my
+pen to circle where each element of an enumeration begins in a
+paragraph. It makes the information much easier to parse later on.
+
+{{< figure src="/img/enumeration.jpg" position="center" caption="" >}}
+
+## Use margins to write ideas
+
+If reading a certain paragraph triggers a lightbulb in your mind or
+makes you pause and wonder about a specific question, I recommend that
+you write that thought in the margins next to the paragraph that
+inspired it. That way, when writing your notes, you will also be able to
+record your own good ideas.
+
+Don't let a good idea go to waste!
+
+{{< figure src="/img/good-margin-notes.jpg" position="center" caption="" >}}
+
+Note: To me, this type of margin note is subtly different from [the type of
+margin notes I discussed previously](#attempt-1-margin-notes), because
+it consists of new ideas, instead of being an attempt to summarize a
+paragraph. A paragraph summary should live in your notebook, where you
+will read it later to cement your learning.
 
 
 ## Write the source of your knowledge nuggets
@@ -753,7 +783,13 @@ and now I get to savour it.
 
 Books are not something to be afraid of. Not anymore. I realized I now
 get to decide which book I read. As a professional, I am the master of my own
-learning. Textbooks have a purpose outside the classroom, even if that
+learning. As the DevOps Handbook rightfully puts it on page 320 of its
+second edition:
+
+> The only sustainable competitive advantage is [your] ability to learn
+> faster than the competition.
+
+Textbooks have a purpose outside the classroom, even if that
 means you won't have a professor
 dragging you through it. Not all textbooks feature exercises
 and homework; some can be quite fun, relaxing, enlightening to read,
