@@ -1,5 +1,5 @@
 ---
-title: "When Will We Be Millionaires?"
+title: "The Million Dollars Grid"
 date: 2022-04-23T10:21:23-04:00
 draft: false
 toc: false
