@@ -821,7 +821,12 @@ and rediscover the simple, sacred joy of learning. There are still
 challenges ahead, and there always will be. For example, I am still
 having issues learning through reading webpages, even accounting for
 distractions. That suggests there is another system that I will inevitably have to
-adopt eventually. I've done it once, so I trust I can do it again and,
+adopt eventually[^1]. I've done it once, so I trust I can do it again and,
 hopefully, in less time than it initially took me (3 years)!
 
 After all, that's what learning is all about! :wink:
+
+[^1]: 2022/08/22 Update: I believe I have found a tool that can help
+  learning from browser pages!
+  [Highlight by
+  Weave-Trix](https://addons.mozilla.org/en-CA/firefox/addon/highlight-by-trix/) for Firefox.
