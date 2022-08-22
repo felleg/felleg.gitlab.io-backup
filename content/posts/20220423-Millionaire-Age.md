@@ -5,6 +5,9 @@ draft: false
 toc: false
 frontpage: "true"
 cover:
+aliases = [
+   "/posts/2022/04/when-will-we-be-millionaires/"
+]
 tags:
   - investing
   - featured
