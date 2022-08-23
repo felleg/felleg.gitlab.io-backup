@@ -707,9 +707,8 @@ but it still feels a little cramped. The best use of space is to use
 margins.
 
 It's a shame that most quality notebooks that I know of don't have
-margins. I don't let this stop me anymore: like numbering my pages,
-making margins is an absolute necessity to allow me to take full
-advantage of my notes.
+margins. Use this to your advantage: make your margins as wide or as
+thin as you need.
 
 {{< figure src="/img/margins.jpg" position="center" caption="" >}}
 
@@ -724,6 +723,10 @@ further updates. The margins is the perfect place to put such updates.
 Of course, not all of your notes will require a margin note, but that's
 a good thing: it leaves you with more room for the notes that truly need
 commenting later on.
+
+Like numbering my pages,
+using proper margins is an absolute necessity to allow me to take full
+advantage of my notes.
 
 
 Note: If this is the reason why each pack of Bic Cristal comes with a red pen, Bic
