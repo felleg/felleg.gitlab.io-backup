@@ -16,12 +16,20 @@ description: "In this post, I discuss how I overcame learning anxiety by creatin
 
 
 *In this post, my mission is to share my progression towards dealing
-with my own learning anxiety. I realize that writing a 6,000+ words blog
+with my own learning anxiety. I realize that writing a 7,000+ words blog
 post on the subject is probably not the best way to grab the attention
 of people who share that anxiety, but I did my best to make this text as
 entertaining and light as possible, in
 the hope that, if you are also dealing with learning anxiety, you will
 be inspired to take steps towards overcoming this wall.*
+
+*If there's only one thing I'd want you to remember from this post, it's
+that **anyone can experience learning anxiety and solving it requires a
+system of your own creation that will make learning a joyful experience
+to you**. If you experience learning anxiety, my hope is that this post
+will make you feel realize that you are not alone and that with a little
+bit of creativity, you can get through any obstacle that stands in your
+way.*
 
 =L
 
@@ -66,7 +74,7 @@ I knew I felt
 bad about my performance at work and had for a long time, but I couldn't
 quite put my finger on it. It's not that I wasn't trying hard enough: in
 fact, I felt I was trying so hard that I was getting close to burning
-out. However, I felt like I wasn't accomplishing as much as I should
+out. However, I also felt like I wasn't accomplishing as much as I should
 have, considering the amount of energy I poured daily in my work. From
 the outside, it might have looked like this:
 
@@ -79,7 +87,7 @@ survival mode, where I had two possible outcomes:
 - learn to let go
 
 This led me to read a certain devops handbook, which led me to write
-these words on paper:
+down these words:
 
 {{< figure src="/img/learning-anxiety-lightbulb.jpg" position="center" caption="" >}}
 
@@ -114,14 +122,23 @@ workplace. I had 2 months to course-correct, otherwise I could kiss my
 job goodbye. Part of the problem was the fact that I had trouble
 learning new concepts and remembering important details.
 
-I had never been put in that kind of situation  before, where a manager told me I was not pulling my own weight. I wasn't going to waste this opportunity  to show the world what I could do when given proper motivation.
+This is what put me into survival mode.
 
-So, how did I end up in this pickle? In my mind, this unfortunate event was the culmination of many years of my personal imposter syndrome.
+I had never been put in that kind of situation  before, where a manager
+told me I was not pulling my own weight. I wasn't going to waste this
+opportunity  to show the world what I could do when given proper
+motivation.
 
-In 2017, I started working for a newly-formed startup then called
-Proximity HCI (now known as [Contxtful](https://contxtful.com)). I had
-just finished my Masters thesis in particle Physics and was ready to jump into the software
-world ([this is something I already discussed on this blog in
+Let's rewind the tape even further and see how this mountain of anxiety
+all began.
+
+# The anxiety begins
+
+In 2017, fresh out of University and ready to tackle the world, I
+started working for a newly-formed startup then called Proximity HCI
+(now known as [Contxtful](https://contxtful.com)). I had just finished
+my Masters thesis in particle Physics and was ready to jump into the
+software world ([this is something I already discussed on this blog in
 2019](/posts/2019/10/why-i-shifted-from-physics-to-focus-on-software/)).
 
 I was hired as a machine learning scientist, and chipped away at tasks
@@ -134,7 +151,7 @@ change my life.
 
 *"You know what? I think DevOps would be a good fit for you."*
 
-For  someone with impostor syndrome, receiving this kind of
+For  someone with self-diagnosed impostor syndrome, receiving this kind of
 information is a mixed bag. On one hand, it finally provides an
 explanation to  why you are  having such a difficult time  accomplishing the
 tasks you were given. This  is a big plus. *"Of course, it all makes
@@ -150,10 +167,8 @@ become an ML scientist, only to realize I was even worse at that job, so
 much so that my boss recommended another career change, this time into a
 field I knew absolutely nothing about. I was rightfully terrified.
 
-# The anxiety begins
-
 Not wanting to waste any time, I feverishly started Googling the most
-basic things, like "how to DevOps?". To give you an idea of the time of
+basic things, like "how to devops?" and "what is devops?". To give you an idea of the steepness of
 learning curve I was faced with, check out this great video from [TechWorld
 with Nina](https://www.youtube.com/c/TechWorldwithNana) and count how
 many times something along the lines of "you need to learn" or "you need
@@ -168,7 +183,7 @@ understand what basic sentences meant. For a while, it felt like I was
 surrounded by buzzwords, with no one telling me anything. Oh how I wished [Jimmy Neutron's "book gum"](https://www.youtube.com/watch?v=x1ambhfSnBA) was real!
 
 This process
-lasted months, and it was not pleasant. I felt useless. I felt ashamed. I wished I could go back in time and
+lasted ~~months~~ **years**, and it was not pleasant. I felt useless. I felt ashamed. I wished I could go back in time and
 learn about agile, CI/CD, and other DevOps requirements during my
 studies instead of having filled my brain with equations of motion that I had
 no use for. In short, at 26 years old, I already felt like I had missed the boat, and with each
@@ -213,33 +228,49 @@ Project. I felt ready for it. Bring it on!
 
 I ordered my copy of the handbook in 2019. I finished it on August 6, 2022. For those keeping count, that means the years of lead time. What happened?
 
-Simply put, after a few chapters, I began to feel intimidated. Every new information felt like it took
-the spot of another one in my head, similar to a sort of musical chair of information.
+Simply put, after a few chapters, I began to feel intimidated. This
+didn't feel like the Phoenix Project. It was a real book, one that
+required actual effort to read through.
+
+Every new information felt like it took
+the spot of another one in my head, similar to a sort of musical chair of knowledge.
 For example, I had trouble remembering what the Three Ways of
 DevOps stood for, even though they were central parts of both the
 Phoenix Project and the handbook. It felt like I was drowning in
-information, having too much of a good thing. If the Phoenix Project
+information. If the Phoenix Project
 managed to organically sneak in   a reasonable amount of information within the context  of  story, the DevOps Handbook proved to be too much for me. There seemed to be no time for relaxation: The handbook  simply lined the knowledge nuggets one after the other relentlessly.
 
-I initially read  the handbook physically, as I had done with the
-Phoenix Project. When I felt my reading velocity diminish, I started
-reading the digital version on my Kobo. Same result: initial progress
+Very early on, I could feel my reading velocity diminish as I was
+reading my physical copy. I started
+reading the digital version on my Kobo to see if that could help, but I
+got the same result; Initial progress
 was quick, and then everything grinded to a halt.
 
-Reluctantly, I eventually shelved  the handbook, feeling ashamed and
+Reluctantly, I shelved  the handbook both physically and digitally, feeling ashamed and
 defeated.
 
-This pattern of excitement for learning leading  to bitter abandon was, as you might have guessed, not limited to the DevOps Handbook. Throughout most of my time at Contxtful, I was given the opportunity to learn, and by my own account, failed at it more   than I succeeded. Eventually, the feeling of being unable to reach  my full potential with Contxtful (and potentially hurting the company as a result) led me to join nesto, in the hope that there lied the key  that would unlock this  potential.
+This pattern of excitement for learning leading  to bitter abandon was,
+as you might have guessed, not limited to the DevOps Handbook.
+Throughout most of my time at Contxtful, I was given the opportunity to
+learn, and by my own account, failed at it more   than I succeeded.
+Eventually, the feeling of being unable to reach  my full potential with
+Contxtful (and potentially hurting the company as a result) led me to
+join nesto, in the hope that there lied the key  that would unlock this
+potential.
 
 I just didn't expect that key to be the threat  of getting the old boot!
 
 ## Good fold, Bad fold
 
-So I got to work, big time. My focus in mid-June was higher than ever, thanks to survival instincts that kicked into high gear. One of my first personal goals was to get through the DevOps Handbook before the end of my extended probation.
+So I got to work, big time. My focus in mid-June was higher than ever,
+thanks to survival instincts that kicked into high gear. One of my first
+personal goals was to get through the DevOps Handbook before the end of
+my extended probation, partly to prove to myself that I could
+accomplish something for once.
 
-And I am  happy to report that I did, thanks in no small  part to a neat little trick that  I am  about to show you:
+And I am  happy to report that I did (!!), thanks in no small  part to a neat little trick that  I am  about to show you:
 
-{{< figure src="/img/finished-devops-handbook.jpg" position="center" caption="I finished it! Actually, this is my second copy of the DH. It took so long for me to read my first copy that a second edition came out in the meantime." >}}
+{{< figure src="/img/finished-devops-handbook.jpg" position="center" caption="DONE!" >}}
 
 Can you  spot it? The little detail that allowed me to read the book?
 Look at the spine.
@@ -253,10 +284,10 @@ dropped and thrown around regularly.
 
 Today, I realize there are good folds, and there
 are bad folds. A bad fold is the kind of fold I described above:
-actual damage. A good fold is something I discovered recently: it is
+actual damage. The picture above is an example of a good fold: it is
 evidence left by someone who really put their energy into
 extracting everything there was to learn from a specific book. It's a
-subtle difference, but it means a lot.
+subtle difference, but it means a lot!
 
 For example, if someone was standing in a gym next to their punching bag, you would probably understand that whatever damage the bag exhibits went directly into making that person stronger. A person holding a folded book is pretty much the same thing.
 
@@ -269,17 +300,21 @@ way of holding books that reminds us that our goal is to learn. I call it the *b
 
 {{< figure src="/img/book-suplex.jpg" position="center" caption="Suplex that book, even if it's a hardcover!" >}}
 
-Some people might cringe when seeing this. But those who know, know.
+Some people might cringe when seeing this. Are you one of those? :wink:
+
+Yet, those who know, know.
 Yet, you might be asking: What difference does it make to hold a book
 bent over backwards?
 
 Personally, the book suplex taught me an important
-lesson: Books are punching bags. If they are damaged after you are done with them, chances are it's because you showed them who's boss.
+lesson: **Books are punching bags**. If they are damaged after you are done with them, chances are it's because you showed them who's boss.
 
 A book is just a bunch of pages with ink on them. It is a book's content that is valuable, i.e. what sticks in your brain after  you are done with it.  The extraction process might leave marks, but  that is secondary.
 Books are a mere tactile visual support. A suplexed book is not impacted
 at all in its capacity to teach us something. Yet, as obvious as this
 might sound, it is a truth that eluded me for many years.
+
+(flashback)
 
 About 10 years ago, I was a relatively money-poor grad student. I was relatively short on cash and keeping
 my old course manuals was not something I could afford to do. Thus, I
@@ -300,14 +335,16 @@ collection](/posts/2021/03/selling-my-video-game-collection-the-hoarding-project
 Whatever the reason, I'm glad I made it this far in  life  despite this backwards mindset, because I
 don't plan on doing this ever again.
 
-So there you have it. Now you know why I believe a curved book spine is beautiful. It means
+(end flashback)
+
+So there you have it. Now you know why I believe a folded book is beautiful. It means
 someone probably gave the book the time and energy it deserved. And, indirectly, if this "damaged"
 book is freely available on a bookshelf near you, it means that person
 understood the book enough to part with it, and thought it was worth
 sharing with others.
 
-A curved book spine looks like a smile, and that might just be no
-coincidence! :smiley:
+Is it really a coincidence that a curved book spine looks like a smile?
+:smiley:
 
 # Creating a system of learning
 
@@ -555,6 +592,14 @@ grid without being as visually distracting.
 
 {{< figure src="/img/dotted-journal.jpg" position="center" caption="" >}}
 
+## Number your pages
+
+If your notebook doesn't have page numbers already (most don't), I
+strongly recommend that you number your pages yourself. This is
+invaluable to allow you to reference your notes later on. It is such an
+integral part of my system that I initially forgot to list it here! This
+is a quality of life upgrade that is too obvious to life without.
+
 ## Take the time to shop for pens and highlighters
 
 Story time, as this is a subject that is near and dear to my heart.
@@ -639,16 +684,50 @@ The best storage place I found for my ruler is directly in my notebook. The book
 
 {{< figure src="/img/ruler.jpg" position="center" caption="" >}}
 
-## Leave some gaps to allow for future corrections and details
+## ~~Leave some gaps to allow for future corrections and details~~
 
-Few things are as powerful as going back and fixing or adding more oomph
-to a previous note.
+~~Few things are as powerful as going back and fixing or adding more oomph
+to a previous note.~~
 
-I try to always leave roughly two empty lines around each knowledge
+~~I try to always leave roughly two empty lines around each knowledge
 nugget in case I ever need to come back and add corrections or related
 ideas/references. Sometimes, even that feels too cramped. Be generous
-with your future self, if you can afford the "wasted" space. (See [photo above](/img/ruler.jpg))
+with your future self, if you can afford the "wasted" space. (See [photo above](/img/ruler.jpg))~~
 
+## Make your own margins!
+
+
+For most of my life, I assumed the margin was meant for graders to
+review your work and comment on their corrections. Well, news flash: the
+margin is for everybody!
+
+As you can see from the struckthrough tip above, my system is constantly
+evolving. Leaving two empty lines between each note is a passable trick,
+but it still feels a little cramped. The best use of space is to use
+margins.
+
+It's a shame that most quality notebooks that I know of don't have
+margins. I don't let this stop me anymore: like numbering my pages,
+making margins is an absolute necessity to allow me to take full
+advantage of my notes.
+
+{{< figure src="/img/margins.jpg" position="center" caption="" >}}
+
+Ironically, I rediscovered the usefulness of margins after using a
+Hilroy notebook to take notes during a day of work (I had forgotten my
+workbook at home).
+
+{{< figure src="/img/margin-notes.jpg" position="center" caption="The legendary Hilroy margin was staring my in the face all this time." >}}
+
+In my notes, sometimes I write questions or things that will need
+further updates. The margins is the perfect place to put such updates.
+Of course, not all of your notes will require a margin note, but that's
+a good thing: it leaves you with more room for the notes that truly need
+commenting later on.
+
+
+Note: If this is the reason why each pack of Bic Cristal comes with a red pen, Bic
+managed to blow my mind once again.
 
 ## Track your progress by folding the corners
 
@@ -729,7 +808,7 @@ paragraph. It makes the information much easier to parse later on.
 
 {{< figure src="/img/enumeration.jpg" position="center" caption="" >}}
 
-## Use margins to write ideas
+## Use your book's margins to write ideas
 
 If reading a certain paragraph triggers a lightbulb in your mind or
 makes you pause and wonder about a specific question, I recommend that
@@ -772,7 +851,7 @@ what the acronyms I use to reference a knowledge nugget stand for.
 
 {{< figure src="/img/book-reference.jpg" position="center" caption="" >}}
 
-## Have an index in your journal
+## Have an index at the end of your journal
 
 Eventually, reading your journal will take as long as reading a real
 book. You will quickly begin to face the same problems that real books
