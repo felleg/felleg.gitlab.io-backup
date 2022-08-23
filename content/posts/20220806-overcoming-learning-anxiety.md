@@ -14,21 +14,12 @@ aliases: [
 description: "In this post, I discuss how I overcame learning anxiety by creating a system that motivated me to read reference material and allowed me to keep these learnings alive."
 ---
 
-*It has been a while since I have taken the time to sit down and write an
-actual blog post (I consider my last important post to be [the hoarding
-project](/posts/2021/03/selling-my-video-game-collection-the-hoarding-project/), dating from over a year ago). I feel like sharing
-my learnings with the world means I levelled up as a human being, so why
-don't I write blog posts more often?*
 
-*I suppose the blog post you're about to read has been a long time in the
-making. It took 3 hours to write its initial version , but it was the result of many days,
-weeks, months, years of work behind the scenes. Today, I am sharing you one of my biggest
-milestones yet: how I overcame learning anxiety. I hope this post will
-have been worth the wait to you, because it certainly has been to me.
-Behind the curtains, I was hard at work on building a better version of
-myself.*
-
-*In this post, my mission is to share my "light bulb" moment with you, in
+*In this post, my mission is to share my progression towards dealing
+with my own learning anxiety. I realize that writing a 6,000+ words blog
+post on the subject is probably not the best way to grab the attention
+of people who share that anxiety, but I did my best to make this text as
+entertaining and light as possible, in
 the hope that, if you are also dealing with learning anxiety, you will
 be inspired to take steps towards overcoming this wall.*
 
@@ -36,16 +27,80 @@ be inspired to take steps towards overcoming this wall.*
 
 ---
 
-# My light bulb moment :bulb:
+# What even is learning anxiety?
+
+I think this sums it up nicely:
+
+> *There are two kinds of anxiety associated with learning: “learning
+> anxiety” and “survival anxiety.” Learning anxiety comes from being
+> afraid to try something new for fear that it will be too difficult,
+> that we will look stupid in the attempt, or that we will have to part
+> from old habits that have worked for us in the past. Learning
+> something new can cast us as the deviant in the groups we belong to.
+> It can threaten our self-esteem and, in extreme cases, even our
+> identity.*
+>
+> *You can’t talk people out of their learning anxieties; they’re the
+> basis for resistance to change. And given the intensity of those
+> fears, none of us would ever try something new unless we experienced
+> the second form of anxiety, survival anxiety—the horrible realization
+> that in order to make it, you’re going to have to change. Like
+> prisoners of war, potential learners experience so much hopelessness
+> through survival anxiety that eventually they become open to the
+> possibility of learning. But even this dejection is not necessarily
+> enough. Individuals can remain in a state of despair permanently.*
+>
+> *How can leaders help their followers maximize their learning while
+> minimizing their pain?*
+>
+> (Diane Coutu, [The Anxiety of
+Learning](https://hbr.org/2002/03/the-anxiety-of-learning))
+
+# Discovering I had learning anxiety
+
+I wasn't always aware of how bad my learning anxiety was, and I'm
+convinced that most people who suffer that condition don't realize it
+either.
+
+I knew I felt
+bad about my performance at work and had for a long time, but I couldn't
+quite put my finger on it. It's not that I wasn't trying hard enough: in
+fact, I felt I was trying so hard that I was getting close to burning
+out. However, I felt like I wasn't accomplishing as much as I should
+have, considering the amount of energy I poured daily in my work. From
+the outside, it might have looked like this:
+
+{{< figure src="/img/too-busy.jpeg" position="center" caption="" >}}
+
+A series of events (which we'll get to, I promise) eventually put me in
+survival mode, where I had two possible outcomes:
+
+- learn to adapt
+- learn to let go
+
+This led me to read a certain devops handbook, which led me to write
+these words on paper:
 
 {{< figure src="/img/learning-anxiety-lightbulb.jpg" position="center" caption="" >}}
 
-Here it is. The moment when my mind clicked and realized I had learning
-anxiety. The words in this photo were written by my own hand. What I
-feel is ironic is that I had to overcome learning anxiety to realize
-this was precisely the problem holding me back from learning. In other
-words, as I was writing *"help overcome learning anxiety (<- I have
-that!)"*, I hadn't realized that, precisely at that moment, I was beginning to heal.
+Well, here it is. This is the moment when my mind clicked and realized I had learning
+anxiety. Before writing it down and seeing it with my own eyes for the first time --- "learning
+anxiety" --- this is a concept that felt somewhat alien to me. Like, it
+made sense, but then how could I claim to have learning anxiety if I had
+a Masters in Physics? I felt like I had no excuse to feel the way I was
+feeling.
+
+But it was true. I simply had plain old learning anxiety.
+
+I certainly knew how I felt when it
+came to learning: to put it mildly, I felt my learning performance was
+below all those around me.
+
+What I feel is ironic is that I had to overcome learning anxiety to
+realize this was precisely the problem holding me back from learning. In
+other words, as I was writing *"help overcome learning anxiety (<- I
+have that!)"*, I hadn't realized that, precisely at that moment, I was
+beginning to heal.
 
 Let's back up a bit to give you better context and hopefully walk you
 through the steps taken to untangle this mental knot.
@@ -795,7 +850,7 @@ dragging you through it. Not all textbooks feature exercises
 and homework; some can be quite fun, relaxing, enlightening to read,
 without creating headaches or feeling like puzzles. A book you chose
 almost certainly contains parts of the answer to the question that made you
-choose it. 
+choose it.
 
 Imagine how you will feel when your book shows you a new way to think about a specific problem you couldn't quite put your finger on. Suddenly, a new connection occurs in your brain. Now, all you can see is the answer. Everything simply  makes  sense! Personally, this is among the most powerful and freeing experiences I have felt yet. It truly is a transcending moment that cannot overstated.
 
