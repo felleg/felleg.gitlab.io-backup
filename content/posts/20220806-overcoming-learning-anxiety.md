@@ -186,7 +186,7 @@ This process
 lasted ~~months~~ **years**, and it was not pleasant. I felt useless. I felt ashamed. I wished I could go back in time and
 learn about agile, CI/CD, and other DevOps requirements during my
 studies instead of having filled my brain with equations of motion that I had
-no use for. In short, at 26 years old, I already felt like I had missed the boat, and with each
+no use for. In short, at 27 years old, I already felt like I had missed the boat, and with each
 passing day felt more like giving up.
 
 The only thing pushing me forward was the fact that my colleagues
