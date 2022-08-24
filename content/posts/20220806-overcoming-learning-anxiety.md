@@ -226,7 +226,7 @@ Project. I felt ready for it. Bring it on!
 
 # Conquering *The DevOps Handbook*
 
-I ordered my copy of the handbook in 2019. I finished it on August 6, 2022. For those keeping count, that means the years of lead time. What happened?
+I ordered my copy of the handbook in 2019. I finished it on August 6, 2022. For those keeping count, that means three years of lead time. What happened?
 
 Simply put, after a few chapters, I began to feel intimidated. This
 didn't feel like the Phoenix Project. It was a real book, one that
