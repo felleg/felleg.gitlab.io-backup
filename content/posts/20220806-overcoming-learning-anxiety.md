@@ -84,7 +84,7 @@ A series of events (which we'll get to, I promise) eventually put me in
 survival mode, where I had two possible outcomes:
 
 - learn to adapt... 
-- ... or learn to let go
+- ... or learn to let go.
 
 This led me to read a certain DevOps  handbook, which led me to write
 down these words:
