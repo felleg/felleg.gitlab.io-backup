@@ -27,7 +27,7 @@ be inspired to take steps towards overcoming this wall.*
 that **anyone can experience learning anxiety and solving it requires a
 system of your own creation that will make learning a joyful experience
 to you**. If you experience learning anxiety, my hope is that this post
-will make you feel realize that you are not alone and that with a little
+will make you realize that you are not alone and that, with a little
 bit of creativity, you can get through any obstacle that stands in your
 way.*
 
@@ -72,7 +72,7 @@ either.
 
 I knew I felt
 bad about my performance at work and had for a long time, but I couldn't
-quite put my finger on it. It's not that I wasn't trying hard enough: in
+quite put my finger on why. It's not that I wasn't trying hard enough: in
 fact, I felt I was trying so hard that I was getting close to burning
 out. However, I also felt like I wasn't accomplishing as much as I should
 have, considering the amount of energy I poured daily in my work. From
@@ -83,10 +83,10 @@ the outside, it might have looked like this:
 A series of events (which we'll get to, I promise) eventually put me in
 survival mode, where I had two possible outcomes:
 
-- learn to adapt
-- learn to let go
+- learn to adapt... 
+- ... or learn to let go
 
-This led me to read a certain devops handbook, which led me to write
+This led me to read a certain DevOps  handbook, which led me to write
 down these words:
 
 {{< figure src="/img/learning-anxiety-lightbulb.jpg" position="center" caption="" >}}
