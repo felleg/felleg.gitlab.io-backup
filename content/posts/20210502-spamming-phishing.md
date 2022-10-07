@@ -4,7 +4,6 @@ date: 2021-05-02T20:50:44-04:00
 cover:
 tags:
   - hacking
-description: "enter your description here"
 ---
 {{< figure src="/img/spamming-phishing/email.png" position="center" caption="" >}}
 {{< figure src="/img/spamming-phishing/facebook-post.png" position="center" caption="" >}}
