@@ -1,7 +1,6 @@
 ---
 title: "Spamming a Phishing Campaign"
 date: 2021-05-02T20:50:44-04:00
-draft: true
 cover:
 tags:
   - hacking
