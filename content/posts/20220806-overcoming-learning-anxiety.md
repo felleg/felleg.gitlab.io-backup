@@ -491,7 +491,7 @@ your current one. Use this as motivation to get through your current
 book, if needed!
 
 Personally, shelving  a book without finishing it only leaves me more
-confused. It gives me pieces of the puzzle, but since I lack pieces I
+confused. It gives me some pieces of the puzzle, but since I lack pieces I
 will never see that puzzle to completion. Bite the bullet, and finish
 the books you start, unless they are novels that fail to grab your
 attention.
