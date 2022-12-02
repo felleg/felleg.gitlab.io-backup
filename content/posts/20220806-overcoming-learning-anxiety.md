@@ -303,7 +303,7 @@ way of holding books that reminds us that our goal is to learn. I call it the *b
 Some people might cringe when seeing this. Are you one of those? :wink:
 
 Yet, those who know, know.
-Yet, you might be asking: What difference does it make to hold a book
+Now, you might be asking: What difference does it make to hold a book
 bent over backwards?
 
 Personally, the book suplex taught me an important
