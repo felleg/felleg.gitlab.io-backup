@@ -318,8 +318,7 @@ might sound, it is a truth that eluded me for many years.
 
 About 10 years ago, I was a relatively money-poor grad student. I was relatively short on cash and keeping
 my old course manuals was not something I could afford to do. Thus, I
-took great care of my manuals, seldom highlighting or writing in them, so
-that I could sell them at a higher price later on.
+took great care of my manuals, seldom highlighting or writing in them, in order to boost their eventual sale price.
 
 Unfortunately, this strategy was sub-optimal. To make an extra $40
 per book sold, I was taking the risk of having a lesser learning
