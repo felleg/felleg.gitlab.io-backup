@@ -597,7 +597,7 @@ If your notebook doesn't have page numbers already (most don't), I
 strongly recommend that you number your pages yourself. This is
 invaluable to allow you to reference your notes later on. It is such an
 integral part of my system that I initially forgot to list it here! This
-is a quality of life upgrade that is too obvious to life without.
+is a quality of life upgrade that is too obvious to live without.
 
 ## Take the time to shop for pens and highlighters
 
