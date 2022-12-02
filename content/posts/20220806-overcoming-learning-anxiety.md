@@ -320,7 +320,7 @@ About 10 years ago, I was a relatively money-poor grad student. I was relatively
 my old course manuals was not something I could afford to do. Thus, I
 took great care of my manuals, seldom highlighting or writing in them, in order to boost their eventual sale price.
 
-Unfortunately, this strategy was sub-optimal. To make an extra $40
+Unfortunately, this strategy was sub-optimal. For  an extra $40
 per book sold, I was taking the risk of having a lesser learning
 experience.  Without realizing it, I always saw my books as someone
 else's items that I was borrowing, or some item that might become
