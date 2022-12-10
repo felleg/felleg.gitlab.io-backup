@@ -36,6 +36,7 @@ Default difficulty settings were used unless stated otherwise.
 |[Raiden II](https://en.wikipedia.org/wiki/Raiden_II) |{{< vertical >}}|[450,956](/img/highscores/raiden-ii-20221106.jpg)   | 2022/11/06   | Port: The Raiden Project (USA). Default difficulty (Colonel).|
 |[RayForce](https://en.wikipedia.org/wiki/RayForce) (aka Gunlock, aka Layer Section, aka Galactic Attack) |{{< vertical >}}| [1,218,700](/img/highscores/rayforce-20221204.jpg) | 2022/12/04| Sega Saturn port
 |[Strikers 1945 Plus](https://en.wikipedia.org/wiki/Strikers_1945_Plus)      | {{< vertical >}} (yoko)|[309,600](/img/highscores/strikers-1945-plus-20221204.jpg)  |2022/12/04    | 2 lives (default MVS)     |
+|[Strikers 1945 II](https://en.wikipedia.org/wiki/Strikers_1945_II)      | {{< vertical >}}|[372,900](/img/highscores/strikers-1945-ii-20221210.jpg)  |2022/12/10    | PlayStation port     |
 |[Terra Cresta](https://en.wikipedia.org/wiki/Terra_Cresta)     |{{< vertical >}}|[43,800](/img/highscores/terra-cresta-20221210.jpg)  |2022/12/10     |      |
 |[Tetris: The Grand Master](https://en.wikipedia.org/wiki/Tetris:_The_Grand_Master)  | n/a|[Level 549](/img/highscores/tgm-20220523.png)    |2022/05/23   |Played on MiSTer PSX core using [ZN-2 to PSX conversion](https://www.romhacking.net/reviews/8921/)      |
 |[Tetris: The Grand Master](https://en.wikipedia.org/wiki/Tetris:_The_Grand_Master)  (20G)    | n/a|[Level 319](https://www.youtube.com/watch?v=6wJqaH9RW9M)   |2022/03/19    |Played on [Heboris](https://github.com/nightmareci/HeborisC7EX-SDL2)      |
