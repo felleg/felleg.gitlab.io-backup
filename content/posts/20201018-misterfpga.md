@@ -160,7 +160,7 @@ accessories. The flexibility of the video outputs is truly staggering on the MiS
 its own discussion. This is not only great for console games, but also for arcade games. After spending some
 time with the MiSTer, I can honestly say that for the right person this is an absolutely killer feature.
 
-{{< figure src="/img/hoarding-project/playing-mister.png" position="center" caption="Playing MUSHA on my Commodore 1702 CRT." >}}
+{{< figure src="/img/hoarding-project/playing-mister.png" position="center" caption="Playing MUSHA on a Sony Trinitron CRT." >}}
 
 Do you know how expensive original arcade hardware is in 2020? With MiSTer, you can play most golden-age games
 as if you owned the actual printed circuit board (PCB), with the added bonus of USB controllers and peace of mind of never having to
