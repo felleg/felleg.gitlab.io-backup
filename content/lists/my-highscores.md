@@ -41,4 +41,5 @@ Default difficulty settings were used unless stated otherwise.
 |[Tetris: The Grand Master](https://en.wikipedia.org/wiki/Tetris:_The_Grand_Master)  (20G)    | [Level 319](https://www.youtube.com/watch?v=6wJqaH9RW9M)   |2022/03/19    |Played on [Heboris](https://github.com/nightmareci/HeborisC7EX-SDL2)      |
 |[Time Pilot '84](https://en.wikipedia.org/wiki/Time_Pilot_%2784) |[59400](/img/highscores/timepilot84-20220528.png)     |2022/05/28  |     |
 |[Truxton](https://en.wikipedia.org/wiki/Truxton_(video_game))      | [201,950](/img/highscores/truxton-20220317.jpg)     |2022/03/17 | |
+|[Truxton II](https://en.wikipedia.org/wiki/Truxton_II)      | [181,810](/img/highscores/truxton-ii-20221209.jpg)     |2022/12/09 | |
 |[Twinkle Tale](https://en.wikipedia.org/wiki/Twinkle_Tale)      | [714,510](/img/highscores/twinkle-tale-20220813.jpg)     |2022/08/13 | |
