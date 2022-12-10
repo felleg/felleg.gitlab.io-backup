@@ -34,7 +34,7 @@ Default difficulty settings were used unless stated otherwise.
 |[Pulstar](https://en.wikipedia.org/wiki/Pulstar_(video_game)) |[134,260](/img/highscores/pulstar-20220813.jpg)   | 2022/08/13   |      |
 |[Raiden](https://en.wikipedia.org/wiki/Raiden_(video_game)) |[168,610](/img/highscores/raiden-20221107.jpg)   | 2022/11/07   | Port: The Raiden Project (USA). Default difficulty (Colonel). First attempt!     |
 |[Raiden II](https://en.wikipedia.org/wiki/Raiden_II) |[450,956](/img/highscores/raiden-ii-20221106.jpg)   | 2022/11/06   | Port: The Raiden Project (USA). Default difficulty (Colonel).|
-|[RayForce aka Gunlock aka Layer Section aka Galactic Attack](https://en.wikipedia.org/wiki/RayForce) | [1,218,700](/img/highscores/rayforce-20221204.jpg) | Port: Layer Section (Sega Saturn)
+|[RayForce aka Gunlock aka Layer Section aka Galactic Attack](https://en.wikipedia.org/wiki/RayForce) | [1,218,700](/img/highscores/rayforce-20221204.jpg) |2022/12/04 | Port: Layer Section (Sega Saturn)
 |[Strikers 1945 Plus](https://en.wikipedia.org/wiki/Strikers_1945_Plus)      | [309,600](/img/highscores/strikers-1945-plus-20221204.jpg)  |2022/12/04    | 2 lives (default MVS)     |
 |[Terra Cresta](https://en.wikipedia.org/wiki/Terra_Cresta)     |[41,300](/img/highscores/terra-cresta-20220327.jpg)  |2022/03/27     |Alpha MiSTer core      |
 |[Tetris: The Grand Master](https://en.wikipedia.org/wiki/Tetris:_The_Grand_Master)  | [Level 549](/img/highscores/tgm-20220523.png)    |2022/05/23   |Played on MiSTer PSX core using [ZN-2 to PSX conversion](https://www.romhacking.net/reviews/8921/)      |
