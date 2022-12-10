@@ -28,6 +28,7 @@ Default difficulty settings were used unless stated otherwise.
 |[Esp Ra. De.](https://en.wikipedia.org/wiki/ESP_Ra.De.) | Vertical|[3,183,730](/img/highscores/esp-ra-de-20220416.jpg) |2022/04/16|
 |[Giga Wing](https://en.wikipedia.org/wiki/Giga_Wing)      | Vertical (yoko)|[718,236,244,250](/img/highscores/giga-wing-20220326.jpg)     |2022/03/26 |      |
 |[Guwange](https://en.wikipedia.org/wiki/Guwange)      | Vertical|[99,9310](/img/highscores/guwange-20220610.jpg) | 2022/06/10    | If you need a refresher on Chinese numerals, [click here](https://en.wikipedia.org/wiki/Chinese_numerology).     |
+|[Lightening Force](https://en.wikipedia.org/wiki/Thunder_Force_IV) (aka Thunder Force IV)| Horizontal|[96,060](/img/highscores/lightening-force-20220812.jpg)|2022/08/12||
 |[Out Zone](https://en.wikipedia.org/wiki/Out_Zone)     | Free-roaming, vertical (tate)|[697,690](/img/highscores/out-zone-20220326.jpg)      | 2022/03/26 |    |
 |[Progear](https://en.wikipedia.org/wiki/Progear) |Vertical|[4,612,220](/img/highscores/progear-20220327.jpg)   | 2022/03/27   |Got the extend!      |
 |[Pulstar](https://en.wikipedia.org/wiki/Pulstar_(video_game)) |Horizontal|[134,260](/img/highscores/pulstar-20220813.jpg)   | 2022/08/13   |      |
@@ -35,7 +36,7 @@ Default difficulty settings were used unless stated otherwise.
 |[Raiden II](https://en.wikipedia.org/wiki/Raiden_II) |Vertical|[450,956](/img/highscores/raiden-ii-20221106.jpg)   | 2022/11/06   | Port: The Raiden Project (USA). Default difficulty (Colonel).|
 |[RayForce](https://en.wikipedia.org/wiki/RayForce) (aka Gunlock, aka Layer Section, aka Galactic Attack) |Vertical| [1,218,700](/img/highscores/rayforce-20221204.jpg) | Sega Saturn port
 |[Strikers 1945 Plus](https://en.wikipedia.org/wiki/Strikers_1945_Plus)      | Vertical (yoko)|[309,600](/img/highscores/strikers-1945-plus-20221204.jpg)  |2022/12/04    | 2 lives (default MVS)     |
-|[Terra Cresta](https://en.wikipedia.org/wiki/Terra_Cresta)     |Vertical|[41,300](/img/highscores/terra-cresta-20220327.jpg)  |2022/03/27     |Alpha MiSTer core      |
+|[Terra Cresta](https://en.wikipedia.org/wiki/Terra_Cresta)     |Vertical|[43,800](/img/highscores/terra-cresta-20221210.jpg)  |2022/12/10     |      |
 |[Tetris: The Grand Master](https://en.wikipedia.org/wiki/Tetris:_The_Grand_Master)  | None|[Level 549](/img/highscores/tgm-20220523.png)    |2022/05/23   |Played on MiSTer PSX core using [ZN-2 to PSX conversion](https://www.romhacking.net/reviews/8921/)      |
 |[Tetris: The Grand Master](https://en.wikipedia.org/wiki/Tetris:_The_Grand_Master)  (20G)    | None|[Level 319](https://www.youtube.com/watch?v=6wJqaH9RW9M)   |2022/03/19    |Played on [Heboris](https://github.com/nightmareci/HeborisC7EX-SDL2)      |
 |[Time Pilot '84](https://en.wikipedia.org/wiki/Time_Pilot_%2784) |Free-roaming (tate)|[59400](/img/highscores/timepilot84-20220528.png)     |2022/05/28  |     |
