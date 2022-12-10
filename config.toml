@@ -160,6 +160,10 @@ disableHugoGeneratorInject = false
     name = "spotify"
     url  = "https://open.spotify.com/playlist/1iZEDzF689EY3PUDCeHtZY"
 
+  [[params.social]]
+    name = "arcade"
+    url = "/my-highscores"
+
 [languages]
   [languages.en]
     subtitle  = "Welcome!"
