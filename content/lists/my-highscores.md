@@ -20,7 +20,7 @@ Default difficulty settings were used unless stated otherwise.
 | Game | Scrolling | Score | Date | Notes |
 |------|-----------|-------|------|--------|
 |[Batsugun (Normal Version)](https://en.wikipedia.org/wiki/Batsugun) |{{< vertical >}}|[1,380,040](/img/highscores/batsugun-20221210.jpg) |2022/12/10 | Sega Saturn port
-|[Batsugun (Special Version)](https://en.wikipedia.org/wiki/Batsugun) |{{< vertical >}}|[1,455,670](/img/highscores/batsugun-special-20221210.jpg) |2022/12/10 | Sega Saturn port
+|[Batsugun (Special Version)](https://en.wikipedia.org/wiki/Batsugun) |{{< vertical >}}|[1,714,630](/img/highscores/batsugun-special-20221211.jpg) |2022/12/10 | Sega Saturn port
 |[Blazing Star](https://en.wikipedia.org/wiki/Blazing_Star)      | {{< horizontal >}}|[849,200](/img/highscores/blazing-star-20220813.jpg)      | 2022/08/13|
 |[Carrier Air Wing](https://en.wikipedia.org/wiki/Carrier_Air_Wing_(video_game))      | {{< horizontal >}}|[165,210](/img/highscores/carrier-air-wing-20210911.jpg)  | 2021/09/11   |The sequel to U.N. Squadron      |
 |[DoDonPachi](https://en.wikipedia.org/wiki/DoDonPachi)      | {{< vertical >}}|[18,848,190](/img/highscores/dodonpachi-20220321.jpg) |2022/03/21     |International version      |
