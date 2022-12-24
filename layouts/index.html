@@ -21,6 +21,7 @@
             {{- end }}
         </div>
         <h1><a href="tags/featured" style="text-decoration:none">Featured Posts</a></h1>
+          {{/* range (slice (where .Site.Pages "Params.frontpage" "true") 0 3) */}}
           {{ range (where .Site.Pages "Params.frontpage" "true") }}
           <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a><br>
           {{ end }}
