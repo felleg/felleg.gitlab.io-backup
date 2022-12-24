@@ -158,7 +158,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "spotify"
-    url  = "https://open.spotify.com/playlist/1iZEDzF689EY3PUDCeHtZY"
+    url  = "/playlist"
 
   [[params.social]]
     name = "my highscores"
