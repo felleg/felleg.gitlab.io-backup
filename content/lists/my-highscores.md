@@ -19,33 +19,33 @@ Default difficulty settings were used unless stated otherwise.
 -->
 | Game | Release year | Scrolling | Score | Date | Notes |
 |------|--------------|-----------|-------|------|-------|
-|[Batsugun (Normal Version)](https://en.wikipedia.org/wiki/Batsugun) |1993|{{< vertical >}}|[1,380,040](/img/highscores/batsugun-20221210.jpg) |2022/12/10 | Sega Saturn port
-|[Batsugun (Special Version)](https://en.wikipedia.org/wiki/Batsugun) |1993|{{< vertical >}}|[1,714,630](/img/highscores/batsugun-special-20221211.jpg) |2022/12/10 | Sega Saturn port
-|[Blazing Star](https://en.wikipedia.org/wiki/Blazing_Star)      |1998| {{< horizontal >}}|[849,200](/img/highscores/blazing-star-20220813.jpg)      | 2022/08/13|
-|[Carrier Air Wing](https://en.wikipedia.org/wiki/Carrier_Air_Wing_(video_game))      |1990| {{< horizontal >}}|[165,210](/img/highscores/carrier-air-wing-20210911.jpg)  | 2021/09/11   |The sequel to U.N. Squadron      |
-|[DoDonPachi](https://en.wikipedia.org/wiki/DoDonPachi)      |1997| {{< vertical >}}|[18,848,190](/img/highscores/dodonpachi-20220321.jpg) |2022/03/21     |International version      |
-|[DonPachi](https://en.wikipedia.org/wiki/DonPachi)      |1995| {{< vertical >}}|[3,972,870](/img/highscores/donpachi-20220709.jpg)   |2022/07/09   |      |
-|[Donkey Kong](https://en.wikipedia.org/wiki/Donkey_Kong_(video_game))|1981|n/a|[28,800](/img/highscores/donkey-kong-20220922.jpg)|2022/09/22||
-|[Esp Ra. De.](https://en.wikipedia.org/wiki/ESP_Ra.De.) |1998| {{< vertical >}}|[3,183,730](/img/highscores/esp-ra-de-20220416.jpg) |2022/04/16|
-|[Giga Wing](https://en.wikipedia.org/wiki/Giga_Wing)      |1999| {{< vertical >}} (yoko)|[718,236,244,250](/img/highscores/giga-wing-20220326.jpg)     |2022/03/26 |      |
-|[Guwange](https://en.wikipedia.org/wiki/Guwange)      |1999| {{< vertical >}}|[99,9310](/img/highscores/guwange-20220610.jpg) | 2022/06/10    | If you need a refresher on Chinese numerals, [click here](https://en.wikipedia.org/wiki/Chinese_numerology).     |
-|[Lightening Force](https://en.wikipedia.org/wiki/Thunder_Force_IV) (aka Thunder Force IV)|1992| {{< horizontal >}}|[96,060](/img/highscores/lightening-force-20220812.jpg)|2022/08/12||
-|[Out Zone](https://en.wikipedia.org/wiki/Out_Zone)     |1990| {{< freeroaming >}} + {{< vertical >}} (tate)|[697,690](/img/highscores/out-zone-20220326.jpg)      | 2022/03/26 |    |
-|[Progear](https://en.wikipedia.org/wiki/Progear) |2001|{{< horizontal >}}|[4,612,220](/img/highscores/progear-20220327.jpg)   | 2022/03/27   |Yay! I got the extend!      |
-|[Pulstar](https://en.wikipedia.org/wiki/Pulstar_(video_game)) |1995|{{< horizontal >}}|[134,260](/img/highscores/pulstar-20220813.jpg)   | 2022/08/13   |      |
-|[Raiden](https://en.wikipedia.org/wiki/Raiden_(video_game)) |1990|{{< vertical >}}|[168,610](/img/highscores/raiden-20221107.jpg)   | 2022/11/07   | Port: The Raiden Project (USA). Default difficulty (Colonel). First attempt!     |
-|[Raiden II](https://en.wikipedia.org/wiki/Raiden_II) |1995|{{< vertical >}}|[450,956](/img/highscores/raiden-ii-20221106.jpg)   | 2022/11/06   | Port: The Raiden Project (USA). Default difficulty (Colonel).|
-|[RayForce](https://en.wikipedia.org/wiki/RayForce) (aka Gunlock, aka Layer Section, aka Galactic Attack) |1994|{{< vertical >}}| [1,643,200](/img/highscores/rayforce-20221228.jpg) | 2022/12/28| Sega Saturn port
-|[Snap Jack](https://www.arcade-museum.com/game_detail.php?game_id=9597)|1981|{{< horizontal >}}|[11,810](/img/highscores/snap-jack-20221226.jpg)|2022/12/26|
-|[Strikers 1945 Plus](https://en.wikipedia.org/wiki/Strikers_1945_Plus)      |1999| {{< vertical >}} (yoko)|[309,600](/img/highscores/strikers-1945-plus-20221204.jpg)  |2022/12/04    | 2 lives (default MVS)     |
-|[Strikers 1945 II](https://en.wikipedia.org/wiki/Strikers_1945_II)      |1998| {{< vertical >}}|[372,900](/img/highscores/strikers-1945-ii-20221210.jpg)  |2022/12/10    | PlayStation port     |
-|[Terra Cresta](https://en.wikipedia.org/wiki/Terra_Cresta)     |1985|{{< vertical >}}|[43,800](/img/highscores/terra-cresta-20221210.jpg)  |2022/12/10     |      |
-|[Tetris: The Grand Master](https://en.wikipedia.org/wiki/Tetris:_The_Grand_Master)  |1998| n/a|[Level 549](/img/highscores/tgm-20220523.png)    |2022/05/23   |Played on MiSTer PSX core using [ZN-2 to PSX conversion](https://www.romhacking.net/reviews/8921/)      |
-|[Tetris: The Grand Master](https://en.wikipedia.org/wiki/Tetris:_The_Grand_Master)  (20G)    |1998| n/a|[Level 319](https://www.youtube.com/watch?v=6wJqaH9RW9M)   |2022/03/19    |Played on [Heboris](https://github.com/nightmareci/HeborisC7EX-SDL2)      |
-|[Time Pilot](https://en.wikipedia.org/wiki/Time_Pilot) |1982|{{< freeroaming >}} (tate)|[102,200](/img/highscores/time-pilot-20220922.jpg)     |2022/09/22  |     |
-|[Time Pilot '84](https://en.wikipedia.org/wiki/Time_Pilot_%2784) |1984|{{< freeroaming >}} (tate)|[106,000](/img/highscores/time-pilot-84-20221217.jpg)     |2022/12/17  |     |
-|[Truxton](https://en.wikipedia.org/wiki/Truxton_(video_game))      | 1988|{{< vertical >}}|[201,950](/img/highscores/truxton-20220317.jpg)     |2022/03/17 | |
-|[Truxton II](https://en.wikipedia.org/wiki/Truxton_II)      | 1992|{{< vertical >}}|[181,810](/img/highscores/truxton-ii-20221209.jpg)     |2022/12/09 | |
-|[Twinkle Tale](https://en.wikipedia.org/wiki/Twinkle_Tale)      | 1992|{{< freeroaming >}} Run 'n gun (yoko)|[714,510](/img/highscores/twinkle-tale-20220813.jpg)     |2022/08/13 | |
+|[Batsugun (Normal Version)](https://en.wikipedia.org/wiki/Batsugun) |1993|{{< vertical >}}|[1,380,040](/img/highscores/batsugun-20221210.jpg) |2022-12-10 | Sega Saturn port
+|[Batsugun (Special Version)](https://en.wikipedia.org/wiki/Batsugun) |1993|{{< vertical >}}|[1,714,630](/img/highscores/batsugun-special-20221211.jpg) |2022-12-10 | Sega Saturn port
+|[Blazing Star](https://en.wikipedia.org/wiki/Blazing_Star)      |1998| {{< horizontal >}}|[849,200](/img/highscores/blazing-star-20220813.jpg)      | 2022-08-13|
+|[Carrier Air Wing](https://en.wikipedia.org/wiki/Carrier_Air_Wing_(video_game))      |1990| {{< horizontal >}}|[165,210](/img/highscores/carrier-air-wing-20210911.jpg)  | 2021-09-11   |The sequel to U.N. Squadron      |
+|[DoDonPachi](https://en.wikipedia.org/wiki/DoDonPachi)      |1997| {{< vertical >}}|[18,848,190](/img/highscores/dodonpachi-20220321.jpg) |2022-03-21     |International version      |
+|[DonPachi](https://en.wikipedia.org/wiki/DonPachi)      |1995| {{< vertical >}}|[3,972,870](/img/highscores/donpachi-20220709.jpg)   |2022-07-09   |      |
+|[Donkey Kong](https://en.wikipedia.org/wiki/Donkey_Kong_(video_game))|1981|n/a|[28,800](/img/highscores/donkey-kong-20220922.jpg)|2022-09-22||
+|[Esp Ra. De.](https://en.wikipedia.org/wiki/ESP_Ra.De.) |1998| {{< vertical >}}|[3,183,730](/img/highscores/esp-ra-de-20220416.jpg) |2022-04-16|
+|[Giga Wing](https://en.wikipedia.org/wiki/Giga_Wing)      |1999| {{< vertical >}} (yoko)|[718,236,244,250](/img/highscores/giga-wing-20220326.jpg)     |2022-03-26 |      |
+|[Guwange](https://en.wikipedia.org/wiki/Guwange)      |1999| {{< vertical >}}|[99,9310](/img/highscores/guwange-20220610.jpg) | 2022-06-10    | If you need a refresher on Chinese numerals, [click here](https://en.wikipedia.org/wiki/Chinese_numerology).     |
+|[Lightening Force](https://en.wikipedia.org/wiki/Thunder_Force_IV) (aka Thunder Force IV)|1992| {{< horizontal >}}|[96,060](/img/highscores/lightening-force-20220812.jpg)|2022-08-12||
+|[Out Zone](https://en.wikipedia.org/wiki/Out_Zone)     |1990| {{< freeroaming >}} + {{< vertical >}} (tate)|[697,690](/img/highscores/out-zone-20220326.jpg)      | 2022-03-26 |    |
+|[Progear](https://en.wikipedia.org/wiki/Progear) |2001|{{< horizontal >}}|[4,612,220](/img/highscores/progear-20220327.jpg)   | 2022-03-27   |Yay! I got the extend!      |
+|[Pulstar](https://en.wikipedia.org/wiki/Pulstar_(video_game)) |1995|{{< horizontal >}}|[134,260](/img/highscores/pulstar-20220813.jpg)   | 2022-08-13   |      |
+|[Raiden](https://en.wikipedia.org/wiki/Raiden_(video_game)) |1990|{{< vertical >}}|[168,610](/img/highscores/raiden-20221107.jpg)   | 2022-11-07   | Port: The Raiden Project (USA). Default difficulty (Colonel). First attempt!     |
+|[Raiden II](https://en.wikipedia.org/wiki/Raiden_II) |1995|{{< vertical >}}|[450,956](/img/highscores/raiden-ii-20221106.jpg)   | 2022-11-06   | Port: The Raiden Project (USA). Default difficulty (Colonel).|
+|[RayForce](https://en.wikipedia.org/wiki/RayForce) (aka Gunlock, aka Layer Section, aka Galactic Attack) |1994|{{< vertical >}}| [1,643,200](/img/highscores/rayforce-20221228.jpg) | 2022-12-28| Sega Saturn port
+|[Snap Jack](https://www.arcade-museum.com/game_detail.php?game_id=9597)|1981|{{< horizontal >}}|[11,810](/img/highscores/snap-jack-20221226.jpg)|2022-12-26|
+|[Strikers 1945 Plus](https://en.wikipedia.org/wiki/Strikers_1945_Plus)      |1999| {{< vertical >}} (yoko)|[309,600](/img/highscores/strikers-1945-plus-20221204.jpg)  |2022-12-04    | 2 lives (default MVS)     |
+|[Strikers 1945 II](https://en.wikipedia.org/wiki/Strikers_1945_II)      |1998| {{< vertical >}}|[372,900](/img/highscores/strikers-1945-ii-20221210.jpg)  |2022-12-10    | PlayStation port     |
+|[Terra Cresta](https://en.wikipedia.org/wiki/Terra_Cresta)     |1985|{{< vertical >}}|[43,800](/img/highscores/terra-cresta-20221210.jpg)  |2022-12-10     |      |
+|[Tetris: The Grand Master](https://en.wikipedia.org/wiki/Tetris:_The_Grand_Master)  |1998| n/a|[Level 549](/img/highscores/tgm-20220523.png)    |2022-05-23   |Played on MiSTer PSX core using [ZN-2 to PSX conversion](https://www.romhacking.net/reviews/8921/)      |
+|[Tetris: The Grand Master](https://en.wikipedia.org/wiki/Tetris:_The_Grand_Master)  (20G)    |1998| n/a|[Level 319](https://www.youtube.com/watch?v=6wJqaH9RW9M)   |2022-03-19    |Played on [Heboris](https://github.com/nightmareci/HeborisC7EX-SDL2)      |
+|[Time Pilot](https://en.wikipedia.org/wiki/Time_Pilot) |1982|{{< freeroaming >}} (tate)|[102,200](/img/highscores/time-pilot-20220922.jpg)     |2022-09-22  |     |
+|[Time Pilot '84](https://en.wikipedia.org/wiki/Time_Pilot_%2784) |1984|{{< freeroaming >}} (tate)|[106,000](/img/highscores/time-pilot-84-20221217.jpg)     |2022-12-17  |     |
+|[Truxton](https://en.wikipedia.org/wiki/Truxton_(video_game))      | 1988|{{< vertical >}}|[201,950](/img/highscores/truxton-20220317.jpg)     |2022-03-17 | |
+|[Truxton II](https://en.wikipedia.org/wiki/Truxton_II)      | 1992|{{< vertical >}}|[181,810](/img/highscores/truxton-ii-20221209.jpg)     |2022-12-09 | |
+|[Twinkle Tale](https://en.wikipedia.org/wiki/Twinkle_Tale)      | 1992|{{< freeroaming >}} Run 'n gun (yoko)|[714,510](/img/highscores/twinkle-tale-20220813.jpg)     |2022-08-13 | |
 
 {{< figure src="/img/highscores/young-felix-arcade.jpg" position="center" caption="Long live the arcade!" >}}
