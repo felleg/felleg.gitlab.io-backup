@@ -27,7 +27,7 @@ Default difficulty settings were used unless stated otherwise.
 |[DonPachi](https://en.wikipedia.org/wiki/DonPachi)      |1995| {{< vertical >}}|[3,972,870](/img/highscores/donpachi-20220709.jpg)   |2022-07-09   |      |
 |[Donkey Kong](https://en.wikipedia.org/wiki/Donkey_Kong_(video_game))|1981|n/a|[28,800](/img/highscores/donkey-kong-20220922.jpg)|2022-09-22||
 |[Esp Ra. De.](https://en.wikipedia.org/wiki/ESP_Ra.De.) |1998| {{< vertical >}}|[3,183,730](/img/highscores/esp-ra-de-20220416.jpg) |2022-04-16|
-|[Giga Wing](https://en.wikipedia.org/wiki/Giga_Wing)      |1999| {{< vertical >}} (yoko)|[718,236,244,250](/img/highscores/giga-wing-20220326.jpg)     |2022-03-26 |      |
+|[Giga Wing](https://en.wikipedia.org/wiki/Giga_Wing)      |1999| {{< vertical >}} (yoko)|[7182,36244250](/img/highscores/giga-wing-20220326.jpg)     |2022-03-26 |      |
 |[Guwange](https://en.wikipedia.org/wiki/Guwange)      |1999| {{< vertical >}}|[99,9310](/img/highscores/guwange-20220610.jpg) | 2022-06-10    | If you need a refresher on Chinese numerals, [click here](https://en.wikipedia.org/wiki/Chinese_numerology).     |
 |[Lightening Force](https://en.wikipedia.org/wiki/Thunder_Force_IV) (aka Thunder Force IV)|1992| {{< horizontal >}}|[96,060](/img/highscores/lightening-force-20220812.jpg)|2022-08-12||
 |[Out Zone](https://en.wikipedia.org/wiki/Out_Zone)     |1990| {{< freeroaming >}} + {{< vertical >}} (tate)|[697,690](/img/highscores/out-zone-20220326.jpg)      | 2022-03-26 |    |
