@@ -27,7 +27,7 @@ Default difficulty settings were used unless stated otherwise.
 |[DoDonPachi](https://en.wikipedia.org/wiki/DoDonPachi)      |1997| {{< vertical >}}|[18,848,190](/img/highscores/dodonpachi-20220321.jpg) |2022-03-21     |International version      |
 |[DonPachi](https://en.wikipedia.org/wiki/DonPachi)      |1995| {{< vertical >}}|[3,972,870](/img/highscores/donpachi-20220709.jpg)   |2022-07-09   |      |
 |[Donkey Kong](https://en.wikipedia.org/wiki/Donkey_Kong_(video_game))|1981|n/a|[28,800](/img/highscores/donkey-kong-20220922.jpg)|2022-09-22||
-|[Einhänder](https://en.wikipedia.org/wiki/Einhänder)|1997|{{< horizontal >}}|[2,669,030](/img/highscores/einhander-20221230-2.jpg)|2022-12-30||
+|[Einhänder](https://en.wikipedia.org/wiki/Einhänder)|1997|{{< horizontal >}}|[2,669,030](/img/highscores/einhander-20221230-2.jpg)|2022-12-30|Normal difficulty|
 |[Esp Ra. De.](https://en.wikipedia.org/wiki/ESP_Ra.De.) |1998| {{< vertical >}}|[3,183,730](/img/highscores/esp-ra-de-20220416.jpg) |2022-04-16|
 |[Giga Wing](https://en.wikipedia.org/wiki/Giga_Wing)      |1999| {{< vertical >}} (yoko)|[7182,36244250](/img/highscores/giga-wing-20220326.jpg)     |2022-03-26 |      |
 |[Guwange](https://en.wikipedia.org/wiki/Guwange)      |1999| {{< vertical >}}|[99,9310](/img/highscores/guwange-20220610.jpg) | 2022-06-10    | If you need a refresher on Chinese numerals, [click here](https://en.wikipedia.org/wiki/Chinese_numerology).     |
