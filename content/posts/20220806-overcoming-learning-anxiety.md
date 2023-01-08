@@ -347,7 +347,7 @@ Is it really a coincidence that a curved book spine looks like a smile?
 
 # Creating a system of learning
 
-So, knew how to hold a paperback book. Big whoop. This didn't
+So, knew how to hold a book. Big whoop. This didn't
 change the fact that after reading 10 pages, I
 couldn't contain all the information I was reading. If 10 pages
 of info coming in my brain meant 10 pages of info coming out, that does not count
