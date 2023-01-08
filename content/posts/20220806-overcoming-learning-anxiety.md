@@ -371,7 +371,7 @@ Unfortunately, that did not work. Why? Simply because I never took the
 time to go back to chapters I had already read. And this was
 supported by something my partner Gabrielle told me, as she was
 completing her PhD: **"You never want to read the same book twice"**. As a
-fan of novels, this was something I initially disagreed with. Indeed, well doesn't love going back to a book that brought them great joy?  However, I
+fan of novels, this was something I initially disagreed with. Indeed, who doesn't love going back to a book that brought them great joy?  However, I
 came to understand what her statement meant later on: Reading a book twice is
 suboptimal and a potential waste of time. What does that say about the
 first time you read that book?
