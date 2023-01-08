@@ -572,8 +572,7 @@ but I worked around that easily.
 I also bought a Leuchtturm 1917 A5 to use
 as a personal diary and I liked its features, feel, and available
 colors, so I think the Leuchtturm will be my notebook of choice going forward.
-Moleskin gear seems slightly overpriced, but I admit I have not
-tried it myself.
+Moleskin gear seems slightly overpriced to me, but your mileage may vary.
 
 {{< figure src="/img/use-bound-journals.png" position="center" caption="" >}}
 
