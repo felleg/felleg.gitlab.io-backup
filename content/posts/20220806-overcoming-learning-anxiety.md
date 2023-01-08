@@ -426,7 +426,7 @@ In short, Matt's strategy is the following:
 > - Rewrite it into your journal
 > - Reread your journal, highlight important bits
 
-The idea behind this system is simple and fixes you to work  smart.
+The idea behind this system is simple and forces you to work  smart.
 Books do contain answers to our questions - that is why we choose to read
 them after all! However, they also contain a lot of context to explain why
 certain knowledge nuggets have meaning. What if we simply recorded the
