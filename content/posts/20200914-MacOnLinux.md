@@ -19,8 +19,8 @@ for educational purposes only.
 # Anyway...
 
 I don't want to start a religious war on this post, but I'll just say it right away: indeed, I'm not the
-biggest fan of macOS. Building on top of Unix is cool, but I just don't care about the part built on top of
-Unix. However, even I have to admit this fact: love it or hate it, macOS is here to stay.
+biggest fan of macOS. Building on top of Unix is cool, but I don't particalurly care for  the part  Apple built on top of
+Unix. However, even I do have to admit this fact: love it or hate it, macOS is here to stay.
 
 While I am not a fan of Apple, as a developer I can certainly envy their business model. As far as I can tell,
 if you want to develop software for their mobile devices, you need to use desktop hardware made by Apple
