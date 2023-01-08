@@ -12,7 +12,7 @@ showFullContent = false
 # Disclaimer
 
 It's worth noting from the start that Apple doesn't allow installing macOS on non-Apple hardware (because of
-course they do), so to use this legally you must have Linux installed on Apple hardware. Thought you could use
+course they don't), so to use this legally you must have Linux installed on Apple hardware. Thought you could use
 this to legally run macOS without paying for a slice of Apple's pie? Think again! This information is shared
 for educational purposes only.
 
