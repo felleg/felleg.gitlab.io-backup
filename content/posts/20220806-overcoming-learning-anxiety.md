@@ -934,7 +934,7 @@ choose it.
 
 Imagine how you will feel when your book shows you a new way to think about a specific problem you couldn't quite put your finger on. Suddenly, a new connection occurs in your brain. Now, all you can see is the answer. Everything simply  makes  sense! Personally, this is among the most powerful and freeing experiences I have felt yet. It truly is a transcending moment that cannot overstated.
 
-Learning  does not have to be  a skill. **We are all lifelong learners.** What allows some
+**We are all lifelong learners.** If you want to learn about something, you can do it. What allows some
 people to learn faster than others is that they have created and
 optimized a learning system that is suited around their way of learning.
 When I realized that the core mission of DevOps is to create a system that
