@@ -557,7 +557,7 @@ or, worse, a stitched exercise book. These won't do much good here if pages
 keep tearing and falling out of your journal after a few years.
 
 Some features that I personally look for when buying a journal:
-- B5 size - not too big, not too small.
+- A5 size - not too big, not too small.
 - comes with stickers for the spine and cover to easily identify in my
   library
 - dedicated space to write contact information (if lost)
