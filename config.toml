@@ -156,9 +156,14 @@ disableHugoGeneratorInject = false
     name = "online-go"
     url  = "go"
 
+
   [[params.social]]
     name = "spotify"
     url  = "/playlist"
+
+  [[params.social]]
+    name = "bandcamp"
+    url = "https://felleg.bandcamp.com"
 
   [[params.social]]
     name = "my highscores"
