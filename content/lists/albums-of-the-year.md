@@ -7,6 +7,7 @@ title: "My Albums of the Year"
 -->
 | Award Year | Release Year | Thumbnail | Album | Artist | Genre |
 | ---- | ---- |--------- | ----- | ------ | ----- |
+| 2023 (TBD) | 2023 | {{< thumbnail src="img/2023-albumoftheyear-my-21st-century-blues.png" >}} | My 21st Century Blues | Raye | House, pop, blues, dancehall, trip hop |
 | 2022 | 2021 | {{< thumbnail src="img/2022-albumoftheyear-debonair.jpg" >}} | Debonair | Horsey | Eclectic Progressive Rock |
 | 2021 | 2021 | {{< thumbnail src="img/inside.png" >}} | Inside | Bo Burnham | Comedy |
 | 2020 | 2020 | {{< thumbnail src="img/2020-albumoftheyear-sadako.jpg" >}} | Sadako e le mille gru di carta | LogoS | Rock progresivo italiano |
