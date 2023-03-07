@@ -159,7 +159,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "spotify"
-    url  = "/playlist"
+    url  = "/spotify"
 
   [[params.social]]
     name = "bandcamp"
