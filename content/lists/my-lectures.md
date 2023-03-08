@@ -16,7 +16,8 @@ over time. Never stop learning, especially while learning!
 
 
 | Finished date | Title (Author) | Thumbnail | Release Year | My Notes | My rating |
-| ---- | ---- |--------- | ----- | ------ | ----- |
+| ---- | ---- |--------- | ----- | ------ | ------------------ |
+| 2023-03-07 | How to Win Friends & Influence People (Dale Carnegie) | {{< thumbnail src="img/lectures/how-to-win-friends.png" >}} | 1936 (revised 1981) | [Link](/lectures/how-to-win-friends-and-influence-people.pdf)| 4.5 / 5 -- Groundbreaking for its time, and still relevant today. Good tips about how to listen to people and get them to think about your ideas. |
 | 2023-02-28 | Radical Candor (Kim Scott) | {{< thumbnail src="img/lectures/radical-candor.jpg" >}}| 2019 | [Link](/lectures/radical-candor.pdf)| 5 / 5 -- Essential reading for anyone who has to interact with a manager or employees on a daily basis! |
 | 2023-01-24 | Accelerate (Nicole Forsgren PhD) | {{< thumbnail src="img/lectures/accelerate.jpg" >}}| 2018 | [Link](/lectures/accelerate.pdf)| 4 / 5 |
 | 2023-01-14 | Building Successful Communities of Practice (Emily Webber) | {{< thumbnail src="img/lectures/building-successful-communities.jpg" >}}| 2016 | [Link](/lectures/building-successful-communities.pdf) | 4 / 5 |
