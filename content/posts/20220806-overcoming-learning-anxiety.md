@@ -496,9 +496,9 @@ will never see that puzzle to completion. Bite the bullet, and finish
 the books you start, unless they are novels that fail to grab your
 attention.
 
-Wait until you are in the final pages of a book before ordering your
+You might want to wait  until you are in the final pages of a book before ordering your
 next one. You don't want to make commitments that you might not be able
-to complete. I strongly advise to order only a single book at a time -
+to complete! I strongly advise to order only a single book at a timeaway,especially at the start of your learning journey -
 don't get carried away!
 
 {{< figure src="/img/continuous-delivery.jpg" position="center" caption="This is the next book I'm tackling. It has been on my radar for years. I finally feel ready to give it an honest try." >}}
