@@ -17,6 +17,7 @@ over time. Never stop learning, especially while learning!
 
 | Finished date | Title (Author) | Thumbnail | Release Year | My Notes | My rating |
 | ---- | ---- |--------- | ----- | ------ | ------------------ |
+| (Currently reading) | Sooner Safer Happier (Jonathan Smart) | {{< thumbnail src="img/lectures/sooner-safer-happier.png" >}} | 2020 | [Link](/lectures/sooner-safer-happier.pdf) | TBD |
 | 2023-03-14 | Shape Up (Ryan Singer) | {{< thumbnail src="img/lectures/shape-up.png" >}} | 2019 | [Link](/lectures/shape-up.pdf) | 4.5 / 5 -- Really clever framework that has the potential to replace Agile and Scrum. I hope I'll get to try it out someday. Everything just clicks! |
 | 2023-03-07 | How to Win Friends & Influence People (Dale Carnegie) | {{< thumbnail src="img/lectures/how-to-win-friends.png" >}} | 1936 (revised 1981) | [Link](/lectures/how-to-win-friends-and-influence-people.pdf)| 4.5 / 5 -- Groundbreaking for its time, and still relevant today. Good tips about how to listen to people and get them to think about your ideas. |
 | 2023-02-28 | Radical Candor (Kim Scott) | {{< thumbnail src="img/lectures/radical-candor.jpg" >}}| 2019 | [Link](/lectures/radical-candor.pdf)| 5 / 5 -- Essential reading for anyone who has to interact with a manager or employees on a daily basis! |
