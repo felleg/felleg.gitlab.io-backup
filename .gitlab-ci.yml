@@ -1,4 +1,4 @@
-image: klakegg/hugo
+image: klakegg/hugo:ci
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
