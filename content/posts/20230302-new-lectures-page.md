@@ -1,5 +1,5 @@
 ---
-title: "New 'My Lectures' Page!"
+title: "New 'My Reading List' Page!"
 date: 2023-03-02T08:13:22-05:00
 draft: false
 frontpage: "true"
@@ -37,4 +37,4 @@ Project, since I didn't have a learning system at the time of reading
 that one!). I hope you'll find it useful and that it will give you the
 courage to embark on your own learning journey. Safe travels, my friend!
 
-[Link to My Lectures](/lists/my-lectures/)
+[Link to My Reading List](/readlist)
