@@ -1,11 +1,10 @@
-image: klakegg/hugo:alpine-ci
+image: monachus/hugo
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
 pages:
   script:
-  - apk update && apk add tzdata
   - hugo
   - cd random-thoughts && hugo && cd -
   - mv random-thoughts/public public/random-thoughts # This command is artistic
