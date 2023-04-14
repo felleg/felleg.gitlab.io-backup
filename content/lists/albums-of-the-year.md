@@ -7,7 +7,7 @@ title: "My Albums of the Year"
 -->
 | Award Year | Release Year | Thumbnail | Album | Artist | Genre |
 | ---- | ---- |--------- | ----- | ------ | ----- |
-| 2023 (TBD) | 2023 / 2021 | {{< thumbnail src="img/2023-albumoftheyear-my-21st-century-blues.png" >}} {{< thumbnail src="img/dirty-honey.png" >}}| My 21st Century Blues / Dirty Honey | Raye / Dirty Honey| House, pop, blues, dancehall, trip hop / Hard rock, blues rock |
+| 2023 (TBD) | 2023 / 2021 / 2023 / 2022| {{< thumbnail src="img/2023-albumoftheyear-my-21st-century-blues.png" >}} {{< thumbnail src="img/dirty-honey.png" >}} {{<thumbnail src="img/hope-nf.png" >}} {{<thumbnail src="img/lucifer-sofa-spoon.jpg" >}}| My 21st Century Blues / Dirty Honey / HOPE / Lucifer on the Sofa| Raye / Dirty Honey / NF / Spoon| House, pop, blues, dancehall, trip hop / Hard rock, blues rock / Hip-hop, rap / Blues rock |
 | 2022 | 2021 | {{< thumbnail src="img/2022-albumoftheyear-debonair.jpg" >}} | Debonair | Horsey | Eclectic Progressive Rock |
 | 2021 | 2021 | {{< thumbnail src="img/inside.png" >}} | Inside | Bo Burnham | Comedy |
 | 2020 | 2020 | {{< thumbnail src="img/2020-albumoftheyear-sadako.jpg" >}} | Sadako e le mille gru di carta | LogoS | Rock progresivo italiano |
