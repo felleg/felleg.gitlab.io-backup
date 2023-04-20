@@ -220,3 +220,12 @@ Over the past months, I slowly sold even more games. Here is what is
 left in my collection, version 4.0:
 
 {{< figure src="/img/hoarding-project/what-is-left-20220715.jpg" position="center" caption="Update: This is collection 4.0" >}}
+
+# 2023 Update
+
+Every game I sell or give seems to peel away at who I really am. I find
+it crazy how with each picture you can see my real tastes more clearly.
+Eventually, I will not have enough games to justify keeping my Billy
+bookcase!
+
+{{< figure src="/img/hoarding-project/what-is-left-20230419.jpg" caption="Collection 5.0" >}}
