@@ -42,4 +42,4 @@ the best at being better."
 | 4| [My Notes](/lectures/continuous-delivery.pdf) | Continuous Delivery (Jez Humble & David Farley) | {{< thumbnail src="img/lectures/continuous-delivery.png" >}} | 2010 | 2022-09-01 | 3.5 / 5 |
 | 3| [My Notes](/lectures/the-devops-handbook.pdf) | The DevOps Handbook (Gene Kim et al.) | {{< thumbnail src="img/lectures/the-devops-handbook.png" >}} | 2016 | 2022-08-01 | 5 / 5 |
 | 2| [My Notes](/lectures/team-topologies.pdf) | Team Topologies (Matthew Skelton & Manuel Pais) | {{< thumbnail src="img/lectures/team-topologies.png" >}} | 2019 | 2022-07-10 | 4 / 5 |
-| 1 | n/a | The Phoenix Project (Gene Kim et al.) | {{< thumbnail src="img/lectures/the-phoenix-project.png" >}} | 2019 | 2019-03-02 | 5 / 5 |
+| 1 | n/a | The Phoenix Project (Gene Kim et al.) | {{< thumbnail src="img/lectures/the-phoenix-project.png" >}} | 2013 | 2019-03-02 | 5 / 5 |
