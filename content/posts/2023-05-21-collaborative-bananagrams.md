@@ -35,15 +35,15 @@ rules](/img/bananagrams-variants.jpg). Here are the adapted rules:
 
 1. Unzip the Banana bag, grab a handful of tiles (~21) and place them
    face-up on the table.
-1. Use all the letters to make a crossword. I call this the **core**
+1. Use all the tiles to make a crossword. I call this the **core**
    ([example](/img/banana-core.jpg)).
 1. Pass the Banana bag to the person on your left.
-1. The person draws 1 letter
+1. The person draws 1 tile
    and tries to make it fit in the crossword. They may rearrange
    any part of the crossword as they see fit. Note:
    - They may ask for help.  They may also ask for people *not* to give help.
 
-1. When the player placed a letter
+1. When the player placed a tile
    successfully, they pass the bag to the person on their left. And so
    on.
 
@@ -57,7 +57,7 @@ rules:
   word suggestions. Notes:
   - you may use the internet to verify someone else's word
   - you are not allowed to use abbreviations, acronyms or proper nouns
-- You are allowed to draw a letter from the Banana bag before it reaches
+- You are allowed to draw a tile from the Banana bag before it reaches
   you so you can think about your next move (I call that a "buffered
   move"), but you cannot play out of turn.
 - A player may choose to skip their turn at any time.
@@ -68,7 +68,7 @@ rules:
 
 And don't forget:
 
-- **All letters on the crossword must be connected.** You cannot have two
+- **All tiles on the crossword must be connected.** You cannot have two
   independent crosswords on the table at any point.
 
 # Why something something Bananagrams
