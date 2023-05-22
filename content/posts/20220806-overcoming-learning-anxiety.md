@@ -961,6 +961,8 @@ hopefully, in less time than it initially took me (3 years)!
 
 After all, that's what learning is all about! :wink:
 
+I you want to follow my "learning journey" progress, head over to my [reading list](/readlist).
+
 [^1]: 2022/08/22 Update: I believe I have found a tool that can help
   learning from browser pages!
   [Highlight by
