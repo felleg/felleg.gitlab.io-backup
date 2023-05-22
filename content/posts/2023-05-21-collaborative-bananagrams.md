@@ -30,7 +30,7 @@ like to call: Collaborative Bananagrams.
 # Rules of Collaborative Bananagrams
 
 **Collaborative Bananagrams** is very similar to Banana Solitaire, one of
-the [four official variants included in the Banangrams
+the [four official variants included in the Bananagrams
 rules](/img/bananagrams-variants.jpg). Here are the adapted rules:
 
 1. Unzip the Banana bag, grab a handful of tiles (~21) and place them
@@ -41,7 +41,7 @@ rules](/img/bananagrams-variants.jpg). Here are the adapted rules:
 1. The person draws 1 tile
    and tries to make it fit in the crossword. They may rearrange
    any part of the crossword as they see fit. Note:
-   - They may ask for help.  They may also ask for people *not* to give help.
+   - They may ask for help.  They may also ask for people *not* to help.
 
 1. When the player placed a tile
    successfully, they pass the bag to the person on their left. And so
@@ -71,7 +71,7 @@ And don't forget:
 - **All tiles on the crossword must be connected.** You cannot have two
   independent crosswords on the table at any point.
 
-# Why something something Bananagrams
+# Why I care about Collaborative Bananagrams
 
 As I have said earlier in this post, I discovered Collaborative
 Banagrams by accident. We had had the Bananagrams game in the office for
@@ -121,7 +121,7 @@ Bananagrams by themselves, pictures and all! Someone took it upon
 themselves to start a game, and they pulled it off. It was a great day
 for me.
 
-From this point on, I saw that Collaborative Banangrams could be more
+From this point on, I saw that Collaborative Bananagrams could be more
 than a game. For me, it is a tool that has the potential to rewire
 relationships at the office. During gameplay, I like use every opportunity I can to high five
 someone and make them feel valued. I see it in people's eyes: they
