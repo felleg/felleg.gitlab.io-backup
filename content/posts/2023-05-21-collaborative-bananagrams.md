@@ -4,7 +4,6 @@ date: 2023-05-22T16:13:34-04:00
 draft: false
 frontpage: "true"
 toc: true
-cover: img/bananagrams.jpg
 tags:
   - featured
   - board games
@@ -18,6 +17,8 @@ and thanks to Gabrielle Perron for urging me to purchase our own copy
 this year!*
 
 ---
+{{< figure src="/img/bananagrams.jpg" position="center" caption="" >}}
+
 
 Bananagrams is a word game that can be quickly summarized as "Real-time
 Scrabble without a board or points". Its 144 letter tiles come in a
