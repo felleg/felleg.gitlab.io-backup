@@ -112,7 +112,7 @@ After two months, we finally got our first win! :grin:
 
 It was incredible! We high-fived each other all around the table. People
 were cheering. We were genuinely psyched to have finally done it.
-Through teamwork, practice, and with determination, we pulled what we
+Through teamwork, practice, and with determination, we pulled of what we
 initially thought was impossible.
 
 My next highlight came the following week when I opened Slack while I
