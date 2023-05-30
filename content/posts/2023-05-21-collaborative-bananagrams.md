@@ -20,13 +20,17 @@ this year!*
 {{< figure src="/img/bananagrams.jpg" position="center" caption="" >}}
 
 
+
 Bananagrams is a word game that can be quickly summarized as "Real-time
 Scrabble without a board or points". Its 144 letter tiles come in a
 banana-shaped pouch that looks adorable. The official way to play
 Bananagrams is simple enough ([click here for the official
 rules](/img/bananagrams-how-to-play.jpg)). However, what I would like to
 discuss in this post is a variant I discovered by accident that I simply
-like to call: Collaborative Bananagrams.
+like to call: Collaborative Bananagrams. Here is a 40 seconds video
+demonstration of the game being played:
+
+{{< youtube "D-fq7p7NRlY" >}}
 
 # Rules of Collaborative Bananagrams
 
@@ -60,7 +64,8 @@ rules:
   - you are not allowed to use abbreviations, acronyms or proper nouns
 - You are allowed to draw a tile from the Banana bag before it reaches
   you so you can think about your next move (I call that a "buffered
-  move"), but you cannot play out of turn.
+  move"). You cannot play out of turn by default, but you can be
+  flexible depending on the mood of who you're currently playing with.
 - A player may choose to skip their turn at any time.
 - Spectators who watch the game without playing are the ultimate judges
   to determine if a word is legal or not.
