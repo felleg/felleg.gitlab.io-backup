@@ -23,6 +23,7 @@ the best at being better."
 
 | Index | My Notes | Title (Author) | Thumbnail | Release Year | Finished Date | My rating |
 |-----------------------|---------------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------------------|---------------------|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 34| [My Notes (wip)](/lectures/building-secure-and-reliable-systems.pdf) | Building Secure & Reliable Systems (Heather Adkins et al.) | {{< thumbnail src="img/lectures/building-secure-and-reliable-systems.jpg" >}} | 2020 | TBD | TBD |
 | 33| [My Notes (wip)](/lectures/the-fifth-discipline.pdf) | The Fifth Discipline (Peter M. Senge) | {{< thumbnail src="img/lectures/the-fifth-discipline.jpg" >}} | 1990 | TBD | TBD |
 | 32| [My Notes](/lectures/unlearn.pdf) | Unlearn (Barry O'Reilly) | {{< thumbnail src="img/lectures/unlearn.jpg" >}} | 2018 | 2023-06-05 | 👍 - My favorite quote: "To attain knowledge, add things every day. To attain wisdom, remove things every day." |
 | 31| n/a | Mon Cerveau a encore besoin de lunettes (Dre Annick Vincent) | {{< thumbnail src="img/lectures/mon-cerveau-a-encore-besoin-de-lunettes.jpg" >}} | 2022 | 2023-05-24 | 👍 - Je crois que j'ai un TDA... |
