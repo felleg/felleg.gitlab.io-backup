@@ -6,6 +6,8 @@ cover: img/yellow.png
 tags:
   - color
   - self-respect
+  - featured
+frontpage: "true"
 ---
 
 I am starting to understand that in this world, you have to be sincere to be reach others that do not
