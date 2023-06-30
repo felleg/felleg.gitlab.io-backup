@@ -889,19 +889,41 @@ personal development, I added a little note on the title page:
 
 {{< figure src="/img/encouraging-others.jpg" position="center" caption="" >}}
 
-## In your next journal, import your best previous nuggets
+## ~~In your next journal, import your best previous nuggets~~
 
-Always in a effort to make information accessible, what I plan on doing
+~~Always in a effort to make information accessible, what I plan on doing
 when I fill my current journal and inevitably have to get a new one, is
 to transfer my favorite nuggets to the new journal. That way, I won't
-have to constantly switch between journals.
+have to constantly switch between journals.~~
 
-This goes in line with the "single source of truth" principle found in
-the DevOps mentality. Information is only useful if it is first accessible!
+~~This goes in line with the "single source of truth" principle found in
+the DevOps mentality. Information is only useful if it is first accessible!~~
 
-Also, if you have access to a digital scanner, I strongly recommend that
+~~Also, if you have access to a digital scanner, I strongly recommend that
 you scan the entire content of your finished journal for preservation.
-You wouldn't want a dumb water leak to ruin all your hard work!
+You wouldn't want a dumb water leak to ruin all your hard work!~~
+
+## Scan your notes and back them up
+
+I wrote the previous striked-through passage before I had actually
+finished filling my first notebook with notes from my lectures. I
+assumed that I would like to carry the material that stuck with me most
+to the next notebook, in a way to could keep important quotes easy for
+me to find.
+
+Well, I can now safely say that this assumption was false. Four
+notebooks later, the habit I developed was to scan my notes once they
+are complete for a given book and [host them on a specific page of my
+personal website](/books). This has many advantages:
+
+- It creates a true cloud-supported backup, meaning that I would most
+  likely have to delete the files myself to lose them.
+- It allows me to browse my notes even when I don't have my physical
+  books with me. This is critical as I tend to accumulate more and more
+  notebooks.
+- It shows people my actual work. This is an important part of the
+  trust-earning process. People won't believe you put in the work until
+  they see proof that makes it safe for them to believe you.
 
 # Conclusion
 
