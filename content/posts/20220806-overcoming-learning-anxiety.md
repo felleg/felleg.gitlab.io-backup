@@ -925,6 +925,10 @@ personal website](/books). This has many advantages:
   trust-earning process. People won't believe you put in the work until
   they see proof that makes it safe for them to believe you.
 
+If you are looking for a flatbed scanner, the one I am currently using
+is the [Canon LiDE 400](https://amazon.ca/dp/B07GPS69KF) and I am
+totally satisfied with it. Recommended!
+
 # Conclusion
 
 I find this image very telling. My learning system allowed me to
