@@ -623,7 +623,7 @@ the ground or have given to me by my family, my friends, or my workplace.
 What I didn't realize is that there is no one-size-fits-all pen. What
 works for you might not work for me, and vice versa.
 
-For example, the first pen I bought this year was  a Pilot G-2 07. I was tired of
+For example, the first pen I bought with the intent of upgrading my writing experience was  a Pilot G-2 07. I was tired of
 the worthless pen I was using at home for journaling and taking notes.
 I just went to the pharmacy and grabbed whatever black pen looked good
 in the Pilot display at my local pharmacy.
