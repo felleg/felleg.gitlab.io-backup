@@ -305,7 +305,7 @@ For example, if someone was standing in a gym next to their punching bag, you wo
 It was my current manager (and mentor!)
 Mathieu Frenette who showed me a "tool" that I
 would be using for the rest of my life. It is a
-way of holding books that reminds us that our goal is to learn. I call it the *book suplex*, but I also give it other fun names like the inverse fold, or the broken spine grab. Here is what it looks like:
+way of holding books that reminds us that **our goal is to learn**. I call it the book suplex, but I also give it other fun names like the inverse fold, or the broken spine grab. Here is what it looks like:
 
 {{< figure src="/img/book-suplex.jpg" position="center" caption="Suplex that book, even if it's a hardcover!" >}}
 
