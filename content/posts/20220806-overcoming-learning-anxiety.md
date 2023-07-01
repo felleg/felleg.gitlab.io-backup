@@ -399,9 +399,9 @@ gold nuggets are.
 
 Indeed, not every word in a book is going to be useful information to
 *you*. It is up to you to determine what information is worth going back
-to or not.
+to or not. Some books will not resonate with you as much as anticipated and contain few nuggets. Some will contain so many nuggets that your highlighter will run it before you reach the end of the book. These things are hard to predict.
 
-However, once again, I faced a problem: What good was it to highlight in
+Once again, though, I faced a problem: What good was it to highlight in
 a book if that meant I had to keep going back to the book to find these
 nuggets, or worse, re-understand the context in which that nugget made
 sense? Again, I could hear Gabrielle's wise statement in the back of my
