@@ -16,8 +16,7 @@ description: "In this post, I discuss how I overcame learning anxiety by creatin
 
 
 *In this post, my mission is to share my progression towards dealing
-with my own learning anxiety. I realize that writing a 7,500+ words blog
-post on the subject is probably not the best way to grab the attention
+with my own learning anxiety. I realize that writing a 7,500+ words essay on the subject is probably not the best way to grab the attention
 of people who share that anxiety, but I did my best to make this text as
 entertaining and light as possible, in
 the hope that, if you are also dealing with learning anxiety, you will
