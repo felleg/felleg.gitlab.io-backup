@@ -212,7 +212,7 @@ entry point into the subject matter. Being written as a novel, I thought:
 "Ah! This is perfect material to read on the beach, without any pressure
 to learn. This is going to be great fun."
 
-{{< figure src="/img/phoenix-project.png" position="center" caption="Buying the book is initially the easy part." >}}
+{{< figure src="/img/phoenix-project.png" position="center" caption="Buying a book always gives me a little dopamine rush." >}}
 
 And it was! There are many reasons for this, I believe. Firstly, the book
 is, of course, very well written. It wouldn't sell over 500,000 copies
