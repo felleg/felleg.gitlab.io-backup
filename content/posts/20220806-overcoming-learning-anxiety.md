@@ -561,8 +561,9 @@ have a system that works for me.
 
 ## Invest in a bound journal
 
-Alright, we are now getting into the tips you were probably looking for.
-What hardware do I recommend?
+Alright, we are now getting into the tips you were probably looking for. For most of us,making a purchase is the fun, exciting part. My dopamine-hungry brain loves it when I buy stuff.
+
+So, what hardware do I recommend?
 
 First off, this is probably basic common-sense, but I'll make it explicit, just in
 case: Don't use a spiral-bound Hilroy notebook
