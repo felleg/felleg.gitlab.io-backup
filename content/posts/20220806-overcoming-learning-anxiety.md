@@ -34,13 +34,17 @@ way.*
 
 ---
 
-Thank you to Alexandre Désilets-Benoit for giving me my X.
+# Thanks 
 
-Thank you to Mathieu Frenette for teaching me the fold.
+Thanks to Alexandre Désilets-Benoit for giving me my X.
 
-Thank you Gene Kim for writing the books that gave me my *Aha!* moment.
+Thanks to Mathieu Frenette for teaching me the fold.
 
-Thank **you** for giving this text a chance.
+Thanks to Gene Kim for writing the books that gave me my *Aha!* moment.
+
+Thanks to Matt Morris for walking me through what would become my learning system.
+
+And **thank you** for giving this text a chance.
 
 ---
 
