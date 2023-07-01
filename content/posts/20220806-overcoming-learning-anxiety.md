@@ -123,7 +123,7 @@ through the steps taken to untangle this mental knot.
 # Bad news and career changes
 
 The catalyst that sent me on this whole journey was a piece of bad news
-I received from my new employer, [nesto](nesto.ca), in mid-June this year: I was
+I received from my new employer, [nesto](nesto.ca), in mid-June 2022: I was
 getting a probation extension. I wasn't quite cutting it in the
 workplace. I had 2 months to course-correct, otherwise I could kiss my
 job goodbye. Part of the problem was the fact that I had trouble
