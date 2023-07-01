@@ -243,8 +243,8 @@ required actual effort to read through.
 
 Every new information felt like it took
 the spot of another one in my head, similar to a sort of musical chair of knowledge.
-For example, I had trouble remembering what the Three Ways of
-DevOps stood for, even though they were central parts of both the
+For example, I had trouble remembering what the [Three Ways of
+DevOps](https://itrevolution.com/articles/the-three-ways-principles-underpinning-devops/) stood for, even though they were central parts of both the
 Phoenix Project and the handbook. It felt like I was drowning in
 information. If the Phoenix Project
 managed to organically sneak in   a reasonable amount of information within the context  of  story, the DevOps Handbook proved to be too much for me. There seemed to be no time for relaxation: The handbook  simply lined the knowledge nuggets one after the other relentlessly.
