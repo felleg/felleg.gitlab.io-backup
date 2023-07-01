@@ -38,6 +38,8 @@ Thank you to Alexandre Désilets-Benoit for giving me my X.
 
 Thank you to Mathieu Frenette for teaching me the fold.
 
+Thank you Gene Kim for writing the books that gave me my *Aha!* moment.
+
 Thank **you** for giving this text a chance.
 
 ---
@@ -96,7 +98,7 @@ survival mode, where I had two possible outcomes:
 This led me to read a certain DevOps  handbook, which led me to write
 down these words:
 
-{{< figure src="/img/learning-anxiety-lightbulb.jpg" position="center" caption="" >}}
+{{< figure src="/img/learning-anxiety-lightbulb.jpg" position="center" caption="Aha!" >}}
 
 Well, here it is. This is the moment when my mind clicked and realized I had learning
 anxiety. Before writing it down and seeing it with my own eyes for the first time --- "learning
@@ -214,7 +216,7 @@ to learn. This is going to be great fun."
 
 {{< figure src="/img/phoenix-project.png" position="center" caption="Buying a book always gives me a little dopamine rush." >}}
 
-And it was! There are many reasons for this, I believe. Firstly, the book
+And it was great fun indeed! There are many reasons for this, I believe. Firstly, the book
 is, of course, very well written. It wouldn't sell over 500,000 copies
 if it wasn't. Secondly, and more importantly, the fact that I was open
 to the material and didn't feel pressured to understand everything right
