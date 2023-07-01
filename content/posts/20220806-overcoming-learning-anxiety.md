@@ -429,7 +429,7 @@ In short, Matt's strategy is the following:
 
 > Material needed:
 > - Book
-> - Journal
+> - Notebook
 > - Pen
 > - Highlighter
 >
