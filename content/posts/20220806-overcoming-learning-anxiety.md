@@ -34,6 +34,14 @@ way.*
 
 ---
 
+Thank you too Alexandre Désilets-Benoit for giving me my X.
+
+Thank you to Mathieu Frenette for teaching me the fold.
+
+Thank **you** for giving this text a chance.
+
+---
+
 # What even is learning anxiety?
 
 I think this sums it up nicely:
