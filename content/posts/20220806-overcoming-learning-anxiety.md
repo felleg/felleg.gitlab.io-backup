@@ -855,6 +855,10 @@ of daily work is even more important than daily work!").
 
 Side effects may include people calling you a bookworm.
 
+## Use Bit.ly to encode web links in your notebook
+
+( This section will be written eventually, but I'm sure you can figure that part out by yourself until I write about it :smiley: Bit.ly is an app and browser add-on you can use to shorten links. )
+
 ## Have a book reference at the beginning of your journal
 
 As you add more and more knowledge nuggets and references in your
