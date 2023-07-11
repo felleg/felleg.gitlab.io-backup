@@ -153,8 +153,8 @@ disableHugoGeneratorInject = false
 #    url  = "https://stackoverflow.com/users/5565172/felleg"
 
   [[params.social]]
-    name = "my reading list"
-    url = "/readlist"
+    name = "books"
+    url = "/books"
 
   [[params.social]]
     name = "spotify"
