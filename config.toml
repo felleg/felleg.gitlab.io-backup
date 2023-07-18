@@ -148,9 +148,9 @@ disableHugoGeneratorInject = false
     name = "github"
     url  = "https://github.com/felleg"
 
-#  [[params.social]]
-#    name = "stackoverflow"
-#    url  = "https://stackoverflow.com/users/5565172/felleg"
+  [[params.social]]
+    name = "youtube"
+    url  = "https://www.youtube.com/@FelixLegerDevOps"
 
   [[params.social]]
     name = "books"
