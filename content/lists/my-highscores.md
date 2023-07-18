@@ -32,7 +32,7 @@ Default difficulty settings were used unless stated otherwise.
 |[Esp Ra. De.](https://en.wikipedia.org/wiki/ESP_Ra.De.) |1998| {{< vertical >}}|[3,183,730](/img/highscores/esp-ra-de-20220416.jpg) |2022-04-16|
 |[Giga Wing](https://en.wikipedia.org/wiki/Giga_Wing)      |1999| {{< vertical >}} (yoko)|[7182,36244250](/img/highscores/giga-wing-20220326.jpg)     |2022-03-26 |      |
 |[Gradius V](https://en.wikipedia.org/wiki/Gradius_V)      |2004| {{< horizontal >}} (yoko)|[438,840](/img/highscores/gradius-v-20230717.jpg)     |2023-07-17 | Very Easy difficulty, played on Steam Deck     |
-|[GunForce II](https://en.wikipedia.org/wiki/GunForce_II)      |1994| {{< vertical >}}|[26,220](/img/highscores/gun-force-ii-20230624.jpg) | 2023-06-25    | |
+|[GunForce II](https://en.wikipedia.org/wiki/GunForce_II)      |1994| {{< horizontal >}}|[26,220](/img/highscores/gun-force-ii-20230624.jpg) | 2023-06-25    | |
 |[Guwange](https://en.wikipedia.org/wiki/Guwange)      |1999| {{< vertical >}}|[99,9310](/img/highscores/guwange-20220610.jpg) | 2022-06-10    | If you need a refresher on Chinese numerals, [click here](https://en.wikipedia.org/wiki/Chinese_numerology).     |
 |[Lightening Force](https://en.wikipedia.org/wiki/Thunder_Force_IV) (aka Thunder Force IV)|1992| {{< horizontal >}}|[96,060](/img/highscores/lightening-force-20220812.jpg)|2022-08-12||
 |[Mushihimesama](https://en.wikipedia.org/wiki/Mushihimesama) | (2004) | {{< vertical >}} | [4,679,996](/img/highscores/mushihimesama-20201115.jpg)|2020-11-15||
