@@ -24,6 +24,7 @@ Default difficulty settings were used unless stated otherwise.
 |[Battle Garegga](https://en.wikipedia.org/wiki/Battle_Garegga) |1996|{{< vertical >}}|[673,690](/img/highscores/battle-garegga-20221230.jpg) |2022-12-30 |
 |[Blazing Star](https://en.wikipedia.org/wiki/Blazing_Star)      |1998| {{< horizontal >}}|[849,200](/img/highscores/blazing-star-20220813.jpg)      | 2022-08-13|
 |[Carrier Air Wing](https://en.wikipedia.org/wiki/Carrier_Air_Wing_(video_game))      |1990| {{< horizontal >}}|[165,210](/img/highscores/carrier-air-wing-20210911.jpg)  | 2021-09-11   |The sequel to U.N. Squadron      |
+|[Deathsmiles](https://en.wikipedia.org/wiki/Deathsmiles)      |2007| {{< horizontal >}}|[3,515,324](/img/highscores/deathsmiles-20230717.jpg)  | 2023-07-17   | MLB Arcade, played on Steam Deck      |
 |[DoDonPachi](https://en.wikipedia.org/wiki/DoDonPachi)      |1997| {{< vertical >}}|[18,848,190](/img/highscores/dodonpachi-20220321.jpg) |2022-03-21     |International version      |
 |[DonPachi](https://en.wikipedia.org/wiki/DonPachi)      |1995| {{< vertical >}}|[3,972,870](/img/highscores/donpachi-20220709.jpg)   |2022-07-09   |      |
 |[Donkey Kong](https://en.wikipedia.org/wiki/Donkey_Kong_(video_game))|1981|n/a|[28,800](/img/highscores/donkey-kong-20220922.jpg)|2022-09-22||
