@@ -50,7 +50,7 @@ the best at being better."
 | 18| [My Notes](/lectures/building-successful-communities.pdf) | Building Successful Communities of Practice (Emily Webber) | {{< thumbnail src="img/lectures/building-successful-communities.jpg" >}} | 2016 | 2023-01-14 | 👍 |
 | 17| [My Notes](/lectures/project-to-product.pdf) | Project to Product (Mik Kersten) | {{< thumbnail src="img/lectures/project-to-product.png" >}} | 2018 | 2022-12-18 | 👍👍 -- Revolutionary. The author gives a true recipe for connecting IT with the business in any organization. |
 | 16| [My Notes](/lectures/making-work-visible.pdf) | Making Work Visible (Dominica DeGrandis) | {{< thumbnail src="img/lectures/making-work-visible.jpg" >}} | 2022 | 2022-12-03 | 👍 |
-| 15| [My Notes](/lectures/the-unicorn-project.pdf) | The Unicorn Project (Gene Kim) | {{< thumbnail src="img/lectures/the-unicorn-project.png" >}} | 2019 | 2022-10-30 | 👎 |
+| 15| [My Notes](/lectures/the-unicorn-project.pdf) | The Unicorn Project (Gene Kim) | {{< thumbnail src="img/lectures/the-unicorn-project.png" >}} | 2019 | 2022-10-30 | 👎 - Skip this and just read The Phoenix Project... This feels like a repeat with somehow less substance.|
 | 14| [My Notes](/lectures/remote-team-interactions.pdf) | Remote Team Interactions (Matthew Skelton & Manual Pais) | {{< thumbnail src="img/lectures/remote-team-interactions.png" >}} | 2022 | 2022-09-21 | 👍 |
 | 13| [My Notes](/lectures/continuous-delivery.pdf) | Continuous Delivery (Jez Humble & David Farley) | {{< thumbnail src="img/lectures/continuous-delivery.png" >}} | 2010 | 2022-09-01 | 🤔 |
 | 12| [My Notes](/lectures/the-devops-handbook.pdf) | The DevOps Handbook (Gene Kim et al.) | {{< thumbnail src="img/lectures/the-devops-handbook.png" >}} | 2016 | 2022-08-01 | 👍👍 |
