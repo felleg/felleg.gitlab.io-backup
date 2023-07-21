@@ -67,10 +67,9 @@ rules:
   move"). You cannot play out of turn by default, but you can be
   flexible depending on the mood of who you're currently playing with.
 - A player may choose to skip their turn at any time.
-- Spectators who watch the game without playing are the ultimate judges
-  to determine if a word is legal or not.
 - When someone spots a mistake on the board, it becomes everyone's top priority
   to solve this error before normal play resumes.
+- Outsiders who watch the game without playing ("the board") are the ultimate judges to determine if a word is legal or not. They can voice their opinion about the state of the game at any time and the players must address their feedback.
 
 And don't forget:
 
