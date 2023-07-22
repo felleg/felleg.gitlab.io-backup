@@ -28,7 +28,7 @@ aliases = [
 |Seed|{{< thumbnail src="img/art/seed.jpg" position="center" >}}|2022-10-21|
 |Silence|{{< thumbnail src="img/art/silence.jpg" position="center" >}}|2022-10-21|
 |Source|{{< thumbnail src="img/art/source.png" position="center" >}}|2023-05-13|
-|The Old Sage|{{< thumbnail src="img/art/the-old-sage.jpg" position="center" >}}||
+|The Old Sage|{{< thumbnail src="img/art/the-old-sage.jpg" position="center" >}}|2022-10-21|
 |Untitled|{{< thumbnail src="img/art/untitled-20221021.jpg" position="center" >}}|2022-10-21|
 |Untitled|{{< thumbnail src="img/art/untitled-20221021-2.jpg" position="center" >}}|2022-10-21|
 |Untitled|{{< thumbnail src="img/art/untitled-1.jpg" position="center" >}}|2022-10-22|
