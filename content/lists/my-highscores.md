@@ -19,7 +19,7 @@ Default difficulty settings were used unless stated otherwise.
 -->
 | Game | Release year | Scrolling | Score | Date | Notes |
 |------|--------------|-----------|-------|------|-------|
-|[Batsugun (Normal Version)](https://en.wikipedia.org/wiki/Batsugun) |1993|{{< vertical >}}|[1,380,040](/img/highscores/batsugun-20221210.jpg) |2022-12-10 | Sega Saturn port
+|[Batsugun (Normal Version)](https://en.wikipedia.org/wiki/Batsugun) |1993|{{< vertical >}}|[1,428,730](/img/highscores/batsugun-20230722.jpg) |2023-07-22 | Sega Saturn port
 |[Batsugun (Special Version)](https://en.wikipedia.org/wiki/Batsugun) |1993|{{< vertical >}}|[1,714,630](/img/highscores/batsugun-special-20221211.jpg) |2022-12-10 | Sega Saturn port
 |[Battle Garegga](https://en.wikipedia.org/wiki/Battle_Garegga) |1996|{{< vertical >}}|[673,690](/img/highscores/battle-garegga-20221230.jpg) |2022-12-30 |
 |[Blazing Star](https://en.wikipedia.org/wiki/Blazing_Star)      |1998| {{< horizontal >}}|[849,200](/img/highscores/blazing-star-20220813.jpg)      | 2022-08-13|

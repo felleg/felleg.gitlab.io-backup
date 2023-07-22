@@ -157,20 +157,23 @@ disableHugoGeneratorInject = false
     url = "/books"
 
   [[params.social]]
-    name = "spotify"
-    url  = "/spotify"
-
-  [[params.social]]
     name = "online-go"
     url  = "go"
+
+  [[params.social]]
+    name = "spotify"
+    url  = "/spotify"
 
   [[params.social]]
     name = "bandcamp"
     url = "https://felleg.bandcamp.com"
 
   [[params.social]]
-    name = "my highscores"
-    url = "/my-highscores"
+    name = "highscores"
+    url = "/highscores"
+  [[params.social]]
+    name = "art"
+    url = "/art"
 
 [languages]
   [languages.en]
