@@ -136,6 +136,10 @@ disableHugoGeneratorInject = false
     url  = "https://www.linkedin.com/in/felleg"
 
   [[params.social]]
+    name = "threads"
+    url = "https://www.threads.net/@felleg"
+
+  [[params.social]]
     name = "twitter"
     url  = "https://twitter.com/felllleg"
 
@@ -153,10 +157,6 @@ disableHugoGeneratorInject = false
     url  = "https://www.youtube.com/@FelixLegerDevOps"
 
   [[params.social]]
-    name = "books"
-    url = "/books"
-
-  [[params.social]]
     name = "online-go"
     url  = "go"
 
@@ -171,6 +171,11 @@ disableHugoGeneratorInject = false
   [[params.social]]
     name = "highscores"
     url = "/highscores"
+
+  [[params.social]]
+    name = "books"
+    url = "/books"
+
   [[params.social]]
     name = "art"
     url = "/art"
