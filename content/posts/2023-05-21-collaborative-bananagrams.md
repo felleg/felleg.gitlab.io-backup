@@ -36,7 +36,7 @@ demonstration of the game being played:
 
 **Collaborative Bananagrams** is very similar to Banana Solitaire, one of
 the [four official variants included in the Bananagrams
-rules](/img/bananagrams-variants.jpg). Here are the adapted rules:
+rules](https://bananagrams.com/blogs/news/how-to-play-bananagrams-instructions-for-getting-started). Here are the adapted rules:
 
 1. Unzip the Banana bag, grab a handful of tiles (~21) and place them
    face-up on the table.
