@@ -14,7 +14,7 @@ aliases = [
 |Bites (2)|{{< thumbnail src="img/art/bites-2.png" position="center" >}}|2023-06-02|
 |Bites (5)|{{< thumbnail src="img/art/bites-5.png" position="center" >}}|2023-06-02|
 |Bulb|{{< thumbnail src="img/art/bulb.png" position="center" >}}|2023-02-28|
-|Cave|{{< thumbnail src="img/art/cave.png" position="center" >}}|2023-03-18|
+|Cave|{{< thumbnail src="img/art/cave.png" position="center" >}}|2022-10-21|
 |Creep|{{< thumbnail src="img/art/creep.png" position="center" >}}|2022-10-22|
 |Directions|{{< thumbnail src="img/art/Directions.png" position="center" >}}|2022-10-22|
 |Eye|{{< thumbnail src="img/art/eye.png" position="center" >}}|2022-10-22|
@@ -40,12 +40,16 @@ aliases = [
 |Profile|{{< thumbnail src="img/art/profile.png" position="center" >}}|2022-10-23|
 |Question|{{< thumbnail src="img/art/Question.png" position="center" >}}|2022-10-22|
 |Rainbow|{{< thumbnail src="img/art/rainbow.png" position="center" >}}|2022-10-23|
+|Root|{{< thumbnail src="img/art/root-20230803.png" position="center" >}}|2023-08-03|
 |Seed|{{< thumbnail src="img/art/seed.jpg" position="center" >}}|2022-10-21|
 |Silence|{{< thumbnail src="img/art/silence.jpg" position="center" >}}|2022-10-21|
+|Smile|{{< thumbnail src="img/art/smile-20230722.png" position="center" >}}|20230722|
 |Sometimes Wow|{{< thumbnail src="img/art/Sometimes-Wow.png" position="center" >}}|2022-05-22|
+|Success to the Successful|{{< thumbnail src="img/art/success-to-the-successful-20230804.png" position="center" >}}|2023-08-04|
 |Source|{{< thumbnail src="img/art/source.png" position="center" >}}|2023-05-13|
 |The Old Sage|{{< thumbnail src="img/art/the-old-sage.jpg" position="center" >}}|2022-10-21|
 |Tornado|{{< thumbnail src="img/art/Tornado.png" position="center" >}}|2022-10-22|
+|Txo|{{< thumbnail src="img/art/txo-20230725.png" position="center" >}}|2023-07-25|
 |Untitled|{{< thumbnail src="img/art/Untitled-20220219.png" position="center" >}}|2022-02-19|
 |Untitled|{{< thumbnail src="img/art/Untitled-20220219-2.png" position="center" >}}|2022-02-19|
 |Untitled|{{< thumbnail src="img/art/Untitled-20220219-3.png" position="center" >}}|2022-02-19|
@@ -56,4 +60,6 @@ aliases = [
 |Untitled|{{< thumbnail src="img/art/Untitled-20221022-2.png" position="center" >}}|2022-10-22|
 |Untitled|{{< thumbnail src="img/art/untitled-20230228.png" position="center" >}}|2023-02-28|
 |Untitled|{{< thumbnail src="img/art/untitled-2.png" position="center" >}}|2023-03-18|
+|Untitled|{{< thumbnail src="img/art/untitled-20230725.png" position="center" >}}|2023-07-25|
+|Untitled|{{< thumbnail src="img/art/untitled-20230728.png" position="center" >}}|2023-07-28|
 
