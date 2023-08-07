@@ -34,49 +34,39 @@ demonstration of the game being played:
 
 # Rules of Collaborative Bananagrams
 
-**Collaborative Bananagrams** is very similar to Banana Solitaire, one of
-the [four official variants included in the Bananagrams
-rules](https://bananagrams.com/blogs/news/how-to-play-bananagrams-instructions-for-getting-started). Here are the adapted rules:
+-----
+## Setup:
 
-1. Unzip the Banana bag, grab a handful of tiles (~21) and place them
-   face-up on the table.
-1. Use all the tiles to make a crossword. I call this the **core**
-   ([example](/img/banana-core.jpg)).
+1.  Unzip the Banana bag, grab a handful of tiles (~21), and place them face-up on the table.
+1. Use all the tiles to make a crossword, known as the "core."
+
+## Gameplay:
+
 1. Pass the Banana bag to the person on your left.
-1. The person draws 1 tile
-   and tries to make it fit in the crossword. They may rearrange
-   any part of the crossword as they see fit. Note:
-   - They may ask for help.  They may also ask for people *not* to help.
+1. The player draws 1 tile and tries to fit it into the crossword. They can rearrange the crossword as needed.
+1. If the player successfully places a tile, they pass the bag to the next person. Play continues clockwise.
+1. The goal is to empty the Banana bag within a pre-defined time limit (e.g., 1 hour).
 
-1. When the player placed a tile
-   successfully, they pass the bag to the person on their left. And so
-   on.
+## Additional Twists:
 
-**The goal of the game is to empty the Banana bag within a pre-defined
-   amount of time. In my experience, 1 hour is a good initial target.**
+1. All languages are accepted, but no internet use for word suggestions. Internet use is allowed to verify others' words.
+1. Players can draw a tile from the Banana bag before their turn for a "buffered move" to plan their next move.
+1. Players may choose to skip their turn.
+1. Mistakes on the board must be resolved before normal play resumes.
+1. Proper nouns and acronyms are not allowed as valid words for gameplay.
+1. Outsiders ("the board") who are watching can voice their opinions about word legality and game state. **Their feedback is binding.**
 
-Here are some additional twists I like to add in this variant to the usual Bananagrams
-rules:
+## Important Note:
 
-- All languages are accepted, as long as you don't use the internet for
-  word suggestions. Notes:
-  - you may use the internet to verify someone else's word
-  - you are not allowed to use abbreviations, acronyms or proper nouns
-- You are allowed to draw a tile from the Banana bag before it reaches
-  you so you can think about your next move (I call that a "buffered
-  move"). You cannot play out of turn by default, but you can be
-  flexible depending on the mood of who you're currently playing with.
-- A player may choose to skip their turn at any time.
-- When someone spots a mistake on the board, it becomes everyone's top priority
-  to solve this error before normal play resumes.
-- Outsiders who watch the game without playing ("the board") are the ultimate judges to determine if a word is legal or not. They can voice their opinion about the state of the game at any time and the players must address their feedback.
+- All tiles on the crossword must be connected; independent crosswords are not allowed.
 
-And don't forget:
-
-- **All tiles on the crossword must be connected.** You cannot have two
-  independent crosswords on the table at any point.
+-----
 
 # Why I care about Collaborative Bananagrams
+
+> These rules create a collaborative and dynamic gameplay experience where players work together to build a complete crossword grid using the available tiles. The added twists, such as allowing different languages, buffered moves, and involving observers, add layers of complexity and interaction to the game. Overall, it seems like a great way to enjoy the word-building fun of Bananagrams in a collaborative and social setting. *Kudos* to you for coming up with this innovative variant!
+>
+> — [ChatGPT](https://chat.openai.com/share/da84e5e8-d6aa-4c6b-b058-1dd43467560c)
 
 As I have said earlier in this post, I discovered Collaborative
 Banagrams by accident. We had had the Bananagrams game in the office for
