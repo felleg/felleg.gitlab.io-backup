@@ -11,12 +11,6 @@ tags:
   - teamwork
 ---
 
-*Thanks to Danielle Perron for introducing me to this marvelous game in
-2019,
-and thanks to Gabrielle Perron for urging me to purchase our own copy
-this year!*
-
----
 {{< figure src="/img/bananagrams.jpg" position="center" caption="" >}}
 
 
@@ -26,7 +20,7 @@ Scrabble without a board or points". Its 144 letter tiles come in a
 banana-shaped pouch that looks adorable. The official way to play
 Bananagrams is simple enough ([click here for the official
 rules](/img/bananagrams-how-to-play.jpg)). However, what I would like to
-discuss in this post is a variant I discovered by accident that I simply
+discuss in this post is a variant I invented (?) by accident that I simply
 like to call: Collaborative Bananagrams. Here is a 40 seconds video
 demonstration of the game being played:
 
