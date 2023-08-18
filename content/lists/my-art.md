@@ -15,8 +15,10 @@ aliases = [
 |Bites (5)|{{< thumbnail src="img/art/bites-5.png" position="center" >}}|2023-06-02|
 |Bulb|{{< thumbnail src="img/art/bulb.png" position="center" >}}|2023-02-28|
 |Cave|{{< thumbnail src="img/art/cave.png" position="center" >}}|2022-10-21|
+|Carrer Transitions|{{< thumbnail src="img/art/career-transitions.png" position="center" >}}|2023-08-13|
 |Creep|{{< thumbnail src="img/art/creep.png" position="center" >}}|2022-10-22|
 |Directions|{{< thumbnail src="img/art/Directions.png" position="center" >}}|2022-10-22|
+|Duning-Kruger|{{< thumbnail src="img/art/duning-kruger.png" position="center" >}}|2023-08-18|
 |Eye|{{< thumbnail src="img/art/eye.png" position="center" >}}|2022-10-22|
 |Garden|{{< thumbnail src="img/art/Garden.png" position="center" >}}|2022-02-19|
 |Grass|{{< thumbnail src="img/art/grass.png" position="center" >}}|2023-06-28|
@@ -25,6 +27,7 @@ aliases = [
 |Innocence|{{< thumbnail src="img/art/Innocence.png" position="center" >}}|2022-02-19|
 |Ko|{{< thumbnail src="img/art/Ko.png" position="center" >}}|2022-10-22|
 |Loops|{{< thumbnail src="img/art/Loops.png" position="center" >}}|2022-02-19|
+|Man & Elephant|{{< thumbnail src="img/art/man-and-elephant.png" position="center" >}}|2023-08-06|
 |Map|{{< thumbnail src="img/art/Map.png" position="center" >}}|2022-10-21|
 |Mask (original)|{{< thumbnail src="img/art/mask-photo.jpeg" position="center" >}}|2023-05-02|
 |Mask (shine)|{{< thumbnail src="img/art/mask-shine.jpg" position="center" >}}|2010-05-10|
@@ -36,6 +39,7 @@ aliases = [
 |Organic|{{< thumbnail src="img/art/organic.png" position="center" >}}|2023-03-08|
 |Pair|{{< thumbnail src="img/art/pair.png" position="center" >}}|2023-03-18|
 |Path|{{< thumbnail src="img/art/Path.png" position="center" >}}|2022-10-22|
+|Paths|{{< thumbnail src="img/art/paths.png" position="center" >}}|2023-08-06|
 |Pebbles|{{< thumbnail src="img/art/pebbles.jpg" position="center" >}}|2022-10-21|
 |Profile|{{< thumbnail src="img/art/profile.png" position="center" >}}|2022-10-23|
 |Question|{{< thumbnail src="img/art/Question.png" position="center" >}}|2022-10-22|
