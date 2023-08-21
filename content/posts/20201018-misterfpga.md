@@ -214,6 +214,8 @@ cheaper system).
 
 ## Crunching the numbers
 
+### Analogue costs
+
 Really, it just pains me when I see article after article telling people to hurry up and buy the new
 "fantastic" Analogue project. Just two days ago (Oct. 16 2020), they announced a new product, the
 [Duo](https://www.analogue.co/duo/), and the hype cycle is back again on any website that discusses gaming,
@@ -237,7 +239,11 @@ hardware. You would be able to play on both HDMI and a CRT, [you could jailbreak
 other 8-bit systems](https://atariage.com/forums/topic/242970-fpga-based-videogame-system)... At first glance,
 cool stuff.
 
-Let's head over to the MiSTer side and see how it compares. Let's pretend you buy your system from
+Let's head over to the MiSTer side and see how it compares.
+
+### MiSTer costs
+
+Let's pretend you buy your system from
 [misteraddons.com](https://misteraddons.com), run by a trusted enthusiast known as [Porkchop
 Express](https://twitter.com/misteraddons) (other alternatives include
 [zerohimself](https://misterkits.com), where I bought my own, or [ultimate
@@ -262,10 +268,10 @@ Can we go lower? You sure bet!
 | Terasic DE-10 Nano (main brain)|150|
 | Expansion SDRAM (support more machines)|60|
 | USB mini hub | 7|
-| **Total**|**217 USD without tax and shipping, that's a steal in comparison**|
+| **Total**|**217 USD without tax and shipping**|
 
 The bare MiSTer setup (with SDRAM expansion) will run you 217
-USD+tax, and by itself can already do **more than any Analogue product**. If you include [an HDMI-VGA adapter such
+USD+tax, and by itself can already do **more than any Analogue product**. That's a steal! If you include [an HDMI-VGA adapter such
 as this one](https://www.amazon.com/Moread-Gold-Plated-Projector-Chromebook-Raspberry/dp/B00SW9JI9A/), you
 could even be able to connect to a CRT monitor. Now that's a value that's hard to beat. The reason is simple:
 for every console you wish to use, you have to buy a separate console from Analogue. MiSTer contains
@@ -276,7 +282,7 @@ fraction of what Analogue is asking their consumers. You can add as many or as f
 match your level of comfort. Quantities are also not limited for the MiSTer, so no need to rush to pre-order
 or buy at an extra cost from scalpers. Though the SDRAM is optional, I highly recommend it since it is
 required to access machines that probably interest you. For completedness, [here is the list
-of cores that require or benefit from having an SDRAM expansion on
+mister-costs or benefit from having an SDRAM expansion on
 board](https://github.com/MiSTer-devel/Main_MiSTer/wiki/Cores-that-use-SDRAM).
 
 Marketing is everything, and people keep falling for Analogue's clever tactics. The *only* aces Analogue has
@@ -323,7 +329,8 @@ Ok. Rambling over. I swear the rest of this article will focus on MiSTer. :smile
 # Setting up a MiSTer FPGA {#setupguide}
 
 Congratulations! You have decided to get a MiSTer. You are very wise. Here is my shopping and getting-started
-guide.
+guide. This is the *bare minimum* setup (for the "comfortable setup",
+see the buying guide in the [MiSTer costs](#mister-costs) section above)
 
 You are going to need:
 
