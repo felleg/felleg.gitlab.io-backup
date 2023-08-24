@@ -5,7 +5,6 @@ toc: true
 cover:
 tags:
   - board games
-  - games
 description: "I love board games, but due to the COVID pandemic still raging at the time of this writing, I had to find new ways to play. In this post, I share the games that caught my attention while I was unable to meet and play with my friends in person."
 ---
 

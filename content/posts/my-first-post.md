@@ -2,7 +2,7 @@
 title = "My First Post"
 date = "2019-09-30"
 author = "Félix Léger"
-tags = ["first post", "testing"]
+tags = ["blogging"]
 keywords = ["First Post", "testing"]
 description = "My very first blog post!"
 showFullContent = false

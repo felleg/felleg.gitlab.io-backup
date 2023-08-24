@@ -4,10 +4,8 @@ date: 2021-02-04T22:11:47-05:00
 toc: false
 cover:
 tags:
-  - histoire vraie
-  - true story
+  - blogging
   - français
-  - feel good
 ---
 
 Vous souvenez-vous de [cet album Italien qui a gagné le prestigieux prix de l'album musical de l'année de

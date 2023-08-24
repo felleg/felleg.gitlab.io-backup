@@ -4,8 +4,6 @@ date: 2021-02-18T21:30:09-05:00
 toc: false
 cover: img/yellow.png
 tags:
-  - color
-  - self-respect
   - featured
 frontpage: "true"
 ---

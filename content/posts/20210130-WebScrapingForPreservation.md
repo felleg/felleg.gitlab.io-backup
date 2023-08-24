@@ -5,11 +5,7 @@ toc: true
 cover: "img/rhdn.png"
 frontpage: "true"
 tags:
-  - scraping
-  - beautifulsoup
-  - python
-  - rom hacks
-  - romhacking
+  - personal projects
   - featured
 aliases: [
         /posts/2021/01/web-scraping-for-preservation/

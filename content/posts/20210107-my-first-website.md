@@ -4,7 +4,7 @@ date: 2021-01-07T19:07:00-05:00
 toc: false
 cover: img/felleg-tripod.png
 tags:
-  - website
+  - blogging
 ---
 
 In 2003, I was already ahead of the social media curve. Yes, I had my own personal web page (thanks, dad)!

@@ -3,9 +3,6 @@ title: "LastPass Shot Themselves in the Foot"
 date: 2021-03-04T09:44:31-05:00
 toc: false
 cover: img/la$tpass.png
-tags:
-  - password managers
-  - greedy corporations
 ---
 
 On February 16, 2021, [LastPass made the announcement](https://blog.lastpass.com/2021/02/changes-to-lastpass-free/)

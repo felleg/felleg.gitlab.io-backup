@@ -4,9 +4,6 @@ date: 2021-04-05T13:44:33-04:00
 toc: true
 cover: "img/huawei-talkband-b6.png"
 tags:
-  - accessories
-  - huawei
-  - best of the year
   - award
 description: "The Huawei Talkband line of product wins the felixleger.com 'Favorite Gadget of 2021 Award'!"
 ---
