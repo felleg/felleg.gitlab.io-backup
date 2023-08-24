@@ -6,7 +6,7 @@ frontpage: "true"
 tags:
   - français
   - featured
-  - go
+  - tutorials
 ---
 
 Le Go est un jeu fascinant qui est basé sur des règles relativement simples. Un de mes petits plaisir est de

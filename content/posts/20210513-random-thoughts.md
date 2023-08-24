@@ -3,8 +3,6 @@ title: "Just Random Thoughts"
 date: 2021-05-13T22:10:37-04:00
 toc: false
 cover:
-tags:
-  - untagged
 ---
 
 I wanted to slightly indulge my creative side tonight. Normally I am very shy and sensitive when it comes to sharing

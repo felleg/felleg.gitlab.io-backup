@@ -4,8 +4,7 @@ date: 2021-04-08T12:08:35-04:00
 toc: false
 cover: "/img/qanba-astro-city.jpg"
 tags:
-  - gaming
-  - accessories
+  - video games
 ---
 
 I'm a huge fan of gaming with arcade sticks. I feel it's easier on the hands after long periods of time. I

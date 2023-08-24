@@ -5,8 +5,6 @@ draft: false
 frontpage: "false"
 toc: false
 cover: img/top-gun-maverick.png
-tags:
-  - movies
 ---
 
 Successful landing! I don't know what more any Top Gun fan could hope for. Even though the romance thing made me cringe a bit, I guess that's pretty on brand for a Top Gun movie.

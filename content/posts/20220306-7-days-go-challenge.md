@@ -3,8 +3,6 @@ title: "7 Days Go Challenge"
 date: 2022-03-06T12:36:00-05:00
 toc: false
 cover:
-tags:
-  - go
 ---
 
 The goal: play 7 games with strangers over the span of 7 days. This is to force me to let go of my ego, and

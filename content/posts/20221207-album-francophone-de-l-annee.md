@@ -5,11 +5,6 @@ draft: false
 frontpage: "false"
 toc: false
 cover: img/maladie-d-amour.jpg
-tags:
-  - best of the year
-  - français
-  - music
-  - award
 ---
 
 https://jimmyhunt.bandcamp.com/album/maladie-damour

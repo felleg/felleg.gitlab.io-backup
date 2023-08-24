@@ -4,7 +4,6 @@ date: 2022-01-16T21:08:03-05:00
 toc: false
 cover:
 tags:
-  - visualization
   - featured
 ---
 

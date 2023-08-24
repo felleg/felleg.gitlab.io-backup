@@ -5,8 +5,6 @@ draft: false
 toc: false
 cover: "img/the-mother-stone.jpeg"
 tags:
-  - music
-  - award
   - featured
 description: "An album as bold as its artwork that feels respectful, yet unapologetic; The Mother Stone nabs the 'Quarter of the Year Musical Album' award from felixleger.com."
 ---

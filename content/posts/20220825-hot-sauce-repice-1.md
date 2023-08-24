@@ -7,7 +7,6 @@ toc: false
 cover: img/hot-sauce-1.png
 tags:
   - hot sauce
-  - recipes
 ---
 
 [Link to the original source of the

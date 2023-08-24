@@ -4,8 +4,6 @@ date: 2022-04-24T19:38:37-04:00
 draft: false
 toc: false
 cover:
-tags:
-  - songs on repeat
 ---
 
 Every few months, I stumble upon a song that I can't seem to get enough

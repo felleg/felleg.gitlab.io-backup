@@ -3,10 +3,6 @@ title: "Automation in Real Life"
 date: 2021-03-03T12:02:39-05:00
 toc: false
 cover: "img/pi-in-desk.jpg"
-tags:
-  - pi
-  - automation
-  - investing
 ---
 
 The picture in the banner of this post is a Raspberry Pi 3B in its Short Crust case (on the left), next to an

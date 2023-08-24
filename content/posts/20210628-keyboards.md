@@ -3,9 +3,6 @@ title: "Thoughts on Keyboards"
 date: 2021-06-28T11:47:54-04:00
 toc: true
 cover: "img/myplanck-feature.jpg"
-tags:
-  - keyboard
-  - programming
 ---
 
 > “Cowboys in the western United States leave their horses when they die. But never leave their saddles, regardless of how long they need to walk in the desert. Saddles are interfaces that are deeply adapted to our bodies whereas horses are consumable items. It should not be forgotten that computers are consumables nowadays, but keyboards are interfaces that we can use through our lives.”

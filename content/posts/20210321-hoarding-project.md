@@ -5,10 +5,6 @@ toc: true
 description: "In this post, I discuss how I learned to let go of a collection that took its toll on me."
 frontpage : "true"
 tags:
-  - collecting
-  - growing up
-  - gaming
-  - mental health
   - featured
 ---
 

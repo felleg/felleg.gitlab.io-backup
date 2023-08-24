@@ -3,7 +3,7 @@ title: "Spamming a Phishing Campaign"
 date: 2021-05-02T20:50:44-04:00
 cover:
 tags:
-  - hacking
+  - featured
 ---
 {{< figure src="/img/spamming-phishing/email.png" position="center" caption="" >}}
 {{< figure src="/img/spamming-phishing/facebook-post.png" position="center" caption="" >}}

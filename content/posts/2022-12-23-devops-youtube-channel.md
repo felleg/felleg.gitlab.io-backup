@@ -5,8 +5,6 @@ draft: false
 frontpage: "false"
 toc: false
 cover:
-tags:
-  - untagged
 ---
 
 Just putting this out there: I started a new YouTube channel related to
@@ -15,4 +13,4 @@ around my profession.
 
 Have a look!
 
-https://youtube.com/@FelixLegerDevOps
+https://youtube.com/@Felix-Leger

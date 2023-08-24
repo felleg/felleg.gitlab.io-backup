@@ -1,5 +1,5 @@
 ---
-title: "Posing in Front of the nesto Library"
+title: "The nesto Library"
 date: 2023-04-10T13:21:15-04:00
 draft: false
 frontpage: "false"

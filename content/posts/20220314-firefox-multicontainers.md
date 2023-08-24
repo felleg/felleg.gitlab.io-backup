@@ -1,11 +1,9 @@
 ---
 title: "Firefox Multi-Containers Rule!"
 date: 2022-03-14T19:30:10-04:00
-draft: false
+draft: true
 toc: false
 cover:
-tags:
-  - quality of life
 ---
 
 I use Firefox as my main browser and I have done so for years. The main reason

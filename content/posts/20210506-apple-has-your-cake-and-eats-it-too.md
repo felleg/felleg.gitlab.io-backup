@@ -4,8 +4,6 @@ date: 2021-05-06T13:03:41-04:00
 draft: true
 toc: false
 cover:
-tags:
-  - untagged
 description: "enter your description here"
 ---
 

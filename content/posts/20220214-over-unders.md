@@ -3,8 +3,6 @@ title: "Chaining Over Unders (Flower Stick Trick)"
 date: 2022-02-14T08:34:00-05:00
 toc: false
 cover:
-tags:
-  - juggling
 ---
 
 Here is a little flower stick trick I have been practicing lately, which I named the "chained over-unders".

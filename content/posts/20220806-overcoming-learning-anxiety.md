@@ -5,8 +5,6 @@ frontpage: "true"
 toc: true
 cover: img/finished-devops-handbook.jpg
 tags:
-  - learning
-  - devops
   - featured
 aliases: [
    "/overcoming-learning-anxiety/"

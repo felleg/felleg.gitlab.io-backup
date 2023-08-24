@@ -5,7 +5,6 @@ toc: false
 frontpage: "false"
 cover:
 tags:
-  - motivational
   - featured
 ---
 

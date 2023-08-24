@@ -5,8 +5,6 @@ draft: false
 frontpage: "false"
 toc: false
 cover: /img/niveaux-scolaires.png
-tags:
-  - untagged
 ---
 
 ([source](https://ecolebranchee.com/coffre-a-outils/equivalences/))

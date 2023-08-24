@@ -5,12 +5,8 @@ toc: true
 frontpage: "true"
 cover: img/guncon-mister/duck-hunt.jpg
 tags:
-  - mister
-  - fpga
-  - video-games
-  - gaming
-  - retro
   - featured
+  - video-games
 description: "Gaming preservation just got a serious boost with the inclusion of GunCon 2 support for the MiSTer FPGA project."
 ---
 

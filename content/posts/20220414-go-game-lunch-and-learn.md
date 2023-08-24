@@ -6,7 +6,7 @@ toc: false
 frontpage: "true"
 cover:
 tags:
-  - go
+  - tutorials
   - featured
 description: "A talk about the game of Go I have given to colleagues during a 'Lunch & Learn' on April 14 2022."
 ---

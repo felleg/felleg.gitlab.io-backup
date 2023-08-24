@@ -6,9 +6,7 @@ frontpage: "true"
 toc: true
 tags:
   - featured
-  - board games
-  - collaboration
-  - teamwork
+  - microworlds
 ---
 
 {{< figure src="/img/bananagrams.jpg" position="center" caption="" >}}

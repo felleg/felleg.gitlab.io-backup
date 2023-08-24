@@ -5,8 +5,7 @@ date: 2021-04-06T11:32:36-04:00
 toc: false
 cover: "img/mn-complete-works.png"
 tags:
-  - rhythm gaming
-  - gaming
+  - video games
 ---
 
 I recently noticed that I never shared my contributions to rhythm-gaming on this blog. Granted, they are not

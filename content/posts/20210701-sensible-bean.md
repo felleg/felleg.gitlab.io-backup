@@ -4,8 +4,7 @@ date: 2021-07-01T23:01:33-04:00
 toc: false
 cover: "img/sensiblebean-mexican-quinoa.jpg"
 tags:
-  - blog
-  - announcement
+  - blogging
 ---
 
 My partner Gabrielle and I have been working on a cooking blog, and we are happy to finally unveil it to the

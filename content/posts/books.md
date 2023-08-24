@@ -5,8 +5,6 @@ draft: false
 frontpage: "false"
 toc: false
 cover:
-tags:
-  - untagged
 aliases: [
    "/lists/my-lectures/",
    "/lists/my-lectures.md",

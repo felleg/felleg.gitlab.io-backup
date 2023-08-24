@@ -3,7 +3,7 @@ title = "Scanlines"
 date = "2020-10-18"
 author = "Félix Léger"
 cover = "img/scanlines.jpg"
-tags = ["gaming"]
+tags = ["video games"]
 keywords = [""]
 showFullContent = true
 +++

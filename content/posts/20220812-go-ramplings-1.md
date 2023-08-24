@@ -5,8 +5,6 @@ draft: false
 frontpage: "false"
 toc: false
 cover:
-tags:
-  - go
 description: "3e axe - Third axis"
 ---
 

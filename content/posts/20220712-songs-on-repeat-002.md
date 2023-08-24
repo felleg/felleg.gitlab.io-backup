@@ -5,8 +5,6 @@ draft: false
 frontpage: "false"
 toc: false
 cover:
-tags:
-  - songs on repeat
 ---
 
 {{< youtube _zaFJry5Tcs >}}
