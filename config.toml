@@ -143,9 +143,9 @@ disableHugoGeneratorInject = false
     name = "threads"
     url = "https://www.threads.net/@felleg"
 
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/felllleg"
+  #[[params.social]]
+  #  name = "twitter"
+  #  url  = "https://twitter.com/felllleg"
 
   [[params.social]]
     name = "gitlab"
