@@ -10,4 +10,4 @@ Release year: 2016
 
 👍👍
 
-Read [the notes I wrote](/books/the-devops-handbook.pdf) from this book.
+Read [the notes I took](/books/the-devops-handbook.pdf) from this book.

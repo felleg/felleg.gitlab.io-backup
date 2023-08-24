@@ -10,4 +10,4 @@ Release year: 2016
 
 👍 - This is the fastest book I have ever read! I really enjoyed it: short, to the point, and with lovely ideas that feel great to think about. To me it confirmed that I am currently on the right path to become "so good they can't ignore me." I have identified my mission ("build a learning organization to tap into the human potential") and I feel like I am building my career capital by learning how to learn. Overall, this book felt like a nice pat on the back, and I think like it can be inspiring for someone who might be as lost as I was when I started my career. (Thanks Ricardo for this recommendation!)
 
-Read [the notes I wrote](/books/so-good-they-cant-ignore-you.pdf) from this book.
+Read [the notes I took](/books/so-good-they-cant-ignore-you.pdf) from this book.

@@ -10,4 +10,4 @@ Release year: 2018
 
 👍 -- The science behind the ideas that were first featured in the DevOps Handbook. A much appreciated look behind the curtain.
 
-Read [the notes I wrote](/books/accelerate.pdf) from this book.
+Read [the notes I took](/books/accelerate.pdf) from this book.

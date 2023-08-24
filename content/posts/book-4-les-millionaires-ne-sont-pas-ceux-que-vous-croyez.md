@@ -10,4 +10,3 @@ Release year: 2019
 
 👍👍
 
-Read [the notes I wrote](None) from this book.

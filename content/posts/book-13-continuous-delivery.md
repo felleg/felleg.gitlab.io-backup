@@ -10,4 +10,4 @@ Release year: 2010
 
 🤔
 
-Read [the notes I wrote](/books/continuous-delivery.pdf) from this book.
+Read [the notes I took](/books/continuous-delivery.pdf) from this book.

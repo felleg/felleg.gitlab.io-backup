@@ -10,4 +10,3 @@ Release year: 2022
 
 👍 - Je crois que j'ai un TDA...?
 
-Read [the notes I wrote](None) from this book.

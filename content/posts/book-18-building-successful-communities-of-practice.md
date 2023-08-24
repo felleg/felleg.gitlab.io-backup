@@ -10,4 +10,4 @@ Release year: 2016
 
 👍
 
-Read [the notes I wrote](/books/building-successful-communities.pdf) from this book.
+Read [the notes I took](/books/building-successful-communities.pdf) from this book.

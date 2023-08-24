@@ -10,4 +10,4 @@ Release year: 2014
 
 👍 - Terrific ideas. This book inspires me to try to show what management can change to tap into the unexplored potential that lives in every human. I think every C-level manager should explore the ideas discussed in this book and see if they resonate with them. This is the future of work.
 
-Read [the notes I wrote](/books/reinventing-organizations.pdf) from this book.
+Read [the notes I took](/books/reinventing-organizations.pdf) from this book.

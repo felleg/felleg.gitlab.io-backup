@@ -10,4 +10,4 @@ Release year: 2019
 
 👎 - I would suggest to skip this new release and just read the original *Phoenix Project*. To me, this unfortunately feels like a repeat with somehow less substance.
 
-Read [the notes I wrote](/books/the-unicorn-project.pdf) from this book.
+Read [the notes I took](/books/the-unicorn-project.pdf) from this book.
