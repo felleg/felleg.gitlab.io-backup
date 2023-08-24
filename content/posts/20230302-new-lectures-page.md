@@ -1,12 +1,10 @@
 ---
 title: "New 'My Reading List' Page!"
 date: 2023-03-02T08:13:22-05:00
-draft: false
+draft: true
 frontpage: "true"
 toc: false
 cover:
-tags:
-  - announcement
 ---
 
 It has been a while since I have posted something important (to me), but
