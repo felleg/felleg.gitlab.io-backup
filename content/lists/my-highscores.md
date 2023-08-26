@@ -48,6 +48,7 @@ Default difficulty settings were used unless stated otherwise.
 |[Terra Cresta](https://en.wikipedia.org/wiki/Terra_Cresta)     |1985|{{< vertical >}}|[43,800](/img/highscores/terra-cresta-20221210.jpg)  |2022-12-10     |      |
 |[Tetris: The Grand Master](https://en.wikipedia.org/wiki/Tetris:_The_Grand_Master)  |1998| n/a|[Level 549](/img/highscores/tgm-20220523.png)    |2022-05-23   |Played on MiSTer PSX core using [ZN-2 to PSX conversion](https://www.romhacking.net/reviews/8921/)      |
 |[Tetris: The Grand Master](https://en.wikipedia.org/wiki/Tetris:_The_Grand_Master)  (20G)    |1998| n/a|[Level 319](https://www.youtube.com/watch?v=6wJqaH9RW9M)  (video)  |2022-03-19    |Played on [Heboris](https://github.com/nightmareci/HeborisC7EX-SDL2)      |
+|[Tetris: The Grand Master 2 Plus](https://tetris.wiki/Tetris_The_Absolute_The_Grand_Master_2)    |2000| n/a|[165,246](/img/highscores/tetris-grandmaster-2-2023-08-25.jpg)  |2025-08-25    | Played on MAME from Steam Deck.      |
 |[Time Pilot](https://en.wikipedia.org/wiki/Time_Pilot) |1982|{{< freeroaming >}} (tate)|[102,200](/img/highscores/time-pilot-20220922.jpg)     |2022-09-22  |     |
 |[Time Pilot '84](https://en.wikipedia.org/wiki/Time_Pilot_%2784) |1984|{{< freeroaming >}} (tate)|[106,000](/img/highscores/time-pilot-84-20221217.jpg)     |2022-12-17  |     |
 |[Truxton](https://en.wikipedia.org/wiki/Truxton_(video_game))      | 1988|{{< vertical >}}|[201,950](/img/highscores/truxton-20220317.jpg)     |2022-03-17 | |
