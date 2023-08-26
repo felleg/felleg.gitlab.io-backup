@@ -105,15 +105,15 @@ initially thought was impossible.
 My next highlight came the following week when I opened Slack while I
 was working from home and realized people played a game of Collaborative
 Bananagrams by themselves, pictures and all! Someone took it upon
-themselves to start a game, and they pulled it off. It was a great day
+themselves to start a game, and they managed to assemble a small crowd. It was a great day
 for me.
 
 From this point on, I saw that Collaborative Bananagrams could be more
 than a game. For me, it is a tool that has the potential to rewire
-relationships at the office. During gameplay, I like use every opportunity I can to high five
-someone and make them feel valued. I see it in people's eyes: they
+relationships at the office. During gameplay, I enjoy using every opportunity I can to high-five
+people and make them feel valued. I see it in people's eyes: they
 derive meaning from pulling of a complex move in front of everyone and
-getting rewarded for it.
+getting rewarded for it. This can have a lasting effect on the rest of their day at work.
 
 So there you have it: Collaborative Bananagrams! Feel free to try this
 concept at home or at your workplace and let me know what you think! I
