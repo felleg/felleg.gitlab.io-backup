@@ -3,48 +3,15 @@ image: monachus/hugo
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
-stages:
-  - build
-  - deploy
-
-build_website:
-  stage: build
+pages:
   script:
-    - hugo
-    - cd public && rm index.xml && ln -s posts/index.xml
+  - hugo
+  - cd public && rm index.xml && ln -s posts/index.xml
 
   artifacts:
     paths:
-      - public
-
-website_trigger_cv:
-  stage: deploy
-  rules:
-    - if: $CI_PIPELINE_SOURCE == "pipeline"
-  script:
-    - mv cv.pdf public/
-  needs:
-    - project: felleg/my-cv  # Replace with the correct path to your CV repo
-      job: build_cv
-      ref: master            # Use the appropriate branch name
-      artifacts: true
-
-deploy_website:
-  stage: deploy
-  script:
-    - echo "Deploying website"
-    - # Add commands here to deploy your website
-    # For example, deploying to GitLab Pages
-
-  dependencies:
-    - build_website
-    - website_trigger_cv
-
-  artifacts:
-    paths:
-      - public
+    - public
     expire_in: 1 week
   only:
-    - master
+  - master
   interruptible: true
-
