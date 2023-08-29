@@ -15,7 +15,6 @@
 #  only:
 #  - master
 #  interruptible: true
-
 image: monachus/hugo
 
 variables:
@@ -38,16 +37,13 @@ build_website:
 website_trigger_cv:
   stage: deploy
   rules:
-    # multi-project pipeline
     - if: $CI_PIPELINE_SOURCE == "pipeline"
   script:
     - mv cv.pdf public/
-  dependencies:
-    - build_website
   needs:
     - project: felleg/my-cv
       job: build_cv
-      ref: main
+      ref: master
       artifacts: true
 
 pages:
@@ -61,5 +57,4 @@ pages:
   only:
     - master
   interruptible: true
-
 
