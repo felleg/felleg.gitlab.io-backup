@@ -1,20 +1,3 @@
-#image: monachus/hugo
-#
-#variables:
-#  GIT_SUBMODULE_STRATEGY: recursive
-#
-#pages:
-#  script:
-#  - hugo
-#  - cd public && rm index.xml && ln -s posts/index.xml
-#
-#  artifacts:
-#    paths:
-#    - public
-#    expire_in: 1 week
-#  only:
-#  - master
-#  interruptible: true
 image: monachus/hugo
 
 variables:
@@ -41,14 +24,21 @@ website_trigger_cv:
   script:
     - mv cv.pdf public/
   needs:
-    - project: felleg/my-cv
+    - project: felleg/my-cv  # Replace with the correct path to your CV repo
       job: build_cv
-      ref: master
+      ref: master            # Use the appropriate branch name
       artifacts: true
 
-pages:
+deploy_website:
+  stage: deploy
   script:
     - echo "Deploying website"
+    - # Add commands here to deploy your website
+    # For example, deploying to GitLab Pages
+
+  dependencies:
+    - build_website
+    - website_trigger_cv
 
   artifacts:
     paths:
