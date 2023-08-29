@@ -1,17 +1,65 @@
+#image: monachus/hugo
+#
+#variables:
+#  GIT_SUBMODULE_STRATEGY: recursive
+#
+#pages:
+#  script:
+#  - hugo
+#  - cd public && rm index.xml && ln -s posts/index.xml
+#
+#  artifacts:
+#    paths:
+#    - public
+#    expire_in: 1 week
+#  only:
+#  - master
+#  interruptible: true
+
 image: monachus/hugo
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
-pages:
+stages:
+  - build
+  - deploy
+
+build_website:
+  stage: build
   script:
-  - hugo
-  - cd public && rm index.xml && ln -s posts/index.xml
+    - hugo
+    - cd public && rm index.xml && ln -s posts/index.xml
 
   artifacts:
     paths:
-    - public
+      - public
+
+website_trigger_cv:
+  stage: deploy
+  rules:
+    # multi-project pipeline
+    - if: $CI_PIPELINE_SOURCE == "pipeline"
+  script:
+    - mv cv.pdf public/
+  dependencies:
+    - build_website
+  needs:
+    - project: felleg/my-cv
+      job: build_cv
+      ref: main
+      artifacts: true
+
+pages:
+  script:
+    - echo "Deploying website"
+
+  artifacts:
+    paths:
+      - public
     expire_in: 1 week
   only:
-  - master
+    - master
   interruptible: true
+
+
