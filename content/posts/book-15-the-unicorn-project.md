@@ -8,6 +8,6 @@ tags: ['books']
 
 Release year: 2019
 
-👎 - I would suggest to skip this new release and just read the original *Phoenix Project*. To me, this unfortunately feels like a repeat with somehow less substance.
+👎 - I would suggest to skip this new release and just read the original [Phoenix Project](/posts/2023/07/book-41-1-the-phoenix-project/). To me, this sequel unfortunately feels like a repeat with somehow less substance.
 
 Read [the notes I took](/books/the-unicorn-project.pdf) from this book.
