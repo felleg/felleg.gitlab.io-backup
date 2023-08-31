@@ -21,7 +21,8 @@
             {{- end }}
         </div>
         <h1><a href="tags/featured" style="text-decoration:none">Featured Posts</a></h1>
-          {{ range first 10 (sort (where .Site.Pages "Params.frontpage" "true") ".Date" "desc") }}
+          {{ $featuredPosts := where .Site.RegularPages "Params.tags" "intersect" (slice "featured") | first 10 }}
+          {{ range $featuredPosts }}
 
 
           <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a><br>

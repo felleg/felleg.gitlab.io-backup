@@ -28,7 +28,7 @@ learn to speak fluent Mandarin while maintaining my other real life
 responsibilities.
 
 Long story short, by finishing this book, I gained one solid notch of
-confidence. I beat my learning anxiety. While I'm not entirely cured of
+self-confidence. I beat my learning anxiety. While I'm not entirely cured of
 my fear of getting a Kubernetes configuration wrong, at least I now feel
 comfortable having a conversation on the topic with anyone. And that, to
 me, is priceless.
