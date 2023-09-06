@@ -39,7 +39,7 @@ What really blew my mind in the book is the notion of the **Path to
 Action** (PTA). Summarized in my own words:
 
 1. See & hear (facts)
-1. Tell a story to yourself (construction)
+1. Tell a story to yourself (guess)
 1. React to the story (feel)
 1. Act on your feelings (silence, violence, ...)
 
