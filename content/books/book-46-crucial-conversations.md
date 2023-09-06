@@ -28,7 +28,7 @@ think
 differently about the conversations that contain the key moments that
 shape our lives. Landing a job (or losing it), getting married (or
 divorced), and so many more of the transitions that define us are
-often dictated by how we handle the conversations that preceede them.
+often dictated by how we handle the conversations that precede them.
 However, not all conversations are crucial: CCs can be recognized when these three elements are present simultaneously in a conversation.
 
 - High Stakes
