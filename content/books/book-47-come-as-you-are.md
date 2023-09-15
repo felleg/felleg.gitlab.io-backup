@@ -44,11 +44,11 @@ Here's a fun fact that made me pause. *It isn't the symptoms that predict how mu
 disrupts a person's life; it's how a person feels about those symptoms.*
 (p. 310)
 
-Even though the book is written with heterosexual cis-women in mind (the
+Even though the book is targeted at people who identify as women (the
 author often says things that assumes the reader is a woman), I can
 guarantee that you will find something in these pages that can help you
 think differently about mental issues related to sex, but also related
-to anxiety, stress, etc. While I was thought about the *what* and *how*
+to anxiety, stress, etc. While I was taught about the *what* and *how*
 of sexuality in high school, this book gave me something that was
 clearly missing from my sexual education: *why*. As we know from reading
 [Start With Why (Simon
