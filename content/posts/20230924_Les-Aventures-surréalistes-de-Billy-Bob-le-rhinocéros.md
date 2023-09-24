@@ -11,7 +11,7 @@ toc: false
 Coucou!
 
 Pendant plusieurs années, il était possible d'accéder à un lien secret
-sur ce site, https://felixleger.com/billy-bob, afin d'accéder aux
+sur ce site, https://felixleger.com/billy-bob , afin d'accéder aux
 originaux des aventures surréalistes de Billy-Bob le rhinocéros. Or,
 grâce à cette entrée, il ne s'agit désormais plus d'un secret.
 
