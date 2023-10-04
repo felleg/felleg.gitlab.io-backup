@@ -22,7 +22,7 @@ orchestration.
 What can I say about Ansible that probably hasn't been said a thousand
 times before... It seems like a great tool to manage servers! I now
 picture it as a perfect complement to the IaC tools I was previously
-used to for managing Kubernetes applications (e.g. Pulumi). While it
+used to for managing infrastructure (e.g. Pulumi). While it
 allows for great extensibility, it feels like the design of Ansible
 always keeps it as simple as possible. That is the best of both worlds.
 
