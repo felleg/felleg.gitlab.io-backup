@@ -23,6 +23,7 @@ Default difficulty settings were used unless stated otherwise.
 |[Batsugun (Special Version)](https://en.wikipedia.org/wiki/Batsugun) |1993|{{< vertical >}}|[1,714,630](/img/highscores/batsugun-special-20221211.jpg) |2022-12-10 | Sega Saturn port
 |[Battle Garegga](https://en.wikipedia.org/wiki/Battle_Garegga) |1996|{{< vertical >}}|[673,690](/img/highscores/battle-garegga-20221230.jpg) |2022-12-30 |
 |[Blazing Star](https://en.wikipedia.org/wiki/Blazing_Star)      |1998| {{< horizontal >}}|[849,200](/img/highscores/blazing-star-20220813.jpg)      | 2022-08-13|
+|[BLUE WISH DESIRE](https://store.steampowered.com/app/1794300/BLUE_WISH_DESIRE/)      |2021|{{< vertical >}}|[7,550,250](/img/highscores/blue-wish-desire-20231009.jpg)      | 2023-10-09| Steam port. Original, Auto Guard OFF.
 |[Carrier Air Wing](https://en.wikipedia.org/wiki/Carrier_Air_Wing_(video_game))      |1990| {{< horizontal >}}|[165,210](/img/highscores/carrier-air-wing-20210911.jpg)  | 2021-09-11   |The sequel to U.N. Squadron      |
 |[Deathsmiles](https://en.wikipedia.org/wiki/Deathsmiles)      |2007| {{< horizontal >}}|[3,515,324](/img/highscores/deathsmiles-20230717.jpg)  | 2023-07-17   | MLB Arcade, played on Steam Deck      |
 |[DoDonPachi](https://en.wikipedia.org/wiki/DoDonPachi)      |1997| {{< vertical >}}|[18,848,190](/img/highscores/dodonpachi-20220321.jpg) |2022-03-21     |International version      |
