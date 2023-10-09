@@ -98,3 +98,4 @@ Quotes that stuck out to me:
 26. Guilt management can be just as important as time management. (p. 137)
 27. Every job will demand some sacrifice. The key is to avoid unnecessary sacrifice. (p. 155)
 28. Social gains are never handed out. They must be seized. (p. 157)
+29. Our job is not to make young women grateful. It is to make them ungrateful so they keep going. (p. 172)
