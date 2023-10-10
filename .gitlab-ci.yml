@@ -6,7 +6,6 @@ variables:
 pages:
   script:
   - hugo
-  - cd public && rm index.xml && ln -s posts/index.xml
 
   artifacts:
     paths:
