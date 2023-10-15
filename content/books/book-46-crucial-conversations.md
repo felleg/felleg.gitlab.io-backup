@@ -9,7 +9,7 @@ Release year: 2021
 
 Author: [Joseph Grenny](https://www.linkedin.com/in/joseph-grenny-a89081b/) et al.
 
-[Link to my handwritten notes](/books/crucial-conversations.pdf)
+[Link to my handwritten notes](https://drive.google.com/file/d/1PXEjWE7fKxq7mBoXlJ4jaCNgjHBtWitk/view?usp=drive_link)
 
 ---
 

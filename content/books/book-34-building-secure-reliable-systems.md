@@ -10,4 +10,4 @@ Release year: 2020
 
 👍 - This is a book I have been intimidated by since it came out. I am proud of myself for having finished it! I think it's more meant to be reference material than actual reading material, to be fair. [You can browse the HTLM version of this book online for free](https://google.github.io/building-secure-and-reliable-systems/raw/toc.html).
 
-Read [the notes I took](/books/building-secure-and-reliable-systems.pdf) from this book.
+Read [the notes I took](https://drive.google.com/file/d/1AUdo3sCOoKDEKoDXlbP4jpxIc1jKg3g6/view?usp=drive_link) from this book.

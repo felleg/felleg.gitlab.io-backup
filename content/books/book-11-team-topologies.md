@@ -10,4 +10,4 @@ Release year: 2019
 
 👍
 
-Read [the notes I took](/books/team-topologies.pdf) from this book.
+Read [the notes I took](https://drive.google.com/file/d/1OPsjv_3OBFt9QFhHcRAN2CwVpV4l-8pT/view?usp=drive_link) from this book.

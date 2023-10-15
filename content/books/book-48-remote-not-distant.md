@@ -9,7 +9,7 @@ Release year: 2022
 
 Author: [Gustavo Razzetti](https://www.linkedin.com/in/gustavorazzetti/)
 
-[Link to my handwritten notes](/books/remote-not-distant.pdf)
+[Link to my handwritten notes](https://drive.google.com/file/d/1_35yZvC7uOMaIEyWfwWjmiq2G6emqop5/view?usp=drive_link)
 
 ---
 

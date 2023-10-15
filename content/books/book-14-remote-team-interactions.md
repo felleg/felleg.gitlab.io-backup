@@ -10,4 +10,4 @@ Release year: 2022
 
 👍
 
-Read [the notes I took](/books/remote-team-interactions.pdf) from this book.
+Read [the notes I took](https://drive.google.com/file/d/13GlXtQhAjeBYUHoxuvNTkHDzzAVBKw7j/view?usp=drive_link) from this book.

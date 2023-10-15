@@ -33,4 +33,4 @@ my fear of getting a Kubernetes configuration wrong, at least I now feel
 comfortable having a conversation on the topic with anyone. And that, to
 me, is priceless.
 
-Read [the notes I took](/books/the-kubernetes-book.pdf) from this book.
+Read [the notes I took](https://drive.google.com/file/d/1dhTodUAHxf_UI_1veEOqQ0_Aato4vKcP/view?usp=drive_link) from this book.

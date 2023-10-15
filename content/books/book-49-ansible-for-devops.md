@@ -9,7 +9,7 @@ Release year: 2020
 
 Author: [Jeff Geerling](https://www.linkedin.com/in/jeff-geerling-086bb2a/)
 
-[Link to my handwritten notes](/books/ansible-for-devops.pdf)
+[Link to my handwritten notes](https://drive.google.com/file/d/1G5oOo0zF0D6NBZr12D5d_hsz-hky18eb/view?usp=drive_link)
 
 ---
 

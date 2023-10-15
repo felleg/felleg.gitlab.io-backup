@@ -10,4 +10,4 @@ Release year: 2014
 
 👍 - Gives good insight about how it feels like to live the reality of a CEO.
 
-Read [the notes I took](/books/the-hard-thing-about-hard-things.pdf) from this book.
+Read [the notes I took](https://drive.google.com/file/d/1kCBls4lQIOTyuxRvblA11Pr8a-tbWVvi/view?usp=drive_link) from this book.

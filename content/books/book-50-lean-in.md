@@ -9,7 +9,7 @@ Release year: 2013
 
 Author: [Sheryl Sandberg](https://www.linkedin.com/in/sheryl-sandberg-5126652/)
 
-[Link to my handwritten notes](/books/lean-in.pdf)
+[Link to my handwritten notes](https://drive.google.com/file/d/1FM9ZRNUVVv0ZBCuPjdqs3uqiYVoOwoW-/view?usp=drive_link)
 
 ---
 
