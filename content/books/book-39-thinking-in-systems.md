@@ -2,7 +2,7 @@
 date: 2023-07-19
 title: (Book 39) Thinking in Systems
 frontpage: "true"
-cover: img/books/thinking-in-systems.jpg
+cover: img/books/thinking-in-systems.png
 tags: ['books']
 ---
 

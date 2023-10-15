@@ -2,7 +2,7 @@
 date: 2023-08-01
 title: (Book 42) A Simpler Way
 frontpage: "true"
-cover: img/books/a-simpler-way.jpg
+cover: img/books/a-simpler-way.png
 tags: ['books']
 ---
 

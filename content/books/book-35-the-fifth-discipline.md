@@ -2,7 +2,7 @@
 date: 2023-07-02
 title: (Book 35) The Fifth Discipline
 frontpage: "true"
-cover: img/books/the-fifth-discipline.jpg
+cover: img/books/the-fifth-discipline.png
 tags: ['books']
 ---
 

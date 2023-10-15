@@ -19,7 +19,7 @@ REVIEW
 
 ---
 
-**Top 10 quotes** that stuck out to me:
+Quotes that stuck out to me:
 
 1.
 2.

@@ -2,7 +2,7 @@
 date: 2023-03-07
 title: (Book 21) How to Win Friends & Influence People
 frontpage: "true"
-cover: img/books/how-to-win-friends.png
+cover: img/books/how-to-win-friends-and-influence-people.png
 tags: ['books']
 ---
 

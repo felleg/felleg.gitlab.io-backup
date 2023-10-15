@@ -2,7 +2,7 @@
 date: 2023-04-07
 title: (Book 24) Influence
 frontpage: "true"
-cover: img/books/influence.jpg
+cover: img/books/influence.png
 tags: ['books']
 ---
 

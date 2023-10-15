@@ -2,7 +2,7 @@
 date: 2023-06-26
 title: (Book 34) Building Secure & Reliable Systems
 frontpage: "true"
-cover: img/books/building-secure-and-reliable-systems.jpg
+cover: img/books/building-secure-and-reliable-systems.png
 tags: ['books']
 ---
 

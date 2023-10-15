@@ -2,7 +2,7 @@
 date: 2023-06-05
 title: (Book 33) Unlearn
 frontpage: "true"
-cover: img/books/unlearn.jpg
+cover: img/books/unlearn.png
 tags: ['books']
 ---
 

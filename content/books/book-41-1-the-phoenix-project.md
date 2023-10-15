@@ -2,7 +2,7 @@
 date: 2023-07-31
 title: (Book 41 (& 1)) The Phoenix Project
 frontpage: "true"
-cover: img/books/phoenix-project.jpg
+cover: img/books/the-phoenix-project.png
 tags: ['books']
 ---
 

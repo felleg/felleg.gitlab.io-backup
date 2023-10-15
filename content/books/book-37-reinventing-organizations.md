@@ -2,7 +2,7 @@
 date: 2023-07-11
 title: (Book 37) Reinventing Organizations
 frontpage: "true"
-cover: img/books/reinventing-organizations.jpg
+cover: img/books/reinventing-organizations.png
 tags: ['books']
 ---
 
