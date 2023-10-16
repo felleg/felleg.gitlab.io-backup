@@ -3,7 +3,6 @@ date: 2023-10-13T19:33:48-04:00
 title: "(Book 51) Of Boys and Men"
 cover: img/books/of-boys-and-men.png
 tags: ['books']
-draft: true
 ---
 
 Release year: 2022
@@ -14,7 +13,15 @@ Author: [Richard Reeves](https://en.wikipedia.org/wiki/Richard_Reeves_(British_a
 
 ---
 
-REVIEW
+When I decided to read [Lean In by Sheryl Sandberg](books/book-50-lean-in/), a book that discusses "women, work, and the will to lead", I felt it would be interesting to follow it up with a book that explores "why the modern male is struggling, why it matters, and what to do about it." It seemed to me like an interesting juxtaposition. If women suffer from imposter syndrome, what are modern men suffering from?
+
+In his introduction, the author mentions that "in the current political climate, highlighting the problems of boys and men is seen as a perilous undertaking." I would certainly agree about that. Daring to add some nuance to the goals and outcomes of the feminist movement seems to me like one of the few subjects even I would never dare speak about openly, out of fear of looking like I'm saying something against the progress that we have made as a society in the past century. I can't imagine how scary it could be for politicians to give the author's argument an honest look. It's the type of things that might sound good behind closed doors, but that you wouldn't want to be quoted on.
+
+Unfortunately, I am all too familiar with social movements like the manosphere, pickup artists, "men going their own way", and such. It breaks my heart, because I feel that a lot of men are being misguided and taken advantage of, yet I feel unequipped to talk about it. I know that there is nothing I could say that would change the mind of anyone from those movements. In fact, I would probably be (rightfully?) labelled as a blind Leftist, which, as scary as it is to admit, is one of the things the book made me realize I might have been for some time. Holding a balanced argument about these topics is just... really hard.
+
+In my opinion, the author does a wonderful job of providing a truly balanced argument, backed with more data than he needs to make his point, which I found both surprising and ingenious: let's start boys in school a year later than girls (aka "redshirting"). Because boys' brain develop at a slower pace than girls (which seems to be an observation that most scientist agree on), the author argues that this would be a more equitable educational program for everyone. With systems thinking in mind, it's interesting to think how this one tweak might indeed change everything.
+
+I think there's something there worth exploring for our policymakers. As the author writes, "When almost one in four boys (23%) is categorized as having a 'developmental disability', it is fair to wonder if it is educational institutions, rather than boys, that aren't functioning properly."
 
 # Félix Rating: 👍
 
