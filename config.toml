@@ -137,7 +137,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "youtube"
-    url  = "https://www.youtube.com/@FelixLegerDevOps"
+    url  = "https://www.youtube.com/@Felix-Leger"
 
   [[params.social]]
     name = "threads"
