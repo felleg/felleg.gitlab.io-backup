@@ -23,7 +23,14 @@
                     {{ partial "social-icons.html" . }}
                 </div>
             {{- end }}
+
         </div>
+
+        {{ $bookCount := len (where .Site.RegularPages "Section" "books") }}
+        <a href="/books"><p>{{ $bookCount }} books explored, and
+                        the journey continues!</p></a>
+
+
         <h1><a href="tags/featured" style="text-decoration:none">Featured Posts</a></h1>
           {{ $featuredPosts := where .Site.RegularPages "Params.tags" "intersect" (slice "featured") | first 10 }}
           {{ range $featuredPosts }}
