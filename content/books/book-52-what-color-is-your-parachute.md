@@ -66,12 +66,12 @@ Quotes that stuck out to me:
    stone does not always know what ripples it has caused in the pond
    whose surface it impacts, so neither we nor those who watch our life
    will always know what we have achieved by our life and by our
-   Mission.
+   Mission. (p. 315)
 4. The place your Mission needs you is where your deep gladness and the
-   world's deep hunger meet.
+   world's deep hunger meet. (p. 324)
 5. If you approach your job hunt as an opportunity to work on this issue
    as well as the issue of how you will keep body and soul together,
    then hopefully your job hunt will end with your being able to say,
    "Life has deep meaning to me now. I have discovered more than my
    ideal job. I have found my Mission, and the reason why I am here on
-   Earth."
+   Earth." (p. 325)
