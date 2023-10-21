@@ -9,7 +9,7 @@ Release year: ####
 
 Author: [NAME]()
 
-[Link to my handwritten notes](/books/.pdf)
+[Link to my handwritten notes](Google Drive link)
 
 ---
 
