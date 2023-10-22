@@ -25,12 +25,14 @@ Default difficulty settings were used unless stated otherwise.
 |[Blazing Star](https://en.wikipedia.org/wiki/Blazing_Star)      |1998| {{< horizontal >}}|[849,200](/img/highscores/blazing-star-20220813.jpg)      | 2022-08-13|
 |[BLUE WISH DESIRE](https://store.steampowered.com/app/1794300/BLUE_WISH_DESIRE/)      |2021|{{< vertical >}}|[7,550,250](/img/highscores/blue-wish-desire-20231009.jpg)      | 2023-10-09| Steam port. Original, Auto Guard OFF.
 |[Carrier Air Wing](https://en.wikipedia.org/wiki/Carrier_Air_Wing_(video_game))      |1990| {{< horizontal >}}|[165,210](/img/highscores/carrier-air-wing-20210911.jpg)  | 2021-09-11   |The sequel to U.N. Squadron      |
+|[Contra](https://en.wikipedia.org/wiki/Contra_(video_game))      |1986| {{< vertical >}}|[85,700](/img/highscores/contra-20231021.jpg)  | 2023-10-21   |Arcade version|
 |[Deathsmiles](https://en.wikipedia.org/wiki/Deathsmiles)      |2007| {{< horizontal >}}|[3,515,324](/img/highscores/deathsmiles-20230717.jpg)  | 2023-07-17   | MLB Arcade, played on Steam Deck      |
 |[DoDonPachi](https://en.wikipedia.org/wiki/DoDonPachi)      |1997| {{< vertical >}}|[18,848,190](/img/highscores/dodonpachi-20220321.jpg) |2022-03-21     |International version      |
 |[DonPachi](https://en.wikipedia.org/wiki/DonPachi)      |1995| {{< vertical >}}|[3,972,870](/img/highscores/donpachi-20220709.jpg)   |2022-07-09   |      |
 |[Donkey Kong](https://en.wikipedia.org/wiki/Donkey_Kong_(video_game))|1981|n/a|[31,900](/img/highscores/donkey-kong-20221020.jpg)|2023-10-20||
 |[Einhänder](https://en.wikipedia.org/wiki/Einhänder)|1997|{{< horizontal >}}|[2,669,030](/img/highscores/einhander-20221230-2.jpg)|2022-12-30|Normal difficulty|
 |[Esp Ra. De.](https://en.wikipedia.org/wiki/ESP_Ra.De.) |1998| {{< vertical >}}|[3,183,730](/img/highscores/esp-ra-de-20220416.jpg) |2022-04-16|
+|[Galaga](https://en.wikipedia.org/wiki/Galaga) |1981| {{< vertical >}}|[39,380](/img/highscores/galaga-20231021.jpg) |2023-10-21|
 |[Giga Wing](https://en.wikipedia.org/wiki/Giga_Wing)      |1999| {{< vertical >}} (yoko)|[7182,36244250](/img/highscores/giga-wing-20220326.jpg)     |2022-03-26 |      |
 |[Gradius V](https://en.wikipedia.org/wiki/Gradius_V)      |2004| {{< horizontal >}} (yoko)|[438,840](/img/highscores/gradius-v-20230717.jpg)     |2023-07-17 | Very Easy difficulty, played on Steam Deck     |
 |[GunForce II](https://en.wikipedia.org/wiki/GunForce_II)      |1994| {{< horizontal >}}|[26,220](/img/highscores/gun-force-ii-20230624.jpg) | 2023-06-25    | |
@@ -41,6 +43,7 @@ Default difficulty settings were used unless stated otherwise.
 |[Out Zone](https://en.wikipedia.org/wiki/Out_Zone)     |1990| {{< freeroaming >}} + {{< vertical >}} (tate)|[697,690](/img/highscores/out-zone-20220326.jpg)      | 2022-03-26 |    |
 |[Progear](https://en.wikipedia.org/wiki/Progear) |2001|{{< horizontal >}}|[4,612,220](/img/highscores/progear-20220327.jpg)   | 2022-03-27   |Yay! I got the extend!      |
 |[Pulstar](https://en.wikipedia.org/wiki/Pulstar_(video_game)) |1995|{{< horizontal >}}|[134,260](/img/highscores/pulstar-20220813.jpg)   | 2022-08-13   |      |
+|[Rad Racer](https://en.wikipedia.org/wiki/Rad_Racer) |1990|{{< vertical >}}|[32,885](/img/highscores/rad-racer-20231021.jpg)   |2023-10-21 | NES |
 |[Raiden](https://en.wikipedia.org/wiki/Raiden_(video_game)) |1990|{{< vertical >}}|[168,610](/img/highscores/raiden-20221107.jpg)   | 2022-11-07   | Port: The Raiden Project (USA). Default difficulty (Colonel). First attempt!     |
 |[Raiden II](https://en.wikipedia.org/wiki/Raiden_II) |1995|{{< vertical >}}|[450,956](/img/highscores/raiden-ii-20221106.jpg)   | 2022-11-06   | Port: The Raiden Project (USA). Default difficulty (Colonel).|
 |[RayForce](https://en.wikipedia.org/wiki/RayForce) (aka Gunlock, aka Layer Section, aka Galactic Attack) |1994|{{< vertical >}}| [1,643,200](/img/highscores/rayforce-20221228.jpg) | 2022-12-28| Sega Saturn port
