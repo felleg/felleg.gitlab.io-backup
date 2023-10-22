@@ -40,7 +40,7 @@ Default difficulty settings were used unless stated otherwise.
 |[Lightening Force](https://en.wikipedia.org/wiki/Thunder_Force_IV) (aka Thunder Force IV)|1992| {{< horizontal >}}|[96,060](/img/highscores/lightening-force-20220812.jpg)|2022-08-12||
 |[Mushihimesama](https://en.wikipedia.org/wiki/Mushihimesama) (Novice) | (2004) | {{< vertical >}} | [38,045,402](/img/highscores/mushihimesama-novice-20230831.jpg)|2023-08-31| Steam Version|
 |[Mushihimesama](https://en.wikipedia.org/wiki/Mushihimesama) (Normal) | (2004) | {{< vertical >}} | [4,679,996](/img/highscores/mushihimesama-20201115.jpg)|2020-11-15| Steam Version|
-|[Mushihimesama Futari v1.5](https://en.wikipedia.org/wiki/Mushihimesama_Futari) (Original) | (2006) | {{< vertical >}} | [40,298,673](/img/highscores/mushihimesama-futari-20201022.jpg)|2023-10-22| Mame Port|
+|[Mushihimesama Futari v1.5](https://en.wikipedia.org/wiki/Mushihimesama_Futari) (Original) | (2006) | {{< vertical >}} | [40,298,673](/img/highscores/mushihimesama-futari-20201022.jpg)|2023-10-22| MAME Port|
 |[Out Zone](https://en.wikipedia.org/wiki/Out_Zone)     |1990| {{< freeroaming >}} + {{< vertical >}} (tate)|[697,690](/img/highscores/out-zone-20220326.jpg)      | 2022-03-26 |    |
 |[Progear](https://en.wikipedia.org/wiki/Progear) |2001|{{< horizontal >}}|[4,612,220](/img/highscores/progear-20220327.jpg)   | 2022-03-27   |Yay! I got the extend!      |
 |[Pulstar](https://en.wikipedia.org/wiki/Pulstar_(video_game)) |1995|{{< horizontal >}}|[134,260](/img/highscores/pulstar-20220813.jpg)   | 2022-08-13   |      |
