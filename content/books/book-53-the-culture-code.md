@@ -3,6 +3,7 @@ date: 2023-10-27T17:37:19-04:00
 title: "(Book 53) The Culture Code"
 cover: img/books/the-culture-code.png
 tags: ['books']
+draft: true
 ---
 
 Release year: 2018
