@@ -14,7 +14,12 @@ Author: [Dr Julie Smith](https://www.drjulie.uk/)
 
 ---
 
-REVIEW
+(Thank you Lidia Mansur for this recommendation!)
+
+To me, mental health is the holy grail of our human world. I have done a year of
+therapy last year, and it completely changed my life. If I had a magic
+wand, I would change our culture to make therapy as well regarded as
+hitting the gym.
 
 # Félix Rating: 👍
 
