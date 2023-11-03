@@ -19,7 +19,30 @@ Author: [Dr Julie Smith](https://www.drjulie.uk/)
 To me, mental health is the holy grail of our human world. I have done a year of
 therapy last year, and it completely changed my life. If I had a magic
 wand, I would change our culture to make therapy as well regarded as
-hitting the gym.
+hitting the gym. One day, maybe...
+
+So, what is this book about? What is that mysterious *thing* that nobody
+told you about before? Well, I should say *things*, plural. It's all the basic mental tools that you
+might expect to come across in therapy. How to deal with a rainy day,
+how to approach failure, how to deal with regrets, how grief happens,
+etc. The book is meant as an introduction to these concepts. While it
+doesn't always go into incredible depths on these topics,  it
+makes up for that by covering a wide range of topics. No matter who
+you are, there is certainly a section or two that will catch your
+interest and maybe even teach you things.
+
+One of my favorite discoveries from this book is the Feelings Wheel,
+which can be useful to help you name your emotions when you're feeling
+distressed. As you may have heard, being able to name an emotion while
+it is happening is incredibly powerful, the equivalent of finding the
+key that will let it escape your body.
+
+![](/img/feeling-wheel.jpeg)
+
+In my mind, no book can replace the healing properties of talking about
+our honest feelings to another attentive human, but if you don't know
+where to start on your self-healing journey, I would say that this book
+is surely a sensible first step.
 
 # Félix Rating: 👍
 
@@ -27,7 +50,7 @@ hitting the gym.
 
 :star: Star quotes:
 
-1. (p. 35) You can't control the thoguhts that arrive in your mind. You can
+1. (p. 35) You can't control the thoughts that arrive in your mind. You can
    control what you do once they appear.
 1. (p. 35) Notice how you can choose to focus in on a thought, like Jim
    Carrey putting the mask over his face (in the movie The Mask), or you
@@ -51,7 +74,7 @@ hitting the gym.
 1. (p. 108) No amount of therapy or psychological skills is going to
    overturn the destructive impact of poor sleep or diet and lack of
    physical activity.
-1. (p. 117) [The Feeling Wheel](img/feeling-wheel.jpeg)
+1. (p. 117) [The Feeling Wheel](/img/feeling-wheel.jpeg)
 1. (p. 123) Listen carefully. Don't offer advice unless they ask for it.
    Reflect back what you hear them saying; let them know they are being
    heard and respected.
@@ -71,14 +94,14 @@ hitting the gym.
    ever begin to be OK with taking risks and making mistakes ourselves?
 1. (p. 174) How other people respond to my failures does not provide an
    accurate assessment of my personality and worthiness as a human, but
-   instad indicates how that person relates to failure.
+   instead indicates how that person relates to failure.
 1. (p. 175) Coming back from failure (resilience) cannot be dependent on others. We
    will take responsibility to tend to our wounds with compassion and
    dust ourselves off after a fall.
 1. (p. 193) Every time we say no to something because of fear, we
    reconfirm our belief that it wasn't safe or that we couldn't handle
    it.
-1. (p. 218) The best kinf od coach is not one who swoops in to rescue
+1. (p. 218) The best kind of coach is not one who swoops in to rescue
    you, but one who is honest with you and encourages you to find the
    strength within yourself to move through difficult moments, so that
    you may discover your own strength.
