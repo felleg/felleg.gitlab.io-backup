@@ -10,7 +10,7 @@ Release year: 2022
 
 Author: [Dr Julie Smith](https://www.drjulie.uk/)
 
-[Link to my handwritten notes](Google Drive link)
+[Link to my handwritten notes](https://drive.google.com/file/d/1Z5wm0zN5Yzu9XJMW_mt9Ezm0JDSCXx8i/view?usp=sharing)
 
 ---
 
@@ -20,7 +20,7 @@ REVIEW
 
 ---
 
-Quotes that stuck out to me:
+:star: Star quotes:
 
 1. (p. 35) You can't control the thoguhts that arrive in your mind. You can
    control what you do once they appear.

@@ -19,6 +19,6 @@ REVIEW
 
 ---
 
-Quotes that stuck out to me:
+:star: Star quotes:
 
 1.
