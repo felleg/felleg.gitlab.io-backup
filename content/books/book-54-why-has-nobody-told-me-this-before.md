@@ -3,7 +3,6 @@ date: 2023-11-03T09:50:11-04:00
 title: "(Book 54) Why Has Nobody Told Me This Before?"
 cover: img/books/why-has-nobody-told-me-this-before.png
 tags: ['books']
-draft: true
 ---
 
 Release year: 2022
