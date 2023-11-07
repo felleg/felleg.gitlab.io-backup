@@ -7,7 +7,7 @@ title: "My Albums of the Year"
 -->
 | Award Year | Release Year | Thumbnail | Album | Artist | Genre |
 | ---- | ---- |--------- | ----- | ------ | ----- |
-| 2023 | 2023 / 2022 / 2023 | {{< thumbnail src="img/2023-albumoftheyear-my-21st-century-blues.png" >}} {{<thumbnail src="img/albums/spirals.jpg">}} {{<thumbnail src="img/albums/everything-harmony.png">}}| My 21st Century Blues / Spirals / Everything Harmony | Raye / Nick Leng / The Lemon Twigs | House, pop, blues, dancehall, trip hop / Psychedelic? / Todd Rundgren? |
+| 2023 | 2023 / 2022 / 2023 | {{< thumbnail src="img/2023-albumoftheyear-my-21st-century-blues.png" >}} {{<thumbnail src="img/albums/spirals.jpg">}} {{<thumbnail src="img/albums/everything-harmony.png">}} {{<thumbnail src="img/albums/melinoe.jpg">}} | My 21st Century Blues / Spirals / Everything Harmony / Melinoë | Raye / Nick Leng / The Lemon Twigs / Akhlys | House, pop, blues, dancehall, trip hop / Psychedelic? / Todd Rundgren? / Black Metal |
 | 2022 | 2021 | {{< thumbnail src="img/2022-albumoftheyear-debonair.jpg" >}} | Debonair | Horsey | Eclectic Progressive Rock |
 | 2021 | 2021 | {{< thumbnail src="img/inside.png" >}} | Inside | Bo Burnham | Comedy |
 | 2020 | 2020 | {{< thumbnail src="img/2020-albumoftheyear-sadako.jpg" >}} | Sadako e le mille gru di carta | LogoS | Rock progresivo italiano |
