@@ -20,7 +20,7 @@ asked me, "Are you sure you want to read something like this in public?"
 I totally get where his question came from. Long before the book landed
 in my hands, I was asking myself the same question. Would this book make
 me a manipulator? Would it corrupt my soul and turn me into an evil,
-untrustworthy politician?
+untrustworthy politician? How will this book change me?
 
 
 
