@@ -3,7 +3,6 @@ date: 2023-11-14T15:16:16-05:00
 title: "(Book 55) The 48 Laws of Power"
 cover: img/books/the-48-laws-of-power.png
 tags: ['books']
-draft: true
 ---
 
 Release year: 1998
@@ -14,7 +13,7 @@ Author: [Robert Greene](https://powerseductionandwar.com/)
 
 ---
 
-One day, a co-worker noticed I was reading *The 48 Laws of Power* and
+Recently, my colleague @Pierre-Francois Saint-Marc noticed I was reading *The 48 Laws of Power* and
 asked me, "Are you sure you want to read something like this in public?"
 
 I totally get where his question came from. Long before the book landed
@@ -22,7 +21,28 @@ in my hands, I was asking myself the same question. Would this book make
 me a manipulator? Would it corrupt my soul and turn me into an evil,
 untrustworthy politician? How will this book change me?
 
+For one, this book made me better appreciate what power truly is. Power,
+contrary to what I was lead to believe for the longest time, is neither
+good nor bad. Like money, power simply amplifies what you already are,
+because being powerful is getting people to act according to your
+desires. For example, reading this book made me appreciate how truly powerful
+our children are, despite not being in a "position of authority."
 
+What I feared when I started this book was that the author would focus
+on the reader and treat coldly the people who would become subjected to
+the reader's newly-found power. Actually, if anything, it's power itself
+that the book treats coldly. It explains the mechanics of acquiring
+power, using power, and keeping power. While I wasn't a huge fan of the
+early laws in the book -- the ones about acquiring power, which seem all
+about manipulating each other -- I was fascinated by the later chapters,
+notably law 46 ("Never appear too perfect") which discussed the
+destructive power of envy.
+
+I believe that, at multiple points and turns in my life, I have broken
+every one of the 48 rules. In that sense, it felt like the author was
+coaching me to learn from my mistakes, in order to guide me toward
+living a life where I felt in control. I expect to use the teachings
+from this book for many years to come.
 
 # Félix Rating: 👍👍
 
