@@ -82,7 +82,7 @@ how to better listen to originals, whoever they may be.
    doesn't do much good alone; the more meaningful statement is: "She's
    crying because she wants to play with your toys, and in this family
    we always share."
-1. (p. p. 169) People are more likely to clean up when asked *to be
+1. (p. 169) People are more likely to clean up when asked *to be
    helpers* instead of asking *to help*.
 1. (p. 190) No one has the right to hold a critical opinion without
    speaking up about it.
