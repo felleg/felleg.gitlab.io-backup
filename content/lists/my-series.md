@@ -4,6 +4,7 @@ title: "My Series"
 
 | Year watched | Release Year | Thumbnail | Title | # Seasons Watched | Genre | Comments |
 | ---- | ---- |--------- | ----- | ------ | ----- | ------------|
+| 2023 | 2018 | {{< thumbnail src="img/series/succession.jpg" >}} | [Succession](https://en.wikipedia.org/wiki/Succession_(TV_series)) | 1 | Satirical Comedy-Drama about family empires in a modern setting | (currently watching, it's got potential)|
 | 2023 | 2000 | {{< thumbnail src="img/series/gilmore-girls.png" >}} | [Gilmore Girls](https://www.justwatch.com/ca/tv-show/gilmore-girls) | 2 | Slice of life | :green_circle: Great characters, great dialogues |
 | 2023 | 2022 | {{< thumbnail src="img/series/star-trek-strange-new-worlds.png" >}} | [Star Trek: Strange New Worlds](https://www.justwatch.com/ca/tv-show/star-trek-strange-new-worlds) | < 1 | Science Fiction | :green_circle: Great example of modern leadership and empowered individuals |
 | 2023 | 2023 | {{< thumbnail src="img/series/how-to-get-rich.png" >}} | [How to Get Rich](https://www.justwatch.com/ca/tv-show/how-to-get-rich) | 1 | Documentary | :green_circle: Introduces the concept of the rich life, reframes how to think about money. |
