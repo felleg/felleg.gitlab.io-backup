@@ -11,6 +11,7 @@ aliases = [
 | Rocks             | {{< thumbnail src="img/art/Rocks.png" position="center" >}}                      | 2023-11-25   |
 | Clown             | {{< thumbnail src="img/art/Clown.png" position="center" >}}                      | 2023-11-25   |
 | Lucky             | {{< thumbnail src="img/art/Lucky.jpg" position="center" >}}                      | 2023-11-14   |
+| Face             | {{< thumbnail src="img/art/face.jpg" position="center" >}}                      | 2023-10-24  |
 | The Ground Is Beautiful Tonight             | {{< thumbnail src="img/art/The Ground Is Beautiful Tonight.jpg" position="center" >}}                      | 2023-10-24  |
 | Untitled             | {{< thumbnail src="img/art/Untitled-2023-1.jpg" position="center" >}}                      | 2023-10-24   |
 | Untitled             | {{< thumbnail src="img/art/Untitled-2023-2.png" position="center" >}}                      | 2023-10-14   |
