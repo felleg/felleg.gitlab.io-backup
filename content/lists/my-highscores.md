@@ -49,6 +49,7 @@ Default difficulty settings were used unless stated otherwise.
 |[Raiden](https://en.wikipedia.org/wiki/Raiden_(video_game)) |1990|{{< vertical >}}|[168,610](/img/highscores/raiden-20221107.jpg)   | 2022-11-07   | Port: The Raiden Project (USA). Default difficulty (Colonel). First attempt!     |
 |[Raiden II](https://en.wikipedia.org/wiki/Raiden_II) |1995|{{< vertical >}}|[450,956](/img/highscores/raiden-ii-20221106.jpg)   | 2022-11-06   | Port: The Raiden Project (USA). Default difficulty (Colonel).|
 |[RayForce](https://en.wikipedia.org/wiki/RayForce) (aka Gunlock, aka Layer Section, aka Galactic Attack) |1994|{{< vertical >}}| [1,643,200](/img/highscores/rayforce-20221228.jpg) | 2022-12-28| Sega Saturn port
+|[Rolling Gunner (Novice Mode)](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/RollingGunner) |2018|{{< horizontal >}}| [101,593,900](/img/highscores/rolling-gunner-20231126.jpg) | 2023-11-26| Novice Mode (Steam)
 |[Snap Jack](https://www.arcade-museum.com/game_detail.php?game_id=9597)|1981|{{< horizontal >}}|[11,810](/img/highscores/snap-jack-20221226.jpg)|2022-12-26|
 |[Strikers 1945 Plus](https://en.wikipedia.org/wiki/Strikers_1945_Plus)      |1999| {{< vertical >}} (yoko)|[309,600](/img/highscores/strikers-1945-plus-20221204.jpg)  |2022-12-04    | 2 lives (default MVS)     |
 |[Strikers 1945 II](https://en.wikipedia.org/wiki/Strikers_1945_II)      |1998| {{< vertical >}}|[372,900](/img/highscores/strikers-1945-ii-20221210.jpg)  |2022-12-10    | PlayStation port     |
