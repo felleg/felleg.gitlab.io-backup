@@ -3,7 +3,6 @@ date: 2023-12-01T11:31:43-05:00
 title: "(Book 57) Measure What Matters"
 cover: img/books/measure-what-matters.png
 tags: ['books']
-draft: true
 ---
 
 Release year: 2018
@@ -14,10 +13,82 @@ Author: [John Doerr](https://www.linkedin.com/in/john-doerr-03248211/)
 
 ---
 
-REVIEW
+How do you measure your success as an individual? As a team? As an
+organization?
 
-Committed goals vs Aspirational goals.
-Stretch goals.
+How do you know when you're all done, or when it's time to stretch
+and put some extra hours?
+
+How can you tell what the impact will be of not reaching a specific
+objective?
+
+Has a boss given you conflicting priorities before? Do you often fall
+in the trap of saying "yes" to your colleagues to the detriment of
+your own work?
+
+These questions are not easy to answer, and they are all linked to the inconvenient fact that not all work, not even all deliverables, generates (business) value.
+This truth will often be counterintuitive. I don't blame those who
+make the mistake of getting priorities mixed up. I
+have done the same many times, and still do. Here's an example: I
+would be working on some difficult task that requires a high amount
+of concentration. Feeling burnt out, I'd open a tab and start
+watching some YouTube to blow off some steam, or maybe even play a
+video game for a few minutes, thinking that mental health trumps work. However, this comes at a
+cost: as I consume content, the work is not moving, while the
+deadline steadily keeps approaching. If I don't balance things
+properly, I'll have to rush my work to deliver in time, generating
+lower quality output and stressing myself more. Thus, because of my
+own choices, I end up generating worse output and stressing myself
+out. This appears like a failure on all fronts.
+
+It doesn't have to be that way. There is a system called Objectives &
+Key Results (OKRs) that aims to align our businesses, our teams, and
+our own lives, towards the outcomes we really want. The system
+sometimes gets a
+bad rap, but I think that's because it is misunderstood. OKRs are
+really simple in practice. Identify an objective, and write down the
+key results that will let you know when the objective is reached.
+Writing down goals makes them real. Identifying the necessary
+milestones to reach for accomplishing a goal focuses us on working on
+what matters.
+
+Does this seem too simplistic to you? I can imagine people thinking,
+"If it were that useful, everyone would do it, right?" And yet, it
+really is that simple. It's simply management hygiene.
+
+Here's one thing *Measure What Matters* made me realize: For any
+complex endeavour to succeed, assuming you wish your success to be
+independent from luck, you need a good strategy and an excellent
+execution. I like to visualize the relationship between strategy and
+execution with this picture of an archer aiming for a specific
+location on a Go board (see figure below). Strategy is your best
+guess at the path that will lead your team to victory. Execution is
+your attempt at walking this path. Like the archer aiming for a
+target on the board, you might flinch and shoot your arrow at the
+wrong location, impacting the entire business.
+
+{{< figure src="/img/strategy-and-execution.png" position="center" >}}
+
+If your company doesn't communicate its business objectives to its
+workers, it's similar to asking your archers to shoot their targets
+blindfolded. Conversely, if your company communicates its business
+objectives to its workers, it's similar to arming the archers' bows
+with a laser sight. If I were a betting man, I'd easily give my
+confidence to a team equipped with laser sight, and who wouldn't?
+They are put in an environment that pushes them to reach their
+target, an almost unfair advantage.
+
+In this metaphor, what OKRs do is give tools to an archer to make it
+easier to shoot the target. A CEO knows what targets they should hit
+to ensure the future of their business (strategy). An archer tries to
+reach those targets. These people must collaborate to ensure the game
+is won.
+
+The book goes more in detail about committed goals vs aspirational
+goals, stretch goals, and so forth. But above all, what it did for me
+is make me question how some businesses got as far as they did
+without OKRs. After reading about the concept, it just seems like
+common sense to me.
 
 # [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍
 
