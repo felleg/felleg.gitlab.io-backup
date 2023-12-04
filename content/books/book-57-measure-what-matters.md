@@ -65,7 +65,7 @@ location on a Go board (see figure below). Strategy is your best
 guess at the path that will lead your team to victory. Execution is
 your attempt at walking this path. Like the archer aiming for a
 target on the board, you might flinch and shoot your arrow at the
-wrong location, impacting the entire business.
+wrong location, impacting the entire business in unpredictable ways.
 
 {{< figure src="/img/strategy-and-execution.png" position="center" >}}
 
