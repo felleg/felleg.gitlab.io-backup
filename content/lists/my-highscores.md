@@ -34,6 +34,7 @@ Default difficulty settings were used unless stated otherwise.
 |[Einhänder](https://en.wikipedia.org/wiki/Einhänder)|1997|{{< horizontal >}}|[2,669,030](/img/highscores/einhander-20221230-2.jpg)|2022-12-30|Normal difficulty|
 |[Esp Ra. De.](https://en.wikipedia.org/wiki/ESP_Ra.De.) |1998| {{< vertical >}}|[3,183,730](/img/highscores/esp-ra-de-20220416.jpg) |2022-04-16|
 |[Galaga](https://en.wikipedia.org/wiki/Galaga) |1981| {{< vertical >}}|[39,380](/img/highscores/galaga-20231021.jpg) |2023-10-21|
+|[Ghosts 'n Goblins](https://en.wikipedia.org/wiki/Ghosts_%27n_Goblins_(video_game))      |1985| Player-controlled (platformer) |[64,900](/img/highscores/ghosts-n-goblins-20231103.jpg)     |2023-11-03 |      |
 |[Giga Wing](https://en.wikipedia.org/wiki/Giga_Wing)      |1999| {{< vertical >}} (yoko)|[7182,36244250](/img/highscores/giga-wing-20220326.jpg)     |2022-03-26 |      |
 |[Gradius V](https://en.wikipedia.org/wiki/Gradius_V)      |2004| {{< horizontal >}} (yoko)|[438,840](/img/highscores/gradius-v-20230717.jpg)     |2023-07-17 | Very Easy difficulty, played on Steam Deck     |
 |[GunForce II](https://en.wikipedia.org/wiki/GunForce_II)      |1994| {{< horizontal >}}|[26,220](/img/highscores/gun-force-ii-20230624.jpg) | 2023-06-25    | |
