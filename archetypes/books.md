@@ -3,6 +3,7 @@ date: {{ .Date }}
 title: "{{ replace .Name "-" " " | title }}"
 cover: img/books/...
 tags: ['books']
+draft: true
 ---
 
 Release year: ####
