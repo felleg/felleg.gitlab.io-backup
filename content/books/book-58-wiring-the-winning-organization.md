@@ -16,51 +16,52 @@ Authors:
 
 ---
 
-Naming things is hard. Whether it's a variable, a book, a child, or even
-an entire philosophical movement, harnessing the power of words is a
-daunting task.
-
 For a number of years, I have grown dissatisfied with the
 term "DevOps". Don't get me wrong; I am still incredibly thankful for
 the DevOps community that made me aware of a different way to see work
 and collaboration. In the past year, my understanding of DevOps shifted
 from a pipeline-centric approach to a learning-centric one. I fantasized
 about how we could use the DevOps way of thinking to streamline
-processes between teams that don't have the name "Dev" and "Ops", teams
+processes between teams that don't have the names "Dev" and "Ops", teams
 that might not even write code. I was daydreaming about using DevOps to
 solve problems happening between Marketing and HR teams.
 
 However, not everyone agreed with me. I was recently told, "What you are
 talking about has value, but it is not DevOps. Please stop using the
 DevOps name in conjunction with your ideas, because you are hurting the
-movement and our efforts." What words, then, should I use to talk about
-this new perspective?
+movement and our efforts." Ouch.
 
 I believe the term "DevOps" has outstayed its welcome. I say this
 because I started noticing that depending on who you ask what the DevOps
 movement is working towards, you'll get a different answer. This is a
 problem when you say your company "does DevOps". What does that even
-mean?
+mean? The problem here is an eternal one: naming things correctly is simply
+really, really hard.
 
-I think authors Gene Kim and Steven J. Spear came to a similar
-conclusion when writing this book. When Kim made DevOps mainstream
+I think authors Gene Kim and Steven J. Spear tackled this challenge head-on
+when writing this book. When Kim made DevOps mainstream
 with [The Phoenix Project](/books/book-41-1-the-phoenix-project/) in
-2013, he was actually showing us the tip of the iceberg. What he called
+2013, he was actually showing us the tip of an immense iceberg. What he called
 DevOps at the time was actually a subset of a much broader perspective
 that could be applied to any type of work and problem-solving. It was time to
 give this movement a new name, something more general that could be used
 on a much bigger scale than only between Dev and Ops teams.
 
-This new movement gives us new words to break free from the shackles of
-"Dev" and "Ops". Here, we talk about social circuitry, the winning zone
-vs the danger zone, and the three layers of work.
+In their new philosophy gravitating around "Social Circuitry", the
+authors give us new words to break free from the shackles of
+"Dev" and "Ops". Here, we talk about the "winning zone",
+the "danger zone", coherence, coupling, the three layers of work, and the various "-ion"
+methods that help Layer 3 workers to wire their organizations with
+intent.
 
 {{< figure src="/img/wiring-layers.png" position="center" caption="The three layers of work" >}}
 
-As a physicist, I am seduced by this new way of thinking. It is as if
+As a student of Physics, I am seduced by this new way of thinking. It is as if
 Kim and Spear managed to write the unifying equations that tie all the
 different work improvement movements of the past in one simple, coherent
-toolbox.
+toolbox. See in the figure below how they were able to generalize and
+simplify a multitude existing concepts through the lens of
+slowification, simplification and amplification:
 
 {{< figure src="/img/wiring-practices.png" position="center" caption="How different practices slowify, simplify, or amplify" >}}
 
@@ -76,13 +77,19 @@ disposal the following tools:
   - **Incrementalization**  breaks a few, complex experiments in many
     smaller, faster experiments
   - **Linearization** sequences tasks to flow successively
-    - **Standardize** tasks and exchanges at the delivery boundaries
-    - **Stabilize** a problem to contain it and prevent it from spreading
-    - **Self-synchronize** the system without top-down monitoring
+    - **Standardization** of tasks and exchanges at the delivery boundaries
+    - **Stabilization** of problems to contain them and prevent spreading
+    - **Self-synchronization** of the system without top-down monitoring
 - **Amplification** makes it obvious that there are problems that demand
   attention and whether or not they've been addressed
 
-
+Overall, this is a brand new, deeply profound insight from two of the
+most acclaimed
+management gurus of our time. I am very excited to put their new
+thoughts to
+practice. Wiring an organization to win is probably the most
+important challenge in technology today, but thankfully we finally have
+a clear and coherent set of tools that allow us to get there.
 
 # [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍👍
 
