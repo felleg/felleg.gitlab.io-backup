@@ -3,7 +3,6 @@ date: 2023-12-12T09:53:59-05:00
 title: "(Book 58) Wiring the Winning Organization"
 cover: img/books/wiring-the-winning-organization.png
 tags: ['books']
-draft: true
 ---
 
 Release year: 2023
