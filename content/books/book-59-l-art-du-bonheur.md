@@ -5,7 +5,7 @@ cover: img/books/l-art-du-bonheur.png
 tags: ['books', 'livres']
 ---
 
-Release year: 2000
+Date de parution: 2000
 
 Auteurs: Sa Sainteté le Dalaï-Lama et Howard Cutler
 
