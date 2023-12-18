@@ -3,7 +3,6 @@ title = "I love E-readers"
 date = "2020-10-17"
 author = "Félix Léger"
 cover = "img/kobolibrah2o.png"
-tags = ["featured"]
 keywords = ["e-readers", "kindle", "kobo"]
 description = "Join me in celebration to sing the praise of an underappreciated technology: E-readers"
 showFullContent = false

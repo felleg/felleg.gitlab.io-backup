@@ -5,7 +5,6 @@ cover: "img/my-planck.jpg"
 toc: false
 frontpage: "false"
 tags:
-  - featured
 aliases : [
    "/posts/2021/06/buying-a-planck/",
    "/posts/2021/06/buying-a-planck-keyboard/"

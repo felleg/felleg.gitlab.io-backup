@@ -8,6 +8,8 @@ tags:
 frontpage: "true"
 ---
 
+Know thyself.
+
 I am starting to understand that in this world, you have to be sincere to be able to reach others that do not
 understand you. However, opening up is hard, it makes us vulnerable. It gives others the opportunity to strike
 you down for what you are not.

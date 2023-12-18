@@ -5,7 +5,6 @@ toc: true
 frontpage: "true"
 tags:
   - français
-  - featured
   - tutorials
 ---
 

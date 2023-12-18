@@ -5,7 +5,6 @@ toc: true
 description: "In this post, I discuss how I learned to let go of a collection that took its toll on me."
 frontpage : "true"
 tags:
-  - featured
 ---
 
 Those who know me personally know that I have been collecting video games (among other things) for a long

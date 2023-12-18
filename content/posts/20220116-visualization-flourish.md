@@ -4,7 +4,6 @@ date: 2022-01-16T21:08:03-05:00
 toc: false
 cover:
 tags:
-  - featured
 ---
 
 I made an animated visualization of the analysis I made in my earlier post [Stop Comparing Yourself to

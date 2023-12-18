@@ -4,8 +4,6 @@ date: 2023-10-21T20:31:21-04:00
 draft: false
 toc: false
 cover:
-tags:
-  - featured
 ---
 
 It has occurred to me that after reviewing 52 books, I haven't taken the
