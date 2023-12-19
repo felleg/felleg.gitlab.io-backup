@@ -92,6 +92,13 @@ a clear and coherent set of tools that allow us to get there.
 
 # [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍👍
 
+P.S. If I could make one suggestion to the authors, a simple change in
+the  visual presentation of the different layers of work. It would be to
+picture Layer 1 work at the top and Layer 3 work at the bottom. I don't
+like the visual presentation of having a "Layer 3 worker" live on top of
+a "Layer 1 worker". Layer 3 supports Layer 1 & 2, and Layer 2 supports Layer 1.
+And Layer 1 are heroes.
+
 ---
 
 :star: Star quotes:
