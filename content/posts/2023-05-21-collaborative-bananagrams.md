@@ -37,7 +37,7 @@ demonstration of the game being played:
 1. Pass the Banana bag to the person on your left.
 1. The player draws 1 tile and tries to fit it into the crossword. They can rearrange the crossword as needed.
 1. If the player successfully places a tile, they pass the bag to the next person. Play continues clockwise.
-1. The goal is to empty the Banana bag within a pre-defined time limit (e.g., 1 hour).
+1. The goal is to empty the Banana bag within a pre-defined time limit (e.g., 1 hour), or to beat your fastest time.
 
 ## Additional Twists
 
