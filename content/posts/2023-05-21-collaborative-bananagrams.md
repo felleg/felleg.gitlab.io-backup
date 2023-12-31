@@ -27,19 +27,19 @@ demonstration of the game being played:
 # Rules of Collaborative Bananagrams
 
 -----
-## Setup:
+## Setup
 
 1.  Unzip the Banana bag, grab a handful of tiles (~21), and place them face-up on the table.
 1. Use all the tiles to make a crossword, known as the "core."
 
-## Gameplay:
+## Gameplay
 
 1. Pass the Banana bag to the person on your left.
 1. The player draws 1 tile and tries to fit it into the crossword. They can rearrange the crossword as needed.
 1. If the player successfully places a tile, they pass the bag to the next person. Play continues clockwise.
 1. The goal is to empty the Banana bag within a pre-defined time limit (e.g., 1 hour).
 
-## Additional Twists:
+## Additional Twists
 
 1. All languages are accepted, but no internet use for word suggestions. Internet use is allowed to verify others' words.
 1. Players can draw a tile from the Banana bag before their turn for a "buffered move" to plan their next move.
@@ -48,7 +48,7 @@ demonstration of the game being played:
 1. Proper nouns and acronyms are not allowed as valid words for gameplay.
 1. Outsiders ("the board") who are watching can voice their opinions about word legality and game state. **Their feedback is binding.**
 
-## Important Note:
+## Important Note
 
 - All tiles on the crossword must be connected; independent crosswords are not allowed.
 
