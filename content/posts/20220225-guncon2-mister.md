@@ -87,8 +87,7 @@ the cake by being an all-in-one solution.
 sell their GunCon 2 without this cable, watch out!)
 1. The GunCon 2 USB controller
 1. The MiSTer
-1. (optional, if your CRT monitor does not support component) A VGA -> composite/S-video adapter (currently only sold by [Antonio
-Villena](https://www.antoniovillena.es/store/product/vga-composite-s-video-adapter/))
+1. (optional, if your CRT monitor does not support component) A VGA -> composite/S-video adapter, [see available options here](https://www.retrorgb.com/mister-s-video-composite-podcast.html))
 1. A CRT monitor. Ask your relatives, you might be able to find one for cheap, maybe even
 free!
 
@@ -106,9 +105,7 @@ feature. :smile:
 
 
 Note: You can connect your GunCon 2 to the composite signal exiting the MiSTer while still
-using the S-Video signal. This is what I do to get the best picture quality on my Commodore 1702 monitor,
-since the composite signal from Antonio Villena's adaptor creates annoying "dot crawl" patterns on the screen
-due to mismatched timings.
+using the S-Video signal. This is what I do to get the best picture quality on my Commodore 1702 monitor.
 
 {{< figure src="/img/guncon-mister/s-video-adapter-commodore.jpg" position="center" caption="A Y-splitter to use S-Video on a Commodore 1702 monitor, [link to buy](http://herculesworkshop.com/cgi-bin/p/awtp-product.cgi?d=hercules-workshop&item=76537)." >}}
 

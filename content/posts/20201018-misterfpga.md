@@ -341,7 +341,7 @@ You are going to need:
    - If you want to skip the setup (i.e. throw money at the problem), [misteraddons sells some pre-configured cards](https://misteraddons.com/products/pre-configured-sandisk-micro-sd-cards). You will still have to add games yourself. I do not recommend it.
 * Optional: A [VGA-to-component
   cable](https://www.amazon.ca/Monoprice-102170-6-Feet-Component-HD15-3-RCA/dp/B001O8C6HM/) if you want to play on a CRT that has these connections
-   - If your TV only supports composite (red-white-yellow connections) or S-Video, [this adapter](https://www.antoniovillena.es/store/product/vga-composite-s-video-adapter/) works, but I don't currently recommend it, especially for composite.
+   - If your TV only supports composite (red-white-yellow connections) or S-Video, [see these options for an adapter](https://www.retrorgb.com/mister-s-video-composite-podcast.html).
 
 ## Setting up the micro-SD card
 
