@@ -23,7 +23,7 @@
       </h1>
 
       {{ with .Params.Description }}
-        <div class="post-excerpt">{{ . }}</div>
+        <div class="post-excerpt">{{ . | markdownify | safeHTML}}</div>
       {{ end }}
 
       {{ if .Params.Cover }}

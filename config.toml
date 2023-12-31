@@ -41,9 +41,6 @@ disableHugoGeneratorInject = false
 [author]
   name = "Félix Léger"
 
-[blackfriday]
-  hrefTargetBlank = true
-
 [taxonomies]
   tag      = "tags"
   category = "categories"
@@ -209,6 +206,8 @@ disableHugoGeneratorInject = false
     url        = "tags/"
 
 [markup]
+  defaultMarkdownHandler = 'goldmark'
+
   [markup.tableOfContents]
     endLevel = 2
     ordered = false
