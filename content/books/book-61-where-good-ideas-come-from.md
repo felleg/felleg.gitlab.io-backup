@@ -10,7 +10,7 @@ Release year: 2010
 
 Author: [Steven Johnson](https://stevenberlinjohnson.com/)
 
-[Link to my handwritten notes](Google Drive link)
+[Link to my handwritten notes](https://drive.google.com/file/d/1ssjTAqKpTqy5ZiQRjmovxo3z4U_gii2R/view?usp=sharing)
 
 ---
 
