@@ -8,6 +8,8 @@ aliases = [
 
 | Name                      | Thumbnail                                                                                | Date       |
 |---------------------------|------------------------------------------------------------------------------------------|------------|
+| Friend.             | {{< thumbnail src="img/art/friend.PNG" position="center" >}}                      | 2023-12-30   |
+| Friend?             | {{< thumbnail src="img/art/friend-qm.PNG" position="center" >}}                      | 2023-12-22   |
 | Rocks             | {{< thumbnail src="img/art/Rocks.png" position="center" >}}                      | 2023-11-25   |
 | Clown             | {{< thumbnail src="img/art/Clown.png" position="center" >}}                      | 2023-11-25   |
 | Lucky             | {{< thumbnail src="img/art/Lucky.jpg" position="center" >}}                      | 2023-11-14   |
