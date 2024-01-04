@@ -14,7 +14,21 @@ Author: [Steven Johnson](https://stevenberlinjohnson.com/)
 
 ---
 
-REVIEW
+This book made me think a lot. I enjoyed how it took an almost
+anatomical approach to the concept of "the idea". I think that the star
+quotes below will do a better than job me at summarizing what is
+interesting about this book. It's a very "meta" book, and it's
+challenging to discuss the idea of "how ideas work", but the author does
+a very good job there. In particular, you'll hear of how Darwin came to his famous
+Theory of Evolution, and the author will take you through all the twists
+and turns in Darwin's method of working to really show you where good
+ideas come from. In my view, this book demolishes the myth of the "genius
+working in a lab", and instead makes the bold statement that the ground
+zero of innovation is the conference table. Serendipity, the slow hunch,
+commonplacing... these are all the practices that could lead you to your
+next big idea.
+
+Luck favors the connected mind. Good luck!
 
 # [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍
 
