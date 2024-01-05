@@ -6,7 +6,7 @@ toc: false
 cover: /img/two-thumbs-up.jpg
 ---
 
-It has occurred to me that after reviewing 52 books, I haven't taken the
+It has occurred to me that after reviewing 52 books, I hadn't yet taken the
 time to explain my rating scale. Indeed, at the end of every review, I
 give a score that ranges from:
 
