@@ -23,7 +23,7 @@ Theory of Evolution, and the author will take you through all the twists
 and turns in Darwin's method of working to really show you where good
 ideas come from. In my view, this book demolishes the myth of the "genius
 working in a lab", and instead makes the bold statement that the ground
-zero of innovation is the conference table. Serendipity, the slow hunch,
+zero of innovation is the conference table. Serendipity, the adjacent possible, the slow hunch,
 commonplacing, coffeehouses... these are all the practices that could lead you to your
 next big idea.
 
