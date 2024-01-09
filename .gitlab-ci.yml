@@ -5,8 +5,8 @@ variables:
 
 pages:
   script:
-  - hugo
   - bash scripts/generate-allbooks.sh
+  - hugo
 
   artifacts:
     paths:
