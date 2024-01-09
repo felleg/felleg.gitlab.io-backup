@@ -1,7 +1,7 @@
 ---
 date: 2023-10-05T17:54:03-04:00
 title: "(Book 50) Lean In"
-cover: img/books/lean-in.jpg
+cover: img/books/lean-in.png
 tags: ['books']
 ---
 

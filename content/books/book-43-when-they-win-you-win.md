@@ -2,7 +2,7 @@
 date: 2023-08-12
 title: (Book 43) When They Win, You Win
 frontpage: "true"
-cover: img/books/when-they-win-you-win.jpg
+cover: img/books/when-they-win-you-win.png
 tags: ['books']
 ---
 

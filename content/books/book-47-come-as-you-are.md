@@ -1,7 +1,7 @@
 ---
 date: 2023-09-15T15:57:35-04:00
 title: "(Book 47) Come as You Are"
-cover: img/books/come-as-you-are.jpg
+cover: img/books/come-as-you-are.png
 tags: ['books']
 ---
 

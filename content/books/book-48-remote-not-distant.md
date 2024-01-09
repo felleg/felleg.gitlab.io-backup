@@ -1,7 +1,7 @@
 ---
 date: 2023-10-03T09:30:27-04:00
 title: "(Book 48) Remote Not Distant"
-cover: img/books/remote-not-distant.jpg
+cover: img/books/remote-not-distant.png
 tags: ['books']
 ---
 

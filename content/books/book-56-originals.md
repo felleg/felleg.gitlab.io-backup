@@ -1,7 +1,7 @@
 ---
 date: 2023-11-25T11:51:22-05:00
 title: "(Book 56) Originals"
-cover: img/books/originals.jpg
+cover: img/books/originals.png
 tags: ['books']
 ---
 

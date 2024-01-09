@@ -1,7 +1,7 @@
 ---
 date: 2023-10-21T10:53:08-04:00
 title: "(Book 52) What Color Is Your Parachute"
-cover: img/books/what-color-is-your-parachute.jpg
+cover: img/books/what-color-is-your-parachute.png
 tags: ['books']
 ---
 

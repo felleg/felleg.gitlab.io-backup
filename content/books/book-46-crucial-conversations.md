@@ -1,7 +1,7 @@
 ---
 date: 2023-09-06T13:30:45-04:00
 title: "(Book 46) Crucial Conversations"
-cover: img/books/crucial-conversations.jpg
+cover: img/books/crucial-conversations.png
 tags: ['books']
 ---
 

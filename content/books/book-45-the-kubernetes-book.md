@@ -2,7 +2,7 @@
 date: 2023-08-30
 title: (Book 45) The Kubernetes Book
 frontpage: "true"
-cover: img/books/the-kubernetes-book.jpg
+cover: img/books/the-kubernetes-book.png
 tags: ['books']
 ---
 
