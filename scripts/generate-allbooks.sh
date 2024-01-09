@@ -5,7 +5,7 @@ mkdir -p static/allbooks
 output_file="static/allbooks/index.html"
 
 # Create the HTML file with a basic structure
-echo "<html><head><title>All Book Covers</title></head><body><h1>All Book Covers</h1>" > "$output_file"
+echo "<html><head><title>All Books</title></head><body>" > "$output_file"
 
 # Loop over files in content/books in order of creation
 for file in $(ls -r content/books/*); do
