@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Output HTML file
+mkdir -p static/allbooks
 output_file="static/allbooks/index.html"
 
 # Create the HTML file with a basic structure
