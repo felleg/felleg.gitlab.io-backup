@@ -3,7 +3,6 @@ date: 2024-01-08T15:47:52-05:00
 title: "(Book 62) Principles: Life and Work"
 cover: img/books/principles.png
 tags: ['books']
-draft: true
 ---
 
 Release year: 2017
@@ -14,7 +13,61 @@ Author: [Ray Dalio](ihttps://en.wikipedia.org/wiki/Ray_Dalio)
 
 ---
 
-REVIEW
+Ray Dalio, one of the richest and most successful individuals on this
+planet, heads Bridgewater, the world’s largest hedge fund, consistently
+touted as one of the most successful globally. Remarkably, his entire
+success is attributed to a set of principles he developed and refined
+over time, guiding his relationships and decision-making. In his book
+"Principles," he shares the recipe for his success.
+
+How’s that for a sales pitch?
+
+"Principles" is a substantial book. I must admit that towards the end, I
+was feeling fatigued. It's understandable, though; the book spans
+roughly 550 pages, equivalent to trying to drink from a fire hose. After
+the approximately 100-page autobiographical section, the author
+succinctly lays out his life and work principles. The text serves merely
+to put them in context. His writing is rapid, akin to a machine gun:
+nugget after nugget after nugget, a barrage of wisdom accumulated over
+decades of leading the world’s largest hedge fund. I doubt this book was
+meant to be read at the pace I was reading it, just like all my book
+reviews aren’t meant to be read in one sitting. This book is meant to be
+slowly digested or used as a reference. There is so much to talk about
+in here.
+
+As you can see below, I managed to accumulate 52 star quotes from this
+read, which is certainly above average for me. A lot of it is common
+sense, which, as I’m beginning to learn, is a misleading way of saying
+“experience.” Ray Dalio's teachings extend in all directions, simply
+because his own experience is so vast.
+
+From reading Dalio’s biography, it seems obvious to me that he never
+expected to become as successful as he was. What he consciously did was
+invest in the idea of principled decision-making, also known as the idea
+meritocracy, and simply got curious about how far he could push it. The
+rest took care of itself. To that effect, this book is the logical
+conclusion of a lifetime of synthesizing one’s train of thought for
+others to grasp onto. A wannabe author like myself can’t help thinking,
+“You’re a long way from writing a book as good as Ray Dalio’s
+'Principles.'” While this is as bleak and envious a thought a would-be
+author can have, the sole existence of this book also gives me hope.
+Being diligent and curious is the foundation of the work that allowed
+Dalio to write this book. In that sense, I very humbly feel that by
+writing book reviews such as this one, I’m proving to myself that I also
+have these traits. My ego is still too big for my own head, but I feel
+that time and life are both on my side on that front.
+
+Above all else, this book made me contemplate the core idea of having
+principles. While reading a thought leader’s list of principles is
+certainly enlightening, it did make me ponder my own principles. What
+measuring sticks do I use when making decisions to determine if I shall
+go left or go right? If I were to capture such principles in written
+form every time I make a decision, what would the end result look like?
+How much better can a relationship be when both parties know they share
+the same principles?
+
+I’m looking forward to finding out.
+
 
 # [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍
 
