@@ -171,7 +171,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "books"
-    url = "/books"
+    url = "/allbooks"
 
   [[params.social]]
     name = "art"
