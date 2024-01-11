@@ -56,7 +56,7 @@ Put the filled banana pouch on your table. That's it!
 
 ## Important Rules
 
-- All tiles on the crossword must be connected into one big crossword; separated crosswords are not allowed.
+- All tiles forming the crossword must be connected into one big crossword; separated crosswords (i.e. touching only from corners of tiles) are not allowed.
 - Proper nouns (e.g. "Félix") and acronyms ("LOL") are never allowed.
 - Words must be read from left to right and top to bottom, as in
   typical crosswords.
