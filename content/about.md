@@ -13,3 +13,11 @@ know in a Disqus comment or via email. :smile: In the meantime, have a nice day!
 
 {{< figure src="/img/lac-travers-2022.jpeg" position="center" caption="" >}}
 
+---
+
+This website's format is based on [Hello
+Friend](https://github.com/panr/hugo-theme-hello-friend) from
+[panr](https://github.com/panr), more
+specifically [Hello Friend
+NG](https://github.com/rhazdon/hugo-theme-hello-friend-ng), which is
+maintained by [rhazdon](https://github.com/rhazdon/).
