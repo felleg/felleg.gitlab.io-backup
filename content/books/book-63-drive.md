@@ -14,7 +14,18 @@ Author: [Daniel H. Pink](danpink.com)
 
 ---
 
-REVIEW
+If your journey in reading books on psychology and productivity is
+anything like mine, chances are you've come across multiple quotes from
+the book Drive by Daniel Pink. This book seems to have hit a specific
+nerve in 2009 when it originally came out, because I feel like I'm
+constantly reminded of its existence. Naturally, I got curious and went
+straight to the source to see what Drive is all about.
+
+Drive is a fairly short book that centers around one big idea: for all
+parties involved, work driven by intrinsic
+motivation generally leads to better results than extrinsic motivation.
+
+This idea 
 
 # [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍
 
