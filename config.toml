@@ -197,6 +197,10 @@ disableHugoGeneratorInject = false
     name       = "Books"
     url        = "books/"
   [[menu.main]]
+    identifier = "guestbook"
+    name       = "Guestbook"
+    url        = "guestbook/"
+  [[menu.main]]
     identifier = "lists"
     name       = "Lists"
     url        = "lists/"
