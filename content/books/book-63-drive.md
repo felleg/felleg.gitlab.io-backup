@@ -3,7 +3,6 @@ date: 2024-01-13T11:16:20-05:00
 title: "(Book 63) Drive"
 cover: img/books/drive.png
 tags: ['books']
-draft: true
 ---
 
 Release year: 2009
@@ -25,7 +24,81 @@ Drive is a fairly short book that centers around one big idea: for all
 parties involved, work driven by intrinsic
 motivation generally leads to better results than extrinsic motivation.
 
-This idea 
+This idea has deep ramifications. For example, could it be that the way
+we reward employees for their work might be driving *down* productivity?
+If so, what is intrinsic motivation and how does one cultivate it to
+maximize productivity?
+
+Since I've never managed a company myself, I can only look at my own
+experience to try and make sense of the concept of intrinsic motivation.
+For example, what makes me jump out of bed every morning? Is it my
+salary? My bonuses? The prospect of climbing the company ladder? No, no, and no. What makes waking up worth it to me is the thought that
+every day is an opportunity to connect with colleagues that I truly love. In fact, that's
+often what keeps me up at night; I wish I could fast-forward the night
+to reach tomorrow sooner!
+
+While this is nice and good, it is not a guarantee of productivity.
+This got me thinking about the tangible work I have been doing on the side over a
+number of years, such as maintaining [this
+website](https://felixleger.com), writing [these book reviews](/books),
+and [creating content for a game called
+FlashFlashRevolution (FFR)](https://felixleger.com/posts/2022/01/i-should-stop-comparing-myself-to-others/).
+While reading Drive, I was slowly realizing that intrinsic motivation is
+indeed very strong. Had you asked me ten years ago, I would not have
+expected to have created 43 songs for a publicly available video game,
+and especially not to have read 43 books in a single year! What made me
+do those things for so long is that I simply loved the process.
+
+Here's the twist, though. As soon as I realized that I had created 43
+songs for FFR, which was above average, I decided that this was enough
+and felt comfortable moving on to other things. I stopped producing
+content. And while I currently feel more productive then ever with these book reviews,
+I wonder about what the future holds. Will I lose momentum once I cross
+my self-imposed objective of 100 books?
+
+The question that I'm most fixated on right now is related to a new link
+I added to my website, [/allbooks](/allbooks). If you visit this list,
+you will see a gallery of the books I currently read, and clicking on a
+picture will link you to its review. Pretty neat, right? Well, I took
+this opportunity to set myself what might be the most ambitious
+objective I
+have ever given myself: I want the pictures of the books I read to
+completely fill my browser when zoomed out at 30%. Talk about moving the
+goal post! This picture contains 63 books.
+
+{{< figure src="/img/allbooks-20240115-progress.png" position="center" caption="I've still got a long way to go!" >}}
+
+Another visualization I attempted is how many books I've read over the
+years:
+
+{{< figure src="/img/books-read-20240115.png" position="center" caption="" >}}
+
+Here's my question: why am I spending time visualizing these things? Who
+am I doing this for? Am I feeding my ego, or putting undue pressure on
+myself not to lose momentum? Am I hurting my own productivity by pushing myself so hard?
+Why do I want my book reading to be productive anyway? Have I perverted my
+original goal of "learning faster than the competition", or am I giving
+myself the right tools to tackle it?
+
+It's funny to think that initially in reading Drive, I thought I would
+give it a thumbs down. I felt like I had come across the book's ideas in
+so many sources that I was not learning anything new. And yet, as I
+write this review, I am questioning my whole reading journey, my
+ambitions, and the way I choose to spend my time. I feel like I am in
+therapy all over again; while it's uncomfortable to look for answers to
+these deep questions, there will be no stopping me once I figure them
+out.
+
+The bottom line is that if you can turn a task into its own reward, it
+will feel like play and you will relish spending more time doing it.
+That's the secret to productivity. Turn work into play, and you won't
+see the hours passing you by. We are born into this world to enjoy the
+time we spend. If you can find a way to harness this deep urge living in
+each and everyone of us, nothing can stop you, because we'll fight to
+keep going. And thus, I can't help but recommending Drive if you want to think
+deeply about what drives *you*, and how you can inspire people around
+you to be more driven by the sustainable, and renewable energy of
+intrinsic motivation.
 
 # [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍
 
