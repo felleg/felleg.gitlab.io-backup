@@ -1,7 +1,7 @@
 ---
 date: 2024-01-13T11:16:20-05:00
 title: "(Book 63) Drive"
-cover: img/books/...
+cover: img/books/drive.png
 tags: ['books']
 draft: true
 ---
@@ -10,7 +10,7 @@ Release year: 2009
 
 Author: [Daniel H. Pink](danpink.com)
 
-[Link to my handwritten notes](Google Drive link)
+[Link to my handwritten notes](https://drive.google.com/file/d/1ZR4_TSLeQygKVgKeIK54EJXH2E0t83xi/view?usp=sharing)
 
 ---
 
