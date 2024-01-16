@@ -167,5 +167,5 @@ intrinsic motivation.
    resist new challenges and choose the easiest path.
 1. (p. 190) Praise is feedback, not an award ceremony. It's often best
    to offer it one-on-one, in private.
-1 (p. 196) One of the best ways to know whether you've mastered something
+1. (p. 196) One of the best ways to know whether you've mastered something
 is to try to teach it.
