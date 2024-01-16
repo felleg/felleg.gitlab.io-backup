@@ -60,7 +60,7 @@ The question that I'm most fixated on right now is related to a new link
 I added to my website, [/allbooks](/allbooks). If you visit this list,
 you will see a gallery of the books I currently read, and clicking on a
 picture will link you to its review. Pretty neat, right? Well, I took
-this opportunity to set myself what might be the most ambitious
+this opportunity to set what might be the most ambitious
 objective I
 have ever given myself: I want the pictures of the books I read to
 completely fill my browser when zoomed out at 30%. Talk about moving the
