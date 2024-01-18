@@ -29,7 +29,7 @@ With the answer to these questions in hand (and supposing an effective
 interest rate of 6% annually), all you have to do is find your answer in
 this chart:
 
-{{< figure src="/img/millionaire-age.png" position="center" caption="[Google Sheets version](https://docs.google.com/spreadsheets/d/1IB0ZfB9MXd1muLqLs9iG1o9E4qbSOfsP5hPE61MyOTw/edit?usp=sharing)" >}}
+{{< figure src="/img/millionaire-grid.png" position="center" caption="[Google Sheets version](https://docs.google.com/spreadsheets/d/1IB0ZfB9MXd1muLqLs9iG1o9E4qbSOfsP5hPE61MyOTw/edit?usp=sharing)" >}}
 
 You can [browse the different figures](/files/millionaire-age-per-rate.pdf) to
 for interest rates from 0% to 15%. I find it
