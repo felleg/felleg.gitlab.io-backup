@@ -67,13 +67,12 @@ have ever given myself: I want the pictures of the reads I read to
 completely fill my browser when zoomed out at 30%. Talk about moving the
 goal post! This picture contains 63 reads.
 
-{{< figure src="/img/allreads-20240115-progress.png" position="center" caption="I've still got a long way to go!" >}}
+{{< figure src="/img/allbooks-20240115-progress.png" position="center" caption="I've still got a long way to go!" >}}
 
 Another visualization I attempted is how many reads I've read over the
 years:
 
-{{< figure src="/img/reads-read-20240115.png" position="center" caption="" >}}
-aliases: ['/books/book-63-drive']
+{{< figure src="/img/books-read-20240115.png" position="center" caption="" >}}
 
 
 Here's my question: why am I spending time visualizing these things? Who
