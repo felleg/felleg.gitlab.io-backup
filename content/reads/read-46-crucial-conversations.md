@@ -82,17 +82,43 @@ colleagues and loved ones.
 
 ---
 
-**Top 10 quotes** that stuck out to me:
+# :star: Star quotes:
 
+1. (p. 4) The determining factor between success and failure is the
+   amount of time that passes between when the problem emerges and when
+   those involved find a way to honestly and respectfully resolve it.
 1. (p. 5) You can measure the health of relationships, teams, and
    organizations by measuring the lag time between when problems are
    identified & when they are resolved.
+1. (p. 6) If you fail to discuss issues you have with your boss, your
+   life partner, your neighboy, ..., they (the issues) become the lends
+   you see the other person through.
+1. (p. 14) *The* predictor of success or failure is whether people can
+   hold specific, relevant Crucial Conversations.
+1. (p. 24) :star: **The Fool's Choice** is the mistake most of us make
+   in our Crucial Conversations, when we believe that we have to choose
+   between telling the truth and keeping a friend.
 1. (p. 26) When people purposely withhold meaning from one another,
    individually smart people can do collectively stupid things.
+1. (p. 27) The Pool of Shared Meaning is the birthplace of synergy.
+1. (p. 41) 
+1. (p. 43) 
 1. (p. 48) The more words it takes you to describe the topic, the less
    prepared you are to talk.
+1. (p. 53) 
+1. (p. 57) 
+1. (p. 60) 
 1. (p. 65) Ask yourself, "What am I acting like I want?" to take a look
    at your behavior and work backwards to the motive.
+1. (p. 68) 
+1. (p. 74) 
+1. (p. 75) 
+1. (p. 79) 
+1. (p. 81) 
+1. (p. 82) 
+1. (p. 84) 
+1. (p. 87) 
+1. (p. 95) 
 1. (p. 97) When we don't admit to our own mistakes, we obsess about
    others' faults, our innocence and our powerlessness to do anything
    other than what we're already doing.
