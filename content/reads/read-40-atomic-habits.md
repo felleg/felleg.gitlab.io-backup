@@ -43,7 +43,7 @@ I think this book greatly summarizes about 5 of the reads I read so far. It's li
    new habit.
 1. (p. 224) :star: The work that hurts you less than it hurts others is the
    work you were made to do.
-1. (p. 227) Until you work as hard as those you admire, don't axplain
+1. (p. 227) Until you work as hard as those you admire, don't explain
    away their success as luck.
 1. (p. 235) You have to fall in love with boredom.
 1. (p. 240) Habits + Deliberate Practice = Mastery
