@@ -107,7 +107,7 @@ intrinsic motivation.
 
 ---
 
-:star: Star quotes:
+# :star: Star quotes:
 
 1. (p. 34) Rewards must be handled carefully, because they can turn play into work.
 1. (p. 37) People use rewards expecting to gain the benefit of

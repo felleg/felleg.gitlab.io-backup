@@ -96,7 +96,7 @@ common sense to me.
 
 ---
 
-:star: Star quotes:
+# :star: Star quotes:
 
 1. (p. 11) Writing goals down makes them real.
 1. (p. 24) Stressing output is the key to increasing productivity while

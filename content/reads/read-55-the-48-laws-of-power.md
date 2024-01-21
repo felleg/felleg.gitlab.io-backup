@@ -50,7 +50,7 @@ from this book for many years to come.
 
 ---
 
-:star: Star quotes:
+# :star: Star quotes:
 
 1. (p. xxi) If deception is the most potent weapon in your arsenal, then
    patience in all things is your crucial shield. Patience will protect

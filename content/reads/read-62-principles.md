@@ -75,7 +75,7 @@ I’m looking forward to finding out.
 
 ---
 
-:star: Star quotes:
+# :star: Star quotes:
 
 1. (p. xiv) Shift from having a perspective of "I know I'm right" to
    having one of "How do I know I'm right?"

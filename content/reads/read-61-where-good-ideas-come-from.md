@@ -35,7 +35,7 @@ Luck favors the connected mind. Good luck!
 
 ---
 
-:star: Star quotes:
+# :star: Star quotes:
 
 1. (p. 29) Our ideas are works of bricolage, built out of and
    constrained by the spare parts, detritus and skills that surround

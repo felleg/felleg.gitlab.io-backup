@@ -69,7 +69,7 @@ that said, I recommend you give *Lean In* a chance.
 
 ---
 
-:star: Star quotes:
+# :star: Star quotes:
 
 1. The holy trinity of fear is the fear of being a bad mother, bad wife, and bad daughter. (p. 24)
 2. Ask yourself: What would I do if I weren't afraid? And then find a way to go do it. (p. 26)

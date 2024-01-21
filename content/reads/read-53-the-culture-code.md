@@ -60,7 +60,7 @@ sailboat pushed to land by the right tailwind.
 
 ---
 
-:star: Star quotes:
+# :star: Star quotes:
 
 1. (p. 70) What mattered most in creating a successful team had less to do with
    intelligence and experience and more to do with where the desks were

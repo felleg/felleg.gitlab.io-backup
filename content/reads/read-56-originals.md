@@ -40,7 +40,7 @@ how to better listen to originals, whoever they may be.
 
 ---
 
-:star: Star quotes:
+# :star: Star quotes:
 
 1. (p. xii)  A friend is someone who sees more potential in you than you see
    in yourself, someone who helps you become the best version of

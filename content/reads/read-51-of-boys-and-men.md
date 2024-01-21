@@ -28,7 +28,7 @@ I think there's something there worth exploring for our policymakers. As the aut
 
 ---
 
-:star: Star quotes:
+# :star: Star quotes:
 
 1. When almost one in four boys (23%) is categorized as having a
    "developmental disability", it is fair to wonder if it is educational

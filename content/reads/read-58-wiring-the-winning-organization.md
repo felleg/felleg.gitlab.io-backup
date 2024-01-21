@@ -103,7 +103,7 @@ And Layer 1 are heroes.
 
 ---
 
-:star: Star quotes:
+# :star: Star quotes:
 
 1. (p. 20) In all but the smallest endeavors, a leader's primary
    contribution is *not* doing the work required to achieve the goal.

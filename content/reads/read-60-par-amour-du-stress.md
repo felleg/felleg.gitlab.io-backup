@@ -56,7 +56,7 @@ qu'une seconde édition est parue en 2020.
 
 ---
 
-:star: Star quotes:
+# :star: Star quotes:
 
 1. (p. 25) Les gens vont produire une réponse biologique de stress
    lorsqu'ils sont exposés à une situation comprenant l'une ou plusieurs

@@ -58,7 +58,7 @@ great investment.
 
 ---
 
-:star: Star quotes:
+# :star: Star quotes:
 
 1. You are a person, not a job. (p. 104)
 2. Instead of just hitting the "Invite" button on LinkedIn, *always*

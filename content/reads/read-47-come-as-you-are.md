@@ -66,27 +66,31 @@ ratings:
 .
 # Félix Rating: 👍👍
 
-**Top 10 quotes** that stuck out to me:
+---
 
-1. Great sex isn't about doing what works for everyone. It's about what
-   works for you and your partner. (p. 93)
-2. God and your dog never judge or blame you for having Feels - but
-   neither of them can make love with you. (p. 146)
-3. Self-criticism is one of the best predictors of loneliness
-4. Far from motivating us to get better, self-criticism makes us sicker.
-5. Never say anything to yourself that you wouldn't want to say to your
-   best friend or your daughter.
-6. If you hide behind a wall to protect yourself from the pain of
-   rejection, then you also block out joy. If you never let others see
-   the parts you want to hide, then they'll never see the parts you want
-   them to know. (p. 186)
-7. If sex is a drive [(which it is not)], like hunger, then potential partners are like
-   animals to be hunted for food. (p. 232)
-8. Sex is *not* context dependent. Sex can happen anywhere. *Pleasure*
-   is context dependent. (p. 290)
-9. It isn't the symptoms that predict how much anxiety disrupts a
-   person's life, it's how a person feels about those symptoms. (p. 310)
-10. If you numb physical pain, healing can still happen. If we try to
-    "numb" emotional pain, we get a break from the pain, but the healing
-    is put on pause, too. (p. 317)
+# :star: Star quotes:
 
+1. (p. 93) "I'm chasing you, remember?" he said. "I can't chase you if
+   you're moving toward me."
+1. (p. 146) God and your dog never judge or blame you for having Feels
+   -- but neither of them can make love with you.
+1. (p. 165) Self-criticism is one of the best predictions of loneliness.
+1. (p. 166) Far from motivating us to get better, self-criticism makes
+   us sicker.
+1. (p. 180) Never say anything to yourself that you wouldn't want to say
+   to your best friend or your daughter.
+1. (p. 186) If you hide behind a wall to protect yourself from the pain
+   of rejection, then you also block out joy. If you never let others
+   see the parts you want to hide, then they'll never see the parts you
+   want them to know.
+1. (p. 232) If sex is a drive, like hunger, then potential partners are
+   like animals to be hunted for food.
+1. (p. 290) Sex is *not* context dependent. Sex can happen anywhere.
+   *Pleasure* is context dependent.
+1. (p. 298) Meta-emotions are how you feel about how you feel.
+1. (p. 310) :star: It isn't the symptoms that prediect how much anxiety
+   disrupts a person's life, it's how a person feels about those
+   symptoms.
+1. (p. 317) If you numb physical pain, healing can still happen. If we
+   try to "numb" emotional pain, we get a break from the pain, but the
+   healing is put on pause, too.

@@ -31,34 +31,86 @@ In summary, if you're leading a remotely distributed team, you'll probably find 
 
 ---
 
-**Top 15 quotes** that stuck out to me:
+# :star: Star quotes:
 
-1. When fearful CEOs talk about workplace culture, they're really
-   talking about workplace control. (p. 39)
-2. The office is the new offsite. (p. 43)
-3. A crisis is a spotlight. It's a moment to demonstrate your values and
-   lead by example. (p. 69)
-4. Your culture is the behavior you reward and punish. (p. 81)
-5. What you ignore, disregard, turn a blind eye to, or sweep under a
-   carpet becomes the things you implicitly endorse. (p. 86)
-6. In the new reality, leaders need to recreate "How did X activity help the teams in the
-   old reality" rather than the activity itself. Avoid blindly
-   copy-pasting past practices. (p. 107)
-7. Trust is built between two people. Psychological safety is created by
-   the team. (p. 108)
-8. Break the Golden Rule: don't treat people how *you* want to be
-   treated. Instead, follow their "washing instructions." (p. 119)
-9. Rather than assuming that people agree when they stay silent, infer
-    that they don't. (p. 128)
-10. Sometimes, the best help you can offer is your silence. Don't rush
-    to provide a solution. Just listen. (p. 151)
-11. If you're always in work mode, the time you're supposed to use to unwind ends up contributing to more burnout. (p. 194)
-12. The people who are more supportive of fully returning to the
-    physical office are those who were successful in that environment.
-    (p. 196)
-13. Anything that requires more than 50 minutes should be treated as a
-workshop, not a meeting. (p. 218)
-14. Transparency is not about sharing everything, but about not hiding
-what people need to know (p. 289)
-15. The biggest mistake companies make is defining their hybrid work
-model based on the pains, not the gains, of remote work. (p. 296)
+1. (p. 39) When fearful CEOs talk about workplace culture, they're
+   really talking about workplace control.
+1. (p. 43) "Are you open to maximizing the benefits of a remote
+   environment even if it means your role feels less important, for
+   example by letting team members co-create the new culture rather than
+   dictating the terms yourself?"
+1. (p. 43) The office is the new offsite.
+1. (p. 44) The new office should include:
+    - The library, a quiet space for deep work and research
+    - The plaza, a kitchen and lunchroom to socialize with colleagues
+    - The avenue, a transitional space for passing with the potential
+      for casual collaboration
+1. (p. 69) A crisis is a spotlight. It's a moment to demonstrate your
+   values and lead by example.
+1. (p. 81) Your culture is the behavior you reward and punish.
+1. (p. 86) What you ignore, disregard, turn a blind eye to, or sweep
+   under a carpet becomes the things you implicitly endorse.
+1. (p. 87) Your culture is determined by what people perceive to be the
+   behaviors you reward and punish. Not what you *actually* reward and
+   punish. Not what you *say* you reward and punish.
+1. (p. 88) Culture is how people behave when no one is looking.
+1. (p. 88) Doing the right thing for the wrong reasons doesn't work.
+   People can tell the difference.
+1. (p. 91) When an organization says "yes" to everything, they are
+   saying "no" to what really matters.
+1. (p. 95) Your culture is defined by what you say yes and no to.
+1. (p. 100) Subcultures are not silos but specific manifestations that
+   feed off each other.
+1. (p. 105) Feeling rejected by our social system feels a lot like
+   dying.
+1. (p. 107) Avoid copy-pasting past practices into a new reality.Leaders
+   need to recreate "How did X activity help the teams [in the old
+   reality]" rather than the activity itself.
+1. (p. 109) Trust is built between two people. Psychological safety is
+   created by the team.
+1. (p. 119) Break the Golden Rule: don't treat people how *you* want to
+   be treated; instead, follow their "washing instructions."
+1. (p. 128) Rather than assuming that people agree when they stay
+   silent, infer that they don't.
+1. (p. 130) Reframe "bad news" as data.
+1. (p. 132) Mistakes are stepping stones, not disasters.
+1. (p. 136) A prompt that gives people permission to come up with wild
+   ideas: "Ideas that could get you fired."
+1. (p. 140) The research is clear: Telling others what they should
+   improve actually *hinders* learning.
+1. (p. 146) Use feedback to jump into the future rather than being stuck
+   in the past. Replace "feedback" with **feedforward**.
+1. (p. 148) Assume confusion over conspiracies.
+1. (p. 151) Sometimes, the best help you can offer is your silence.
+   Don't rush to provide a solution. Just listen.
+1. (p. 174) Mistakes are goldmines.
+1. (p. 194) If you're always in work mode, the time you're supposed to
+   use to unwind ends up contributing to more burnout.
+1. (p. 196) The people who are more supportive of fully returning to the
+   physical office -- & watercooler conversations -- are those who were
+   successful in that environment. There's zero academic evidence about
+   the effectiveness of watercooler conversations.
+1. (p. 201) The six work modes for distributed teams:
+   - Focus
+   - Deep collaboration
+   - Regular collaboration
+   - Learning
+   - Unplug
+   - Casual collaboration
+1. (p. 211) Deep work should be the majority of a knowledge worker's
+   work.
+1. (p. 218) Any gathering that requires more than 50 minutes should be
+   treated as a workshop, not a meeting.
+1. (p. 222) All status meetings should become asynchronous.
+1. (p. 247) Treat people the way you want them to behave (like adults)
+1. (p. 249) Rewards, by their very nature, narrow our focus. They
+   concentrate the mind.
+1. (p. 254) Assume miscommunication over malice.
+1. (p. 276) We don't need heroic leaders. We need human beings who take
+   care of people.
+1. (p. 278) As a leader, you can't be both a player and a coach. Trying
+   to be both is bound to fail.
+1. (p. 289) Transparency is not about sharing everything but about not
+   hiding what people need to know.
+1. (p. 296) The biggest mistake companies make is defining their hybrid
+   work model based on the pains, not the gains, of remote work.

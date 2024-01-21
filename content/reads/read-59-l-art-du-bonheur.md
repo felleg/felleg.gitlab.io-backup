@@ -57,7 +57,7 @@ bonheur, il est là. Y travailler, c'est un choix accessible à tous.
 
 ---
 
-:star: Star quotes:
+# :star: Star quotes:
 
 1. (p. 28) Le but de la vie, c'est le bonheur.
 1. (p. 31) "Rien que de me lever le matin, et de songer 'a ce que la

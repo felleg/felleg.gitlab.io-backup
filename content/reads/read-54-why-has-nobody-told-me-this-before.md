@@ -49,7 +49,7 @@ is surely a sensible first step.
 
 ---
 
-:star: Star quotes:
+# :star: Star quotes:
 
 1. (p. 35) You can't control the thoughts that arrive in your mind. You can
    control what you do once they appear.
