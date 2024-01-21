@@ -1,14 +1,14 @@
 #!/bin/bash
 
 # Output HTML file
-mkdir -p static/allbooks
-output_file="static/allbooks/index.html"
+mkdir -p static/allreads
+output_file="static/allreads/index.html"
 
 # Create the HTML file with a basic structure
-echo "<html><head><title>All Books</title></head><body>" > "$output_file"
+echo "<html><head><title>All Reads</title></head><body>" > "$output_file"
 
-# Loop over files in content/books in order of creation
-for file in $(ls -r content/books/*); do
+# Loop over files in content/reads in order of creation
+for file in $(ls -r content/reads/*); do
     # Extract the line containing "cover:"
     covers_line=$(grep "cover:" "$file")
 
@@ -19,7 +19,7 @@ for file in $(ls -r content/books/*); do
     title=$(grep "title:" "$file" | awk '{$1=""; print substr($0,2)}')
 
     # Extract the post link from the file name (assuming YYYY-MM-DD-title.md format)
-    post_link=/books/$(basename ${file%%.md})
+    post_link=/reads/$(basename ${file%%.md})
 
     # Append HTML content for each book cover with adjusted image size and inferred link
     echo "<a href=\"$post_link\"><img src=\"/$cover_path\"
