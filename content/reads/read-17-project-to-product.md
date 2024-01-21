@@ -1,6 +1,6 @@
 ---
 date: 2022-12-18
-title: (Book 17) Project to Product
+title: (Read 17) Project to Product
 frontpage: "true"
 cover: img/reads/project-to-product.png
 tags: ['reads']

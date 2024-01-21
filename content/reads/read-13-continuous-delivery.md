@@ -1,6 +1,6 @@
 ---
 date: 2022-09-01
-title: (Book 13) Continuous Delivery
+title: (Read 13) Continuous Delivery
 frontpage: "true"
 cover: img/reads/continuous-delivery.png
 tags: ['reads']

@@ -1,6 +1,6 @@
 ---
 date: 2023-07-24
-title: (Book 40) Atomic Habits
+title: (Read 40) Atomic Habits
 frontpage: "true"
 cover: img/reads/atomic-habits.png
 tags: ['reads']

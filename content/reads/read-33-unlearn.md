@@ -1,6 +1,6 @@
 ---
 date: 2023-06-05
-title: (Book 33) Unlearn
+title: (Read 33) Unlearn
 frontpage: "true"
 cover: img/reads/unlearn.png
 tags: ['reads']

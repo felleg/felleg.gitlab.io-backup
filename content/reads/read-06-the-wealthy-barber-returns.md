@@ -1,6 +1,6 @@
 ---
 date: 2021-07-20
-title: (Book 6) The Wealthy Barber Returns
+title: (Read 6) The Wealthy Barber Returns
 frontpage: "true"
 cover: img/reads/wealthy-barber-returns.jpg
 tags: ['reads']

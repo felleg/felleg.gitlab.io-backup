@@ -1,6 +1,6 @@
 ---
 date: 2023-08-30
-title: (Book 45) The Kubernetes Book
+title: (Read 45) The Kubernetes Book
 cover: img/reads/the-kubernetes-book.png
 tags: ['reads']
 aliases: ['/books/book-45-the-kubernetes-book']

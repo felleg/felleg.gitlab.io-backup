@@ -1,6 +1,6 @@
 ---
 date: 2023-04-14
-title: (Book 25) Sooner Safer Happier
+title: (Read 25) Sooner Safer Happier
 frontpage: "true"
 cover: img/reads/sooner-safer-happier.png
 tags: ['reads']

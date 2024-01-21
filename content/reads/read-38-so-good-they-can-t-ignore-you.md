@@ -1,6 +1,6 @@
 ---
 date: 2023-07-12
-title: (Book 38) So Good They Can't Ignore You
+title: (Read 38) So Good They Can't Ignore You
 frontpage: "true"
 cover: img/reads/so-good-they-cant-ignore-you.png
 tags: ['reads']

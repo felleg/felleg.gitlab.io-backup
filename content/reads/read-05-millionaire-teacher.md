@@ -1,6 +1,6 @@
 ---
 date: 2021-02-25
-title: (Book 5) Millionaire Teacher
+title: (Read 5) Millionaire Teacher
 frontpage: "true"
 cover: img/reads/millionaire-teacher.jpg
 tags: ['reads']

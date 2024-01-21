@@ -1,6 +1,6 @@
 ---
 date: 2023-08-12
-title: (Book 43) When They Win, You Win
+title: (Read 43) When They Win, You Win
 frontpage: "true"
 cover: img/reads/when-they-win-you-win.png
 tags: ['reads']

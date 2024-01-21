@@ -1,6 +1,6 @@
 ---
 date: 2023-08-16
-title: (Book 44) Adaptive Ethics for Digital Transformation
+title: (Read 44) Adaptive Ethics for Digital Transformation
 frontpage: "true"
 cover: img/reads/adaptive-ethics-for-digital-transformation.png
 tags: ['reads']

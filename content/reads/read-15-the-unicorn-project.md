@@ -1,6 +1,6 @@
 ---
 date: 2022-10-30
-title: (Book 15) The Unicorn Project
+title: (Read 15) The Unicorn Project
 frontpage: "true"
 cover: img/reads/the-unicorn-project.png
 tags: ['reads']

@@ -1,6 +1,6 @@
 ---
 date: 2023-04-04
-title: (Book 23) Psycho-Cybernetics
+title: (Read 23) Psycho-Cybernetics
 frontpage: "true"
 cover: img/reads/psycho-cybernetics.png
 tags: ['reads']

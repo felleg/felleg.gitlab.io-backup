@@ -1,6 +1,6 @@
 ---
 date: 2023-12-28T10:51:12-05:00
-title: "(Book 61) Where Good Ideas Come From"
+title: "(Read 61) Where Good Ideas Come From"
 cover: img/reads/where-good-ideas-come-from.png
 tags: ['reads']
 aliases: ['/books/book-61-where-good-ideas-come-from']

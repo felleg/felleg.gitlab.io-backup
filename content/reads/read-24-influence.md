@@ -1,6 +1,6 @@
 ---
 date: 2023-04-07
-title: (Book 24) Influence
+title: (Read 24) Influence
 frontpage: "true"
 cover: img/reads/influence.png
 tags: ['reads']

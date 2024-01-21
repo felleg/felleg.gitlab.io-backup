@@ -1,6 +1,6 @@
 ---
 date: 2021-02-10
-title: (Book 4) Les Millionaires ne sont pas ceux que vous croyez
+title: (Read 4) Les Millionaires ne sont pas ceux que vous croyez
 frontpage: "true"
 cover: img/reads/les-millionaires-ne-sont-pas-.jpg
 tags: ['reads']

@@ -1,6 +1,6 @@
 ---
 date: 2019-03-02
-title: (Book 1) The Phoenix Project
+title: (Read 1) The Phoenix Project
 frontpage: "true"
 cover: img/reads/the-phoenix-project.png
 tags: ['reads']

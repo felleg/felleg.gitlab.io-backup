@@ -1,6 +1,6 @@
 ---
 date: 2023-07-11
-title: (Book 37) Reinventing Organizations
+title: (Read 37) Reinventing Organizations
 frontpage: "true"
 cover: img/reads/reinventing-organizations.png
 tags: ['reads']

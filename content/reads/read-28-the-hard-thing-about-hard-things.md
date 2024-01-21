@@ -1,6 +1,6 @@
 ---
 date: 2023-04-22
-title: (Book 28) The Hard Thing About Hard Things
+title: (Read 28) The Hard Thing About Hard Things
 frontpage: "true"
 cover: img/reads/the-hard-thing-about-hard-things.jpg
 tags: ['reads']

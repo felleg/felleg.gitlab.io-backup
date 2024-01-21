@@ -1,6 +1,6 @@
 ---
 date: 2022-08-01
-title: (Book 12) The DevOps Handbook
+title: (Read 12) The DevOps Handbook
 frontpage: "true"
 cover: img/reads/the-devops-handbook.png
 tags: ['reads']

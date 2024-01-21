@@ -1,6 +1,6 @@
 ---
 date: 2023-05-08
-title: (Book 30) The Fearless Organization
+title: (Read 30) The Fearless Organization
 frontpage: "true"
 cover: img/reads/the-fearless-organization.png
 tags: ['reads']

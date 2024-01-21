@@ -1,6 +1,6 @@
 ---
 date: 2023-10-03T17:07:17-04:00
-title: "(Book 49) Ansible for Devops"
+title: "(Read 49) Ansible for Devops"
 cover: img/reads/ansible-for-devops.png
 tags: ['reads']
 aliases: ['/books/book-49-ansible-for-devops']

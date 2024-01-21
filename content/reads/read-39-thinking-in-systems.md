@@ -1,6 +1,6 @@
 ---
 date: 2023-07-19
-title: (Book 39) Thinking in Systems
+title: (Read 39) Thinking in Systems
 frontpage: "true"
 cover: img/reads/thinking-in-systems.png
 tags: ['reads']

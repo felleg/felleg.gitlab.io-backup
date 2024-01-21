@@ -1,6 +1,6 @@
 ---
 date: 2023-01-24
-title: (Book 19) Accelerate
+title: (Read 19) Accelerate
 frontpage: "true"
 cover: img/reads/accelerate.jpg
 tags: ['reads']

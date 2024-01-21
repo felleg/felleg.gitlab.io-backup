@@ -1,6 +1,6 @@
 ---
 date: 2023-01-14
-title: (Book 18) Building Successful Communities of Practice
+title: (Read 18) Building Successful Communities of Practice
 frontpage: "true"
 cover: img/reads/building-successful-communities.jpg
 tags: ['reads']

@@ -1,6 +1,6 @@
 ---
 date: 2023-10-05T17:54:03-04:00
-title: "(Book 50) Lean In"
+title: "(Read 50) Lean In"
 cover: img/reads/lean-in.png
 tags: ['reads']
 aliases: ['/books/book-50-lean-in']

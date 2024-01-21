@@ -1,6 +1,6 @@
 ---
 date: 2022-02-21
-title: (Book 10) La Facture amoureuse
+title: (Read 10) La Facture amoureuse
 frontpage: "true"
 cover: img/reads/la-facture-amoureuse.jpg
 tags: ['reads']

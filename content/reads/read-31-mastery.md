@@ -1,6 +1,6 @@
 ---
 date: 2023-05-15
-title: (Book 31) Mastery
+title: (Read 31) Mastery
 frontpage: "true"
 cover: img/reads/mastery.png
 tags: ['reads']

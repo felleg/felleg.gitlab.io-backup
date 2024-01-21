@@ -1,6 +1,6 @@
 ---
 date: 2023-04-28
-title: (Book 29) Execution
+title: (Read 29) Execution
 frontpage: "true"
 cover: img/reads/execution.jpg
 tags: ['reads']

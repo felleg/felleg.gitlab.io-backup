@@ -1,6 +1,6 @@
 ---
 date: 2023-05-24
-title: (Book 32) Mon Cerveau a encore besoin de lunettes
+title: (Read 32) Mon Cerveau a encore besoin de lunettes
 frontpage: "true"
 cover: img/reads/mon-cerveau-a-encore-besoin-de-lunettes.jpg
 tags: ['reads']

@@ -1,6 +1,6 @@
 ---
 date: 2023-09-15T15:57:35-04:00
-title: "(Book 47) Come as You Are"
+title: "(Read 47) Come as You Are"
 cover: img/reads/come-as-you-are.png
 tags: ['reads']
 aliases: ['/books/book-47-come-as-you-are']

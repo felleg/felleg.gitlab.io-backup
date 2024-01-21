@@ -1,6 +1,6 @@
 ---
 date: 2023-08-01
-title: (Book 42) A Simpler Way
+title: (Read 42) A Simpler Way
 frontpage: "true"
 cover: img/reads/a-simpler-way.png
 tags: ['reads']

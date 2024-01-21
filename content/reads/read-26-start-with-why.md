@@ -1,6 +1,6 @@
 ---
 date: 2023-04-18
-title: (Book 26) Start With Why
+title: (Read 26) Start With Why
 frontpage: "true"
 cover: img/reads/start-with-why.png
 tags: ['reads']

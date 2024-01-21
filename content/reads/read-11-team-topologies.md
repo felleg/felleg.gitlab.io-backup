@@ -1,6 +1,6 @@
 ---
 date: 2022-07-10
-title: (Book 11) Team Topologies
+title: (Read 11) Team Topologies
 frontpage: "true"
 cover: img/reads/team-topologies.png
 tags: ['reads']

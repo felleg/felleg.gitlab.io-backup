@@ -1,6 +1,6 @@
 ---
 date: 2023-07-02
-title: (Book 35) The Fifth Discipline
+title: (Read 35) The Fifth Discipline
 frontpage: "true"
 cover: img/reads/the-fifth-discipline.png
 tags: ['reads']

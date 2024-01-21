@@ -1,6 +1,6 @@
 ---
 date: 2022-09-21
-title: (Book 14) Remote Team Interactions
+title: (Read 14) Remote Team Interactions
 frontpage: "true"
 cover: img/reads/remote-team-interactions.png
 tags: ['reads']

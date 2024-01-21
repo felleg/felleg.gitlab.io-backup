@@ -1,6 +1,6 @@
 ---
 date: 2020-01-01
-title: (Book 3) The Four Agreements
+title: (Read 3) The Four Agreements
 frontpage: "true"
 cover: img/reads/the-four-agreements.jpg
 tags: ['reads']
