@@ -41,3 +41,8 @@ seem relevant.
 
 # Félix Rating: 👍
 
+---
+:star: Star quote:
+
+(p. 313) Make sure you can already log in via your SSH key before you
+disable password-based SSH authentication.
