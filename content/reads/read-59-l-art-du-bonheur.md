@@ -1,6 +1,6 @@
 ---
 date: 2023-12-17T11:29:09-05:00
-title: "(Livre 59) L'Art du bonheur"
+title: "(Lecture 59) L'Art du bonheur"
 cover: img/reads/l-art-du-bonheur.png
 tags: ['reads', 'livres']
 aliases: ['/books/book-59-l-art-du-bonheur']

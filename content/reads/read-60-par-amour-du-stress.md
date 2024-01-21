@@ -1,6 +1,6 @@
 ---
 date: 2023-12-22T10:29:07-05:00
-title: "(Livre 60) Par Amour Du Stress"
+title: "(Lecture 60) Par Amour Du Stress"
 cover: img/reads/par-amour-du-stress.png
 tags: ['reads']
 aliases: ['/books/book-60-par-amour-du-stress']

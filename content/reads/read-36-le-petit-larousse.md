@@ -1,6 +1,6 @@
 ---
 date: 2023-07-09
-title: (Read 36) Le Petit Larousse
+title: (Livre 36) Le Petit Larousse
 cover: img/larousse-fold.jpg
 tags: ['reads']
 aliases: ['/books/book-36-le-petit-larousse']
