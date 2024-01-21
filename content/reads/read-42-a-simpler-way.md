@@ -23,44 +23,22 @@ This is a poetic management book that looks a how nature self-organizes and how 
 
 # :star: Star quotes
 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
+1. (p. 13) There are no "windows of opportunity," narrow openings in the
+   fabric of space-time that soon disappear forever. Possibilities are
+   infinite.
+1. (p. 42) Life creates niches not to dominate, but to support.
+   Symbiosis is the most favored path for evolution. Niches are an
+   example of symbiosis.
+1. (p. 50) We encourage others to change only if we honor who they are
+   now. We ourselves engage in change only as we discover that we might
+   be more of who we are by becoming something different.
+1. (p. 51) There are no separated individuals. [We are all connected.]
+1. (p. 62) Love is saying yes to belonging.
+1. (p. 63) What about those of us marooned in organizations of no
+   belonging? Daily, we offer less and less. We withdraw our love and
+   give it willingly to other areas of our lives.
+1. (p. 82) When we shrink people's access to information, we shrink
+   their capacity. They will still self-organize, but why make this
+   process difficult? Why starve people who want to create organization?
+1. (p. 91) Could we take what feels like a threat and alter its role in
+   our lives?
