@@ -101,36 +101,87 @@ colleagues and loved ones.
 1. (p. 26) When people purposely withhold meaning from one another,
    individually smart people can do collectively stupid things.
 1. (p. 27) The Pool of Shared Meaning is the birthplace of synergy.
-1. (p. 41) 
-1. (p. 43) 
+1. (p. 41) The 3 signals that you're talking about the wrong thing:
+    - Your emotions escalate
+    - You walk away skeptical
+1. (p. 43) The 3 levels of conversation (CPR):
+    - Content
+    - Pattern
+    - Relationship
 1. (p. 48) The more words it takes you to describe the topic, the less
    prepared you are to talk.
-1. (p. 53) 
-1. (p. 57) 
-1. (p. 60) 
+1. (p. 53) Never allow the conversation to shift or the topic to change
+   without acknowledging you've done it. In all cases, you want to place
+   a bookmark to verbally acknowledge where you're going in the
+   conversation and what you intend to come back to.
+1. (p. 57) Speak when you are angry and you will make the best speech
+   you will ever regret.
+1. (p. 60) The dialogue-smart believe that dialogue, no matter the
+   circumstances, is always an option.
 1. (p. 65) Ask yourself, "What am I acting like I want?" to take a look
    at your behavior and work backwards to the motive.
-1. (p. 68) 
-1. (p. 74) 
-1. (p. 75) 
-1. (p. 79) 
-1. (p. 81) 
-1. (p. 82) 
-1. (p. 84) 
-1. (p. 87) 
-1. (p. 95) 
+1. (p. 68) Ask yourself, "What do I want for myself, the other person,
+   *and* the relationship?"
+1. (p. 74) How you respond to your own emotions is the best predictor of
+   everything that matters in life. It is the very essence of emotional
+   intelligence.
+1. (p. 75) Others don't make you mad. You make you mad. You make you
+   scared, annoyed, insulted, or hurt. You and only you create your
+   emotions.
+1. (p. 79) The Path to Action is how experiences, thoughts and feelings
+   lead to our actions:
+    1. See and hear
+    1. Tell a story
+    1. Feel (hurt, worried, ...)
+    1. Act (silence, cheap shots, ...)
+1. (p. 81) Until we tell different stories, we cannot break the loop.
+1. (p. 82) **The downward spiral**: Most often, when people defend their
+   story, they are saying that their story is an accurate reflection of
+   reality. But when you dig deeper, it is not uncommon to find that the
+   story itself created the reality.
+1. (p. 84) Be careful when you argue for your story. You might be
+   creating the reality you claim to describe.
+1. (p. 87) The first step to regaining emotional control is to challenge
+   the illusion that what you're feeling is the only *right* emotion
+   under the circumstances.
+1. (p. 95) We **sell out** when we consciously act against our own sense
+   of what's right.
 1. (p. 97) When we don't admit to our own mistakes, we obsess about
    others' faults, our innocence and our powerlessness to do anything
    other than what we're already doing.
+1. (p. 113) If you don't feel safe, you can't take any feedback.
+1. (p. 135) Mutual purpose and mutual respect are the conditions of
+   dialogue.
 1. (p. 139) Forgive those who sin differently than yourself.
+1. (p. 168) Help others see how a reasonable, rational and decent person
+   could end up with the story you're carrying.
 1. (p. 173) We express confidence by sharing our facts and stories
    clearly. We demonstrate our humility by then asking others to share
    their views (and meaning it!)
+1. (p. 173) Being open to learning is a commitment to truth over ego.
+1. (p. 174) Change this --> to that:
+    - "The fact is..." --> "In my opinion..."
+    - "Everyone knows..." --> "I believe..."
+    - "The only way to do this..." --> "I am certain..."
+    - "That's a bad idea..." --> "I don't think this will work..."
+1. (p. 175) One of the ironies of dialogue is that when there's a
+   difference of opinions, the more convinced and forceful you act, the
+   more resistant others become.
+1. (p. 176) When you begin with a complete disclaimer and a tone that
+   suggests you're consumed with doubt, you do the message a disservice.
+   Use language that says you're sharing an opinion, not language that
+   says you're a nervous wreck.
 1. (p. 177) The only limit to how strongly you can express your opinion
    is your willingness to be equally vigorous in encouraging others to
    challenge it.
+1. (p. 190) Exploring others' paths to action is a demonstration of our
+   good intent.
 1. (p. 219) If you live by the compliment, you'll die by the criticism.
 1. (p. 238) While a conversation doesn't necessarily need to end with a
    decision, it should always end with a commitment: Who does what by
    when? How will you follow up?
+1. (p. 239) When it's time to pass out assignments, "we" actually means
+   "not me."
+1. (p. 241) Assignments without deadlines are far better at producing
+   guilt than stimulating action.
 
