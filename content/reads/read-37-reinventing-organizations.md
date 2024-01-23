@@ -74,34 +74,40 @@ book and see if they resonate with them. This is the future of work.
    management practice:
     - Individuals should never use force against other people
     - Individuals should honor their commitments
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
+1. (p. 114) Freedom and responsibility are two sides of the same coin.
+1. (p. 121) **Total responsibility**: all colleagues have the obligation to
+   do something about an issue they sense, even when it falls outside
+   the scope of their roles. It's considered unacceptable to say,
+   "Somebody should do something about this problem," and leave it at
+   that. With total responsibility, if you see a problem or an opportunity, you have an obligation
+   to do something about it, and most often that "something" is to go
+   and talk about it with the colleague whose role relates to the topic.
+   In other words, "It's not my problem" is not an acceptable attitude.
+1. (p. 125) In Teal Organizations, performance and outcomes are
+   discussed foremost at the team level: "Are we collectively doing a
+   good job contributing to the organization's purpose?"
+1. (p. 146) Something special happens within the presence of dogs.
+   Animals tend to ground us. The simple practice of petting a dog tends
+   to soothe us, to reconnect us to our body, and to calm down our
+   spinning minds. When it's a colleague's dog we pet, or a colleague
+   that pets ours, we subtly build community.
+1. (p. 165) At Heiligenfield, once a year colleagues in every team rate
+   the quality of their interaction with other teams. The result is a
+   company-wide "heat map" that reveals which teams should have a
+   conversation to improve their collaboration.
+1. (p. 166) Three-step process for difficult conversation:
+    1. Here is how I feel
+    1. Here is what I need.
+    1. What do *you* need?
+1. (p. 175) A bad hire is someone who is a chronic complainer who is not
+   happy, who blames others, who doesn't take responsibility, who's not
+   honest, who doesn't trust other people. A bad hire would be someone
+   who needs specific direction and waits to be told what to do. A poor
+   hire would be someone who wasn't flexible and who says, "It's not my
+   job."
+1. (p. 197) :star: Profit is like the air we breathe. We need air to live, but
+   we don't live to breathe.
+1. (p. 240) :star: :star: The level of consciousness of an organization
+   cannot exceed the level of consciousness of its leader.
+1. (p. 288) So much of what we call "management" consists in making it
+   difficult for people to work.
