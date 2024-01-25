@@ -15,7 +15,47 @@ Author: [Gergely Orosz](https://www.linkedin.com/in/gergelyorosz)
 
 ---
 
-REVIEW
+I envy people who choose a profession like software engineering, because
+it feels like the career path of such professions is so clear: from
+junior to senior engineer, to staff, to manager, director, VP of
+Engineering, to finally CTO. In a sense, this career ladder feels like
+playing an MMORPG, which is supposed to be quite rewarding and addicting
+as you start your climb.
+
+The problem is that some part of me refuses to fit this mold, and I
+can't put my finger on why. This is why I chose to read *The Software
+Engineer's Guidebook* by Gergely Orosz, an Amazon bestseller, to reframe
+my mind on software engineering. Maybe this book could become my cure to
+start better understanding how software engineers should work and think
+about their work and, through better collaboration with them, I could
+start figuring out my own path.
+
+If you're interested in getting this book, here's what you can look
+forward to:
+- a broad overview of the expectations that come with being a software
+  engineer
+- tips for being a great contributor
+- what mindsets give the best results
+- how to grow from an individual contributor into a manager
+
+The book certainly has merit, being written from an experienced engineer
+who spent a lot of time working at companies like Uber and who spent
+many years writing on the topic on his [blog](pragmaticengineer.com).
+However, don't expect depth; its length is used to cover a multitude of
+topics connected to software engineering, not to be the ultimate
+resource for each topic. In a sense, the book is an introduction to all
+the topics it discusses, and expects the reader to search for more
+details if their interest is piqued.
+For example, on topics like CI/CD, the author will explain what the
+concept is and why it is useful, but will not guide you into building
+your first pipeline (though he often provides useful links for further
+reading).
+
+I think this is a solid book to have in any organization's library,
+because surely you it will have some software engineers among its wall
+and all of the topics discussed in the books are important. However, if
+anything, this book made me realize that whatever I am is not a software
+engineer.
 
 # [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍
 
