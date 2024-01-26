@@ -1,5 +1,5 @@
 ---
-title: "Cest Quoi La Vraie Place Ou Ca Va Ca? - The Game"
+title: "C'est Quoi La Vraie Place Où Ça Va Ça? - The Game"
 date: 2024-01-25T19:54:41-05:00
 draft: false
 toc: false
