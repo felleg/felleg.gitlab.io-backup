@@ -15,3 +15,5 @@ Rules:
 - Try to answer the question: "C'est quoi la vraie place où ça va ça?"
 
 It`s like a solitaire version of Go, using objects from your home.
+
+I like this game because it can be played anywhere.
