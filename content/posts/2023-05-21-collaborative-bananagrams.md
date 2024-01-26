@@ -58,7 +58,7 @@ Put the filled banana pouch on your table. That's it!
 
 - All tiles forming the crossword must be connected into one big crossword; separated crosswords (i.e. touching only from corners of tiles) are not allowed.
 - Proper nouns (e.g. "Félix") and acronyms ("LOL") are never allowed.
-- Words must be read from left to right and top to bottom, as in
+- Words must be read from left to right or top to bottom, as in
   typical crosswords.
 - Mistakes on the board must be resolved before normal play resumes.
   In other words, when a new letter is drawn from the Banana Bag, all the
@@ -72,7 +72,9 @@ personally recommend all of them since I feel they all contribute to
 make our games more
 alive and rewarding.
 
-1. Before beginning the game, try giving yourself an objective, such as beating your previous best time, finishing before the end of the lunch break, etc.
+1. Before beginning the game, give yourself an objective, such as beating your previous best time, finishing before the end of the lunch break, etc.
+1. For added pressure, when the timer is stopped, all words in the
+   crossword must be valid, otherwise the team is disqualified.
 1. Since this is a collaborative game, players are encouraged to help
    each other, especially when someone seems stuck trying to place their
    letter during their turn. However, if a player wishes to come up with their own
@@ -148,8 +150,8 @@ themself to start a game, and they managed to assemble a small crowd. It was a g
 for bananas everywhere!
 
 From this point on, I saw that Collaborative Bananagrams could be more
-than a game. For me, it is a tool that has the potential to rewire
-relationships at the office. During gameplay, I enjoy using every opportunity I can to high-five
+than a game. For me, it **is a tool that has the potential to rewire
+relationships**. During gameplay, I enjoy using every opportunity I can to high-five
 people and make them feel valued. I see it in people's eyes: they
 derive meaning from pulling of a complex move in front of everyone and
 getting rewarded for it. This can have a lasting effect on the rest of their day at work.
