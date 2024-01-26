@@ -52,10 +52,10 @@ your first pipeline (though he often provides useful links for further
 reading).
 
 I think this is a solid book to have in any organization's library,
-because surely you it will have some software engineers among its wall
-and all of the topics discussed in the books are important. However, if
-anything, this book made me realize that whatever I am is not a software
-engineer.
+because surely it will have some software engineers among its wall
+and all of the topics discussed in this book are important. Now it's
+only a matter of diving deeper in each of those subjects to correctly
+put them into practice.
 
 # [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍
 
