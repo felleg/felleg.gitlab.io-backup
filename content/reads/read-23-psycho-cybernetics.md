@@ -10,6 +10,23 @@ aliases: ['/books/book-23-psycho-cybernetics']
 
 Release year: 1960 (revised 2015)
 
-👍 - Great tips about how to form a mental self-image. "You can do anything you set your mind to." (Thanks Dan for this recommendation!)
+Author: Maxwell Maltz
 
-Read [the notes I took](https://drive.google.com/file/d/1OBEj2Rcxowgrw7_glm1zfRONbcJXnilh/view?usp=drive_link) from this book.
+[Buy this book](https://amzn.to/49dLZpB) (note: affiliate link)
+
+[Link to my handwritten notes](https://drive.google.com/file/d/1OBEj2Rcxowgrw7_glm1zfRONbcJXnilh/view?usp=drive_link)
+
+---
+
+# Review
+
+Great tips about how to form a mental self-image. "You can do anything you set your mind to." (Thanks Dan for this recommendation!)
+
+# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍
+
+---
+
+# :star: Star quotes
+
+1. (p. 37) Your nervous system cannot tell the difference between an
+   imagined experience and a real experience.
