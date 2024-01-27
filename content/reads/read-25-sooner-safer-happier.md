@@ -10,6 +10,26 @@ aliases: ['/books/book-25-sooner-safer-happier']
 
 Release year: 2020
 
-👍👍 - Mind-blowing. Incredible. Reading this felt exactly like reading *The DevOps Handbook* for the first time. What I love about BVSSH is that there are no buzzwords to get confused about: this is simply solid advice that every organization should follow.
+Author: Jonathan Smart et al.
 
-Read [the notes I took](https://drive.google.com/file/d/1dmXRI3ZMyiUbZCV_3jaUl1nHbFwvrp7B/view?usp=drive_link) from this book.
+[Buy this book](https://amzn.to/3Om929v) (note: affiliate link)
+
+[Link to my handwritten notes](https://drive.google.com/file/d/1dmXRI3ZMyiUbZCV_3jaUl1nHbFwvrp7B/view?usp=drive_link)
+
+---
+
+# Review
+
+Mind-blowing. Incredible. Reading this felt exactly like reading *The DevOps Handbook* for the first time. What I love about BVSSH is that there are no buzzwords to get confused about: this is simply solid advice that every organization should follow.
+
+# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍👍
+
+
+---
+
+# :star: Star quotes
+
+1. (p. 89) The level of consciousness of an organization cannot exceed
+   the level of consciousness of its leader.
+1. (p. 159) Servant leadership: "Than kyou for flagging a possible issue
+   or improvement. How may I help you, dear team member?"
