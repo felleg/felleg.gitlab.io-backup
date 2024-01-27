@@ -31,5 +31,5 @@ Mind-blowing. Incredible. Reading this felt exactly like reading *The DevOps Han
 
 1. (p. 89) The level of consciousness of an organization cannot exceed
    the level of consciousness of its leader.
-1. (p. 159) Servant leadership: "Than kyou for flagging a possible issue
+1. (p. 159) Servant leadership: "Thank you for flagging a possible issue
    or improvement. How may I help you, dear team member?"
