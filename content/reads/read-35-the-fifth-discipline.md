@@ -113,19 +113,56 @@ I think this is my favorite my favorite book yet.
 1. (p. 310) :star: "The more I understand the real skills of leadership in a
    learning organization, the more I become convinced that these are the
    skills of effective parenting."
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
+1. (p. 312) All the habits that an executive learns in an authoritarian
+   organization are exactly the habits that make them unsuccessful
+   parents.
+1. (p. 316) Living behind all strategies are assumptions, which often
+   remain implicit and untested.
+1. (p. 333) Focusing on what's easily measured leads to "looking good
+   without being good."
+1. (p. 337) Organizational memory must depend on institutional
+   mechanisms, rather than on individuals, or else you risk losing
+   hard-won lessons and experiences as people migrate from one job to
+   another.
+1. (p. 340) At its heart, the traditional view of leadership is based on
+   assumptions of people's powerlessness, their lack of personal vision
+   and inability to master the forces of change, deficits which can be
+   remedied only be a few great leaders.
+1. (p. 342) Designing policies and strategies that no one can implement
+   because they don't understand or agree with the thinking behind them
+   has little effect.
+1. (p. 343) The types of design questions that leaders must ponder:
+    - What disciplines should be developed first?
+    - How can understanding in one area lead to mastery in another?
+    - How can we sustain movement along all critical dimensions and not
+      become self-satisfied with out accomplishments in one area?
+1. (p. 345) **The first rule of learning**: People learn what they need
+   to learn, not what someone else thinks they need to learn.
+1. (p. 350) Think of an organization as a living organism.
+1. (p. 351) The core challenge faced by the aspiring learning
+   organization is to develop tools and processes for conceptualizing
+   the big picture and testing ideas in practice. All in the
+   organization must master the cycle of thinking, doing, evaluating,
+   and reflecting. Without, there is no valid learning.
+1. (p. 353) Leaders help people achieve a view of reality, such as the
+   artist's, as a medium for creating rather than as a source for
+   limitation.
+1. (p. 357) "I have met many leaders who have been destroyed by their
+   vision." This happens, almost always, because the leaders lose their
+   capacity to see current reality. They collude in their and their
+   organization's desire to assuage uneasiness and avoid uncertainty by
+   pretending everything is going fine. They become speech makers rather
+   than leaders. They become "true believers" rather than learners.
+1. (p. 359) Most of the outstanding leaders are neither tall nor
+   especially handsome; they are often mediocre public speakers; they do
+   not stand out in a crowd; they do not mesmerize an attending audience
+   with their brilliance or eloquence. Rather, what distinguishes them
+   is the clarity and persuasiveness of their ideas, the depth of their
+   commitment, and their openness to continually learning more. They do
+   not "have the answer." But they do instill confidence in those around
+   them that, together, we can learn whatever we need to learn in order
+   to achieve the results we truly desire.
+1. (p. 360) Ultimately, people follow people who believe in something
+   and have the abilities to achieve results in the service of those
+   beliefs. To put it another way, the natural leaders of learning
+   organizations are the learners.
