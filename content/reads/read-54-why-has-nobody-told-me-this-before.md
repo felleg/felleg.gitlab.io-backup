@@ -15,6 +15,8 @@ Author: [Dr Julie Smith](https://www.drjulie.uk/)
 
 ---
 
+# Review
+
 (Thank you Lidia Mansur for this recommendation!)
 
 To me, mental health is the holy grail of our human world. I have done a year of
@@ -45,11 +47,11 @@ our honest feelings to another attentive human, but if you don't know
 where to start on your self-healing journey, I would say that this book
 is surely a sensible first step.
 
-# Félix Rating: 👍
+{{< myrating rating="👍👍" >}}
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
 
 1. (p. 35) You can't control the thoughts that arrive in your mind. You can
    control what you do once they appear.

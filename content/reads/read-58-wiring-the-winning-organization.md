@@ -17,6 +17,8 @@ Authors:
 
 ---
 
+# Review
+
 For a number of years, I have grown dissatisfied with the
 term "DevOps". Don't get me wrong; I am still incredibly thankful for
 the DevOps community that made me aware of a different way to see work
@@ -92,7 +94,7 @@ practice. Wiring an organization to win is probably the most
 important challenge in technology today, but thankfully we finally have
 a clear and coherent set of tools that allow us to get there.
 
-# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍👍
+{{< myrating rating="👍👍" >}}
 
 P.S. If I could make one suggestion to the authors, a simple change in
 the  visual presentation of the different layers of work. It would be to
@@ -103,7 +105,7 @@ And Layer 1 are heroes.
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
 
 1. (p. 20) In all but the smallest endeavors, a leader's primary
    contribution is *not* doing the work required to achieve the goal.

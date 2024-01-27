@@ -23,7 +23,7 @@ Author: [Robert Greene](https://powerseductionandwar.com/)
 
 Reading this was an almost religious experience. As I was taking my notes, I could feel myself going through some of the mental steps and blockages outlined in the book. This was probably my most challenging read yet, as it truly tested my reading system. Now that I made it through, I feel stronger than ever. What a ride! (Thanks Marcel for this recommendation!)
 
-# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍
+{{< myrating rating="👍" >}}
 
 ---
 

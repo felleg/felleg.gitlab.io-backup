@@ -15,6 +15,8 @@ Author: [Sonia Lupien](https://sonialupien.com/)
 
 ---
 
+# Critique
+
 J'ai vécu une période assez stressante durant les vacances du temps des
 fêtes cette année, et ce livre est arrivé à point. Dans Par amour du
 stress, Sonia Lupien dresse un portrait des dernières découvertes
@@ -52,11 +54,11 @@ Un bon petit livre concis, qui dit ce qu'il a à dire, et qui le fait
 bien. Recommandé si vous voulez en apprendre plus sur le stress. Sachez
 qu'une seconde édition est parue en 2020.
 
-# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍
+{{< myrating rating="👍" >}}
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
 
 1. (p. 25) Les gens vont produire une réponse biologique de stress
    lorsqu'ils sont exposés à une situation comprenant l'une ou plusieurs

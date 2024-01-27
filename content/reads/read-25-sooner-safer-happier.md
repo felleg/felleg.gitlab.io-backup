@@ -20,9 +20,12 @@ Author: Jonathan Smart et al.
 
 # Review
 
-Mind-blowing. Incredible. Reading this felt exactly like reading *The DevOps Handbook* for the first time. What I love about BVSSH is that there are no buzzwords to get confused about: this is simply solid advice that every organization should follow.
+Mind-blowing. Incredible. Reading this felt exactly like reading *The
+DevOps Handbook* for the first time. What I love about BVSSH is that
+there are no buzzwords to get confused about: this is simply solid
+advice that every organization should follow.
 
-# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍👍
+{{< myrating rating="👍👍" >}}
 
 
 ---

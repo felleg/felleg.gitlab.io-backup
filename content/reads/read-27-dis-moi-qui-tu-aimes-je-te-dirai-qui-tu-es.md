@@ -10,5 +10,5 @@ aliases: ['/books/book-27-dis-moi-qui-tu-aimes-je-te-dirai-qui-tu-es']
 
 Release year: 2017
 
-👍
+{{< myrating rating="👍" >}}
 

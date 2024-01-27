@@ -17,12 +17,14 @@ Laloux](https://www.linkedin.com/in/frederic-laloux-108174/)
 
 ---
 
+# Review
+
 Terrific ideas. This book inspires me to try to show what management can
 change to tap into the unexplored potential that lives in every human. I
 think every C-level manager should explore the ideas discussed in this
 book and see if they resonate with them. This is the future of work.
 
-# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍
+{{< myrating rating="👍" >}}
 
 ---
 

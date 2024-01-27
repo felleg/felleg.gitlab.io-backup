@@ -15,6 +15,8 @@ Author: [Jeff Geerling](https://www.linkedin.com/in/jeff-geerling-086bb2a/)
 
 ---
 
+# Review
+
 As someone deeply involved in DevOps and automation within my current
 role, I found it essential to acquaint myself with Ansible, an
 open-source automation tool renowned for its applications in
@@ -39,10 +41,11 @@ start. The learning curve of the book is smooth (assuming basic
 familiarity with other mainstream DevOps tools) and the topics discussed
 seem relevant.
 
-# Félix Rating: 👍
+{{< myrating rating="👍" >}}
 
 ---
-# :star: Star quotes:
+
+# :star: Star quotes
 
 1. (p. 313) Make sure you can already log in via your SSH key before you
    disable password-based SSH authentication.

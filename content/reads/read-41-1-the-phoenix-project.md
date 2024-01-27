@@ -16,13 +16,21 @@ Author: [Gene Kim](https://www.linkedin.com/in/realgenekim/)
 
 ---
 
-It's the second time I read this book (now with notes!). I still believe it is as relevant as the first time I read it. In fact, now that I better understand how it management works, I was able to better appreciate some subtleties. What elevates this book to me is the fact that it's written as a novel, yet it doesn't shy of inserting bits of DevOps knowledge here and there. This makes it easy for anyone to get into. It's an easy recommend for me to anyone working in IT management.
+# Review
 
-# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍👍
+It's the second time I read this book (now with notes!). I still believe
+it is as relevant as the first time I read it. In fact, now that I
+better understand how it management works, I was able to better
+appreciate some subtleties. What elevates this book to me is the fact
+that it's written as a novel, yet it doesn't shy of inserting bits of
+DevOps knowledge here and there. This makes it easy for anyone to get
+into. It's an easy recommend for me to anyone working in IT management.
+
+{{< myrating rating="👍👍" >}}
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
 
 1. (p. 157) One of the problems of prevention is that you rarely know
    about the disasters you averted.

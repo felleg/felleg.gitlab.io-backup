@@ -20,9 +20,11 @@ Author: Dale Carnegie
 
 # Review
 
-Groundbreaking for its time, and still relevant today. Good tips about how to listen to people and get them to think about your ideas. (Thanks Raymond for this recommendation!)
+Groundbreaking for its time, and still relevant today. Good tips about
+how to listen to people and get them to think about your ideas. (Thanks
+Raymond for this recommendation!)
 
-# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍
+{{< myrating rating="👍" >}}
 
 
 ---

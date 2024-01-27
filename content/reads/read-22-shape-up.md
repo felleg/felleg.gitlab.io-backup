@@ -21,9 +21,13 @@ online version](https://basecamp.com/shapeup))
 
 # Review
 
-Really clever framework that has the potential to replace Agile and Scrum. I hope I'll get to try it out someday. Everything just clicks! [This book is also available online for free](https://basecamp.com/shapeup) (Thanks Benoit for this recommendation!)
+Really clever framework that has the potential to replace Agile and
+Scrum. I hope I'll get to try it out someday. Everything just clicks!
+[This book is also available online for
+free](https://basecamp.com/shapeup) (Thanks Benoit for this
+recommendation!)
 
-# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍👍
+{{< myrating rating="👍👍" >}}
 
 ---
 

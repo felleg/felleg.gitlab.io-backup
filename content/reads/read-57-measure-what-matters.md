@@ -15,6 +15,8 @@ Author: [John Doerr](https://www.linkedin.com/in/john-doerr-03248211/)
 
 ---
 
+# Review
+
 How do you measure your success as an individual? As a team? As an
 organization?
 
@@ -92,11 +94,11 @@ is make me question how some businesses got as far as they did
 without OKRs. After reading about the concept, it just seems like
 common sense to me.
 
-# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍
+{{< myrating rating="👍" >}}
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
 
 1. (p. 11) Writing goals down makes them real.
 1. (p. 24) Stressing output is the key to increasing productivity while

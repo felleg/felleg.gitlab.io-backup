@@ -25,7 +25,7 @@ book itself. This is aimed at CEOs in manufacturing in the 2000s.
 I wonder how relevant some parts of the book are in today's
 reality. (Thanks Karim for this recommendation!)
 
-# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👎
+{{< myrating rating="👎" >}}
 
 ---
 

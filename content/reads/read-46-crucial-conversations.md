@@ -15,6 +15,8 @@ Author: [Joseph Grenny](https://www.linkedin.com/in/joseph-grenny-a89081b/) et a
 
 ---
 
+# Review
+
 Here's a book I desperately needed to read. For some time, I had been
 noticing a pattern in my conversations. I wasn’t getting the desired
 outcomes. I often felt like either I was pushing too hard, or couldn't
@@ -78,11 +80,11 @@ excited to see where the CC framework will lead my conversational
 outcomes and I am looking forward to testing it with my friends,
 colleagues and loved ones.
 
-# Félix Rating: 👍👍
+{{< myrating rating="👍👍" >}}
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
 
 1. (p. 4) The determining factor between success and failure is the
    amount of time that passes between when the problem emerges and when

@@ -15,6 +15,8 @@ Author: [Richard N. Bolles](https://en.wikipedia.org/wiki/Richard_Nelson_Bolles)
 
 ---
 
+# Review
+
 According to its front cover, *What Color Is Your Parachute* is *the*
 world's most popular and bestselling career handbook. After reading it,
 it's easy to see why. Here is a book that has been updated yearly since
@@ -54,11 +56,11 @@ next step should be, if you want to know what you are looking for, I
 strongly recommend you give this book the time it asks of you. It's a
 great investment.
 
-# Félix Rating: 👍👍
+{{< myrating rating="👍👍" >}}
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
 
 1. You are a person, not a job. (p. 104)
 2. Instead of just hitting the "Invite" button on LinkedIn, *always*

@@ -4,7 +4,8 @@ date: 2023-10-21T20:31:21-04:00
 draft: false
 toc: false
 cover: /img/two-thumbs-up.jpg
-aliases: ['/posts/2023/10/my-book-ratings-explained']
+aliases: ['/posts/2023/10/my-book-ratings-explained',
+'/ratings-explained']
 ---
 
 It has occurred to me that after reviewing 52 books, I hadn't yet taken the

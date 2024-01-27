@@ -16,13 +16,25 @@ Author: [Russ Laraway](https://www.linkedin.com/in/russlaraway/)
 
 ---
 
-This book is a perfect companion for [Radical Candor (read 20)](/reads/read-20-radical-candor), and I would have a hard time picking which one I preferred between the two. I often felt like this book put in words things I have been thinking deep down for a long time. I love how unafraid the author is of going against the grain and pushing ideas that he tested himself on the field. A personal highlight was the Life Story Conversation questions (p. 204). I took the time to answer them myself and it felt like I was having an actual session with Russ, it was wonderful. Just like *Radical Candor*, this is an easy recommend for anyone who has to deal with humans in the workplace.
+# Review
 
-# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍👍
+This book is a perfect companion for [Radical Candor (read
+20)](/reads/read-20-radical-candor), and I would have a hard time
+picking which one I preferred between the two. I often felt like this
+book put in words things I have been thinking deep down for a long time.
+I love how unafraid the author is of going against the grain and pushing
+ideas that he tested himself on the field. A personal highlight was the
+Life Story Conversation questions (p. 204). I took the time to answer
+them myself and it felt like I was having an actual session with Russ,
+it was wonderful. Just like *Radical Candor*, this is an easy recommend
+for anyone who has to deal with humans in the workplace.
+
+{{< myrating rating="👍👍" >}}
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
+
 1. (p. 30) The job of a manager is only two things:
     - Deliver an aligned result
     - Enable the success of the people on your teams

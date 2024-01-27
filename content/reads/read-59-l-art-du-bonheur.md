@@ -15,6 +15,8 @@ Auteurs: Sa Sainteté le Dalaï-Lama et Howard Cutler
 
 ---
 
+# Critique
+
 Comme toute chose, le bonheur est un art qui se pratique. J'ai bien
 apprécié lire ce livre qui, au moment de cette lecture, datait déjà de
 plus d'une vingtaine d'années. Curieusement, je trouvais que ça
@@ -53,11 +55,11 @@ Si la vision d'un peuple qui s'unit pour chanter Kumbaya semble
 irréaliste pour certains, je continue de croire que le secret du
 bonheur, il est là. Y travailler, c'est un choix accessible à tous.
 
-# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍
+{{< myrating rating="👍" >}}
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
 
 1. (p. 28) Le but de la vie, c'est le bonheur.
 1. (p. 31) "Rien que de me lever le matin, et de songer 'a ce que la

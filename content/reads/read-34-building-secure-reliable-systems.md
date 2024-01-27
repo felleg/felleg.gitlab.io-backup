@@ -16,13 +16,15 @@ Author: Header Adkins et al.
 
 ---
 
+# Review
+
  This is a book I have been intimidated by since it came out. I am proud
  of myself for having finished it! I think it's more meant to be
  reference material than actual reading material, to be fair. [You can
  browse the HTLM version of this book online for
  free](https://google.github.io/building-secure-and-reliable-systems/raw/toc.html).
 
-# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍
+{{< myrating rating="👍" >}}
 
 ---
 

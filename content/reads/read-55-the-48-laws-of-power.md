@@ -15,6 +15,8 @@ Author: [Robert Greene](https://powerseductionandwar.com/)
 
 ---
 
+# Review
+
 Recently, my colleague @Pierre-Francois Saint-Marc noticed I was reading *The 48 Laws of Power* and
 asked me, "Are you sure you want to read something like this in public?"
 
@@ -46,11 +48,11 @@ coaching me to learn from my mistakes, in order to guide me toward
 living a life where I felt in control. I expect to use the teachings
 from this book for many years to come.
 
-# Félix Rating: 👍👍
+{{< myrating rating="👍👍" >}}
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
 
 1. (p. xxi) If deception is the most potent weapon in your arsenal, then
    patience in all things is your crucial shield. Patience will protect

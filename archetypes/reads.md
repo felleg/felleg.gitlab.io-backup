@@ -18,7 +18,7 @@ Author: [NAME]()
 
 # Review
 
-# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍👍👎👎
+{{< myrating rating="👍👍👎👎" >}}
 
 ---
 

@@ -20,9 +20,10 @@ Author: Maxwell Maltz
 
 # Review
 
-Great tips about how to form a mental self-image. "You can do anything you set your mind to." (Thanks Dan for this recommendation!)
+Great tips about how to form a mental self-image. "You can do anything
+you set your mind to." (Thanks Dan for this recommendation!)
 
-# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍
+{{< myrating rating="👍" >}}
 
 ---
 

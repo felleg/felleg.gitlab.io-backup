@@ -20,9 +20,10 @@ Author: Kim Scott
 
 # Review
 
-Essential reading for anyone who has to interact with a manager or employees on a daily basis! (Thanks Anthony for this recommendation!)
+Essential reading for anyone who has to interact with a manager or
+employees on a daily basis! (Thanks Anthony for this recommendation!)
 
-# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍👍
+{{< myrating rating="👍👍" >}}
 
 ---
 

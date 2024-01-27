@@ -15,6 +15,8 @@ Author: [Ray Dalio](ihttps://en.wikipedia.org/wiki/Ray_Dalio)
 
 ---
 
+# Review
+
 Ray Dalio, one of the richest and most successful individuals on this
 planet, heads Bridgewater, the world’s largest hedge fund, consistently
 touted as one of the most successful globally. Remarkably, his entire
@@ -70,12 +72,11 @@ the same principles?
 
 I’m looking forward to finding out.
 
-
-# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍
+{{< myrating rating="👍" >}}
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
 
 1. (p. xiv) Shift from having a perspective of "I know I'm right" to
    having one of "How do I know I'm right?"

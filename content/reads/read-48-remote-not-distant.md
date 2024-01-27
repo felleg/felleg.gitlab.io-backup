@@ -15,23 +15,53 @@ Author: [Gustavo Razzetti](https://www.linkedin.com/in/gustavorazzetti/)
 
 ---
 
-The 2020 pandemic has shaken the business world like seemingly never before. It seems evident to me that we are currently observing a massive shift from an office-first mentality to a more and more hybrid and remote-first reality. This new world feels alien to most leaders.
+# Review
 
-This book offers many suggestions on how to conduct a remote-first company without having to compromise on building a strong company culture. Indeed, as I am now deeply convinced, culture is of the utmost importance when running a company and should be designed as intently as a flagship product.
+The 2020 pandemic has shaken the business world like seemingly never
+before. It seems evident to me that we are currently observing a massive
+shift from an office-first mentality to a more and more hybrid and
+remote-first reality. This new world feels alien to most leaders.
 
-The book gave me a reality check with these two quotes: "The office is the new offsite" (p. 43) and "The people who are more supportive of fully returning to the physical office are those who were successful in that environment" (p. 196). That was a hard pill to swallow for me, as a firm believer of the potential an office provides for building culture.
+This book offers many suggestions on how to conduct a remote-first
+company without having to compromise on building a strong company
+culture. Indeed, as I am now deeply convinced, culture is of the utmost
+importance when running a company and should be designed as intently as
+a flagship product.
 
-The truth is, what works for me might not work for others. If I'm part of a minority of people who can reach their peak productivity at the office, I have to accept it and be willing to better understand what allows my peers to be productive from home. This is a big shift for leaders because it forces them to choose between the old habits that gave them their current success, and embracing a new uncomfortable reality that in theory will get them to the next level. Which one would you choose? As the author brilliantly puts it, "Are you open to maximizing the benefits of a remote environment even if it means your role feels less important?"
+The book gave me a reality check with these two quotes: "The office is
+the new offsite" (p. 43) and "The people who are more supportive of
+fully returning to the physical office are those who were successful in
+that environment" (p. 196). That was a hard pill to swallow for me, as a
+firm believer of the potential an office provides for building culture.
 
-If you're interested in new ideas for leadership, you'll find plenty in this book. The six work modes for distributed teams (p. 201), the pros and cons of synchronous vs asynchronous communication (p. 212) and the seven decision-making methods (p. 269) in particular seem to have a lot of potential for impact.
+The truth is, what works for me might not work for others. If I'm part
+of a minority of people who can reach their peak productivity at the
+office, I have to accept it and be willing to better understand what
+allows my peers to be productive from home. This is a big shift for
+leaders because it forces them to choose between the old habits that
+gave them their current success, and embracing a new uncomfortable
+reality that in theory will get them to the next level. Which one would
+you choose? As the author brilliantly puts it, "Are you open to
+maximizing the benefits of a remote environment even if it means your
+role feels less important?"
 
-In summary, if you're leading a remotely distributed team, you'll probably find it useful to compare your current strategies with what other players of the industry are doing. If you're leading an office-first team, this book will give you a glimpse of the inescapable future we all seem to be headed towards.
+If you're interested in new ideas for leadership, you'll find plenty in
+this book. The six work modes for distributed teams (p. 201), the pros
+and cons of synchronous vs asynchronous communication (p. 212) and the
+seven decision-making methods (p. 269) in particular seem to have a lot
+of potential for impact.
 
-# Félix Rating: 👍
+In summary, if you're leading a remotely distributed team, you'll
+probably find it useful to compare your current strategies with what
+other players of the industry are doing. If you're leading an
+office-first team, this book will give you a glimpse of the inescapable
+future we all seem to be headed towards.
+
+{{< myrating rating="👍" >}}
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
 
 1. (p. 39) When fearful CEOs talk about workplace culture, they're
    really talking about workplace control.

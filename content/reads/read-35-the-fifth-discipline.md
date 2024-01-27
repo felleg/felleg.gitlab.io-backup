@@ -14,6 +14,9 @@ Author: [Peter Senge](https://en.wikipedia.org/wiki/Peter_Senge)
 
 [Link to my handwritten notes](https://drive.google.com/file/d/1g3yoB0f_aydi_ML371b2YPPWSbRsPIGG/view?usp=drive_link)
 
+---
+
+# Review
 
 When it comes to business management, I believe this is one of the most
 important publications of all time. The Fifth Discipline contains just
@@ -26,7 +29,7 @@ to be missed, still as fresh today as it was in 1990.
 
 I think this is my favorite my favorite book yet.
 
-# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍👍
+{{< myrating rating="👍👍" >}}
 
 ---
 

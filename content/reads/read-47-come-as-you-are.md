@@ -14,6 +14,8 @@ Author: [Emily Nagoski](https://www.linkedin.com/in/emily-nagoski-48256a49)
 
 ---
 
+# Review
+
 I think this review marks the first time I openly talk about sex on the
 internet with my name attached to my ideas, so please bare with me as I
 awkwardly work my way through this review. :sweat_smile:
@@ -63,12 +65,12 @@ related to sex. After reading this book, I feel just a smidge more
 confident that there's hope for me, and that going forward my rate of
 mistakes will go down. That alone is enough for me to give this book top
 ratings:
-.
-# Félix Rating: 👍👍
+
+{{< myrating rating="👍👍" >}}
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
 
 1. (p. 93) "I'm chasing you, remember?" he said. "I can't chase you if
    you're moving toward me."

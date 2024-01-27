@@ -10,5 +10,6 @@ aliases: ['/books/book-32-mon-cerveau-a-encore-besoin-de-lunettes']
 
 Release year: 2022
 
-👍 - Je crois que j'ai un TDA...?
+Je crois que j'ai un TDA...?
 
+{{< myrating rating="👍" >}}

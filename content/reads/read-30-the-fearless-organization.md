@@ -22,7 +22,7 @@ Author: [Amy C. Edmonson](https://amycedmondson.com/)
 
 Incredibly relevant. I want to work for an organization that values psychological safety. The author makes it clear that it is one of the best investments money can't buy.
 
-# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍👍
+{{< myrating rating="👍👍" >}}
 
 ---
 

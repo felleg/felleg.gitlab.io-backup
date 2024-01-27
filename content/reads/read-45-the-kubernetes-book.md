@@ -15,6 +15,8 @@ Author: [Nigel Poulton](https://linkedin.com/in/nigelpoulton)
 
 ---
 
+# Review
+
 I did it. I read a full book on Kubernetes. Honestly, it is
 difficult for me to comment about the book without first mentioning how
 proud I am of myself of getting through it.
@@ -36,11 +38,12 @@ my fear of getting a Kubernetes configuration wrong, at least I now feel
 comfortable having a conversation on the topic with anyone. And that, to
 me, is priceless.
 
-# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍
+{{< myrating rating="👍" >}}
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
+
 1. (p. 14) A k8s cluster consists of a control plane and worker nodes.
 1. (p. 24) "Pod" comes from a "pod of whales". As the Docker logo is a
    whale, k8s ran with the whale concept and that's why we have "Pods."

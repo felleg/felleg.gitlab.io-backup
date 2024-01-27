@@ -16,13 +16,25 @@ Author: [Mark Schwartz](https://www.linkedin.com/in/innovativecio/)
 
 ---
 
-This book prompts us to grapple with uncomfortable yet essential questions that we often overlook or intentionally avoid. It's a reminder that decisions on matters like privacy, productivity, profits, and agility shape our lives, especially in an era of digital transformation. While easy solutions are notably absent, the book offers a set of virtues that appear crucial for successful digital shifts within organizations. The author's in-depth breakdown of the bureaucratic organization myth stands out to me, providing a compelling argument against embracing such outdated structures. I appreciated how this book made me realize that the definition of success evolves depending on the perspective you choose. It's Systems Thinking all over again!
+# Review
 
-# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍
+This book prompts us to grapple with uncomfortable yet essential
+questions that we often overlook or intentionally avoid. It's a reminder
+that decisions on matters like privacy, productivity, profits, and
+agility shape our lives, especially in an era of digital transformation.
+While easy solutions are notably absent, the book offers a set of
+virtues that appear crucial for successful digital shifts within
+organizations. The author's in-depth breakdown of the bureaucratic
+organization myth stands out to me, providing a compelling argument
+against embracing such outdated structures. I appreciated how this book
+made me realize that the definition of success evolves depending on the
+perspective you choose. It's Systems Thinking all over again!
+
+{{< myrating rating="👍" >}}
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
 
 1. (p. 16) Since productivity no longer determines success, it can no
 longer be the measure of employee contribution.

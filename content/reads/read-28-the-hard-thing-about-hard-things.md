@@ -22,7 +22,7 @@ Author: Ben Horowitz
 
 Gives good insight about how it feels like to live the reality of a CEO.
 
-# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍
+{{< myrating rating="👍" >}}
 
 ---
 

@@ -16,13 +16,19 @@ Author: [James Clear](https://www.linkedin.com/in/jamesclear)
 
 ---
 
-I think this book greatly summarizes about 5 of the reads I read so far. It's like "Mastery", "So Good, They Can't Ignore You", "Unlearn", "Psycho-Cybernetics", all rolled up into one. An easy recommend for someone interest in self-help.
+# Review
 
-# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍
+I think this book greatly summarizes about 5 of the reads I read so far.
+It's like "Mastery", "So Good, They Can't Ignore You", "Unlearn",
+"Psycho-Cybernetics", all rolled up into one. An easy recommend for
+someone interest in self-help.
+
+{{< myrating rating="👍" >}}
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
+
 1. (p. 16) Habits are the compound interest of self-improvement.
 1. (p. 20) A hallmark of any compounding process: the most powerful
    outcomes are delayed.

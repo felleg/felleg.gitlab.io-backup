@@ -15,6 +15,8 @@ Author: [Adam Grant](https://adamgrant.net/)
 
 ---
 
+# Review
+
 Here's an original book, to say the least. I must be honest, at one
 point I thought of giving this one a :-1:. It was too all over the
 place, I thought. It didn't seem to focus on its subject matter: who
@@ -36,11 +38,11 @@ another deep dive into the history of originals and the physics of how
 they improve the world. What I got was a book that gave many ideas about
 how to better listen to originals, whoever they may be.
 
-# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍
+{{< myrating rating="👍" >}}
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
 
 1. (p. xii)  A friend is someone who sees more potential in you than you see
    in yourself, someone who helps you become the best version of

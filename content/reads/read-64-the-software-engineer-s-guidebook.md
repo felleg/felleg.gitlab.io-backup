@@ -15,6 +15,8 @@ Author: [Gergely Orosz](https://www.linkedin.com/in/gergelyorosz)
 
 ---
 
+# Review
+
 I envy people who choose a profession like software engineering, because
 it feels like the career path of such professions is so clear: from
 junior to senior engineer, to staff, to manager, director, VP of
@@ -57,11 +59,11 @@ and all of the topics discussed in this book are important. Now it's
 only a matter of diving deeper in each of those subjects to correctly
 put them into practice.
 
-# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍
+{{< myrating rating="👍" >}}
 
 ---
 
-:star: Star quotes:
+# :star: Star quotes
 
 1. (p. 40) Good feedback is:
     - timely

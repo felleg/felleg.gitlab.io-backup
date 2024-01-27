@@ -14,6 +14,8 @@ Author: [Daniel H. Pink](danpink.com)
 
 ---
 
+# Review
+
 If your journey in reading reads on psychology and productivity is
 anything like mine, chances are you've come across multiple quotes from
 the book Drive by Daniel Pink. This book seems to have hit a specific
@@ -102,11 +104,11 @@ deeply about what drives *you*, and how you can inspire people around
 you to be more driven by the sustainable, and renewable energy of
 intrinsic motivation.
 
-# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍
+{{< myrating rating="👍" >}}
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
 
 1. (p. 34) Rewards must be handled carefully, because they can turn play into work.
 1. (p. 37) People use rewards expecting to gain the benefit of

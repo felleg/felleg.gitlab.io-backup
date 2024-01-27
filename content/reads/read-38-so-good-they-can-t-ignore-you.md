@@ -14,6 +14,10 @@ Author: [Cal Newport](calnewport.com)
 
 [Link to my handwritten notes](https://drive.google.com/file/d/1gNwvrFlxsYXn7TrZi8JFnRwGHKz5QDU0/view?usp=drive_link)
 
+---
+
+# Review
+
 This is the fastest book I have ever read! I really enjoyed it: short,
 to the point, and with lovely ideas that feel great to think about. To
 me it confirmed that I am currently on the right path to become "so good
@@ -24,10 +28,10 @@ felt like a nice pat on the back, and I think like it can be inspiring
 for someone who might be as lost as I was when I started my career.
 (Thanks Ricardo for this recommendation!)
 
-# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍
+{{< myrating rating="👍" >}}
 
 ---
 
-# :star: Star quote
+# :star: Star quotes
 
 1. (p. 19) Working right trumps finding the right work.

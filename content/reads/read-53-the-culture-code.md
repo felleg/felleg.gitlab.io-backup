@@ -15,6 +15,8 @@ Author: [Daniel Coyle](https://danielcoyle.com)
 
 ---
 
+# Review
+
 I had *The Culture Code* on my reading list for a long time, and I'm
 glad I finally got to it. If anything, it reinforced my belief that
 individual skills, although important, are not what really matters. What
@@ -56,11 +58,11 @@ right rules of thumb (awareness of belonging cues, owning mistakes,
 self-concordance, ...), the group can get there naturally, just like the
 sailboat pushed to land by the right tailwind.
 
-# Félix Rating: 👍
+{{< myrating rating="👍" >}}
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
 
 1. (p. 70) What mattered most in creating a successful team had less to do with
    intelligence and experience and more to do with where the desks were

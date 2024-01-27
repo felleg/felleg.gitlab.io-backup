@@ -22,7 +22,7 @@ Author: Barry O' Reilly
 
 My favorite quote: "To attain knowledge, add things every day. To attain wisdom, remove things every day."
 
-# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍
+{{< myrating rating="👍" >}}
 
 ---
 

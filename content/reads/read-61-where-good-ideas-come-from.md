@@ -15,6 +15,8 @@ Author: [Steven Johnson](https://stevenberlinjohnson.com/)
 
 ---
 
+# Review
+
 This book made me think a lot. I enjoyed how it took an almost
 anatomical approach to the concept of "the idea". I think that the star
 quotes below will do a better than job me at summarizing what is
@@ -31,11 +33,11 @@ next big idea.
 
 Luck favors the connected mind. Good luck!
 
-# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍
+{{< myrating rating="👍" >}}
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
 
 1. (p. 29) Our ideas are works of bricolage, built out of and
    constrained by the spare parts, detritus and skills that surround

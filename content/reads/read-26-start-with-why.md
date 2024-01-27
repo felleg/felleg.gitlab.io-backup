@@ -22,7 +22,7 @@ Author: Simon Sinek
 
 Truly inspiring. The book made me realize the importance of aligning WHAT we do with WHY we do it.
 
-# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍
+{{< myrating rating="👍" >}}
 
 ---
 

@@ -20,9 +20,11 @@ Author: Robert B. Cialdini
 
 # Review
 
-A bit too long-winded for its own good, *Influence* still contains powerful insight about what influences our decisions. (Thanks Dan for this recommendation!)
+A bit too long-winded for its own good, *Influence* still contains
+powerful insight about what influences our decisions. (Thanks Dan for
+this recommendation!)
 
-# [Félix Rating](/posts/2023/10/my-book-ratings-explained/): 👍
+{{< myrating rating="👍" >}}
 
 ---
 
