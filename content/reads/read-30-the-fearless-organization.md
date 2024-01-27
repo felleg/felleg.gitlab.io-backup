@@ -64,37 +64,3 @@ Incredibly relevant. I want to work for an organization that values psychologica
    today.
 1. (p. 194) Mistakes themselves are not a bad thing. The
    question is, do you learn from those mistakes?
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
