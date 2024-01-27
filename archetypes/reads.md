@@ -12,6 +12,8 @@ Author: [NAME]()
 
 [Link to my handwritten notes](Google Drive link)
 
+[Buy this book](Amazon link) (note: affiliate link)
+
 ---
 
 REVIEW
