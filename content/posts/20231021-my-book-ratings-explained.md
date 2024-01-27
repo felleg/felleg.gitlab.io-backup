@@ -17,20 +17,14 @@ give a score that ranges from:
 - 👎   ...
 - 👎👎 WORST
 
-Essentially, the scale goes from -2 to 2, and skips 0. It aims to
-represent the amplitude of how enthusiastically I would recommend a book
-to someone if I were talking next to them.
-
 Let's go more in detail about what each rating generally means to me:
 
-- Two thumbs down (👎👎) is something I would tell you to avoid at all cost. There
-  is nothing worth the time investment here, for anyone. I haven't rated
+- **Two thumbs down** (👎👎) is something I would tell you to avoid at all costs. To me, it didn't feel worth the time investment. I haven't rated
   something this badly yet.
-- One thumb down (👎) is a good book that, as much as I wish I could recommend it
+- **One thumb down** (👎) is a good book that, as much as I wish I could recommend it
   to someone, there is probably another book I would recommend above it.
-- One thumb up (👍) is something I would feel safe recommending to most people.
-- Two thumbs up (👍👍) is something I couldn't recommend enough (probably
-  past the point of diminishing returns!). It deeply connected with me
+- **One thumb up** (👍) is something I would feel safe recommending to most people.
+- **Two thumbs up** (👍👍) is something I couldn't recommend enough. It deeply connected with me
   as a reader, and I think the world would be a better place if more
   people checked it out.
 
