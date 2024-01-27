@@ -33,14 +33,3 @@ A bit too long-winded for its own good, *Influence* still contains powerful insi
    restricted. The most effective strategy may not be to publicize their
    unpopular views, but to get those views officially censored and then
    publicize the censorship.
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
