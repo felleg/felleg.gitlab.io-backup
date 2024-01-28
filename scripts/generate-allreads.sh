@@ -7,6 +7,32 @@ output_file="static/allreads/index.html"
 # Create the HTML file with a basic structure
 echo "<html><head><title>All Reads</title></head><body>" > "$output_file"
 
+cat > "$output_file" << EOF
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All Reads</title>
+    <style>
+        /* Add some basic styling to center the loading spinner */
+        #loading-spinner {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+    </style>
+</head>
+<body>
+    <!-- Add a container for the loading spinner -->
+    <div id="loading-spinner">
+        <img src="/img/loading.gif" alt="Loading...">
+    </div>
+
+    <div id="image-container" style="display: none;">
+EOF
+
 # Loop over files in content/reads in order of creation
 for file in $(ls -r content/reads/*); do
     # Extract the line containing "cover:"
@@ -27,7 +53,21 @@ for file in $(ls -r content/reads/*); do
 done
 
 # Close the HTML file
-echo "</body></html>" >> "$output_file"
+cat >> "$output_file" << EOF
+    </div>
+
+    <script>
+        // Add an event listener for when all images have finished loading
+        window.onload = function () {
+            // Hide the loading spinner
+            document.getElementById('loading-spinner').style.display = 'none';
+            // Show the image container
+            document.getElementById('image-container').style.display = 'block';
+        }
+    </script>
+</body>
+</html>
+EOF
 
 echo "HTML file generated: $output_file"
 
