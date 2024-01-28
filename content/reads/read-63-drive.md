@@ -16,8 +16,8 @@ Author: [Daniel H. Pink](danpink.com)
 
 # Review
 
-If your journey in reading reads on psychology and productivity is
-anything like mine, chances are you've come across multiple quotes from
+On my learning journey, while reading about concepts of psychology and
+productivity, I have come across multiple quotes from
 the book Drive by Daniel Pink. This book seems to have hit a specific
 nerve in 2009 when it originally came out, because I feel like I'm
 constantly reminded of its existence. Naturally, I got curious and went
