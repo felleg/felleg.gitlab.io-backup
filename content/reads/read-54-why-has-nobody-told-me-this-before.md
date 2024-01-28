@@ -11,6 +11,8 @@ Release year: 2022
 
 Author: [Dr Julie Smith](https://www.drjulie.uk/)
 
+{{< buythisbook link="https://amzn.to/48QO2Qm" >}}
+
 [Link to my handwritten notes](https://drive.google.com/file/d/1Z5wm0zN5Yzu9XJMW_mt9Ezm0JDSCXx8i/view?usp=sharing)
 
 ---

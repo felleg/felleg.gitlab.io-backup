@@ -11,6 +11,8 @@ Release year: 2021
 
 Author: [Joseph Grenny](https://www.linkedin.com/in/joseph-grenny-a89081b/) et al.
 
+{{< buythisbook link="https://amzn.to/3Up7SOe" >}}
+
 [Link to my handwritten notes](https://drive.google.com/file/d/1PXEjWE7fKxq7mBoXlJ4jaCNgjHBtWitk/view?usp=drive_link)
 
 ---

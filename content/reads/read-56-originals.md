@@ -11,6 +11,8 @@ Release year: 2016
 
 Author: [Adam Grant](https://adamgrant.net/)
 
+{{< buythisbook link="https://amzn.to/47UFebd" >}}
+
 [Link to my handwritten notes](https://drive.google.com/file/d/1rcAyWNuJzAU3iSM0sSKOHISN--wdrZnu/view?usp=sharing)
 
 ---

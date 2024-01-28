@@ -13,6 +13,8 @@ Authors:
 - [Gene Kim](http://www.realgenekim.me/)
 - [Steven J. Spear](https://mitsloan.mit.edu/faculty/directory/steven-spear)
 
+{{< buythisbook link="https://amzn.to/47POmO5" >}}
+
 [Link to my handwritten notes](https://drive.google.com/file/d/1a0ENuKB6UkynFAs91lx1IfHtBuoEvepd/view?usp=sharing)
 
 ---

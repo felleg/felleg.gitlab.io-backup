@@ -11,6 +11,8 @@ Release year: 2010
 
 Author: [Sonia Lupien](https://sonialupien.com/)
 
+{{< buythisbook link="https://amzn.to/47NBDeU" >}}
+
 [Link to my handwritten notes](https://drive.google.com/file/d/1YZmUBQiR00l_GZMFTZhQCZotFuUl_UG8/view?usp=sharing)
 
 ---

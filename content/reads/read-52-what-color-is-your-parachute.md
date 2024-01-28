@@ -11,6 +11,8 @@ Release year: 2022 (originally 1970, updated annually)
 
 Author: [Richard N. Bolles](https://en.wikipedia.org/wiki/Richard_Nelson_Bolles)
 
+{{< buythisbook link="https://amzn.to/4bg4KKQ" >}}
+
 [Link to my handwritten notes](https://drive.google.com/file/d/1EFFzlE1esmTN9mDoxGFcjE3DR3ngAxqd/view?usp=sharing)
 
 ---

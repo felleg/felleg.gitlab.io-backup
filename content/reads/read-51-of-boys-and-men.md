@@ -10,6 +10,8 @@ Release year: 2022
 
 Author: [Richard Reeves](https://en.wikipedia.org/wiki/Richard_Reeves_(British_author))
 
+{{< buythisbook link="https://amzn.to/3HA1ADR" >}}
+
 [Link to my handwritten notes](https://drive.google.com/file/d/1cWeIFINiqpCLacXZIKx4L0kb0E3at5un/view?usp=drive_link)
 
 ---

@@ -11,6 +11,8 @@ Release year: 2018
 
 Author: [Daniel Coyle](https://danielcoyle.com)
 
+{{< buythisbook link="https://amzn.to/4bhhlx6" >}}
+
 [Link to my handwritten notes](https://drive.google.com/file/d/1WeG2dk1zzxOvETqdveM1tCyS8f2r2mbG/view?usp=sharing)
 
 ---

@@ -10,6 +10,8 @@ Release year: 2009
 
 Author: [Daniel H. Pink](danpink.com)
 
+{{< buythisbook link="https://amzn.to/4bhOHfl" >}}
+
 [Link to my handwritten notes](https://drive.google.com/file/d/1ZR4_TSLeQygKVgKeIK54EJXH2E0t83xi/view?usp=sharing)
 
 ---

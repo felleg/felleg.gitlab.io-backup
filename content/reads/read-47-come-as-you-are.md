@@ -10,6 +10,8 @@ Release year: 2015
 
 Author: [Emily Nagoski](https://www.linkedin.com/in/emily-nagoski-48256a49)
 
+{{< buythisbook link="https://amzn.to/3Si4TVb" >}}
+
 [Link to my handwritten notes](https://drive.google.com/file/d/1lyZEGkIAYRc6MIZjkxpap4e3xbzTr-Wu/view?usp=drive_link)
 
 ---

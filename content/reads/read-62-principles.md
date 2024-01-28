@@ -11,6 +11,8 @@ Release year: 2017
 
 Author: [Ray Dalio](ihttps://en.wikipedia.org/wiki/Ray_Dalio)
 
+{{< buythisbook link="https://amzn.to/3vUvq3D" >}}
+
 [Link to my handwritten notes](https://drive.google.com/file/d/1uTeBOJREqiDxxgItf9BIyC_KeweMVcps/view?usp=sharing)
 
 ---

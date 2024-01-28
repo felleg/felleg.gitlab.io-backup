@@ -11,6 +11,8 @@ Release year: 2020
 
 Author: [Jeff Geerling](https://www.linkedin.com/in/jeff-geerling-086bb2a/)
 
+{{< buythisbook link="https://amzn.to/49unhS3" >}}
+
 [Link to my handwritten notes](https://drive.google.com/file/d/1G5oOo0zF0D6NBZr12D5d_hsz-hky18eb/view?usp=drive_link)
 
 ---

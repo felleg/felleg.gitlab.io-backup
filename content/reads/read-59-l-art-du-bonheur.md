@@ -11,6 +11,8 @@ Date de parution: 2000
 
 Auteurs: Sa Sainteté le Dalaï-Lama et Howard Cutler
 
+{{< buythisbook link="https://amzn.to/3SAdiox" >}}
+
 [Lien vers mes notes écrites](https://drive.google.com/file/d/14JSEjUefX_a0C1AkstbJonO2TC9cTyvH/view?usp=sharing)
 
 ---

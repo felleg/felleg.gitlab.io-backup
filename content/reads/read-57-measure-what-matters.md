@@ -11,6 +11,8 @@ Release year: 2018
 
 Author: [John Doerr](https://www.linkedin.com/in/john-doerr-03248211/)
 
+{{< buythisbook link="https://amzn.to/49fnQ1T" >}}
+
 [Link to my handwritten notes](https://drive.google.com/file/d/1GBLbKmQe3314lp7jrzzNX2zc1aS3shNu/view?usp=sharing)
 
 ---

@@ -11,6 +11,8 @@ Release year: 1998
 
 Author: [Robert Greene](https://powerseductionandwar.com/)
 
+{{< buythisbook link="https://amzn.to/3vTeIBx" >}}
+
 [Link to my handwritten notes](https://drive.google.com/file/d/1yC-pYPFb4mz_rKzRbok8ldBoQiQEBf6N/view?usp=sharing)
 
 ---
