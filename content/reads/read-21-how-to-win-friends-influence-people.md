@@ -12,7 +12,7 @@ Release year: 1936 (revised 1981)
 
 Author: Dale Carnegie
 
-[Buy this book](ihttps://amzn.to/48RuhZ0) (note: affiliate link)
+{{< buythisbook link="ihttps://amzn.to/48RuhZ0" >}}
 
 [Link to my handwritten notes](https://drive.google.com/file/d/1vERAxqfBZRaVyu_Yc1d4um5iY9wfso3w/view?usp=drive_link)
 

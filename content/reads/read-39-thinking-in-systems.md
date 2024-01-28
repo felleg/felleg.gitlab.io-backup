@@ -12,6 +12,8 @@ Release year: 2008
 
 Author: Donella H. Meadows
 
+{{< buythisbook link="https://amzn.to/3HAI4qV" >}}
+
 [Link to my handwritten notes](https://drive.google.com/file/d/1Cx28SzdeU_En5QJ-CKJTRHuE2pCHQX4B/view?usp=drive_link)
 
 ---

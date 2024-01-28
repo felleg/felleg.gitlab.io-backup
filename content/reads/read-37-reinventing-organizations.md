@@ -13,6 +13,8 @@ Release year: 2014
 Author: [Frederic
 Laloux](https://www.linkedin.com/in/frederic-laloux-108174/)
 
+{{< buythisbook link="https://amzn.to/3vLWwK0" >}}
+
 [Link to my handwritten notes](https://drive.google.com/file/d/13JM4XapDA2CpHsjkO1wUuT4K6WSW0wvt/view?usp=drive_link)
 
 ---

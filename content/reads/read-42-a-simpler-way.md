@@ -12,6 +12,8 @@ Release year: 1996
 
 Authors: Margaret J. Wheatley and Myron Kellner-Rogers
 
+{{< buythisbook link="https://amzn.to/3SBbqfi" >}}
+
 [Link to my handwritten notes](https://drive.google.com/file/d/1PfhU2OmYQcbdRhECE1Ef1jnTnN6HfwI4/view?usp=drive_link)
 
 ---

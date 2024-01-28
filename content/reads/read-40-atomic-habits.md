@@ -12,6 +12,8 @@ Release year: 2018
 
 Author: [James Clear](https://www.linkedin.com/in/jamesclear)
 
+{{< buythisbook link="https://amzn.to/3Uijzq5" >}}
+
 [Link to my handwritten notes](https://drive.google.com/file/d/1cL6aNnbKgfyrlfOz_jbn4osm2VUX8Tki/view?usp=drive_link)
 
 ---

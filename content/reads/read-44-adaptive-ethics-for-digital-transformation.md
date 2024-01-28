@@ -12,6 +12,8 @@ Release year: 2023
 
 Author: [Mark Schwartz](https://www.linkedin.com/in/innovativecio/)
 
+{{< buythisbook link="https://amzn.to/42iPgBt" >}}
+
 [Link to my handwritten notes](https://drive.google.com/file/d/1Znkt04LTkGFy1mG93t-Z_YCjKzxYvqEV/view?usp=drive_link)
 
 ---

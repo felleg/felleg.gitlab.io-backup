@@ -12,7 +12,7 @@ Release year: 2009
 
 Author: Simon Sinek
 
-[Buy this book](https://amzn.to/3u9bPfl) (note: affiliate link)
+{{< buythisbook link="https://amzn.to/3u9bPfl" >}}
 
 [Link to my handwritten notes](https://drive.google.com/file/d/1fc9cai66GG-ManvsnNVpRa57EnG6dcO3/view?usp=drive_link)
 

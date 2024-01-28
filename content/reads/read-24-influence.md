@@ -12,7 +12,7 @@ Release year: 1984 (revised 2007)
 
 Author: Robert B. Cialdini
 
-[Buy this book](https://amzn.to/48QLW33) (note: affiliate link)
+{{< buythisbook link="https://amzn.to/48QLW33" >}}
 
 [Link to my handwritten notes](https://drive.google.com/file/d/1Uuhj-4AHrXuia78NO1wJ8qDIgfNp-TdJ/view?usp=drive_link)
 

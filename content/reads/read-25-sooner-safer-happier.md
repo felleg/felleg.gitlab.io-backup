@@ -12,7 +12,7 @@ Release year: 2020
 
 Author: Jonathan Smart et al.
 
-[Buy this book](https://amzn.to/3Om929v) (note: affiliate link)
+{{< buythisbook link="https://amzn.to/3Om929v" >}}
 
 [Link to my handwritten notes](https://drive.google.com/file/d/1dmXRI3ZMyiUbZCV_3jaUl1nHbFwvrp7B/view?usp=drive_link)
 

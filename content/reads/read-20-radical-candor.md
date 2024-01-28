@@ -12,7 +12,7 @@ Release year: 2019
 
 Author: Kim Scott
 
-[Buy this book](https://amzn.to/3SA8S0L) (note: affiliate link)
+{{< buythisbook link="https://amzn.to/3SA8S0L" >}}
 
 [Link to my handwritten notes](https://drive.google.com/file/d/1ecZVI6XWvG6s8HCAU6GdS4MAnrO7mEOP/view?usp=drive_link)
 

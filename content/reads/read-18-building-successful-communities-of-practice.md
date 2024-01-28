@@ -12,7 +12,7 @@ Release year: 2016
 
 Author: Emily Webber
 
-[Buy this book](https://amzn.to/4bbcZrv) (note: affiliate link)
+{{< buythisbook link="https://amzn.to/4bbcZrv" >}}
 
 [Link to my handwritten notes](https://drive.google.com/file/d/1neQ9FLmaOkstnuJ9kCirjtjm0zXmcyQP/view?usp=sharing)
 

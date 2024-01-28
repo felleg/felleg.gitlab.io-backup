@@ -11,6 +11,8 @@ Release year: 2023
 
 Author: [Nigel Poulton](https://linkedin.com/in/nigelpoulton)
 
+{{< buythisbook link="https://amzn.to/3OgcvGv" >}}
+
 [Link to my handwritten notes](https://drive.google.com/file/d/1dhTodUAHxf_UI_1veEOqQ0_Aato4vKcP/view?usp=drive_link)
 
 ---

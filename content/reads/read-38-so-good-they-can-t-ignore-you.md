@@ -12,6 +12,8 @@ Release year: 2016
 
 Author: [Cal Newport](calnewport.com)
 
+{{< buythisbook link="https://amzn.to/3u1BNl7" >}}
+
 [Link to my handwritten notes](https://drive.google.com/file/d/1gNwvrFlxsYXn7TrZi8JFnRwGHKz5QDU0/view?usp=drive_link)
 
 ---

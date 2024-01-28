@@ -12,6 +12,8 @@ Release year: 2022
 
 Author: [Russ Laraway](https://www.linkedin.com/in/russlaraway/)
 
+{{< buythisbook link="https://amzn.to/3vPjdwR" >}}
+
 [Link to my handwritten notes](https://drive.google.com/file/d/1fVO5meLCJ9ZTNG2rnrpSb7g99gwnU_V0/view?usp=drive_link)
 
 ---

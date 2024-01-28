@@ -12,7 +12,7 @@ Release year: 2014
 
 Author: Ben Horowitz
 
-[Buy this book]() (note: affiliate link)
+{{< buythisbook link="https://amzn.to/4bhR4PA" >}}
 
 [Link to my handwritten notes](https://drive.google.com/file/d/1kCBls4lQIOTyuxRvblA11Pr8a-tbWVvi/view?usp=drive_link)
 

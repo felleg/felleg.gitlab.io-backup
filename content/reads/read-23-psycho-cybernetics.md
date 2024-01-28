@@ -12,7 +12,7 @@ Release year: 1960 (revised 2015)
 
 Author: Maxwell Maltz
 
-[Buy this book](https://amzn.to/49dLZpB) (note: affiliate link)
+{{< buythisbook link="https://amzn.to/49dLZpB" >}}
 
 [Link to my handwritten notes](https://drive.google.com/file/d/1OBEj2Rcxowgrw7_glm1zfRONbcJXnilh/view?usp=drive_link)
 

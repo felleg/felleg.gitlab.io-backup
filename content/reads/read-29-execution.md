@@ -12,7 +12,7 @@ Release year: 2002
 
 Authors: Larry Bossidy and Ram Charran
 
-[Buy this book](https://amzn.to/47QmmKf) (note: affiliate link)
+{{< buythisbook link="https://amzn.to/47QmmKf" >}}
 
 [Link to my handwritten notes](https://drive.google.com/file/d/1m1KX5SYA42Lh6XQUwHdNUrMiz30h0pcM/view?usp=drive_link)
 

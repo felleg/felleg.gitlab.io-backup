@@ -12,6 +12,8 @@ Release year: 2014
 
 Author: [Gene Kim](https://www.linkedin.com/in/realgenekim/)
 
+{{< buythisbook link="https://amzn.to/48P078Z" >}}
+
 [Link to my handwritten notes](https://drive.google.com/file/d/1QKdGi9t0untw0wHvX60e8NAGGFl8-h_8/view?usp=drive_link)
 
 ---

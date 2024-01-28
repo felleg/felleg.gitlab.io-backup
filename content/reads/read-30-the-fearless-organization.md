@@ -12,7 +12,7 @@ Release year: 2018
 
 Author: [Amy C. Edmonson](https://amycedmondson.com/)
 
-[Buy this book](https://amzn.to/3OlcOjp) (note: affiliate link)
+{{< buythisbook link="https://amzn.to/3OlcOjp" >}}
 
 [Link to my handwritten notes](https://drive.google.com/file/d/18_5Ydkr2haHU1-ejGYM_pVuEhoc50njO/view?usp=drive_link)
 

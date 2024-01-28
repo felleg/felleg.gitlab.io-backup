@@ -12,6 +12,8 @@ Release year: 2020
 
 Author: Header Adkins et al.
 
+{{< buythisbook link="https://amzn.to/3Syo4f0" >}}
+
 [Link to my handwritten notes](https://drive.google.com/file/d/1AUdo3sCOoKDEKoDXlbP4jpxIc1jKg3g6/view?usp=drive_link)
 
 ---

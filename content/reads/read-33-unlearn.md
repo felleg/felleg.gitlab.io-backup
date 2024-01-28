@@ -12,7 +12,7 @@ Release year: 2018
 
 Author: Barry O' Reilly
 
-[Buy this book](https://amzn.to/3SiwWEc) (note: affiliate link)
+{{< buythisbook link="https://amzn.to/3SiwWEc" >}}
 
 [Link to my handwritten notes](https://drive.google.com/file/d/16FKOjp0Xurqy6o0W7p56S2rEYaewBicb/view?usp=drive_link)
 

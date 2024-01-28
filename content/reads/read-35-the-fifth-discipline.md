@@ -12,6 +12,8 @@ Release year: 1990
 
 Author: [Peter Senge](https://en.wikipedia.org/wiki/Peter_Senge)
 
+{{< buythisbook link="https://amzn.to/47YIK41" >}}
+
 [Link to my handwritten notes](https://drive.google.com/file/d/1g3yoB0f_aydi_ML371b2YPPWSbRsPIGG/view?usp=drive_link)
 
 ---

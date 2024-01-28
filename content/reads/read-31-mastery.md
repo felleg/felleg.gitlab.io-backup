@@ -12,7 +12,7 @@ Release year: 2012
 
 Author: [Robert Greene](https://powerseductionandwar.com/)
 
-[Buy this book](https://amzn.to/3SJufwZ) (note: affiliate link)
+{{< buythisbook link="https://amzn.to/3SJufwZ" >}}
 
 
 [Link to my handwritten notes](https://drive.google.com/file/d/1DKEBxVjpqRzeZK8ZxiSnOuKzSJOZ0y9Y/view?usp=drive_link)

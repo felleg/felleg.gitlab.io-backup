@@ -12,7 +12,7 @@ Release year: 2018
 
 Authors: Nicole Forsgren, PhD, Jez Humble and Gene Kim
 
-[Buy the book](https://amzn.to/42cXuLD) (note: affiliate link)
+{{< buythisbook link="https://amzn.to/42cXuLD" >}}
 
 [Link to my handwritten notes](https://drive.google.com/file/d/1uHePpvbqRigsCt5kffJ1RGh6rXGVvn91/view?usp=drive_link)
 
