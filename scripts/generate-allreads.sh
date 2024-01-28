@@ -48,8 +48,7 @@ for file in $(ls -r content/reads/*); do
     post_link=/reads/$(basename ${file%%.md})
 
     # Append HTML content for each book cover with adjusted image size and inferred link
-    echo "<a href=\"$post_link\"><img src=\"/$cover_path\"
-    alt=\"$title\" style=\"width: auto; max-height: 200px;\"></a>" >> "$output_file"
+    echo "<a href=\"$post_link\"><img src=\"/$cover_path\" alt=$title style=\"width: auto; max-height: 200px;\"></img></a>" >> "$output_file"
 done
 
 # Close the HTML file
