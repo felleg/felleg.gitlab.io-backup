@@ -61,7 +61,7 @@ my self-imposed objective of 100 reads?
 
 The question that I'm most fixated on right now is related to a new link
 I added to my website, [/allreads](/allreads). If you visit this list,
-you will see a gallery of the reads I currently read, and clicking on a
+you will see a gallery of the books I currently read, and clicking on a
 picture will link you to its review. Pretty neat, right? Well, I took
 this opportunity to set what might be the most ambitious
 objective I
