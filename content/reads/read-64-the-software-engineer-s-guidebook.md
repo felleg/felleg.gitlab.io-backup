@@ -4,7 +4,6 @@ title: "(Read 64) The Software Engineer's Guidebook"
 cover: img/reads/the-software-engineer-s-guidebook.jpg
 CoverCaption: "My copy got a little banged up... long story!"
 tags: ['reads']
-draft: true
 ---
 {{< partial "mathjax_support" >}}
 
@@ -14,7 +13,7 @@ Author: [Gergely Orosz](https://www.linkedin.com/in/gergelyorosz)
 
 {{< buythisbook link="https://amzn.to/3UgqkZq" >}}
 
-[Link to my handwritten notes](https://drive.google.com)
+{{< mynotes link="https://drive.google.com/file/d/1pxqvqWQ_pEKVI2X5zjP-v7ENLklqEM6Y/view?usp=sharing" >}}
 
 ---
 
