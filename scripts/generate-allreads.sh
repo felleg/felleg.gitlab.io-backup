@@ -31,6 +31,7 @@ cat > "$output_file" << EOF
     </div>
 
     <div id="image-container" style="display: none;">
+    <a href="/"><img src="/img/logo-home.png"></a><br>
 EOF
 
 # Loop over files in content/reads in order of creation
@@ -64,6 +65,7 @@ cat >> "$output_file" << EOF
             document.getElementById('image-container').style.display = 'block';
         }
     </script>
+    <a href="/"><img src="/img/logo-home.png"></a><br>
 </body>
 </html>
 EOF
