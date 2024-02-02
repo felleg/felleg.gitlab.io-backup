@@ -18,7 +18,8 @@ Author: Emily Webber
 
 ---
 
-# Review
+A tiny book (around 80 pages), but filled with interesting facts about how communities of
+practice are born and evolve. Easy recommendation!
 
 {{< myrating rating="👍" >}}
 
@@ -27,7 +28,7 @@ Author: Emily Webber
 # :star: Star quotes
 
 1. (p. 9) Communities of practice give people opportunities to
-   experiment with what they have learnt, in a safe environment and with
+   experiment with what they have learned, in a safe environment and with
    the support of other people.
 1. (p. 11) Silos can form where a group of people feel a deeper loyalty
    to each other than to other groups of people. Communication between
@@ -55,35 +56,48 @@ Author: Emily Webber
    same place and are able to meet face-to-face.
 1. (p. 41) Even if attendance is low, carry on with the meeting. As
    others see benefits, they will join.
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
+1. (p. 51) Make your social events inclusive and remember that different
+   members have different needs and commitments to consider. For
+   example, evening events will be fine for some people and not for
+   others.
+1. (p. 52) Types of learning activities:
+    - Presentation and talks
+    - Deliberate practice (mimicking experential learning in a safe
+      environment)
+    -  Games and workshops
+    - Visits and tours to places within your organization or places that
+      share similar challenges
+1. (p. 53) Make sure you create time for the community to have less
+   structured meetings where people can discuss things that are on their
+   mind and being their problems to the community's safe space.
+1. (p. 56) To ensure members continue to get value from the community,
+   put aside regular time to review how the community is working
+   together and how it could improve.
+1. (p. 60) The 5-stage model of adult skill acquisition:
+    1. **Novice**: follows the rules
+    1. **Advanced beginner**: recognizes patterns
+    1. **Competent**: chooses a perspective
+    1. **Proficient**: responds to situations
+    1. **Expert**: writes their own rules
+1. (p. 60) Shu-ha-ri stages in martial arts:
+    1. **Shu**: The protection stage, where the student follows what the
+       master teaches them
+    1. **Ha**: The breakaway stage, where the student starts to learn the
+       underlying principles and theory behind a technique and begins to
+       integrate learning into their practices
+    1. **Ri**: The creating stage, where the student creates their own
+       approaches and adapts what they have learned to their own
+       particular circumstances
+1. (p. 64) Types of members in a community of practice:
+    - **Core**: without these members, there is no community
+    - **Active**: people you expect to see regularly. They have potential to
+      become core members.
+    - **Occasional**: they show up from time to time. Spend time with these
+      members to understand the barriers to becoming an active member.
+    - **Peripheral**: they rarely come to community activities and are very
+      passive. They may also be new joiners, or past members who opted
+      out. Always leave room for them to become more active members in
+      the future.
+    - **Outside**: e.g. sponsors, supporters, members of other communities,
+      etc. It might never be relevant for them to be anything more, but
+      you should think about how to communicate with them.
