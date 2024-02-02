@@ -284,9 +284,8 @@ And I am  happy to report that I did (!!), thanks in no small  part to a neat li
 {{< figure src="/img/finished-devops-handbook.jpg" position="center" caption="DONE!" >}}
 
 Can you  spot it? The little detail that allowed me to read the book?
-Look at the spine.
 
-Do you notice how curved it is? Isn't that simply wonderful? It reminds me of  skid marks on a  race track.
+Look at the spine. Do you notice how curved it is? Isn't that simply wonderful? It reminds me of  skid marks on a  race track.
 
 I guess I must explain. See, I have developed a very recent fondness for
 curved spines (at least, on books). I used to think having a book with a
