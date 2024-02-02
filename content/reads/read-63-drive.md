@@ -51,7 +51,7 @@ FlashFlashRevolution (FFR)](https://felixleger.com/posts/2022/01/i-should-stop-c
 While reading Drive, I was slowly realizing that intrinsic motivation is
 indeed very strong. Had you asked me ten years ago, I would not have
 expected to have created 43 songs for a publicly available video game,
-and especially not to have read 43 reads in a single year! What made me
+and especially not to have read 43 books in a single year! What made me
 do those things for so long is that I simply loved the process.
 
 Here's the twist, though. As soon as I realized that I had created 43
@@ -59,7 +59,7 @@ songs for FFR, which was above average, I decided that this was enough
 and felt comfortable moving on to other things. I stopped producing
 content. And while I currently feel more productive then ever with these book reviews,
 I wonder about what the future holds. Will I lose momentum once I cross
-my self-imposed objective of 100 reads?
+my self-imposed objective of 100 books?
 
 The question that I'm most fixated on right now is related to a new link
 I added to my website, [/allreads](/allreads). If you visit this list,
@@ -67,13 +67,13 @@ you will see a gallery of the books I currently read, and clicking on a
 picture will link you to its review. Pretty neat, right? Well, I took
 this opportunity to set what might be the most ambitious
 objective I
-have ever given myself: I want the pictures of the reads I read to
+have ever given myself: I want the pictures of the books I read to
 completely fill my browser when zoomed out at 30%. Talk about moving the
-goal post! This picture contains 63 reads.
+goal post! This picture contains 63 books.
 
 {{< figure src="/img/allbooks-20240115-progress.png" position="center" caption="I've still got a long way to go!" >}}
 
-Another visualization I attempted is how many reads I've read over the
+Another visualization I attempted is how many books I've read over the
 years:
 
 {{< figure src="/img/books-read-20240115.png" position="center" caption="" >}}

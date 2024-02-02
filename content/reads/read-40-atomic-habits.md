@@ -20,7 +20,7 @@ Author: [James Clear](https://www.linkedin.com/in/jamesclear)
 
 # Review
 
-I think this book greatly summarizes about 5 of the reads I read so far.
+I think this book greatly summarizes about 5 of the books I read so far.
 It's like "Mastery", "So Good, They Can't Ignore You", "Unlearn",
 "Psycho-Cybernetics", all rolled up into one. An easy recommend for
 someone interest in self-help.
