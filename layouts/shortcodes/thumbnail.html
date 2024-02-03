@@ -2,7 +2,7 @@
   <figure class="{{ with .Get "position"}}{{ . }}{{ else -}} left {{- end }}" >
     <center>
        {{- $image := resources.Get (printf "%s" (.Get "src")) -}}
-       <a href='{{ printf "/%s" (.Get "src") }}'><img src="{{ ($image.Fill "100x100 q100 Center").RelPermalink }}" {{ with .Get "alt" }} alt="{{ .  | plainify }}" {{ end }} {{ with .Get "style" }} style="{{ . | safeCSS }}" {{ end }} /></a>
+       <a href='{{ printf "/%s" (.Get "src") }}' target="_blank"><img src="{{ ($image.Fill "100x100 q100 Center").RelPermalink }}" {{ with .Get "alt" }} alt="{{ .  | plainify }}" {{ end }} {{ with .Get "style" }} style="{{ . | safeCSS }}" {{ end }} /></a>
     </center>
     {{ if .Get "caption" }}
       <figcaption class="{{ with .Get "captionPosition"}}{{ . }}{{ else -}} center {{- end }}" {{ with .Get "captionStyle" }} style="{{ . | safeCSS }}" {{ end }}>{{ .Get "caption" | markdownify }}</figcaption>
