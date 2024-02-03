@@ -32,7 +32,7 @@ Similarly, default difficulty settings were used unless stated otherwise.
 |[Deathsmiles](https://en.wikipedia.org/wiki/Deathsmiles)      |2007| {{< horizontal >}}|[3,515,324](/img/highscores/deathsmiles-20230717.jpg)  | 2023-07-17   | MLB Arcade, played on Steam Deck      |
 |[Dig Dug](https://en.wikipedia.org/wiki/Dig_Dug)      |1982| n/a |[12,370](/img/highscores/dig-dug-20230201.jpg)  | 2023-02-01   | |
 |[DoDonPachi](https://en.wikipedia.org/wiki/DoDonPachi)      |1997| {{< vertical >}}|[18,848,190](/img/highscores/dodonpachi-20220321.jpg) |2022-03-21     |International version      |
-|[DoDonPachi Dai-Jou-Jou Black Label (single-route)](https://en.wikipedia.org/wiki/DoDonPachi_DaiOuJou#Black_Label)      |2002| {{< vertical >}}|[19,127,030](/img/highscores/ddp-dojbk-20231120.jpg) |2023-11-20     |International version      |
+|[DoDonPachi Dai-Jou-Jou Black Label (single-route)](https://en.wikipedia.org/wiki/DoDonPachi_DaiOuJou#Black_Label)      |2002| {{< vertical >}}|[19,127,030](/img/highscores/ddp-dojbk-20231120.jpg) |2023-11-20     |International version, played on Steam Deck   |
 |[DonPachi](https://en.wikipedia.org/wiki/DonPachi)      |1995| {{< vertical >}}|[3,972,870](/img/highscores/donpachi-20220709.jpg)   |2022-07-09   |      |
 |[Donkey Kong](https://en.wikipedia.org/wiki/Donkey_Kong_(video_game))|1981|n/a|[31,900](/img/highscores/donkey-kong-20221020.jpg)|2023-10-20||
 |[Einhänder](https://en.wikipedia.org/wiki/Einhänder)|1997|{{< horizontal >}}|[2,669,030](/img/highscores/einhander-20221230-2.jpg)|2022-12-30|Normal difficulty|
