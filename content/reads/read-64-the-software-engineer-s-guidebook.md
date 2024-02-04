@@ -117,9 +117,9 @@ put them into practice.
 1. (p. 332) A **service catalog** is a portal where teams can register
    their services, and engineers can search for them. It should answer
    these questions:
-       - Is there a service that does X?
-       - Who owns service Y and where is the oncall rotation?
-       - How do I onboard my team to this service?
+    - Is there a service that does X?
+    - Who owns service Y and where is the oncall rotation?
+    - How do I onboard my team to this service?
 1. (p. 342) Logs are meant to help an engineering team debug production
    issues, by capturing missing but necessary information for future
    reference during troubleshooting.
