@@ -17,7 +17,7 @@ these words to themselves, they have already begun changing for the
 better.
 
 I did not always want to improve. Ten years ago, I was perfectly content
-with the thought of being myself for the rest of my life, despite
+with the thought of being "myself" for the rest of my life, despite
 whatever flaws I had. Or so I thought. The point is, I wasn't truly
 interested in personal improvement.
 
