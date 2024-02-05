@@ -3,6 +3,8 @@ title: "My Custom Arcade Stick"
 date: 2021-04-08T12:08:35-04:00
 toc: false
 cover: "/img/qanba-astro-city.jpg"
+aliases:
+  - "/qanba-carbon"
 tags:
   - video games
 ---
@@ -15,3 +17,5 @@ history at home, and it perfectly suits my needs.
 {{< figure src="/img/qanba-carbon.png" position="center" caption="An unmodified Qanba Carbon stick (for reference)" >}}
 
 {{< figure src="/img/sega-astro-city.png" position="center" caption="The original Sega Astro City (not my own). Gotta love that 90s look!" >}}
+
+[Get your Qanba Carbon here](https://amzn.to/42pjinm) (note: affiliate link).

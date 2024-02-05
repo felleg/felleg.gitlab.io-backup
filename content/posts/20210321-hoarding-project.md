@@ -5,7 +5,10 @@ toc: true
 description: "In this post, I discuss how I learned to let go of a collection that took its toll on me."
 frontpage : "true"
 tags:
+aliases:
+  - '/selling-collection'
 ---
+
 
 Those who know me personally know that I have been collecting video games (among other things) for a long
 time. So long, in fact, that it probably felt like it was part of my DNA. At my peak, I owned 455 unique
