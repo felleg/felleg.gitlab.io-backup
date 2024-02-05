@@ -25,13 +25,13 @@ I wore whatever. I listened to whatever. My hair was crazy. I wasn't
 working out -- I didn't see a reason to. In fact, I wasn't working,
 period.
 
-It's funny how, looking back, I rarely worked. I remember somes jobs
+It's funny how, looking back, I rarely worked. I remember some student jobs
 where work felt like work, and it was clearly work. Some other jobs,
 though, I was just looking for ways *not* to have to do the work that
 was asked of me.
 
 I was the worst kind of lazy. I rested on my natural skills and got fat
-on them, so much so that I had to learn the painful truth that if you
+on them, so much so that I had to *learn* the painful truth that if you
 don't work at getting better, change in your life has a higher chance of
 being negative.
 
@@ -50,12 +50,12 @@ kind of games; retro video games, i.e. video games released
 fact, I
 doubt you could find an arcade game from the 1990s that I
 haven't at least seen in motion before. Note: I'm not
-particularly proud of that :sweat_smile:
+particularly proud of that! :sweat_smile:
 
 As a teen going into adulthood, I spent glorious evenings
 discovering about DoDonPachi, Radiant Silvergun, Einhänder,
 and other niche titles. My poor parents probably had no idea
-what to think about that! It reached a point where I
+what to think about that. It reached a point where I
 assembled such a big collection of games, it took me over a year
 of active effort to manage to sell it all -- I've event got
 the [blog post](/selling-collection) to prove it!
@@ -72,7 +72,7 @@ Fortunately, that didn't stop me from trying to figure out
 how to make sense of life. I had accumulated a [huge curated catalog
 of unique retro experiences](/games) that I was enjoying
 almost every day. And here's the kicker: I never expected
-this catalog to ever get some use... Until 3 months ago.
+this catalog to become genuinely useful... Until 3 months ago.
 
 # We have an arcade? Here?
 
@@ -80,7 +80,7 @@ When I started working at Portage Montreal (please let me
 use this name! :pray:), I found a little coffeetable in the
 rec room that served little to no use. My immediate thought
 when I saw it was, "I could put an arcade setup there!" In
-the past, I had brought my MiSTer FPGA to the office, but
+previous jobs, I had brought my gaming gear to the office, but
 there was no way to leave a permanent setup ("Gaming in an
 office? During work hours? Preposterous!"). This was now my
 chance to create and operate my own setup and just... see
@@ -105,17 +105,17 @@ on planet Earth can currently get to actually experiencing
 how this game *felt* when it was released exclusively in the
 arcade centers of Japan in the 1990s. And, quite honestly,
 that's not even the point, I just felt like this was a neat
-thing to say in passing.
+thing to say in passing. :smiley:
 
-What I love most about the arcades is that they can be used
-as an inception tool for the idea "I want to improve." They
+**What I love most about the arcades is that they can be used
+as an inception tool for the idea "I want to improve."** They
 almost robotically inject this idea into our minds, with the
 following mechanisms:
 
 1. By being better, you get to enjoy a longer and more
    interesting game, which requires you improving.
 1. By taking note of your score at the end, you can
-   quantifiably measure yourself against an older version of
+   quantifiably measure your performance against an older version of
    yourself. Naturally, this will give you an incentive to
    improve.
 1. By comparing your score to your colleagues', you will be
@@ -130,7 +130,7 @@ but think that there's something more to this type of social
 gaming. Something that is a lot more aligned with modern-day
 management best practices as one might be led to believe.
 
-# I'll teach you how to make the magician appear
+# There's always a trick
 
 Tell about how you have to learn about everything when
 starting to play this game, even getting a coin in. Either
@@ -145,6 +145,8 @@ me how to make the magician appear in ghosts 'n goblins
 
 # Coffeehouse 2.0
 
+Where goodnideas come from
+
 {{< figure src="/img/arcade-crowd.JPG" position="center" caption="" >}}
 
 {{< figure src="/img/high-scores-tgm-2023.jpg" position="center" caption="" >}}
@@ -154,7 +156,7 @@ me how to make the magician appear in ghosts 'n goblins
 
 {{< figure src="/img/center-computing-history.jpg" position="center" caption="A crowd at the Centre for Computing History's arcade" >}}
 
-(can I have a picture of a crows at our office?)
+(can I have a picture of a crowd at our office?)
 
 {{< figure src="/img/spin-the-wheel.png" position="center" caption="We spin the wheel every month to determine which game we'll play (should I like to my repo?)" >}}
 
