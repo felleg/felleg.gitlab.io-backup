@@ -22,7 +22,7 @@ Ah comme j'aurais voulu adorer ce livre! :sweat_smile:
 
 Je trouve le concept derrière ce roman fascinant. L'intrigue en est une
 d'espionnage comme j'ai l'impression d'en avoir souvent vues, mais avec
-la différence que le personnage principal réfléchit à toutes ces
+la différence que le personnage principal réfléchit à toutes ses
 décisions comme un joueur de Go. Non seulement il crée souvent des
 métaphores qui utilisent le Go pour expliquer ses raisonnements, mais
 chaque chapitre commence avec l'image d'une partie de Go en progrès,
@@ -31,10 +31,10 @@ policière en cours.
 
 Malheureusement, ma maîtrise du Go n'était peut-être pas encore assez
 poussée pour réussir à faire le lien entre la partie jouée entre les
-chapitres et l'intrigue policière. En plus, j'ai trouvée que l'intrigue
+chapitres et l'intrigue policière. De surcroît, j'ai trouvée que l'intrigue
 policière elle-même m'a un peu laissé sur ma faim. La scène finale entre
 le gentil et le méchant était intéressante, surtout puisque Blunt
-expliquera enfin son plan qu'il suivant mystérieusement tout au long du
+y explique enfin son plan qu'il suivant mystérieusement tout au long du
 livre, mais le livre prend ensuite subitement fin et ce qui m'a vraiment
 déplu est que j'ai l'impression qu'à la fin du livre, ni le lecteur, ni
 les personnages ont appris quelque chose de nouveau, à part les règles
@@ -44,7 +44,7 @@ Quel est le message du livre? Je me le demande encore.
 
 Je le recommande tout de même à ceux qui aiment les histoires
 d'espionnage "compliquées" (comme Lorraine, qu'on salut!), cela pourrait
-être une distraction intéressante qui, au mieux, vous fera découvrir le
+être une distraction intéressante qui, au minimum, vous fera découvrir le
 monde merveilleux du jeu de Go.
 
 {{< myrating rating="👎" >}}
