@@ -51,7 +51,3 @@ monde merveilleux du jeu de Go.
 
 Merci à mon ami Antoine Gauthier pour m'avoir donné ce livre! C'était
 une très belle attention, surtout pour un fan de Go comme moi :wink:.
-
----
-
-:star: Star quotes:
