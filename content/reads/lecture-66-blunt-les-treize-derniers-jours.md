@@ -5,7 +5,6 @@ cover: img/reads/blunt.jpg
 tags: ['reads', 'fiction']
 aliases:
   - '/66'
-draft: true
 
 ---
 
