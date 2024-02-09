@@ -71,7 +71,7 @@ among Blacks (see star quotes below, #32). This was eye-opening for
 me.
 
 In the words of Toto Laraque who sings [Non au
-racisme](https://www.youtube.com/watch?v=X0pc2HlqyCk), "Nous sommes tous
+racisme](https://open.spotify.com/track/2VPbJKmOqeaU84cvKuqDKt?si=sfHWOs4xRCSmhEYxJzAZMQ), "Nous sommes tous
 pareil!" We are all the same.
 
 Amen.
