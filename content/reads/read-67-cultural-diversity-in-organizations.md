@@ -70,7 +70,7 @@ particularly enjoyed learning about the 5 stages of identity development
 among Blacks (see star quotes below, #32). This was eye-opening for
 me.
 
-In the words of Toto Laraque who sings [Non au
+In the heartfelt words of Toto Laraque who sings [Non au
 racisme](https://open.spotify.com/track/2VPbJKmOqeaU84cvKuqDKt?si=sfHWOs4xRCSmhEYxJzAZMQ), "Nous sommes tous
 pareil!" We are all the same.
 
