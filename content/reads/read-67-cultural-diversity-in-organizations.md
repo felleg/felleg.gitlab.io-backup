@@ -53,7 +53,7 @@ the like, but what I really admired is how the proposed solutions to
 these problems also apply to *any* cultural differences. For example, a
 portfolio company that bought 5 start-ups and needs to merge them
 together might be merging 5 White-male dominated groups, and
-yet the same in-group vs out-group dynamics would take root.
+yet the same in-group vs out-group dynamics would play out.
 Despite all of our identity differences, we are all the same, and we are
 all subject to these mysterious forces that put us into conflict.
 
