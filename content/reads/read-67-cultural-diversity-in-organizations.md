@@ -20,8 +20,8 @@ Author: [Taylor Cox, Jr., Ph.D.](https://taylorcoxjr.com/)
 
 # Review
 
-Cultural diversity is a subject I am very passionate about. It is a
-problematic that seems to come up everywhere I look, not only in my
+Cultural diversity is a subject I am very passionate about. It is an
+issue that seems to come up everywhere I look, not only in my
 personal life, but also at work, and in the media. People in power feel
 threatened by difference. People in out-groups want in and don't see a
 reason why they should be left out. Why do we seem stuck in this eternal
@@ -42,18 +42,18 @@ human organizations for thousands of years. A mere 30 years is not
 enough to dampen the impact of Cox's deep reflections on how cultures
 meld or repulse each other.
 
-I should warn the reader that an easy read, this is not. The sentences
+I should warn the reader that this is not a light read. The sentences
 are often long and technical, so bring out your highlighter and take notes,
 and make sure you are not in a hurry. I read from one of the reviews on
 Amazon that a reader got this book for a masters class in Organizational
 Behavior!
 
 The book often revolves around the themes of racism, sexism, agism and
-the sort, but what I really admired is how the proposed solutions to
+the like, but what I really admired is how the proposed solutions to
 these problems also apply to *any* cultural differences. For example, a
 portfolio company that bought 5 start-ups and needs to merge them
-together might be merging 5 groups of White-male dominated groups, and
-yet the same dynamics of in-group vs out-group dynamics would take root.
+together might be merging 5 White-male dominated groups, and
+yet the same in-group vs out-group dynamics would take root.
 Despite all of our identity differences, we are all the same, and we are
 all subject to these mysterious forces that put us into conflict.
 
@@ -67,7 +67,7 @@ it can be done. The reward is worth it.
 
 I believe I've got everything I hoped for out of this book, and more. I
 particularly enjoyed learning about the 5 stages of identity development
-among Blacks (see star quotes below, #32). This was eye-opening for
+among Black people (see star quotes below, #32). This was eye-opening for
 me.
 
 In the heartfelt words of Toto Laraque who sings [Non au
@@ -197,15 +197,15 @@ Amen.
 1. (p. 193) For minorities in predominantly majority settings, the time
    and energy that is used to establish legitimacy could be more
    productively used to solve organizational problems.
-1. (p. 51) Identity development among Blacks has five stages:
-    1. **Preencounter**: Blacks reject Black heritage and define
+1. (p. 51) Identity development among Black people has five stages:
+    1. **Preencounter**: Black people reject Black heritage and define
        themselves in terms of White culture
-    1. **Encounter**: Blacks seek identification with Black culture
-    1. **Immersion/emersion**: Blacks have complete identification with
+    1. **Encounter**: Black people seek identification with Black culture
+    1. **Immersion/emersion**: Black people have complete identification with
        Black culture and hostility toward Whites
-    1. **Internalization**: Blacks become comfortable with Black
+    1. **Internalization**: Black people become comfortable with Black
        identity; anger leaves and racism is transcended
-    1. **Internationalization/commitment**: Blacks become behaviorally
+    1. **Internationalization/commitment**: Black people become behaviorally
        active in fighting racism.
 1. (p. 213) On a practical level, **standardization** in the bureaucratic
    sense often translates into an inflexible system that responds
