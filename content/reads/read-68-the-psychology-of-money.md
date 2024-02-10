@@ -40,7 +40,7 @@ someone who had already read six books on the subject prior. Luckily,
 though, and as you'll see below, the real book's strength was how it
 managed to condense wisdom related to investing into short, powerful
 quotes, that have the potential to save you from making bad decisions if
-you say them out loud to yourself.
+you say them out loud to yourself. It helps us understand our often strange, irrational behaviors around money and helps us reframe them in a more healthy way.
 
 This book is not interested in giving you advice on diversifying your
 portfolio beyond "consider index funds." What it *will* attempt to teach
