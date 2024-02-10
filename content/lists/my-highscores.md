@@ -37,8 +37,8 @@ Similarly, default difficulty settings were used unless stated otherwise.
 |[Donkey Kong](https://en.wikipedia.org/wiki/Donkey_Kong_(video_game))|1981|n/a|[31,900](/img/highscores/donkey-kong-20221020.jpg)|2023-10-20||
 |[Einhänder](https://en.wikipedia.org/wiki/Einhänder)|1997|{{< horizontal >}}|[2,669,030](/img/highscores/einhander-20221230-2.jpg)|2022-12-30|Normal difficulty|
 |[Esp Ra. De.](https://en.wikipedia.org/wiki/ESP_Ra.De.) |1998| {{< vertical >}}|[3,183,730](/img/highscores/esp-ra-de-20220416.jpg) |2022-04-16|
-|[Galaga](https://en.wikipedia.org/wiki/Galaga) |1981| {{< vertical >}}|[39,380](/img/highscores/galaga-20231021.jpg) |2023-10-21|
-|[Ghosts 'n Goblins](https://en.wikipedia.org/wiki/Ghosts_%27n_Goblins_(video_game))      |1985| Player-controlled (platformer) |[64,900](/img/highscores/ghosts-n-goblins-20231103.jpg)     |2023-11-03 |      |
+|[Galaga](https://en.wikipedia.org/wiki/Galaga) |1981| {{< vertical >}}|[97,600](/img/highscores/galaga-20231211.jpg) |2023-12-11|
+|[Ghosts \'n Goblins](https://en.wikipedia.org/wiki/Ghosts_%27n_Goblins_(video_game))      |1985| Player-controlled (platformer) |[64,900](/img/highscores/ghosts-n-goblins-20231103.jpg)     |2023-11-03 |      |
 |[Giga Wing](https://en.wikipedia.org/wiki/Giga_Wing)      |1999| {{< vertical >}} (yoko)|[7182,36244250](/img/highscores/giga-wing-20220326.jpg)     |2022-03-26 |      |
 |[Gradius V](https://en.wikipedia.org/wiki/Gradius_V)      |2004| {{< horizontal >}} (yoko)|[438,840](/img/highscores/gradius-v-20230717.jpg)     |2023-07-17 | Very Easy difficulty, played on Steam Deck     |
 |[GunForce II](https://en.wikipedia.org/wiki/GunForce_II)      |1994| {{< horizontal >}}|[26,220](/img/highscores/gun-force-ii-20230624.jpg) | 2023-06-25    | |
@@ -63,7 +63,7 @@ Similarly, default difficulty settings were used unless stated otherwise.
 |[Tetris: The Grand Master](https://en.wikipedia.org/wiki/Tetris:_The_Grand_Master)  (20G)    |1998| n/a|[Level 319](https://www.youtube.com/watch?v=6wJqaH9RW9M)  (video)  |2022-03-19    |Played on [Heboris](https://github.com/nightmareci/HeborisC7EX-SDL2)      |
 |[Tetris: The Grand Master 2 Plus](https://tetris.wiki/Tetris_The_Absolute_The_Grand_Master_2)    |2000| n/a|[165,246](/img/highscores/tetris-grandmaster-2-2023-08-25.jpg)  |2025-08-25    | Played on MAME from Steam Deck.      |
 |[Time Pilot](https://en.wikipedia.org/wiki/Time_Pilot) |1982|{{< freeroaming >}} (tate)|[102,200](/img/highscores/time-pilot-20220922.jpg)     |2022-09-22  |     |
-|[Time Pilot '84](https://en.wikipedia.org/wiki/Time_Pilot_%2784) |1984|{{< freeroaming >}} (tate)|[106,000](/img/highscores/time-pilot-84-20221217.jpg)     |2022-12-17  |     |
+|[Time Pilot \'84](https://en.wikipedia.org/wiki/Time_Pilot_%2784) |1984|{{< freeroaming >}} (tate)|[106,000](/img/highscores/time-pilot-84-20221217.jpg)     |2022-12-17  |     |
 |[Truxton](https://en.wikipedia.org/wiki/Truxton_(video_game))      | 1988|{{< vertical >}}|[201,950](/img/highscores/truxton-20220317.jpg)     |2022-03-17 | |
 |[Truxton II](https://en.wikipedia.org/wiki/Truxton_II)      | 1992|{{< vertical >}}|[181,810](/img/highscores/truxton-ii-20221209.jpg)     |2022-12-09 | |
 |[Twinkle Tale](https://en.wikipedia.org/wiki/Twinkle_Tale)      | 1992|{{< freeroaming >}} Run 'n gun (yoko)|[714,510](/img/highscores/twinkle-tale-20220813.jpg)     |2022-08-13 | |
