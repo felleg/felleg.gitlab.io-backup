@@ -6,7 +6,8 @@ toc: false
 frontpage: "true"
 cover:
 aliases : [
-   "/posts/2022/04/when-will-we-be-millionaires/"
+   "/posts/2022/04/when-will-we-be-millionaires/",
+   "/million"
 ]
 tags:
   - featured

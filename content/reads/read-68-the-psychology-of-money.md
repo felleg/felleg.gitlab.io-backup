@@ -21,6 +21,37 @@ Author: [Morgan Housel](https://www.morganhousel.com/)
 
 # Review
 
+I have read my share of personal finance books in the past, [Les
+millionaires ne sont pas ceux que vous croyez](/4), [Millionaire
+Teacher](/5), [The Wealthy Barber Returns](/6), [Liberté 45](/7), [En
+as-tu vraiment besoin](/8), and [La facture amoureuse](/10). While I
+wouldn't consider myself an expert in saving and investing, I think I've
+got the basic knowledge required to make it out there. I've been looking
+at the [million dollar grid](/million) for the past couple years and
+using it as a reminder of the strength of compounding interest. I have
+confidence in my investing strategy and have a long term investment
+horizon.
+
+What then did I learn from reading *The Psychology of Money*?
+
+To tell you the truth, at first glance, not much. The book contains a
+lot of common sense that, while surely instrumental for first time
+readers of personal finance, had no hope of blowing the socks off
+someone who had already read six books on the subject prior. Luckily,
+though, and as you'll see below, the real book's strength was how it
+managed to condense wisdom related to investing into short, powerful
+quotes, that have the potential to save you from making bad decisions if
+you say them out loud to yourself.
+
+This book is not interested in giving you advice on diversifying your
+portfolio beyond "consider index funds." What it *will* attempt to teach
+the reader is not to risk what they have and need for a *chance* at
+getting what they don't have and don't need. In my opinion, that's an
+infinitely more valuable lesson.
+
+I definitely recommend this short and sweet book for anyone looking to minimize their
+regrets in association to money.
+
 {{< myrating rating="👍" >}}
 
 ---
