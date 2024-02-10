@@ -5,7 +5,6 @@ cover: img/reads/the-psychology-of-money.png
 tags: ['reads', 'nonfiction']
 aliases:
   - '/68'
-draft: true
 
 ---
 
