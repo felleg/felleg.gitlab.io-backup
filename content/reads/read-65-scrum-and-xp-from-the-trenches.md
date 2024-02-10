@@ -2,7 +2,9 @@
 date: 2024-01-30T11:23:33-05:00
 title: "(Read 65) Scrum and XP From the Trenches"
 cover: img/reads/scrum-and-xp-from-the-trenches.png
-tags: ['reads']
+tags: ['reads', 'nonfiction']
+aliases: ['/65']
+
 ---
 
 Release year: 2015

@@ -3,7 +3,9 @@ date: 2024-01-24T08:37:19-05:00
 title: "(Read 64) The Software Engineer's Guidebook"
 cover: img/reads/the-software-engineer-s-guidebook.jpg
 CoverCaption: "My copy got a little banged up... long story!"
-tags: ['reads']
+tags: ['reads', 'nonfiction']
+aliases: ['/64']
+
 ---
 {{< partial "mathjax_support" >}}
 

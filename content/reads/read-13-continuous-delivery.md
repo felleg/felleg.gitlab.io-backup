@@ -3,7 +3,7 @@ date: 2022-09-01
 title: (Read 13) Continuous Delivery
 frontpage: "true"
 cover: img/reads/continuous-delivery.png
-tags: ['reads']
+tags: ['reads', 'nonfiction']
 aliases: ['/books/book-13-continuous-delivery', '/13']
 
 ---

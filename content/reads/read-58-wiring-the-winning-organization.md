@@ -2,8 +2,8 @@
 date: 2023-12-12T09:53:59-05:00
 title: "(Read 58) Wiring the Winning Organization"
 cover: img/reads/wiring-the-winning-organization.png
-tags: ['reads']
-aliases: ['/books/book-58-wiring-the-winning-organization']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-58-wiring-the-winning-organization', '/58']
 
 ---
 

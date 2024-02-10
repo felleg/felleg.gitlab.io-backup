@@ -3,8 +3,8 @@ date: 2023-04-14
 title: (Read 25) Sooner Safer Happier
 frontpage: "true"
 cover: img/reads/sooner-safer-happier.png
-tags: ['reads']
-aliases: ['/books/book-25-sooner-safer-happier']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-25-sooner-safer-happier', '/25']
 
 ---
 

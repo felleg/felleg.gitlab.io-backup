@@ -3,8 +3,8 @@ date: 2023-01-24
 title: (Read 19) Accelerate
 frontpage: "true"
 cover: img/reads/accelerate.jpg
-tags: ['reads']
-aliases: ['/books/book-19-accelerate']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-19-accelerate', '/19']
 
 ---
 

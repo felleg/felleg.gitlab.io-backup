@@ -3,8 +3,8 @@ date: 2023-07-02
 title: (Read 35) The Fifth Discipline
 frontpage: "true"
 cover: img/reads/the-fifth-discipline.png
-tags: ['reads']
-aliases: ['/books/book-35-the-fifth-discipline']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-35-the-fifth-discipline', '/35']
 
 ---
 

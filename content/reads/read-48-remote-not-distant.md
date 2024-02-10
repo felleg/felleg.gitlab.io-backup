@@ -2,8 +2,8 @@
 date: 2023-10-03T09:30:27-04:00
 title: "(Read 48) Remote Not Distant"
 cover: img/reads/remote-not-distant.png
-tags: ['reads']
-aliases: ['/books/book-48-remote-not-distant']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-48-remote-not-distant', '/48']
 
 ---
 

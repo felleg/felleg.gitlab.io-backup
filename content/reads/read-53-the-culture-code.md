@@ -2,8 +2,8 @@
 date: 2023-10-27T17:37:19-04:00
 title: "(Read 53) The Culture Code"
 cover: img/reads/the-culture-code.png
-tags: ['reads']
-aliases: ['/books/book-53-the-culture-code']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-53-the-culture-code', '/53']
 
 ---
 

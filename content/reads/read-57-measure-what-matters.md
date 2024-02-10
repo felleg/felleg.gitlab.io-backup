@@ -2,8 +2,8 @@
 date: 2023-12-01T11:31:43-05:00
 title: "(Read 57) Measure What Matters"
 cover: img/reads/measure-what-matters.png
-tags: ['reads']
-aliases: ['/books/book-57-measure-what-matters']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-57-measure-what-matters', '/57']
 
 ---
 

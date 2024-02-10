@@ -3,8 +3,8 @@ date: 2022-08-01
 title: (Read 12) The DevOps Handbook
 frontpage: "true"
 cover: img/reads/the-devops-handbook.png
-tags: ['reads']
-aliases: ['/books/book-12-the-devops-handbook']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-12-the-devops-handbook', '/12']
 
 ---
 

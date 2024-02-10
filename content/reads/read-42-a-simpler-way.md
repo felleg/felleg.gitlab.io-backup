@@ -3,8 +3,8 @@ date: 2023-08-01
 title: (Read 42) A Simpler Way
 frontpage: "true"
 cover: img/reads/a-simpler-way.png
-tags: ['reads']
-aliases: ['/books/book-42-a-simpler-way']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-42-a-simpler-way', '/42']
 
 ---
 

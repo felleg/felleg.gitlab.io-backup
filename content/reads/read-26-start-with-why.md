@@ -3,8 +3,8 @@ date: 2023-04-18
 title: (Read 26) Start With Why
 frontpage: "true"
 cover: img/reads/start-with-why.png
-tags: ['reads']
-aliases: ['/books/book-26-start-with-why']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-26-start-with-why', '/26']
 
 ---
 

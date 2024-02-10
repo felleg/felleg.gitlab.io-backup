@@ -3,8 +3,8 @@ date: 2023-04-28
 title: (Read 29) Execution
 frontpage: "true"
 cover: img/reads/execution.jpg
-tags: ['reads']
-aliases: ['/books/book-29-execution']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-29-execution', '/29']
 
 ---
 

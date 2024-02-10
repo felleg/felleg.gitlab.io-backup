@@ -2,8 +2,9 @@
 date: 2024-01-13T11:16:20-05:00
 title: "(Read 63) Drive"
 cover: img/reads/drive.png
-tags: ['reads']
-aliases: ['/books/book-63-drive']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-63-drive', '/63']
+
 ---
 
 Release year: 2009

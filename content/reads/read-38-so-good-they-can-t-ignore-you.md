@@ -3,8 +3,8 @@ date: 2023-07-12
 title: (Read 38) So Good They Can't Ignore You
 frontpage: "true"
 cover: img/reads/so-good-they-cant-ignore-you.png
-tags: ['reads']
-aliases: ['/books/book-38-so-good-they-can-t-ignore-you']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-38-so-good-they-can-t-ignore-you', '/38']
 
 ---
 

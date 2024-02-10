@@ -3,8 +3,8 @@ date: 2023-08-12
 title: (Read 43) When They Win, You Win
 frontpage: "true"
 cover: img/reads/when-they-win-you-win.png
-tags: ['reads']
-aliases: ['/books/book-43-when-they-win-you-win']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-43-when-they-win-you-win', '/43']
 
 ---
 

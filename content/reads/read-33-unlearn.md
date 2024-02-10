@@ -3,8 +3,8 @@ date: 2023-06-05
 title: (Read 33) Unlearn
 frontpage: "true"
 cover: img/reads/unlearn.png
-tags: ['reads']
-aliases: ['/books/book-33-unlearn']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-33-unlearn', '/33']
 
 ---
 

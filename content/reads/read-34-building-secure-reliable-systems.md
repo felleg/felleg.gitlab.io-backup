@@ -3,8 +3,8 @@ date: 2023-06-26
 title: (Read 34) Building Secure & Reliable Systems
 frontpage: "true"
 cover: img/reads/building-secure-and-reliable-systems.png
-tags: ['reads']
-aliases: ['/books/book-34-building-secure-reliable-systems']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-34-building-secure-reliable-systems', '/34']
 
 ---
 

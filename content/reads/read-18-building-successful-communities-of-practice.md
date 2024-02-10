@@ -3,8 +3,9 @@ date: 2023-01-14
 title: (Read 18) Building Successful Communities of Practice
 frontpage: "true"
 cover: img/reads/building-successful-communities.jpg
-tags: ['reads']
-aliases: ['/books/book-18-building-successful-communities-of-practice']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-18-building-successful-communities-of-practice',
+'/18']
 
 ---
 

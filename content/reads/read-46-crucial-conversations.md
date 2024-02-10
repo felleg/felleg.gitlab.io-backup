@@ -2,8 +2,8 @@
 date: 2023-09-06T13:30:45-04:00
 title: "(Read 46) Crucial Conversations"
 cover: img/reads/crucial-conversations.png
-tags: ['reads']
-aliases: ['/books/book-46-crucial-conversations']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-46-crucial-conversations', '/46']
 
 ---
 

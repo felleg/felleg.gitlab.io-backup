@@ -3,8 +3,8 @@ date: 2022-07-10
 title: (Read 11) Team Topologies
 frontpage: "true"
 cover: img/reads/team-topologies.png
-tags: ['reads']
-aliases: ['/books/book-11-team-topologies']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-11-team-topologies', '/11']
 
 ---
 

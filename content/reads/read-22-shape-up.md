@@ -3,8 +3,8 @@ date: 2023-03-14
 title: (Read 22) Shape Up
 frontpage: "true"
 cover: img/reads/shape-up.png
-tags: ['reads']
-aliases: ['/books/book-22-shape-up']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-22-shape-up', '/22']
 
 ---
 

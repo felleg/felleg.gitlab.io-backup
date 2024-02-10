@@ -2,8 +2,8 @@
 date: 2023-11-14T15:16:16-05:00
 title: "(Read 55) The 48 Laws of Power"
 cover: img/reads/the-48-laws-of-power.png
-tags: ['reads']
-aliases: ['/books/book-55-the-48-laws-of-power']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-55-the-48-laws-of-power', '/55']
 
 ---
 

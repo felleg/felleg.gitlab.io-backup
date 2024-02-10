@@ -3,8 +3,8 @@ date: 2023-02-28
 title: (Read 20) Radical Candor
 frontpage: "true"
 cover: img/reads/radical-candor.jpg
-tags: ['reads']
-aliases: ['/books/book-20-radical-candor']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-20-radical-candor', '/20']
 
 ---
 

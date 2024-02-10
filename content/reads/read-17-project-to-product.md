@@ -3,8 +3,8 @@ date: 2022-12-18
 title: (Read 17) Project to Product
 frontpage: "true"
 cover: img/reads/project-to-product.png
-tags: ['reads']
-aliases: ['/books/book-17-project-to-product']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-17-project-to-product', '/17']
 
 ---
 

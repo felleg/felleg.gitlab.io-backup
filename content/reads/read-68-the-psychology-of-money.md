@@ -2,7 +2,7 @@
 date: 2024-02-09T15:24:38-05:00
 title: "(Read 68) the Psychology of Money"
 cover: img/reads/the-psychology-of-money.png
-tags: ['reads']
+tags: ['reads', 'nonfiction']
 aliases:
   - '/68'
 draft: true

@@ -3,8 +3,8 @@ date: 2022-10-30
 title: (Read 15) The Unicorn Project
 frontpage: "true"
 cover: img/reads/the-unicorn-project.png
-tags: ['reads']
-aliases: ['/books/book-15-the-unicorn-project']
+tags: ['reads', 'fiction']
+aliases: ['/books/book-15-the-unicorn-project', '/15']
 
 ---
 

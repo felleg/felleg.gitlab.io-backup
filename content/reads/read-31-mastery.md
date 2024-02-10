@@ -3,8 +3,8 @@ date: 2023-05-15
 title: (Read 31) Mastery
 frontpage: "true"
 cover: img/reads/mastery.png
-tags: ['reads']
-aliases: ['/books/book-31-mastery']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-31-mastery', '/31']
 
 ---
 

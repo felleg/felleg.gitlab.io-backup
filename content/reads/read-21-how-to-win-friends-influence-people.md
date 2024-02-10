@@ -3,8 +3,8 @@ date: 2023-03-07
 title: (Read 21) How to Win Friends & Influence People
 frontpage: "true"
 cover: img/reads/how-to-win-friends-and-influence-people.png
-tags: ['reads']
-aliases: ['/books/book-21-how-to-win-friends-influence-people']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-21-how-to-win-friends-influence-people', '/21']
 
 ---
 

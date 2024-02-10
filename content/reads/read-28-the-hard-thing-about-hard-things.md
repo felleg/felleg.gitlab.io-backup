@@ -3,8 +3,8 @@ date: 2023-04-22
 title: (Read 28) The Hard Thing About Hard Things
 frontpage: "true"
 cover: img/reads/the-hard-thing-about-hard-things.jpg
-tags: ['reads']
-aliases: ['/books/book-28-the-hard-thing-about-hard-things']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-28-the-hard-thing-about-hard-things', '/28']
 
 ---
 

@@ -3,8 +3,8 @@ date: 2023-05-08
 title: (Read 30) The Fearless Organization
 frontpage: "true"
 cover: img/reads/the-fearless-organization.png
-tags: ['reads']
-aliases: ['/books/book-30-the-fearless-organization']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-30-the-fearless-organization', '/30']
 
 ---
 

@@ -3,8 +3,8 @@ date: 2023-07-24
 title: (Read 40) Atomic Habits
 frontpage: "true"
 cover: img/reads/atomic-habits.png
-tags: ['reads']
-aliases: ['/books/book-40-atomic-habits']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-40-atomic-habits', '/40']
 
 ---
 

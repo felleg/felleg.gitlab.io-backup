@@ -3,8 +3,8 @@ date: 2023-07-11
 title: (Read 37) Reinventing Organizations
 frontpage: "true"
 cover: img/reads/reinventing-organizations.png
-tags: ['reads']
-aliases: ['/books/book-37-reinventing-organizations']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-37-reinventing-organizations', '/37']
 
 ---
 

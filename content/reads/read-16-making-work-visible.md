@@ -3,8 +3,8 @@ date: 2022-12-03
 title: (Read 16) Making Work Visible
 frontpage: "true"
 cover: img/reads/making-work-visible.jpg
-tags: ['reads']
-aliases: ['/books/book-16-making-work-visible']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-16-making-work-visible', '/16']
 
 ---
 

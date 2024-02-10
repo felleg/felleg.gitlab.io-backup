@@ -2,7 +2,7 @@
 date: 2024-02-07T14:52:45-05:00
 title: "(Read 67) Cultural Diversity in Organizations"
 cover: img/reads/cultural-diversity-in-organizations.png
-tags: ['reads']
+tags: ['reads', 'nonfiction']
 aliases:
   - '/67'
 

@@ -3,8 +3,8 @@ date: 2023-07-19
 title: (Read 39) Thinking in Systems
 frontpage: "true"
 cover: img/reads/thinking-in-systems.png
-tags: ['reads']
-aliases: ['/books/book-39-thinking-in-systems']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-39-thinking-in-systems', '/39']
 
 ---
 

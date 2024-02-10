@@ -2,8 +2,8 @@
 date: 2023-10-21T10:53:08-04:00
 title: "(Read 52) What Color Is Your Parachute"
 cover: img/reads/what-color-is-your-parachute.png
-tags: ['reads']
-aliases: ['/books/book-52-what-color-is-your-parachute']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-52-what-color-is-your-parachute', '/52']
 
 ---
 

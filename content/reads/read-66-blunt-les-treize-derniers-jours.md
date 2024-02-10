@@ -2,7 +2,7 @@
 date: 2024-02-04T21:24:15-05:00
 title: "(Lecture 66) Blunt - Les Treize Derniers Jours"
 cover: img/reads/blunt.jpg
-tags: ['reads', 'fiction']
+tags: ['reads', 'lectures', 'fiction']
 aliases:
   - '/66'
 

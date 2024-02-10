@@ -2,8 +2,9 @@
 date: 2023-10-13T19:33:48-04:00
 title: "(Read 51) Of Boys and Men"
 cover: img/reads/of-boys-and-men.png
-tags: ['reads']
-aliases: ['/books/book-51-of-boys-and-men']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-51-of-boys-and-men', '/51']
+
 ---
 
 Release year: 2022

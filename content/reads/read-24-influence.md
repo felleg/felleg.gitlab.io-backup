@@ -3,8 +3,8 @@ date: 2023-04-07
 title: (Read 24) Influence
 frontpage: "true"
 cover: img/reads/influence.png
-tags: ['reads']
-aliases: ['/books/book-24-influence']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-24-influence', '/24']
 
 ---
 

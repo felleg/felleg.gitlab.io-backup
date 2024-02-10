@@ -3,8 +3,8 @@ date: 2022-09-21
 title: (Read 14) Remote Team Interactions
 frontpage: "true"
 cover: img/reads/remote-team-interactions.png
-tags: ['reads']
-aliases: ['/books/book-14-remote-team-interactions']
+tags: ['reads', 'nonfiction']
+aliases: ['/books/book-14-remote-team-interactions', '/14']
 
 ---
 
