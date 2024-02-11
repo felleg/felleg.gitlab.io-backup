@@ -13,6 +13,10 @@ know in a Disqus comment or via email. :smile: In the meantime, have a nice day!
 
 {{< figure src="/img/lac-travers-2022.jpeg" position="center" caption="" >}}
 
+Psst, if you would like to make me a gift for some reason, here are my:
+- Amazon Wishlist : https://www.amazon.ca/hz/wishlist/ls/29NYEPKMQ5E5X?ref_=wl_share
+- List of books I have read: https://felixleger.com/allreads/
+
 ---
 
 This website's format is based on [Hello
