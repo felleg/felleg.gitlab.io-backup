@@ -25,9 +25,10 @@ says). This question can be divded in three sub-questions:
 - At what age have you started investing?
 - How much money can you reliably save per year?
 - How much averaged annual interest are you realistically hoping for?
+    - Personally, I'm hoping for 6%, but I use 2% in my models as a
+      margin of safety.
 
-With the answer to these questions in hand (and supposing an effective
-interest rate of 6% annually), all you have to do is find your answer in
+With the answer to these questions in hand, all you have to do is find your answer in
 this chart:
 
 {{< figure src="/img/millionaire-age.png" position="center" caption="[Google Sheets version](https://docs.google.com/spreadsheets/d/1IB0ZfB9MXd1muLqLs9iG1o9E4qbSOfsP5hPE61MyOTw/edit?usp=sharing)" >}}
