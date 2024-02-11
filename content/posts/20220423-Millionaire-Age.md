@@ -33,6 +33,14 @@ this chart:
 
 {{< figure src="/img/millionaire-age.png" position="center" caption="[Google Sheets version](https://docs.google.com/spreadsheets/d/1IB0ZfB9MXd1muLqLs9iG1o9E4qbSOfsP5hPE61MyOTw/edit?usp=sharing)" >}}
 
+# This is not financial advice.
+
+Please be careful when making long term predictions. Should your current
+reality change, your spendings might also change and impact your ability
+to invest.
+
+---
+
 In order to create this chart in Google Sheets, I had to learn about the
 [NPER function](https://support.google.com/docs/answer/3093183?hl=en), which calculates the number of payment periods for an
 investment based on constant-amount periodic payments and a constant
