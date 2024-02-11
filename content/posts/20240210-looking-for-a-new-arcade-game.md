@@ -25,6 +25,7 @@ Note: A maintained version of this list can be [accessed here](https://gitlab.co
 Altered Beast
 Armed Police Batrider
 Asteroids
+Atomic Runner
 Batsugun
 Battle Garegga
 Berzerk
@@ -70,7 +71,7 @@ Last Resort
 League Bowling
 Magical Drop III
 Magician Lord
-Mario Bros. 
+Mario Bros.
 Mars Matrix
 Metal Black
 Metal Slug
