@@ -17,6 +17,8 @@ description: "The arcade wheel"
 
 Have fun! :smiley:
 
+Note: A maintained version of this list can be [accessed here](https://gitlab.com/felleg/game-for-highscore-month/-/blob/main/README.md) :wink:
+
 ```
 1944: The Loop Master
 19XX: The War Against Destiny
