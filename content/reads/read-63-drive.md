@@ -77,7 +77,7 @@ goal post! This picture contains 63 books.
 Another visualization I attempted is how many books I've read over the
 years:
 
-{{< figure src="/img/books-read-20240115.png" position="center" caption="" >}}
+{{< figure src="/img/books-read-20240211.png" position="center" caption="" >}}
 
 
 Here's my question: why am I spending time visualizing these things? Who
