@@ -56,6 +56,7 @@ Gauntlet
 Ghouls 'n Ghosts
 Giga Wing
 Golden Axe
+Gorf
 Gradius
 Green Beret (Rush 'n Attack)
 Gun.Smoke
@@ -103,6 +104,7 @@ Raiden I
 Rayforce
 Road Fighter
 Robotron 2084
+Roby Roto
 Salamander II
 Scramble
 Section Z
@@ -112,6 +114,7 @@ Shock Troopers
 Snap Jack
 SonSon
 Space Harrier
+Space Zap
 Splatter House
 Spin Master
 Star Soldier
