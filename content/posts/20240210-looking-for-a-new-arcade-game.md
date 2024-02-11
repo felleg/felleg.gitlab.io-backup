@@ -8,14 +8,14 @@ tags:
 description: "The arcade wheel"
 ---
 
-# Follow these three steps
+# Follow these four steps
 
 1. Copy/paste the text below
 1. Visit https://spinthewheel.cc
 1. Paste your list
-1. Spin the wheel
+1. Spin the wheel!
 
-Have fun!
+Have fun! :smiley:
 
 ```
 1944: The Loop Master
