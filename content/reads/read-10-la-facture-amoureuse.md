@@ -10,5 +10,13 @@ aliases: ['/books/book-10-la-facture-amoureuse', '/10']
 
 Release year: 2023
 
-👍
+Auteur: Pierre-Yves McSween
+
+{{< achetezcelivre link="https://amzn.to/3Ux5TYs" >}}
+
+---
+
+# Review
+
+{{< myrating rating="👍" >}}
 

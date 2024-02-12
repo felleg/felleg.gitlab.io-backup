@@ -9,5 +9,13 @@ aliases: ['/books/book-04-les-millionaires-ne-sont-pas-ceux-que-vous-croyez', '/
 
 Release year: 2019
 
-👍👍
+Author: Nicolas Bérubé
+
+{{< buythisbook link="https://amzn.to/491PIGZ" >}}
+
+---
+
+# Review
+
+{{< myrating rating="👍👍" >}}
 

@@ -9,5 +9,13 @@ aliases: ['/books/book-09-four-thousand-weeks', '/9']
 
 Release year: 2021
 
-👍👍
+Author: Oliver Burkeman
+
+{{< buythisbook link="https://amzn.to/3UCP4LJ" >}}
+
+---
+
+# Review
+
+{{< myrating rating="👍👍" >}}
 

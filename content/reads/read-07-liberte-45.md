@@ -9,5 +9,13 @@ aliases: ['/books/book-07-liberte-45', '/7']
 
 Release year: 2020
 
-👍
+Auteur: Pierre-Yves McSween
+
+{{< achetezcelivre link="https://amzn.to/49e5vCO" >}}
+
+---
+
+# Review
+
+{{< myrating rating="👍" >}}
 

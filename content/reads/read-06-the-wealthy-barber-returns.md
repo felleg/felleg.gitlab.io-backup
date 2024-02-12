@@ -9,5 +9,13 @@ aliases: ['/books/book-06-the-wealthy-barber-returns', '/6']
 
 Release year: 2011
 
-🤔
+Author: David Chilton
+
+{{< buythisbook link="https://amzn.to/3OHK3Oi" >}}
+
+---
+
+# Review
+
+{{< myrating rating="🤔" >}}
 

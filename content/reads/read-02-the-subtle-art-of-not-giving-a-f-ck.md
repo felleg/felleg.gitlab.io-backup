@@ -9,5 +9,11 @@ aliases: ['/books/book-02-the-subtle-art-of-not-giving-a-f-ck', '/2']
 
 Release year: 2016
 
-👍
+Author: [Mark Manson](https://markmanson.net)
+
+{{< buythisbook link="https://amzn.to/49caYd7" >}}
+
+---
+
+{{< myrating rating="👍" >}}
 

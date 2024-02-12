@@ -9,5 +9,13 @@ aliases: ['/books/book-05-millionaire-teacher', '/5']
 
 Release year: 2011
 
-👍
+Author: Andrew Hallam
+
+{{< buythisbook link="https://amzn.to/49t86Z8" >}}
+
+---
+
+# Review
+
+{{< myrating rating="👍" >}}
 

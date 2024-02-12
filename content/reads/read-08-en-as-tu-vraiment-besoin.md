@@ -9,5 +9,13 @@ aliases: ['/books/book-08-en-as-tu-vraiment-besoin', '/8']
 
 Release year: 2018
 
-👍
+Auteur: Pierre-Yves McSween
+
+{{< achetezcelivre link="https://amzn.to/49aKp8i" >}}
+
+---
+
+# Review
+
+{{< myrating rating="👍" >}}
 
