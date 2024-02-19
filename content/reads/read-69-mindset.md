@@ -66,25 +66,58 @@ Author: [Carol S. Dweck](https://profiles.stanford.edu/carol-dweck)
 1. (p. 137) If businesses don't play a role in developing a mature and
    growth-minded workforce, where will the leaders of the future come
    from?
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
+1. (p. 141) Everyone, of whatever age and circumstance, is capable of
+   self-transformation.
+1. (p. 148) "Tout comprendre, c'est tout pardonner." (To understand all
+   is to forgive all)
+    - Note that this can be carried too far, but it's a good place to
+      start.
+1. (p. 153) Mind reading instead of communicating inevitably backfires.
+1. (p. 155) There is no "they lived happily ever after," it's more like
+   "they worked happily ever after."
+1. (p. 163) The whole point of marriage is to encourage your partner's
+   development and have them encourage yours.
+1. (p. 166) Shy people worry that others will bring them down.
+1. (p. 166) Shyness harms the social interactions of people with the
+   fixed mindset but does not harm the social relations of people with
+   the growth mindset.
+1. (p. 179) The best thing parents can do is teach their children to
+   love challenges, be intrigued by mistakes, enjoy effort, seek new
+   strategies, and keep on learning.
+1. (p. 180) Praise the work put in.
+1. (p. 182) What we should say when children complete a task (e.g. a
+   math problem) quickly and perfectly is: "Whoops. I guess that was too
+   easy. I apologize for wasting your time. Let's do something you can
+   really learn from."
+1. (p. 189) :star: Don't judge. Teach. It's a learning process.
+1. (p. 210) You have to apply yourself each day to becoming a little
+   better. By applying yourself to the task of becoming a little better
+   each and every day over a period of time, you will become *a lot*
+   better.
+1. (p. 210) "Did I win? Did I lose?" Those are the wrong questions. The
+   correct question is: Did I make my best effort? If so, you may be
+   outscored but you will never lose.
+1. (p. 216) If a student has tried hard and made little or not progress,
+   we can of course appreciate their effort, but we should never be
+   content with effort that is yielding no benefits.
+    - We need to figure out *why* an effort is not effective and guide
+      kids toward other strategies and resources that can help them
+      resume learning.
+1. (p. 217) We as educators must take seriously our responsibility to
+   create growth-mindset-friendly environments, where people:
+    - feel safe from judgement
+    - understand that we believe in their potential to grow
+    - know that we are totally dedicated to collaborating with them on
+      their learning
+1. (p. 217) In truth, we're all a mixture of growth mindset and fixed
+   mindset. Sometimes we're in one mindset and sometimes we're in the
+   other. Our task is to understand what triggers our fixed mindset.
+1. (p. 222) Having innate talent is not a goal. Expanding skills and
+   knowledge is.
+1. (p. 229) :star: Nobody gets used to feeling dumb.
+1. (p. 235) It's not easy to just let go of something that has felt like
+   your "self" for many years and that has given you your route to
+   self-esteem.
 1. (p. 
 1. (p. 
 1. (p. 
