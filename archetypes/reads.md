@@ -2,7 +2,10 @@
 date: {{ .Date }}
 title: "{{ replace .Name "-" " " | title }}"
 cover: img/reads/...
-tags: ['reads']
+tags:
+  - 'reads'
+  - 'nonfiction'
+  #- 'fiction'
 aliases:
   - '/##'
 draft: true
