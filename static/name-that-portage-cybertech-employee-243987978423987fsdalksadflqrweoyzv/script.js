@@ -17,7 +17,7 @@ function shuffleArray(array) {
 function displayNextPhoto() {
     currentIndex++;
     document.getElementById('photo').src = photos[currentIndex];
-    document.getElementById('photo-number').textContent = `Photo ${currentIndex + 1}`;
+    document.getElementById('photo-number').textContent = `Photo ${currentIndex + 1} / ${photos.length}`;
 }
 
 // Function to handle when user knows the person
