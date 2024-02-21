@@ -3,17 +3,19 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Random Photo Viewer</title>
+<title>Do you know this person?</title>
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+<h1>Do you know this person?</h1>
 <div id="photo-container">
     <img id="photo" src="" alt="Random Photo">
+    <h2 id="photo-name"></h2>
     <p id="photo-number"></p>
 </div>
 <div id="buttons">
-    <button onclick="knowPerson()">I know this person</button>
-    <button onclick="dontKnowPerson()">I don't know this person</button>
+    <button class="know-button" onclick="knowPerson()">I know this person</button>
+    <button class="dont-know-button" onclick="dontKnowPerson()">I don't know this person</button>
 </div>
 <p id="score">Score: 0</p>
 

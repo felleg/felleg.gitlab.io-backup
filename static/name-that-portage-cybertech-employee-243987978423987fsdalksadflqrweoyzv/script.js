@@ -18,6 +18,7 @@ function displayNextPhoto() {
     currentIndex++;
     document.getElementById('photo').src = photos[currentIndex];
     document.getElementById('photo-number').textContent = `Photo ${currentIndex + 1} / ${photos.length}`;
+    document.getElementById('photo-name').textContent = "";
 }
 
 // Function to handle when user knows the person
@@ -35,11 +36,18 @@ function knowPerson() {
 function dontKnowPerson() {
     score--;
     document.getElementById('score').textContent = `Score: ${score}`;
-    if (currentIndex === photos.length - 1) {
-        endGame();
-    } else {
+    // Get the name of the photo
+    const photoName = photos[currentIndex].split('/').pop().split('.')[0];
+
+    // Display the name of the photo for 2 seconds
+    document.getElementById('photo-name').innerHTML = `<p>${photoName}</p>`;
+    setTimeout(function() {
+      if (currentIndex < photos.length - 1) {
         displayNextPhoto();
-    }
+      } else {
+        endGame();
+      }
+    }, 2000)
 }
 
 // Function to end the game

@@ -18,6 +18,42 @@ body {
     margin-top: 20px;
 }
 
+/* Styling for the "I know this person" button */
+.know-button {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.know-button:hover {
+    background-color: lightgreen; /* Pale green on hover */
+}
+
+.know-button:active {
+    background-color: darkgreen; /* Dark green when clicked */
+}
+
+/* Styling for the "I don't know this person" button */
+.dont-know-button {
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.dont-know-button:hover {
+    background-color: lightcoral; /* Pale red on hover */
+}
+
+.dont-know-button:active {
+    background-color: darkred; /* Dark red when clicked */
+}
+
 #score {
     margin-top: 20px;
 }
