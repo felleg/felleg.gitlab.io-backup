@@ -1,14 +1,21 @@
 let currentIndex = -1; // Current index of the displayed photo
 let score = 0; // Initial score
-const photos = ["/name-that-portage-cybertech-employee-243987978423987fsdalksadflqrweoyzv/photos/felixleger.jpg", ];
+const photos = ["/name-that-portage-cybertech-employee-243987978423987fsdalksadflqrweoyzv/photos/felixleger.jpg", "/name-that-portage-cybertech-employee-243987978423987fsdalksadflqrweoyzv/photos/justin-hornosty.png", "/name-that-portage-cybertech-employee-243987978423987fsdalksadflqrweoyzv/photos/quentin-esnault.png", "/name-that-portage-cybertech-employee-243987978423987fsdalksadflqrweoyzv/photos/jean-raphael-theriault.png", "/name-that-portage-cybertech-employee-243987978423987fsdalksadflqrweoyzv/photos/chantal-nicol.png"];
 
-// Function to display a random photo
-function displayRandomPhoto() {
-    let randomIndex;
-    do {
-        randomIndex = Math.floor(Math.random() * photos.length);
-    } while (randomIndex === currentIndex); // Ensure the same photo is not displayed consecutively
-    currentIndex = randomIndex;
+// Shuffle the photos array before starting the game
+shuffleArray(photos);
+
+// Function to shuffle an array
+function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+}
+
+// Function to display the next photo
+function displayNextPhoto() {
+    currentIndex++;
     document.getElementById('photo').src = photos[currentIndex];
     document.getElementById('photo-number').textContent = `Photo ${currentIndex + 1}`;
 }
@@ -20,7 +27,7 @@ function knowPerson() {
     if (currentIndex === photos.length - 1) {
         endGame();
     } else {
-        displayRandomPhoto();
+        displayNextPhoto();
     }
 }
 
@@ -31,7 +38,7 @@ function dontKnowPerson() {
     if (currentIndex === photos.length - 1) {
         endGame();
     } else {
-        displayRandomPhoto();
+        displayNextPhoto();
     }
 }
 
@@ -41,5 +48,6 @@ function endGame() {
     document.getElementById('buttons').style.display = 'none';
 }
 
-displayRandomPhoto();
+// Display the first photo
+displayNextPhoto();
 
