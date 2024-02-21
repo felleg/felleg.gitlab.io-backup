@@ -81,5 +81,5 @@ aliases = [
 | Hello                     | {{< thumbnail src="img/art/Hello.png" position="center" >}}                              | 2022-02-19 |
 | Garden                    | {{< thumbnail src="img/art/Garden.png" position="center" >}}                             | 2022-02-19 |
 | Mask (shine)              | {{< thumbnail src="img/art/mask-shine.jpg" position="center" >}}                         | 2010-05-10 |
-| Gregory | {{< thumbnail src="img/art/gregory" position="center" >}}                         | 2018-02-20 |
+| Gregory | {{< thumbnail src="img/art/gregory.jpg" position="center" >}}                         | 2018-02-20 |
 
