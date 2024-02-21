@@ -24,7 +24,7 @@ the **fixed** mindset and the **growth** mindset. Obviously, the
 **growth** mindset is the one we want, since growing allows us to reach
 new heights.
 
-The book's is essentially a tour around all the aspects around the
+The book is essentially a tour across all the aspects around the
 dichotomy between the fixed and growth mindsets, starting with its
 discovery by the author and collaborators. It then proceeds to show us
 the consequences of each mindsets in different spheres of life, such as
