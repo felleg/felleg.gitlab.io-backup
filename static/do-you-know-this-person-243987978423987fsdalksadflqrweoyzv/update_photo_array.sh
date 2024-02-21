@@ -9,7 +9,7 @@ PHOTOS=$(find "$PHOTO_DIR" -type f \( -iname \*.png -o -iname \*.jpg \))
 # Format the photos array for JavaScript
 PHOTO_ARRAY=""
 for photo in $PHOTOS; do
-  PHOTO_ARRAY+=$(echo "$(basename $photo)" | sed 's/\(.*\)/"\/name-that-portage-cybertech-employee-243987978423987fsdalksadflqrweoyzv\/photos\/\1",/' | tr '\n' ' ' | sed 's/,$//')
+  PHOTO_ARRAY+=$(echo "$(basename $photo)" | sed 's/\(.*\)/"\/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv\/photos\/\1",/' | tr '\n' ' ' | sed 's/,$//')
 done
 
 # Replace the photos array in script.js
