@@ -1,6 +1,6 @@
 let currentIndex = -1; // Current index of the displayed photo
 let score = 0; // Initial score
-const photos = ["/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Julien_Gruet.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Isabelle_Bussières.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Ryan_Pelicos.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Claire_Le_Moigne.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Shaun_MacDonald.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Eloise_Chakoue.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Denisse_Hernandez_Pulido.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Bea_Lapinska.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Tristan_Vacher.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Harmanpreet_Singh_Multani.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Justin_Hornosty.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Nicolas_Bélanger.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Trish_McNeely.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Alexandre_Rémillard.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Louis-Philippe_Tremblay.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Valerie_Boucher.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Don_Cuthbertson.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Jérémy_Lor.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Marc_St-Jacques.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Gulab_Karnani.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Dorsaf_El_Mekki.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Edouard_Talma.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Suzanne_Mandybura.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Valery_Doroshkov.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Abdelmalek_Belaid.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Julien_Lamarche.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Nathalie_Denis.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Michael_P_Moran.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Mathieu_Chouinard_Lavoie.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Antonio_Misaka.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Christian_Balcazar.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Patrick_Drolet.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Michael_Whitehead.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Audrey_Lemire.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Simon_Picard.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Camille_Blondiaux.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Antoine_Lafontaine.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Bruce_Levis.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Nadia_Brousseau.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Bugrahan_Tasdelen.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Jean-Denis_Paquette.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Andrew_Whitehead.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Chantal_Nicol.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Félix_Léger.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Marie-Pier_Blanchet.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Mac_Lapinski.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Dominique_Fortin.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Jean-Raphaël_Thériault.png", ];
+const photos = ["/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Julien_Gruet.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Isabelle_Bussières.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Ryan_Pelicos.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Claire_Le_Moigne.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Shaun_MacDonald.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Eloise_Chakoue.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Denisse_Hernandez_Pulido.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Bea_Lapinska.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Tristan_Vacher.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Harmanpreet_Singh_Multani.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Justin_Hornosty.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Nicolas_Bélanger.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Trish_McNeely.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Michael_Kupjetz.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Alexandre_Rémillard.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Louis-Philippe_Tremblay.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Valerie_Boucher.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Don_Cuthbertson.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Jérémy_Lor.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Marc_St-Jacques.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Gulab_Karnani.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Dorsaf_El_Mekki.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Edouard_Talma.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Suzanne_Mandybura.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Valery_Doroshkov.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Christian_Meloche.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Abdelmalek_Belaid.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Julien_Lamarche.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Nathalie_Denis.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Michael_P_Moran.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Mathieu_Chouinard_Lavoie.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Antonio_Misaka.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Christian_Balcazar.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Patrick_Drolet.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Martin_Burke.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Michael_Whitehead.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Audrey_Lemire.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Simon_Picard.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Elaine_Scovill.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Camille_Blondiaux.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Antoine_Lafontaine.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Bruce_Levis.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Nadia_Brousseau.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Bugrahan_Tasdelen.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Jean-Denis_Paquette.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Andrew_Whitehead.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Chantal_Nicol.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Félix_Léger.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Marie-Pier_Blanchet.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Mac_Lapinski.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Dominique_Fortin.png", "/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/photos/Jean-Raphaël_Thériault.png", ];
 
 // Shuffle the photos array before starting the game
 shuffleArray(photos);
@@ -30,10 +30,12 @@ function knowPerson() {
     correct++;
     totalPhotos++;
     updateScore();
-    if (currentIndex === photos.length - 1) {
+    document.querySelector('.know-button').disabled = true; // Disable the button
+    if (currentIndex >= photos.length - 1) {
         endGame();
     } else {
         displayNextPhoto();
+        document.querySelector('.know-button').disabled = false;
     }
 }
 
@@ -47,11 +49,11 @@ function dontKnowPerson() {
     const photoName = photos[currentIndex].split('/').pop().split('.')[0];
 
     // Display the name of the photo for 2 seconds
-    document.getElementById('photo-name').innerHTML = `<p>${photoName}</p>`;
+    document.getElementById('photo-name').innerHTML = `<p>${photoName}</p>`.replace(/_/g, " ");
     setTimeout(function() {
       if (currentIndex < photos.length - 1) {
-        document.querySelector('.dont-know-button').disabled = false; // Enable the button after 2 seconds
         displayNextPhoto();
+        document.querySelector('.dont-know-button').disabled = false;
       } else {
         endGame();
       }
@@ -60,12 +62,20 @@ function dontKnowPerson() {
 
 function updateScore() {
     const percentage = totalPhotos === 0 ? 0 : Math.floor((correct / totalPhotos) * 100); // Round down the percentage
-    document.getElementById('score').textContent = `Score: ${score} (${percentage}%)`;
+    const scoreDisplay = document.getElementById('score');
+    scoreDisplay.textContent = `Score: ${score} (${percentage}%)`;
+
+    // Update color based on score value
+    if (score < 0) {
+        scoreDisplay.style.color = 'red';
+    } else {
+        scoreDisplay.style.color = ''; // Reset color to default
+    }
 }
 
 // Function to end the game
 function endGame() {
-    document.getElementById('photo-container').innerHTML = '<p>Thank you for playing!</p><p>If you want your photo in this game, please send it to me at felix.leger@portagecybertech.com';
+    document.getElementById('photo-container').innerHTML = '<p>Thank you for playing!</p><p>If you want to include your photo in this game, please send it to me at felix.leger@portagecybertech.com :)';
     document.getElementById('buttons').style.display = 'none';
 }
 
