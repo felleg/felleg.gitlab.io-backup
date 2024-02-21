@@ -21,10 +21,15 @@ function displayNextPhoto() {
     document.getElementById('photo-name').textContent = "";
 }
 
+let totalPhotos = 0; // Total number of photos viewed
+let correct = 0;
+
 // Function to handle when user knows the person
 function knowPerson() {
     score++;
-    document.getElementById('score').textContent = `Score: ${score}`;
+    correct++;
+    totalPhotos++;
+    updateScore();
     if (currentIndex === photos.length - 1) {
         endGame();
     } else {
@@ -35,7 +40,9 @@ function knowPerson() {
 // Function to handle when user doesn't know the person
 function dontKnowPerson() {
     score--;
-    document.getElementById('score').textContent = `Score: ${score}`;
+    totalPhotos++;
+    updateScore();
+    document.querySelector('.dont-know-button').disabled = true; // Disable the button
     // Get the name of the photo
     const photoName = photos[currentIndex].split('/').pop().split('.')[0];
 
@@ -43,6 +50,7 @@ function dontKnowPerson() {
     document.getElementById('photo-name').innerHTML = `<p>${photoName}</p>`;
     setTimeout(function() {
       if (currentIndex < photos.length - 1) {
+        document.querySelector('.dont-know-button').disabled = false; // Enable the button after 2 seconds
         displayNextPhoto();
       } else {
         endGame();
@@ -50,9 +58,14 @@ function dontKnowPerson() {
     }, 2000)
 }
 
+function updateScore() {
+    const percentage = totalPhotos === 0 ? 0 : Math.floor((correct / totalPhotos) * 100); // Round down the percentage
+    document.getElementById('score').textContent = `Score: ${score} (${percentage}%)`;
+}
+
 // Function to end the game
 function endGame() {
-    document.getElementById('photo-container').innerHTML = '<p>Thank you for playing!</p>';
+    document.getElementById('photo-container').innerHTML = '<p>Thank you for playing!</p><p>If you want your photo in this game, please send it to me at felix.leger@portagecybertech.com';
     document.getElementById('buttons').style.display = 'none';
 }
 
