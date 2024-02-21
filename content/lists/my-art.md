@@ -8,6 +8,7 @@ aliases = [
 
 | Name                      | Thumbnail                                                                                | Date       |
 |---------------------------|------------------------------------------------------------------------------------------|------------|
+| You Fall to the Level of your Systems             | {{< thumbnail src="img/art/you-fall-to-the-level-of-your-systems.png" position="center" >}}                      | 2024-02-20   |
 | Friend.             | {{< thumbnail src="img/art/friend.PNG" position="center" >}}                      | 2023-12-30   |
 | Friend?             | {{< thumbnail src="img/art/friend-qm.PNG" position="center" >}}                      | 2023-12-22   |
 | Rocks             | {{< thumbnail src="img/art/Rocks.png" position="center" >}}                      | 2023-11-25   |
@@ -80,4 +81,5 @@ aliases = [
 | Hello                     | {{< thumbnail src="img/art/Hello.png" position="center" >}}                              | 2022-02-19 |
 | Garden                    | {{< thumbnail src="img/art/Garden.png" position="center" >}}                             | 2022-02-19 |
 | Mask (shine)              | {{< thumbnail src="img/art/mask-shine.jpg" position="center" >}}                         | 2010-05-10 |
+| Gregory | {{< thumbnail src="img/art/gregory" position="center" >}}                         | 2018-02-20 |
 
