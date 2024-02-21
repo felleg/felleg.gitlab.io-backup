@@ -75,7 +75,7 @@ function updateScore() {
 
 // Function to end the game
 function endGame() {
-    document.getElementById('photo-container').innerHTML = '<p>Thank you for playing!</p><p>If you want to include your photo in this game, please send it to me at felix.leger@portagecybertech.com :)';
+    document.getElementById('photo-container').innerHTML = '<p>Thank you for playing!</p><p>If you want to include your photo in this game, please send it to me at felix@felixleger.com :)';
     document.getElementById('buttons').style.display = 'none';
 }
 
