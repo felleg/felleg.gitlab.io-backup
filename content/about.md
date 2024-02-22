@@ -14,6 +14,8 @@ Psst, if you would like to make me a gift for some reason, here are my:
 - Amazon Wishlist : https://www.amazon.ca/hz/wishlist/ls/29NYEPKMQ5E5X?ref_=wl_share
 - List of books I have read: https://felixleger.com/allreads/
 
+Buy used if possible! It's cheaper for you, more interesting for me, and better for the environment. 🙂
+
 ---
 
 This website's format is based on [Hello
