@@ -1,5 +1,5 @@
 ---
-title: "Highscores at the Office"
+title: "Arcade at the Office"
 date: 2024-02-04T21:46:30-05:00
 draft: true
 toc: false
@@ -188,6 +188,8 @@ Where good ideas come from
 (can I have a picture of a crowd at our office?)
 
 {{< figure src="/img/spin-the-wheel.png" position="center" caption="We spin the wheel every month to determine which game we'll play (should I like to my repo?)" >}}
+
+{{< youtube https://www.youtube.com/watch?v=lVyckz5FVSk >}}
 
 I'm looking forward to the day where the team, after a few
 rounds of Mortal Kombat 3, start saying these words:
