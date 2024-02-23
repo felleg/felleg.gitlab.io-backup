@@ -11,7 +11,7 @@ description: "The arcade wheel"
 # Follow these four steps
 
 1. Copy/paste the text below
-1. Visit https://spinthewheel.cc
+1. Visit https://wheelofnames.com/
 1. Paste your list
 1. Spin the wheel!
 
