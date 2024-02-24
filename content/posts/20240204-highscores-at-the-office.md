@@ -191,6 +191,12 @@ Where good ideas come from
 
 {{< youtube https://www.youtube.com/watch?v=lVyckz5FVSk >}}
 
+# Legality
+
+Arcade Archives
+
+# Conclusion
+
 I'm looking forward to the day where the team, after a few
 rounds of Mortal Kombat 3, start saying these words:
 
