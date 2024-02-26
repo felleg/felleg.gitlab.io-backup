@@ -10,10 +10,9 @@ know in a comment or via email. :smile: In the meantime, have a nice day!
 
 {{< figure src="/img/lac-travers-2022.jpeg" position="center" caption="'If this isn't nice, I don't know what is!'" >}}
 
-Psst, if you would like to make me a gift for some reason, here are my:
-- Book Wishlist : https://www.amazon.ca/hz/wishlist/ls/29NYEPKMQ5E5X
+---
 
-Buy used if possible! It's cheaper for you, more interesting for me, and better for the environment. 🙂
+Looking for gift ideas? Here is my book wishlist : https://www.amazon.ca/hz/wishlist/ls/29NYEPKMQ5E5Xu
 
 ---
 
