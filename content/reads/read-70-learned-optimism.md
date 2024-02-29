@@ -79,7 +79,9 @@ pessimistic, even sarcastic, my thoughts were. They were truly making me
 sick, and explained why so often I would choose "flight" instead of
 "fight" in periods of crisis. There was a moment of
 realization on a walk home from work where I had to stop and ponder,
-"Is this really how I'm talking to myself? This can't continue." It felt like something
+"Is this really how I'm talking to myself? This can't continue." All my
+life, I thought I was approaching life as a realist, when in fact I was
+merely a pessimist.  It felt like something
 clicked in my mind: no wonder I had so little grit for most of my life
 if I had these lingering, toxic beliefs and thoughts in the back of my
 mind.
