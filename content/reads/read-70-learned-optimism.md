@@ -1,6 +1,6 @@
 ---
 date: 2024-02-28T11:41:48-05:00
-title: "Read 70 Learned Optimism"
+title: "(Read 70) Learned Optimism"
 cover: img/reads/learned-optimism.png
 tags:
   - 'reads'
@@ -8,7 +8,6 @@ tags:
   #- 'fiction'
 aliases:
   - '/70'
-draft: true
 
 ---
 
@@ -24,7 +23,90 @@ Author: [Martin Seligman](https://en.wikipedia.org/wiki/Martin_Seligman)
 
 # Review
 
-{{< myrating rating="👍" >}}
+> The defining characteristic of pessimists is that they tend to believe
+> bad events will last a long time, will undermine everything they do,
+> and are their own fault.
+
+Are you a pessimist? How is that impacting your life? According to the
+author of this book, it's probably impacting it a lot.
+
+The foundational idea behind *Learned Optimism* is that the way we
+explain our reality is the root cause of the actions we pose and the
+choices we make in our daily lives (this reminded me of [Crucial
+Conversations](/46)). For example, if you eat a chocolate bar two weeks into
+a no-sugar-added diet, how you 
+rationalize this "failure" will massively impact the outcome. If you
+think, "I'm so weak, I can't even resist a chocolate bar. I'm pathetic,"
+you might eat that entire chocolate cake sitting in your freezer while
+watching the news. If, on the other hand, you say to yourself, "I stumbled on my
+diet, yes, and this is proof of how hard this challenge of healthy
+eating is. I have managed to reach my goals flawlessly for the past 2
+weeks. I am proud of myself. I am improving," you have far better
+chances at staying the course.
+
+According to the theory, how pessimistic a thought is can be measured on
+three dimensions: how personal, pervasive, and permanent it is. Thus,
+thinking "I never do anything right" in the face of adversity is a very
+pessimistic thought.  On the other hand, thinking "This is a great
+opportunity for learning" is very optimistic, because it is external,
+limited to the situation, and temporary.
+
+It comes without surprise that optimists lead better, fuller, healthier
+lives on average (the author has statistics to back up that claim). The
+question then becomes, how can we exercise our brain to start thinking
+differently? I believe this is where the book truly shines. The
+suggested framework is called ABCDE:
+
+- Adversity
+- Belief
+- Consequence
+- Disputation
+- Energization
+
+When you face **adversity** (e.g. someone notices a mistake you made in
+your work), your brain will react by unearthing a **belief** it holds
+deeply (e.g. "I have no idea what I'm doing."). The **consequence** will
+be an emotional state that often makes you lose control of the situation
+(e.g. "I started feeling sick and felt paralyzed, I couldn't complete my
+tasks.").
+
+The first step is to notice these dynamics happening in your head. It's
+difficult because it requires tuning in to your internal dialogue, which
+we too often learn to push aside, but it can be done. Personally, since
+starting to read this book, I paid more attention to my mental thoughts
+in the advent of adversities and I was shocked at how vividly
+pessimistic, even sarcastic, my thoughts were. They were truly making me
+sick, and explained why so often I would choose "flight" instead of
+"fight" in periods of crisis. There was a moment of
+realization on a walk home from work where I had to stop and ponder,
+"Is this really how I'm talking to myself? This can't continue." It felt like something
+clicked in my mind: no wonder I had so little grit for most of my life
+if I had these lingering, toxic beliefs and thoughts in the back of my
+mind.
+
+So I started practicing **disputation**, which involves disproving
+pessimistic thoughts by searching for evidence that suggests my
+catastrophizing thoughts were overreactions. In a sense, I began
+appreciating that reality was more complex than my initial impressions
+suggested, and made me better at accepting ambiguity. The final step,
+**energization**, comes naturally: after disputing a pessimistic
+thought, you naturally feel empowered. Fear fades away, and you feel
+like you start seeing clearly once more.
+
+If there's one quote to remember from this book, for me it is:
+
+> Adversity is just the beginning of a challenging sequence that often
+> leads to success.
+
+The book goes even further and nuances instances where pessimism might
+be better than optimism, and explains that *learned* optimism is the
+ability of choosing when to dispute our thoughts or not. The goal, as
+always, is to achieve the right balance. Still, I think you will find a
+clear path to deep mental change by simply starting to analyze your
+inner dialogue to identify how permanent, pervasive and personal your
+explanations of reality are.
+
+{{< myrating rating="👍👍" >}}
 
 ---
 
@@ -32,7 +114,7 @@ Author: [Martin Seligman](https://en.wikipedia.org/wiki/Martin_Seligman)
 
 1. (p. 4) The defining characteristic of pessimists is that they tend to
    believe bad events will last a long time, will undermine everything
-   they do, and are their own fault..
+   they do, and are their own fault.
 1. (p. 7) Our thoughts are not merely reactions to events; they change
    what ensues.
 1. (p. 7) Pessimistic prophecies are self-fulfilling.
