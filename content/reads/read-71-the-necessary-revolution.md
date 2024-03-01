@@ -48,13 +48,43 @@ Author: [Peter Senge](https://en.wikipedia.org/wiki/Peter_Senge)
     - launching into debates that merely reinforce previously held views
 1. (p. 76) :star: How we make our decisions is as important as the
    decisions themselves.
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
+1. (p. 115) The path to full integration of sustainability into the
+   organization's strategy and purpose (1 -> 2 is reactive, 3 -> 4 is
+   pro-active. The most significant jump is to move beyond stage 3):
+    1. Non-compliance
+    1. Compliance
+        - Regulatory demands / enforcement
+        - Public pressure
+    1. Beyond compliance
+        - Eco-efficiencies
+        - Regulatory threat
+        - PR crisis
+    1. Integrated strategy
+        - Business opportunities
+        - Risk management
+    1. Purpose / Mission
+        - Align with core values
+1. (p. 120) The four elements of shareholder value:
+    - (Internal-Today) Cost & risk reduction
+    - (External-Today) Regulation and legitimacy
+    - (Internal-Tomorrow) Innovation and repositioning
+    - (External-Tomorrow) Growth path and trajectory
+1. (p. 122) The Sustainable Value Framework, which goes into more
+   details than the four elements listed above:
+   [image](https://https://felx.cc/.cc/susval)
+1. (p. 132) If experimental and societal good come at the expense of a
+   company's financial performance, then it is not practicing a
+   sustainable business strategy.
+1. (p. 133) What's good for business *must* be good for the environment
+   and for people worldwide or you are not moving toward sustainable
+   growth.
+1. (p. 171) Give a man a fish and he will be fed; Teach him how to fish
+   and he will feed himself; Give him a fishing business and he will
+   overfish.
+1. (p. 184) Say your assumptions out loud (e.g. "We are assuming that
+   there will be no tax on emissions, or that if there were, airlines
+   would be exempt.") Then ask yourself, What would happen if that
+   assumption turned out to be wrong?
 1. (p. 
 1. (p. 
 1. (p. 
