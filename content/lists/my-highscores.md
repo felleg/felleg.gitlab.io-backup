@@ -30,7 +30,7 @@ Similarly, default difficulty settings were used unless stated otherwise.
 |[Carrier Air Wing](https://en.wikipedia.org/wiki/Carrier_Air_Wing_(video_game))      |1990| {{< horizontal >}}|[165,210](/img/highscores/carrier-air-wing-20210911.jpg)  | 2021-09-11   |The sequel to U.N. Squadron      |
 |[Contra](https://en.wikipedia.org/wiki/Contra_(video_game))      |1986| {{< vertical >}}|[85,700](/img/highscores/contra-20231021.jpg)  | 2023-10-21   |Arcade version|
 |[Deathsmiles](https://en.wikipedia.org/wiki/Deathsmiles)      |2007| {{< horizontal >}}|[3,515,324](/img/highscores/deathsmiles-20230717.jpg)  | 2023-07-17   | MLB Arcade, played on Steam Deck      |
-|[Dig Dug](https://en.wikipedia.org/wiki/Dig_Dug)      |1982| n/a |[12,370](/img/highscores/dig-dug-20230201.jpg)  | 2023-02-01   | |
+|[Dig Dug](https://en.wikipedia.org/wiki/Dig_Dug)      |1982| n/a |[31,280](/img/highscores/dig-dug-20230214.jpg)  | 2023-02-14   | |
 |[DoDonPachi](https://en.wikipedia.org/wiki/DoDonPachi)      |1997| {{< vertical >}}|[18,848,190](/img/highscores/dodonpachi-20220321.jpg) |2022-03-21     |International version      |
 |[DoDonPachi Dai-Jou-Jou Black Label (single-route)](https://en.wikipedia.org/wiki/DoDonPachi_DaiOuJou#Black_Label)      |2002| {{< vertical >}}|[19,127,030](/img/highscores/ddp-dojbk-20231120.jpg) |2023-11-20     |International version, played on Steam Deck   |
 |[DonPachi](https://en.wikipedia.org/wiki/DonPachi)      |1995| {{< vertical >}}|[3,972,870](/img/highscores/donpachi-20220709.jpg)   |2022-07-09   |      |
