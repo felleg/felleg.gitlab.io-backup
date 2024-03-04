@@ -1,7 +1,7 @@
 ---
 date: 2024-02-29T18:16:43-05:00
 title: "(Read 71) the Necessary Revolution"
-cover: img/reads/...
+cover: img/reads/the-necessary-revolution.png
 tags:
   - 'reads'
   - 'nonfiction'
@@ -23,6 +23,64 @@ Author: [Peter Senge](https://en.wikipedia.org/wiki/Peter_Senge)
 ---
 
 # Review
+
+This is my second book from Peter Senge, and his signature style is
+back. In *The Necessary Revolution*, he applies Systems Thinking (see
+[The Fifth Discipline](/35) and [Thinking in Systems](/39)) applies
+Systems Thinking (see [The Fifth Discipline](/35) and [Thinking in
+Systems](/39)) to the ongoing environmental crisis.
+
+As we all know, there is climate doom staring us right in the face. This
+has been the case for decades. We feel deep existential dread and
+helplessness at the same time. Reading the first chapters of this book
+brought some old painful feelings back, because it details the extent to
+which we're screwing our environment and ourselves, yet we can't help
+it. There is a knot the size of the earth that needs to be untangled
+and no one knows where to start. No one even has enough time to get
+started.
+
+I remember a phase growing up with my brother when he was dreaming of driving a
+fully electrical Hummer. This was during a phase when our schools were
+telling us about the importance of solving global warming. My brother
+was already picturing how the future electrification of vehicles would
+make something as paradoxal as an all-electrical Hummer possible. I remember vividly thinking he was nuts. This
+was around 2007, right about when this book was being written. Only 17
+years later, my brother could now go to the store and buy exactly what he
+was dreaming about.
+
+My brother wasn't crazy. He was a visionary!
+
+{{< figure src="/img/electrical-hummer.jpg" position="center" caption="En electrical Hummer" scale="50%">}}
+
+*The Necessary Revolution* was written for those among us who can't
+imagine what the future of sustainability will look like. Indeed, saving
+this planet will require tremendous collective effort, the likes of which we have never yet seen in our lifetime. However, saving the
+world won't strip everything we have away. There is a future for us
+where we can live even more plentiful lives than we currently live. But
+something first needs to change.
+
+In fact, each of us will have to change something in ourselves before we
+can start solving this problem. The question is, what is that thing?
+
+As a society, we got into this mess because of the overproduction and
+overconsumption made possible by the Industrial Age. What does it take
+to unroot such gigantic and deep-rooted forces?
+
+For a long time, companies would put the environmental blame on consumers of their
+goods. "Put it in the recycling bin after you're done eating your
+yogourt," is something you would hear anywhere. Tell me, how bad do you
+feel when your trash skips the recycling bin?
+
+We don't know how to save the environment. We feel powerless. After
+seeing [this video from Climate Town](https://www.youtube.com/watch?v=PJnJ8mK3Q3g), learning that plastic recycling was
+mostly a scam, I started throwing plastic items in the trash despite
+feeling terrible, wondering "Am I really doing the right thing?" For
+example, we know owning any type of car is worse for the environment,
+but we can difficultly picture our lives without a car.
+
+(Re-read the notes, see that the problem is seeing each other, we have
+to learn how to talk, how to build trust, ... but not generic, like
+literally how to apply this to the environment crisis.)
 
 {{< myrating rating="👍" >}}
 
