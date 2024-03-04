@@ -1,6 +1,6 @@
 ---
 date: 2024-02-29T18:16:43-05:00
-title: "(Read 71) the Necessary Revolution"
+title: "(Read 71) The Necessary Revolution"
 cover: img/reads/the-necessary-revolution.png
 tags:
   - 'reads'
@@ -8,7 +8,6 @@ tags:
   #- 'fiction'
 aliases:
   - '/71'
-draft: true
 
 ---
 
@@ -24,22 +23,23 @@ Author: [Peter Senge](https://en.wikipedia.org/wiki/Peter_Senge)
 
 # Review
 
-This is my second book from Peter Senge, and his signature style is
-back. In *The Necessary Revolution*, he applies Systems Thinking (see
-[The Fifth Discipline](/35) and [Thinking in Systems](/39)) applies
+This is the second book I read from Peter Senge, and his signature style is
+back. In *The Necessary Revolution*, he applies
 Systems Thinking (see [The Fifth Discipline](/35) and [Thinking in
 Systems](/39)) to the ongoing environmental crisis.
 
 As we all know, there is climate doom staring us right in the face. This
 has been the case for decades. We feel deep existential dread and
-helplessness at the same time. Reading the first chapters of this book
+helplessness at the same time when it comes to the future of our
+environment. Climate changes become more and more evident as time passes, whether it's
+the mild winters or the summer forest fires. Reading the first chapters of this book
 brought some old painful feelings back, because it details the extent to
-which we're screwing our environment and ourselves, yet we can't help
-it. There is a knot the size of the earth that needs to be untangled
-and no one knows where to start. No one even has enough time to get
+which we're screwing our environment and ourselves. Yet, we can't help
+it. There is a knot the size of the Earth that needs to be untangled
+and we don't know where to start. It's as if no one even has enough time to get
 started.
 
-I remember a phase growing up with my brother when he was dreaming of driving a
+I remember a period growing up with my brother when he was dreaming of driving a
 fully electrical Hummer. This was during a phase when our schools were
 telling us about the importance of solving global warming. My brother
 was already picturing how the future electrification of vehicles would
@@ -56,31 +56,88 @@ My brother wasn't crazy. He was a visionary!
 imagine what the future of sustainability will look like. Indeed, saving
 this planet will require tremendous collective effort, the likes of which we have never yet seen in our lifetime. However, saving the
 world won't strip everything we have away. There is a future for us
-where we can live even more plentiful lives than we currently live. But
-something first needs to change.
-
-In fact, each of us will have to change something in ourselves before we
+where we can live even more plentiful lives than we currently live. We
+"simply" have to identify what can be the first meaningful and
+significant step on this journey. In fact, each of us will have to change something in ourselves before we
 can start solving this problem. The question is, what is that thing?
 
 As a society, we got into this mess because of the overproduction and
-overconsumption made possible by the Industrial Age. What does it take
-to unroot such gigantic and deep-rooted forces?
+overconsumption made possible by the Industrial Age.  For a long time,
+companies would put the environmental blame on consumers of their goods.
+"Put it in the recycling bin after you're done eating your yogourt," is
+something you would hear anywhere. To this day, even after learning that
+[plastic recycling is mostly a
+scam](https://www.youtube.com/watch?v=PJnJ8mK3Q3g), I still feel
+terrible when my trash skips the recycling bin.
 
-For a long time, companies would put the environmental blame on consumers of their
-goods. "Put it in the recycling bin after you're done eating your
-yogourt," is something you would hear anywhere. Tell me, how bad do you
-feel when your trash skips the recycling bin?
+They key to solving the climate crisis perhaps lies in changing how we
+think about waste. As the old saying goes, someone's trash is someone
+else's treasure. Put another way, "There is potential value in a waste
+stream that may have never been considered before." Not only can this
+approach make your organization richer (i.e. by selling your waste instead of
+paying people to take it away), it directly reduces your environmental
+footprint.
 
-We don't know how to save the environment. We feel powerless. After
-seeing [this video from Climate Town](https://www.youtube.com/watch?v=PJnJ8mK3Q3g), learning that plastic recycling was
-mostly a scam, I started throwing plastic items in the trash despite
-feeling terrible, wondering "Am I really doing the right thing?" For
-example, we know owning any type of car is worse for the environment,
-but we can difficultly picture our lives without a car.
+Transforming waste into value is an immense challenge. It requires
+expanding the scope of our business, keeping track of what comes in
+and out of our doors, and measuring how it affects the exterior. After
+reading this book, I believe that it can't be done alone. No single
+human, team, or company can do this by themselves. We are pieces of a
+puzzle that have to connect to each other.
 
-(Re-read the notes, see that the problem is seeing each other, we have
-to learn how to talk, how to build trust, ... but not generic, like
-literally how to apply this to the environment crisis.)
+How can we connect to each other? This is the main focus of the book.
+It focuses on who should sit at the table, suggests how to approach
+certain topics, and gives examples of how companies like
+[Coca-Cola](https://www.coca-colacompany.com/) was
+able to partner with NGOs like [WWF](https://wwf.ca/) to help ensure healthy, thriving freshwater
+basins around the world.
+
+I'll be honest and say that a lot of the book flew above my head. I have
+never been in a seat where I felt like it was my responsibility to
+push the sustainability mission forward. Even as I'm writing this, I
+feel helpless to make meaningful change on that front. However, I find
+it fascinating to realize that the biggest obstacle to change is the mental
+model of the people at the top. "Your ability to foster commitment will
+never be greater than your own commitment." One particular passage in
+the book stands out to me, where a CEO sees his mental model shifting
+and realizes that he had a role to play:
+
+> He started reading about environmental issues and thinking about them,
+> until he realized: "I was running a company that was plundering the
+> earth." So instead of talking about environmental regulation and
+> compliance, he focused on his realization that "only one institution
+> was powerful enough and pervasive enough to turn these problems
+> around, it's the institution causing them in the first place:
+> Business. Industry. People like us. **Us**!
+>
+> (p. 116)
+
+Once mental models start changing, a toolbox of frameworks opens up for
+us:
+
+- The path to full integration of sustainability into the organization's
+  strategy and purpose (p. 115)
+- The four elements of shareholder value (p. 120)
+- The four factors that influence any situation (p. 173)
+- The iceberg of ways of explaining reality (p. 174)
+- How to make the current boundaries in thinking explicit (p. 184)
+- The four types of conversation (p. 253)
+- The ladder of inference (p. 255)
+- The four types of conversational action (p. 276)
+- The patterns of stuck teams (p. 279)
+
+The book is brimming with ideas to making your conversations more
+productive, *once you have all the players sitting at the table*. This
+is the part I enjoyed most in the book: while I can't know for sure that
+I'll get to turn a business around and make it both profitable and
+sustainable, these tools are useful in any problem-solving and
+idea-creating collaboration. Thus, even if, like me, you feel powerless
+when it comes to environmental issues, I still recommend you give this
+book a look. Not only might it make you more optimistic and energized
+when thinking about our collective future, but it also contains tools
+that I am convinced will help you bridge the gap between different
+perspectives and unleash enormous additional energy by aligning purpose
+and mission with the core values people hold.
 
 {{< myrating rating="👍" >}}
 
