@@ -1,4 +1,5 @@
 ---
+draft: true
 date: 2024-02-29T18:16:43-05:00
 title: "(Read 71) The Necessary Revolution"
 cover: img/reads/the-necessary-revolution.png
@@ -43,7 +44,7 @@ I remember a period growing up with my brother when he was dreaming of driving a
 fully electrical Hummer. This was during a phase when our schools were
 telling us about the importance of solving global warming. My brother
 was already picturing how the future electrification of vehicles would
-make something as paradoxal as an all-electrical Hummer possible. I remember vividly thinking he was nuts. This
+make something as paradoxical as an all-electrical Hummer possible. I remember vividly thinking he was nuts. This
 was around 2007, right about when this book was being written. Only 17
 years later, my brother could now go to the store and buy exactly what he
 was dreaming about.
@@ -100,7 +101,8 @@ it fascinating to realize that the biggest obstacle to change is the mental
 model of the people at the top. "Your ability to foster commitment will
 never be greater than your own commitment." One particular passage in
 the book stands out to me, where a CEO sees his mental model shifting
-and realizes that he had a role to play:
+and realizes that he had a role to play in both the problem and the
+solution:
 
 > He started reading about environmental issues and thinking about them,
 > until he realized: "I was running a company that was plundering the
