@@ -70,7 +70,7 @@ something you would hear anywhere. To this day, even after learning that
 scam](https://www.youtube.com/watch?v=PJnJ8mK3Q3g), I still feel
 terrible when my trash skips the recycling bin.
 
-They key to solving the climate crisis perhaps lies in changing how we
+The key to solving the climate crisis perhaps lies in changing how we
 think about waste. As the old saying goes, someone's trash is someone
 else's treasure. Put another way, "There is potential value in a waste
 stream that may have never been considered before." Not only can this
