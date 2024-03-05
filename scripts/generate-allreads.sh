@@ -49,7 +49,12 @@ for file in $(ls -r content/reads/*); do
     post_link=/reads/$(basename ${file%%.md})
 
     # Append HTML content for each book cover with adjusted image size and inferred link
-    echo "<a href=\"$post_link\"><img src=\"/$cover_path\" title=$title style=\"width: auto; max-height: 200px;\"></a>" >> "$output_file"
+    echo "<a href=\"$post_link\"><img src=\"/${cover_path%%.*}-scaled.png\" title=$title style=\"width: auto; max-height: 200px;\"></a>" >> "$output_file"
+
+    # Create a scaled image
+    scaled_path=public/${cover_path%%.*}-scaled.png
+    convert static/$cover_path -resize x200 $scaled_path
+    cp $scaled_path static/img/reads
 done
 
 # Close the HTML file
