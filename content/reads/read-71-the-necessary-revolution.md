@@ -1,5 +1,5 @@
 ---
-date: 2024-02-29T18:16:43-05:00
+date: 2024-03-04T18:16:43-05:00
 title: "(Read 71) The Necessary Revolution"
 cover: img/reads/the-necessary-revolution.png
 tags:
