@@ -53,7 +53,7 @@ for file in $(ls -r content/reads/*); do
 
     # Create a scaled image
     scaled_path=$(pwd)/public/${cover_path%%.*}-scaled.png
-    convert static/$cover_path -resize x400 $scaled_path
+    convert static/$cover_path -resize x300 $scaled_path
     ln -f -s $scaled_path static/img/reads
 done
 
