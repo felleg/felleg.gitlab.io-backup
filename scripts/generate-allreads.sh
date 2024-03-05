@@ -52,9 +52,9 @@ for file in $(ls -r content/reads/*); do
     echo "<a href=\"$post_link\"><img src=\"/${cover_path%%.*}-scaled.png\" title=$title style=\"width: auto; max-height: 200px;\"></a>" >> "$output_file"
 
     # Create a scaled image
-    scaled_path=public/${cover_path%%.*}-scaled.png
-    convert static/$cover_path -resize x200 $scaled_path
-    cp $scaled_path static/img/reads
+    scaled_path=$(pwd)/public/${cover_path%%.*}-scaled.png
+    convert static/$cover_path -resize x400 $scaled_path
+    ln -f -s $scaled_path static/img/reads
 done
 
 # Close the HTML file
