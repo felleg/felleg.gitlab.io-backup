@@ -47,6 +47,12 @@ my consumption is not harmful to myself or others, that I could "quit at
 any time" as any addict would say, I can't help but wonder, am I once
 again trading an addiction for another?
 
+According to the author, *addiction* is the continued and compulsive
+consumption of a substance or behavior (gambling, gaming, sex) despite
+its harm to self and/or others. I found it interesting to read about the
+author's own addiction with reading vampire romance novels, which shows
+that addiction and consumption are loose terms that can take many forms.
+
 This was a slightly scary read for me, because I didn't know how much of
 a light it would shed on some of my deeply rooted personal issues. Even though I'm embarrassed to write about these things and fear about
 how they might be received, I choose to do so because I want to practice
@@ -57,7 +63,13 @@ these lines:
 - "What would you be giving up if you stopped **that** behavior? What is one step you can take to change **that** behavior?" (p. 181)
 - "I am responsible." (p. 187)
 
-I am responsible for *my* well-being. I know that these substances and
+I find "I am responsible" particularly powerful, due to its double
+meaning. I am indeed responsible for the harm done to myself and those
+around me related to my addiction(s). It's my fault and my fault alone.
+On the other hand, I strive to be a different kind of responsible: I now
+want to be on top of things. I am, after all, responsible for *my* well-being. Knowing myself, I believe I have the strength to pull it off.
+
+I know that these substances and
 bad habits bring me more harm than good. Thanks to the book, I now have
 a powerful image to motivate me to do things differently:
 
