@@ -5,6 +5,7 @@ toc: false
 frontpage: "false"
 cover:
 tags:
+aliases: "/my-ffr-journey"
 ---
 
 _(Spoiler alert: I wrote this text for myself to help me learn how to stop comparing myself to others. Indeed,
