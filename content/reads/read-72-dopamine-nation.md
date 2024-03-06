@@ -33,6 +33,59 @@ most people around me. Personal examples abound:
 - my amount of time wasted on Newgrounds, YouTube, and the likes
 - my amount of time listening to Spotify and [creating playlists](/spotify)
 
+Thanks to my parents for teaching me about the importance to leave
+addictive substances alone, I have steered clear of alcohol, cigarettes
+and even coffee for most of my life, knowing that my tendency to get
+addicted to anything surely would get the best of me when it came to
+actual addictive substances. I'm far from perfect, though. Pornography
+and sex have been a struggle for most of my life, and I am only now
+beginning to learn how to live without compulsive overconsumption.
+Cannabis use is now the slippery slope I am finding myself battling
+against: I tested
+its limits, I found it a purpose in my life, and even though I believe
+my consumption is not harmful to myself or others, that I could "quit at
+any time" as any addict would say, I can't help but wonder, am I once
+again trading an addiction for another?
+
+This was a slightly scary read for me, because I didn't know how much of
+a light it would shed on some of my deeply rooted personal issues. Even though I'm embarrassed to write about these things and fear about
+how they might be received, I choose to do so because I want to practice
+one of the core ideas from *Dopamine Nation*, which is **radical
+honesty**. In particular, two quotes come to my mind mind as I write
+these lines:
+
+- "What would you be giving up if you stopped **that** behavior? What is one step you can take to change **that** behavior?" (p. 181)
+- "I am responsible." (p. 187)
+
+I am responsible for *my* well-being. I know that these substances and
+bad habits bring me more harm than good. Thanks to the book, I now have
+a powerful image to motivate me to do things differently:
+
+> Pleasure and pain work like a balance. The balance does not
+> want to be tipped for very long to one side or another. Hence, every
+> time the balance tips toward pleasure, powerful self-regulating
+> mechanisms kick into action to bring it level again. These
+> self-regulating mechanisms do not require conscious thought or an act
+> of will. They just happen, like a reflex.
+>
+> (p. 50)
+
+The goal is to find ways to press on the pain side of the balance, so
+that it can tip back into pleasure naturally. This is why going to the
+gym and exercising are now defining parts of my identity: as much as it
+hurts to work out, everything feels better afterwards.
+
+I know that abstinence is the real, long term solution to any addiction
+problem. I have done it once with pornography, and this convinces me
+that it can be done again with cannabis. What I enjoyed from my read
+was that it taught me about the power of radical honesty, with can turn
+destructive shame into prosocial shame. By being honest, we foster
+acceptance rather than isolation, because despite our individual
+uniqueness, our experiences might be more similar than we initially
+think. Fortunately for us, the warmth of this social acceptance is much
+longer lasting than any high we might come across. It's a slow burn for
+sure, but I believe it will always be worth it.
+
 {{< myrating rating="👍" >}}
 
 ---
