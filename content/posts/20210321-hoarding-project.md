@@ -5,6 +5,7 @@ toc: true
 description: "In this post, I discuss how I learned to let go of a collection that took its toll on me."
 frontpage : "true"
 tags:
+  - featured
 aliases:
   - '/selling-collection'
 ---
