@@ -8,6 +8,7 @@ tags:
   #- 'fiction'
 aliases:
   - '/72'
+draft: true
 
 ---
 
