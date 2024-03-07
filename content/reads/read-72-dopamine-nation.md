@@ -29,8 +29,8 @@ most people around me. Personal examples abound:
 - how intense [my video game collecting](/selling-collection) used to be in the past
 - how much time I spent [creating content for FlashFlashRevolution](/my-ffr-journey)
 - how quickly [my reading hobby](/allreads) suddenly took over my life
-- my amount of time wasted on Newgrounds, YouTube, and the likes
-- my amount of time listening to Spotify and [creating playlists](/spotify)
+- the amount of time I wasted on Newgrounds, YouTube, and the likes
+- the amount of time I spent listening to Spotify and [creating playlists](/spotify)
 
 Thanks to my parents for teaching me about the importance to leave
 addictive substances alone, I have steered clear of alcohol, cigarettes
@@ -41,7 +41,7 @@ and sex have been a struggle for most of my life, and I am only now
 beginning to learn how to live without compulsive overconsumption.
 Cannabis use is now the slippery slope I am finding myself battling
 against: I tested
-its limits, I found it a purpose in my life, and even though I believe
+its limits, it seems to have a positive purpose in my life, and even though I believe
 my consumption is not harmful to myself or others, that I could "quit at
 any time" as any addict would say, I can't help but wonder, am I once
 again trading an addiction for another?
@@ -49,14 +49,14 @@ again trading an addiction for another?
 According to the author, *addiction* is the continued and compulsive
 consumption of a substance or behavior (gambling, gaming, sex) despite
 its harm to self and/or others. I found it interesting to read about the
-author's own addiction with reading vampire romance novels, which shows
+author's own addiction of reading vampire romance novels, which shows
 that addiction and consumption are loose terms that can take many forms.
 
 This was a slightly scary read for me, because I didn't know how much of
 a light it would shed on some of my deeply rooted personal issues. Even though I'm embarrassed to write about these things and fear about
-how they might be received, I choose to do so because I want to practice
+how they might be received, I chose to do so because I want to practice
 one of the core ideas from *Dopamine Nation*, which is **radical
-honesty**. In particular, two quotes come to my mind mind as I write
+honesty**. In particular, two quotes come to mind mind as I write
 these lines:
 
 - "What would you be giving up if you stopped **that** behavior? What is one step you can take to change **that** behavior?" (p. 181)
