@@ -308,7 +308,7 @@ up on the majority of Analogue's products based on value alone when the MiSTer e
 Just for a fun comparison, I compiled a list of platforms supported by Analogue and by MiSTer. To guide your
 eye, I boldened and colored the name of consoles I think might interest most retronauts.
 
-{{< figure src="/img/supported-platforms-analogue-vs-mister.png" position="center">}}
+{{< figure src="/img/supported-platforms-analogue-vs-mister.png" position="center" caption="[View on Google Sheets](https://docs.google.com/spreadsheets/d/1o85cPUQ0rSAUkpwaOn8M1XjDvH8aOyQFZ-VZDOOVGQM/edit?usp=sharing)">}}
 
 As you might notice, MiSTer does a good job in general of supporting platforms that spark interest. This is
 natural: MiSTer developers work for free, so they have the luxury of working on platforms they care about. New
