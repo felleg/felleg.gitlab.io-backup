@@ -8,7 +8,6 @@ tags:
   #- 'fiction'
 aliases:
   - '/72'
-draft: true
 
 ---
 
@@ -48,7 +47,7 @@ any time" as any addict would say, I can't help but wonder, am I once
 again trading an addiction for another?
 
 According to the author, *addiction* is the continued and compulsive
-consumption of a substance or behavior (gambling, gaming, sex) despite
+consumption of a substance or behavior (gambling, gaming, sex, drugs) despite
 its harm to self and/or others. I found it interesting to read about the
 author's own addiction of reading vampire romance novels, which shows
 that addiction and consumption are loose terms that can take many forms.
@@ -57,7 +56,7 @@ This was a slightly scary read for me, because I didn't know how much of
 a light it would shed on some of my deeply rooted personal issues. Even though I'm embarrassed to write about these things and fear about
 how they might be received, I chose to do so because I want to practice
 one of the core ideas from *Dopamine Nation*, which is **radical
-honesty**. In particular, two quotes come to mind mind as I write
+honesty**. In particular, two quotes come to mind as I write
 these lines:
 
 - "What would you be giving up if you stopped **that** behavior? What is one step you can take to change **that** behavior?" (p. 181)
@@ -89,16 +88,19 @@ hurts to work out, everything feels better afterwards.
 
 I know that abstinence is the real, long term solution to any addiction
 problem. I have done it once with pornography, and this convinces me
-that it can be done again with cannabis. What I enjoyed from my read
+that it could be done again with cannabis. This read raised the question
+in my mind.
+
+What I enjoyed from my read
 was that it taught me about the power of radical honesty, with can turn
 destructive shame into prosocial shame. By being honest, we foster
 acceptance rather than isolation, because despite our individual
 uniqueness, our experiences might be more similar than we initially
 think. Fortunately for us, the warmth of this social acceptance is much
-longer lasting than any high we might come across. It's a slow burn for
-sure, but I believe it will always be worth it.
+longer lasting than any high we might come across. It's a slower burn for
+sure, but I believe it will always be worth it in the end.
 
-{{< myrating rating="👍" >}}
+{{< myrating rating="👍👍" >}}
 
 ---
 
