@@ -15,7 +15,7 @@ Release year: 2008
 
 Author: [Peter Senge](https://en.wikipedia.org/wiki/Peter_Senge)
 
-{{< mynotes link="" >}}
+{{< mynotes link="https://drive.google.com/file/d/1O09mBpKhVjfhO8pxvkO2WFq1iIXzlatg/view?usp=sharing" >}}
 
 {{< buythisbook link="https://amzn.to/3wBq3Xh" >}}
 

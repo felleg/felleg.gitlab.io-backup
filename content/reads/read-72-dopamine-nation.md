@@ -15,7 +15,7 @@ Release year: 2021
 
 Author: [Dr. Anna Lembke](https://www.annalembke.com/)
 
-{{< mynotes link="" >}}
+{{< mynotes link="https://drive.google.com/file/d/1C63U0vuUSggc8O8NtpYdnu6ZNZZ-Kfp-/view?usp=sharing" >}}
 
 {{< buythisbook link="https://amzn.to/3Tot6et" >}}
 
