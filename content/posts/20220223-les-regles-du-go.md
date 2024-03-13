@@ -1,5 +1,5 @@
 ---
-title: "Les Règles du Go (en 3 minutes)"
+title: "Les Règles du Go (en 5 minutes)"
 date: 2022-02-23T10:55:29-05:00
 toc: true
 frontpage: "true"
