@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fetch Scores</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            text-align: center;
+        }
+        table {
+            font-size: 1.2rem; /* Adjust font size as needed */
+            margin: 0 auto;
+        }
+        th, td {
+            padding: 10px;
+            border: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <h1>Fetched Scores</h1>
+    <script>
+        async function fetchScores() {
+            const response = await fetch('http://localhost:8081/api/scores', {
+                headers: { 'accept': 'application/json' }
+            });
+            if (!response.ok) {
+                throw new Error(`Error fetching scores: ${response.statusText}`);
+            }
+            const data = await response.json();
+            // Sort data by rank (ascending)
+            data.sort((a, b) => a.rank - b.rank);
+            return data;
+        }
+
+        fetchScores().then(data => {
+            const table = document.createElement('table');
+            const tableHead = document.createElement('thead');
+            const headerRow = document.createElement('tr');
+            headerRow.innerHTML = `
+                <th>Rank</th>
+                <th>Name</th>
+                <th>Score</th>
+                <th>Created At (UTC-5)</th>
+            `;
+            tableHead.appendChild(headerRow);
+            table.appendChild(tableHead);
+
+            const tableBody = document.createElement('tbody');
+            data.forEach(score => {
+                const tableRow = document.createElement('tr');
+                // Convert created date to UTC-5
+                const utc5Date = new Date(score.createdAt);
+                utc5Date.setHours(utc5Date.getHours() - 5);
+                tableRow.innerHTML = `
+                    <td>${score.rank}</td>
+                    <td>${score.name}</td>
+                    <td><a href="#">${score.value}</a></td>
+                    <td>${utc5Date.toISOString().slice(0, 19)}</td>
+                `;
+                tableBody.appendChild(tableRow);
+            });
+
+            table.appendChild(tableBody);
+            document.body.appendChild(table);
+        }).catch(error => console.error(error));
+    </script>
+</body>
+</html>
+
