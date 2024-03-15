@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Submit Score</title>
+</head>
+<body>
+    <h1>Submit Your Score</h1>
+    <form id="scoreForm">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" placeholder="Enter your name">
+        <br>
+        <label for="value">Score:</label>
+        <input type="number" id="value" name="value" placeholder="Enter your score">
+        <br>
+        <button type="submit">Submit</button>
+    </form>
+    <script>
+        const form = document.getElementById('scoreForm');
+        form.addEventListener('submit', (event) => {
+            event.preventDefault(); // Prevent default form submission
+
+            const name = document.getElementById('name').value;
+            const value = document.getElementById('value').value;
+
+            const data = {
+                name: name,
+                value: value,
+                //category: "hard" // Assuming category is always "hard" in this case
+            };
+
+            fetch('http://34.67.199.230:8081/api/scores', {
+                method: 'POST',
+                headers: {
+                    'Accept': 'application/json',
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)
+            })
+                .then(response => response.json())
+                .then(data => {
+                    console.log('Success:', data);
+                    // You can handle the response data here, like showing a success message
+                })
+                .catch((error) => {
+                    console.error('Error:', error);
+                    // You can handle errors here, like showing an error message
+                });
+        });
+    </script>
+</body>
+</html>
+
