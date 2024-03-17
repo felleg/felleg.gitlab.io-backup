@@ -32,6 +32,7 @@ cat > "$output_file" << EOF
 
     <div id="image-container" style="display: none;">
     <a href="/"><img src="/img/logo-home.png"></a><br>
+    <center>
 EOF
 
 # Loop over files in content/reads in order of creation
@@ -60,6 +61,7 @@ done
 
 # Close the HTML file
 cat >> "$output_file" << EOF
+    </center>
     </div>
 
     <script>
