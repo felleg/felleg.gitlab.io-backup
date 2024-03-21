@@ -25,14 +25,13 @@ cat > "$output_file" << EOF
     </style>
 </head>
 <body>
-    <!-- Add a container for the loading spinner -->
+    <a href="/"><img src="/img/logo-home.png"</img></a><br>
+    <!-- loading spinner -->
     <div id="loading-spinner">
         <img src="/img/loading.gif" alt="Loading...">
     </div>
 
     <div id="image-container" style="display: none;">
-    <a href="/"><img src="/img/logo-home.png"></a><br>
-    <center>
 EOF
 
 # Loop over files in content/reads in order of creation
@@ -61,7 +60,6 @@ done
 
 # Close the HTML file
 cat >> "$output_file" << EOF
-    </center>
     </div>
 
     <script>
