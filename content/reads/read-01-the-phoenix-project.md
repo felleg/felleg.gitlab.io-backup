@@ -5,6 +5,7 @@ frontpage: "true"
 cover: img/reads/the-phoenix-project.png
 tags: ['reads', 'fiction']
 aliases: ['/books/book-01-the-phoenix-project', '/1']
+author: Gene Kim
 ---
 
 Release year: 2014

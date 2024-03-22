@@ -1,6 +1,6 @@
 ---
 date: 2023-07-31
-title: (Read 41 (& 1)) The Phoenix Project
+title: (Read 41 & 1) The Phoenix Project
 frontpage: "true"
 cover: img/reads/the-phoenix-project.png
 tags: ['reads', 'fiction']
