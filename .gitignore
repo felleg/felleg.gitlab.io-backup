@@ -8,3 +8,4 @@ resources
 **/.hugo_build.lock
 **/.DS_Store
 static/img/**/*-scaled.*
+content/bookshelf.md
