@@ -1,7 +1,5 @@
 #!/bin/bash
-cd ..
-
-# Output HTML file
+# Output markdown file
 output_file="content/bookshelf.md"
 
 # Create the HTML file with a basic structure
@@ -54,4 +52,3 @@ making this display possible. :heart:
 EOF
 
 echo "Bookshelf generated."
-cd -
