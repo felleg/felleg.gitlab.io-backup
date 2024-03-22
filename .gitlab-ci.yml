@@ -5,10 +5,10 @@ variables:
 
 pages:
   script:
+  - bash scripts/generate-bookshelf.sh
   - hugo
   - apt -y update && apt -y install imagemagick
   - bash scripts/generate-allreads.sh
-  - bash scripts/generate-bookshelf.sh
   - cd static/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/
   - bash update_photo_array.sh
   - cd -

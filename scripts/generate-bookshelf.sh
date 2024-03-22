@@ -46,6 +46,11 @@ cat >> "$output_file" << EOF
 ---
 
 {{< bookshelf >}}
+
+Thanks to [@bhdicaire](bhdicaire.com),
+[@kjrstory](https://github.com/kjrstory/hugo-shortcode-bookshelf) and
+[@petargyurov](https://github.com/petargyurov/virtual-bookshelf) for
+making this display possible. :heart:
 EOF
 
 echo "Bookshelf generated."
