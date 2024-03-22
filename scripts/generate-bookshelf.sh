@@ -40,7 +40,7 @@ done
 cat >> "$output_file" << EOF
 ---
 
-[Click here for list of reviews.](/reads)
+[Click here for list view](/reads)
 
 {{< bookshelf >}}
 
