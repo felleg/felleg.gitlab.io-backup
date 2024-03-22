@@ -2,7 +2,7 @@
 date: 2023-08-30
 title: (Read 45) The Kubernetes Book
 cover: img/reads/the-kubernetes-book.png
-amzcover: img/reads/the-kubernetes-book.png
+amzcover: /img/reads/the-kubernetes-book.png
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-45-the-kubernetes-book', '/45']
 author: Nigel Poulton
