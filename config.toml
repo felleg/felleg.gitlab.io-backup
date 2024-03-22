@@ -170,8 +170,8 @@ disableHugoGeneratorInject = false
     url = "https://felleg.bandcamp.com"
 
   [[params.social]]
-    name = "reads"
-    url = "/allreads"
+    name = "bookshelf"
+    url = "/bookshelf"
 
   [[params.social]]
     name = "art"
@@ -193,6 +193,10 @@ disableHugoGeneratorInject = false
     name       = "Blog"
     url        = "posts/"
   [[menu.main]]
+    identifier = "bookshelf"
+    name       = "Bookshelf"
+    url        = "/bookshelf"
+  [[menu.main]]
     identifier = "guestbook"
     name       = "Guestbook"
     url        = "guestbook/"
@@ -200,10 +204,10 @@ disableHugoGeneratorInject = false
     identifier = "lists"
     name       = "Lists"
     url        = "lists/"
-  [[menu.main]]
-    identifier = "reads"
-    name       = "Reads"
-    url        = "reads/"
+  #[[menu.main]]
+  #  identifier = "reads"
+  #  name       = "Reads"
+  #  url        = "reads/"
   [[menu.main]]
     identifier = "tags"
     name       = "Tags"

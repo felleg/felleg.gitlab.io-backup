@@ -40,6 +40,8 @@ done
 cat >> "$output_file" << EOF
 ---
 
+[Click here for list of reviews.](/reads)
+
 {{< bookshelf >}}
 
 Thanks to [@bhdicaire](bhdicaire.com),

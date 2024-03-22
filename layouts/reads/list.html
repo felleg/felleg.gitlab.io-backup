@@ -4,9 +4,6 @@
     <main class="posts">
         <h1>{{ .Title }}</h1>
 
-        <p><a href="/allreads">Click here to view all book covers on a
-           single page</a></p>
-
         {{ if .Content }}
             <div class="content">{{ .Content }}</div>
         {{ end }}
