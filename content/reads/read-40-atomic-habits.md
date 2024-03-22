@@ -3,8 +3,10 @@ date: 2023-07-24
 title: (Read 40) Atomic Habits
 frontpage: "true"
 cover: img/reads/atomic-habits.png
+amzcover: https://m.media-amazon.com/images/I/81Ls+SBCLiL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-40-atomic-habits', '/40']
+author: James Clear
 
 ---
 

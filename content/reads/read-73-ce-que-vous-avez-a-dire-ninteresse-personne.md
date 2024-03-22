@@ -2,6 +2,7 @@
 date: 2024-03-15T16:33:36-04:00
 title: "(Lecture 73) Ce que vous avez à dire n'intéresse personne"
 cover: img/reads/ce-que-vous-avez-a-dire-ninteresse-personne.png
+amzcover: https://m.media-amazon.com/images/I/61bdPdcaKwL._SL400_.jpg
 tags:
   - 'reads'
   - 'lectures'
@@ -9,6 +10,7 @@ tags:
   #- 'fiction'
 aliases:
   - '/73'
+author: Gaëtan Namouric
 
 ---
 

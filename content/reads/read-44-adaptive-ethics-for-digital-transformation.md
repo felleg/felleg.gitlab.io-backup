@@ -3,9 +3,11 @@ date: 2023-08-16
 title: (Read 44) Adaptive Ethics for Digital Transformation
 frontpage: "true"
 cover: img/reads/adaptive-ethics-for-digital-transformation.png
+amzcover: https://m.media-amazon.com/images/I/71aF7FMH1uL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-44-adaptive-ethics-for-digital-transformation',
 '/44']
+author: Mark Schwartz
 
 ---
 

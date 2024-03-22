@@ -2,8 +2,10 @@
 date: 2023-10-03T17:07:17-04:00
 title: "(Read 49) Ansible for Devops"
 cover: img/reads/ansible-for-devops.png
+amzcover: https://m.media-amazon.com/images/I/61lbovdegiL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-49-ansible-for-devops', '/49']
+author: Jeff Geerling
 
 ---
 

@@ -3,14 +3,16 @@ date: 2023-05-08
 title: (Read 30) The Fearless Organization
 frontpage: "true"
 cover: img/reads/the-fearless-organization.png
+amzcover: https://m.media-amazon.com/images/I/716QNCYUMAL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-30-the-fearless-organization', '/30']
+author: Amy C. Edmondson
 
 ---
 
 Release year: 2018
 
-Author: [Amy C. Edmonson](https://amycedmondson.com/)
+Author: [Amy C. Edmondson](https://amycedmondson.com/)
 
 {{< buythisbook link="https://amzn.to/3OlcOjp" >}}
 

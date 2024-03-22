@@ -2,9 +2,11 @@
 date: 2024-02-19T09:42:48-05:00
 title: "(Read 69) Mindset"
 cover: img/reads/mindset.png
+amzcover: https://m.media-amazon.com/images/I/71wEDMAAnOL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases:
   - '/69'
+author: Carol S. Dweck
 
 ---
 

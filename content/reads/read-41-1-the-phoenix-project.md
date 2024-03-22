@@ -3,8 +3,10 @@ date: 2023-07-31
 title: (Read 41 & 1) The Phoenix Project
 frontpage: "true"
 cover: img/reads/the-phoenix-project.png
+amzcover: https://m.media-amazon.com/images/I/81ZMvLDtmIL._SL400_.jpg
 tags: ['reads', 'fiction']
 aliases: ['/books/book-41-1-the-phoenix-project', '/41']
+author: Gene Kim
 
 ---
 

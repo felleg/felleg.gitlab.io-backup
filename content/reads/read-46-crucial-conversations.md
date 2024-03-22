@@ -2,8 +2,10 @@
 date: 2023-09-06T13:30:45-04:00
 title: "(Read 46) Crucial Conversations"
 cover: img/reads/crucial-conversations.png
+amzcover: https://m.media-amazon.com/images/I/71oJG4ynmaL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-46-crucial-conversations', '/46']
+author: Joseph Grenny
 
 ---
 

@@ -2,12 +2,14 @@
 date: 2024-03-20T15:21:18-04:00
 title: "(Read 74) The Power of No"
 cover: img/reads/the-power-of-no.png
+amzcover: https://m.media-amazon.com/images/I/71P547-DQ2L._SL400_.jpg
 tags:
   - 'reads'
   - 'nonfiction'
   #- 'fiction'
 aliases:
   - '/74'
+author: Abbie Headon
 
 ---
 

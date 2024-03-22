@@ -2,8 +2,10 @@
 date: 2024-01-08T15:47:52-05:00
 title: "(Read 62) Principles: Life and Work"
 cover: img/reads/principles.png
+amzcover: https://m.media-amazon.com/images/I/61LKD6scbfL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-62-principles', '/62']
+author: Ray Dalio
 
 ---
 

@@ -3,8 +3,10 @@ date: 2023-05-15
 title: (Read 31) Mastery
 frontpage: "true"
 cover: img/reads/mastery.png
+amzcover: https://m.media-amazon.com/images/I/51V3121nmkL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-31-mastery', '/31']
+author: Robert Greene
 
 ---
 

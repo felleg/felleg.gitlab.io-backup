@@ -3,8 +3,10 @@ date: 2023-04-14
 title: (Read 25) Sooner Safer Happier
 frontpage: "true"
 cover: img/reads/sooner-safer-happier.png
+amzcover: https://m.media-amazon.com/images/I/81Xqulj5NeL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-25-sooner-safer-happier', '/25']
+author: Jonathan Smart et al.
 
 ---
 

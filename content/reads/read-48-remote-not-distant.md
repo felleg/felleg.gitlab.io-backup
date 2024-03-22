@@ -2,8 +2,10 @@
 date: 2023-10-03T09:30:27-04:00
 title: "(Read 48) Remote Not Distant"
 cover: img/reads/remote-not-distant.png
+amzcover: https://m.media-amazon.com/images/I/611bk4HUZ4L._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-48-remote-not-distant', '/48']
+author: Gustavo Razzetti
 
 ---
 

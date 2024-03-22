@@ -2,8 +2,10 @@
 date: 2023-10-05T17:54:03-04:00
 title: "(Read 50) Lean In"
 cover: img/reads/lean-in.png
+amzcover: https://m.media-amazon.com/images/I/71Kuj8o81jL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-50-lean-in', '/50']
+author: Sheryl Sandberg
 
 ---
 

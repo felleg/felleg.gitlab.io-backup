@@ -2,8 +2,10 @@
 date: 2023-10-13T19:33:48-04:00
 title: "(Read 51) Of Boys and Men"
 cover: img/reads/of-boys-and-men.png
+amzcover: https://m.media-amazon.com/images/I/716zn3Rb-BL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-51-of-boys-and-men', '/51']
+author: Richard Reeves
 
 ---
 

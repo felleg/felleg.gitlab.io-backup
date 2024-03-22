@@ -2,8 +2,10 @@
 date: 2023-12-17T11:29:09-05:00
 title: "(Lecture 59) L'Art du bonheur"
 cover: img/reads/l-art-du-bonheur.png
+amzcover: https://m.media-amazon.com/images/I/61t2aKIYrsL._SL400_.jpg
 tags: ['reads', 'lectures', 'nonfiction']
 aliases: ['/books/book-59-l-art-du-bonheur', '/59']
+author: Dalai-Lama & Cutler
 
 ---
 

@@ -2,12 +2,14 @@
 date: 2024-03-06T09:57:33-05:00
 title: "(Read 72) Dopamine Nation"
 cover: img/reads/dopamine-nation.png
+amzcover: https://m.media-amazon.com/images/I/91HfbGNPsKL._SL400_.jpg
 tags:
   - 'reads'
   - 'nonfiction'
   #- 'fiction'
 aliases:
   - '/72'
+author: Anna Lembke
 
 ---
 

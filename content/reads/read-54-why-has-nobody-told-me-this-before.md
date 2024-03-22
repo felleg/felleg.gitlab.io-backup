@@ -2,8 +2,10 @@
 date: 2023-11-03T09:50:11-04:00
 title: "(Read 54) Why Has Nobody Told Me This Before?"
 cover: img/reads/why-has-nobody-told-me-this-before.png
+amzcover: https://m.media-amazon.com/images/I/71dPmxwJBJL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-54-why-has-nobody-told-me-this-before', '/54']
+author: Julie Smith
 
 ---
 

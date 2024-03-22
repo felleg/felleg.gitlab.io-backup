@@ -3,9 +3,11 @@ date: 2023-01-14
 title: (Read 18) Building Successful Communities of Practice
 frontpage: "true"
 cover: img/reads/building-successful-communities.jpg
+amzcover: https://m.media-amazon.com/images/I/61XHa8vEuRL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-18-building-successful-communities-of-practice',
 '/18']
+author: Emily Webber
 
 ---
 

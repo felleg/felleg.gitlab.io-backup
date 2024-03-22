@@ -3,8 +3,11 @@ date: 2023-08-12
 title: (Read 43) When They Win, You Win
 frontpage: "true"
 cover: img/reads/when-they-win-you-win.png
+amzcover: https://m.media-amazon.com/images/I/71OjrbVDRCL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-43-when-they-win-you-win', '/43']
+author: Russ Laraway
+
 
 ---
 

@@ -3,8 +3,10 @@ date: 2023-06-05
 title: (Read 33) Unlearn
 frontpage: "true"
 cover: img/reads/unlearn.png
+amzcover: https://m.media-amazon.com/images/I/81q5kO3PhjL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-33-unlearn', '/33']
+author: Barry O' Reilly
 
 ---
 

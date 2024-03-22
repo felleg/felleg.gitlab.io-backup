@@ -3,8 +3,10 @@ date: 2022-09-01
 title: (Read 13) Continuous Delivery
 frontpage: "true"
 cover: img/reads/continuous-delivery.png
+amzcover: https://m.media-amazon.com/images/I/71sYKaNItcL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-13-continuous-delivery', '/13']
+author: Humble & Farley
 
 ---
 

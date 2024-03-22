@@ -2,8 +2,10 @@
 date: 2023-12-12T09:53:59-05:00
 title: "(Read 58) Wiring the Winning Organization"
 cover: img/reads/wiring-the-winning-organization.png
+amzcover: https://m.media-amazon.com/images/I/71kkOq4J1gL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-58-wiring-the-winning-organization', '/58']
+author: Kim & Spear
 
 ---
 

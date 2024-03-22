@@ -2,9 +2,11 @@
 date: 2024-02-07T14:52:45-05:00
 title: "(Read 67) Cultural Diversity in Organizations"
 cover: img/reads/cultural-diversity-in-organizations.png
+amzcover: https://m.media-amazon.com/images/I/51XhtnCV4NL.jpg
 tags: ['reads', 'nonfiction']
 aliases:
   - '/67'
+author: Taylor Cox, Jr.
 
 ---
 

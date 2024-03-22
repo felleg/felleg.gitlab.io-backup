@@ -2,12 +2,14 @@
 date: 2024-03-04T18:16:43-05:00
 title: "(Read 71) The Necessary Revolution"
 cover: img/reads/the-necessary-revolution.png
+amzcover: https://m.media-amazon.com/images/I/714+7o-L9EL._SL400_.jpg
 tags:
   - 'reads'
   - 'nonfiction'
   #- 'fiction'
 aliases:
   - '/71'
+author: Peter Senge
 
 ---
 

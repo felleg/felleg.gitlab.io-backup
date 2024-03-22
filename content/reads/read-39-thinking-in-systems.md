@@ -3,8 +3,10 @@ date: 2023-07-19
 title: (Read 39) Thinking in Systems
 frontpage: "true"
 cover: img/reads/thinking-in-systems.png
+amzcover: https://m.media-amazon.com/images/I/51V4oNS0BSL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-39-thinking-in-systems', '/39']
+author: Donella H. Meadows
 
 ---
 

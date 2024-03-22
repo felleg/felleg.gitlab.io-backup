@@ -3,8 +3,10 @@ date: 2023-04-04
 title: (Read 23) Psycho-Cybernetics
 frontpage: "true"
 cover: img/reads/psycho-cybernetics.png
+amzcover: https://m.media-amazon.com/images/I/61PsDMWz1ML._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-23-psycho-cybernetics', '/23']
+author: Maxwell Matlz
 
 ---
 

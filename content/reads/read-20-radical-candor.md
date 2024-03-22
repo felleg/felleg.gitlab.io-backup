@@ -3,8 +3,10 @@ date: 2023-02-28
 title: (Read 20) Radical Candor
 frontpage: "true"
 cover: img/reads/radical-candor.jpg
+amzcover: https://m.media-amazon.com/images/I/81Yd6Q6geBL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-20-radical-candor', '/20']
+author: Kim Scott
 
 ---
 

@@ -2,9 +2,11 @@
 date: 2024-01-24T08:37:19-05:00
 title: "(Read 64) The Software Engineer's Guidebook"
 cover: img/reads/the-software-engineer-s-guidebook.jpg
+amzcover: https://m.media-amazon.com/images/I/51oAA5ZfaNL._SL400_.jpg
 CoverCaption: "My copy got a little banged up... long story!"
 tags: ['reads', 'nonfiction']
 aliases: ['/64']
+author: Gergely Orosz
 
 ---
 {{< partial "mathjax_support" >}}

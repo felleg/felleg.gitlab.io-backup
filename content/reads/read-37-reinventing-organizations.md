@@ -3,8 +3,10 @@ date: 2023-07-11
 title: (Read 37) Reinventing Organizations
 frontpage: "true"
 cover: img/reads/reinventing-organizations.png
+amzcover: https://m.media-amazon.com/images/I/61vFuxqvpoL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-37-reinventing-organizations', '/37']
+author: Frédéric Laloux
 
 ---
 

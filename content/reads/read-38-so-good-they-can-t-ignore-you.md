@@ -3,8 +3,10 @@ date: 2023-07-12
 title: (Read 38) So Good They Can't Ignore You
 frontpage: "true"
 cover: img/reads/so-good-they-cant-ignore-you.png
+amzcover: https://m.media-amazon.com/images/I/81vEQ9rFgKL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-38-so-good-they-can-t-ignore-you', '/38']
+author: Cal Newport
 
 ---
 

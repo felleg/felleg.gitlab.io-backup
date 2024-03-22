@@ -2,6 +2,8 @@
 date: {{ .Date }}
 title: "{{ replace .Name "-" " " | title }}"
 cover: img/reads/...
+amzcover: 
+author: 
 tags:
   - 'reads'
   - 'nonfiction'

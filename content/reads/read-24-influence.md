@@ -3,8 +3,10 @@ date: 2023-04-07
 title: (Read 24) Influence
 frontpage: "true"
 cover: img/reads/influence.png
+amzcover: https://m.media-amazon.com/images/I/71SPjJ+UnLL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-24-influence', '/24']
+author: Robert B. Cialdini
 
 ---
 

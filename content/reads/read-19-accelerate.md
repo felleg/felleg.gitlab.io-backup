@@ -3,8 +3,10 @@ date: 2023-01-24
 title: (Read 19) Accelerate
 frontpage: "true"
 cover: img/reads/accelerate.jpg
+amzcover: https://m.media-amazon.com/images/I/71A4igyepNL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-19-accelerate', '/19']
+author: Forsgren, Humble, Kim
 
 ---
 

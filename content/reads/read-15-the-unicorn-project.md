@@ -3,8 +3,10 @@ date: 2022-10-30
 title: (Read 15) The Unicorn Project
 frontpage: "true"
 cover: img/reads/the-unicorn-project.png
+amzcover: https://m.media-amazon.com/images/I/91rEuJXeh3L._SL400_.jpg
 tags: ['reads', 'fiction']
 aliases: ['/books/book-15-the-unicorn-project', '/15']
+author: Gene Kim
 
 ---
 

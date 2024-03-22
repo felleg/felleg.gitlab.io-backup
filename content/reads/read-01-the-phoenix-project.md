@@ -3,6 +3,7 @@ date: 2019-03-02
 title: (Read 1) The Phoenix Project
 frontpage: "true"
 cover: img/reads/the-phoenix-project.png
+amzcover: https://m.media-amazon.com/images/I/81ZMvLDtmIL._SL400_.jpg
 tags: ['reads', 'fiction']
 aliases: ['/books/book-01-the-phoenix-project', '/1']
 author: Gene Kim

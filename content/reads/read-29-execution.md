@@ -3,8 +3,10 @@ date: 2023-04-28
 title: (Read 29) Execution
 frontpage: "true"
 cover: img/reads/execution.jpg
+amzcover: https://m.media-amazon.com/images/I/71Xg5STofiL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-29-execution', '/29']
+author: Bossidy and Charran
 
 ---
 

@@ -3,8 +3,10 @@ date: 2023-07-02
 title: (Read 35) The Fifth Discipline
 frontpage: "true"
 cover: img/reads/the-fifth-discipline.png
+amzcover: https://m.media-amazon.com/images/I/61ZKbQvmGLL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-35-the-fifth-discipline', '/35']
+author: Peter Senge
 
 ---
 

@@ -3,8 +3,10 @@ date: 2022-12-03
 title: (Read 16) Making Work Visible
 frontpage: "true"
 cover: img/reads/making-work-visible.jpg
+amzcover: https://m.media-amazon.com/images/I/61bSt9IVI1L._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-16-making-work-visible', '/16']
+author: Dominica DeGrande
 
 ---
 

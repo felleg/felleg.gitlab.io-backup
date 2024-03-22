@@ -3,8 +3,10 @@ date: 2023-03-07
 title: (Read 21) How to Win Friends & Influence People
 frontpage: "true"
 cover: img/reads/how-to-win-friends-and-influence-people.png
+amzcover: https://m.media-amazon.com/images/I/61GRQsD6sKL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-21-how-to-win-friends-influence-people', '/21']
+author: Dale Carnegie
 
 ---
 
@@ -12,7 +14,7 @@ Release year: 1936 (revised 1981)
 
 Author: Dale Carnegie
 
-{{< buythisbook link="ihttps://amzn.to/48RuhZ0" >}}
+{{< buythisbook link="https://amzn.to/48RuhZ0" >}}
 
 [Link to my handwritten notes](https://drive.google.com/file/d/1vERAxqfBZRaVyu_Yc1d4um5iY9wfso3w/view?usp=drive_link)
 

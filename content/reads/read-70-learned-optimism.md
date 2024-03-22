@@ -2,12 +2,14 @@
 date: 2024-02-28T11:41:48-05:00
 title: "(Read 70) Learned Optimism"
 cover: img/reads/learned-optimism.png
+amzcover: https://m.media-amazon.com/images/I/51FwanvQbHL._SL400_.jpg
 tags:
   - 'reads'
   - 'nonfiction'
   #- 'fiction'
 aliases:
   - '/70'
+author: Martin Seligman
 
 ---
 

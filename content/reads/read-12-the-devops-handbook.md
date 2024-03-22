@@ -2,9 +2,11 @@
 date: 2022-08-01
 title: (Read 12) The DevOps Handbook
 frontpage: "true"
-cover: img/reads/the-devops-handbook.png
+cover: img/finished-devops-handbook.jpg
+amzcover: https://m.media-amazon.com/images/I/819OwBruPlL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-12-the-devops-handbook', '/12']
+author: Gene Kim et al.
 
 ---
 
@@ -12,7 +14,7 @@ Release year: 2016
 
 Author: Gene Kim et al.
 
-{{< buythisbook link="https://amzn.to/3UAQoPa4" >}}
+{{< buythisbook link="https://amzn.to/4clZUMF" >}}
 
 {{< mynotes link="https://drive.google.com/file/d/1_ZIhBeoiBtYn8H_vTTaXvb49X_xEsBt_/view?usp=drive_link" >}}
 
