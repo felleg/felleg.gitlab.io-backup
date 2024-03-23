@@ -44,7 +44,7 @@ cat >> "$output_file" << EOF
 
 {{< bookshelf >}}
 
-Thanks to [@bhdicaire](bhdicaire.com),
+Thanks to [@bhdicaire](https://bhdicaire.com),
 [@kjrstory](https://github.com/kjrstory/hugo-shortcode-bookshelf) and
 [@petargyurov](https://github.com/petargyurov/virtual-bookshelf) for
 making this display possible. :heart:
