@@ -247,7 +247,7 @@ I’m looking forward to finding out.
 1. (p. 489) A root cause is not an action, but a reason.
 1. (p. 501) A good machine takes into account the fact that people are
    imperfect and make mistakes.
-1. (p. 509) Don't just pat attention to your job; pay attention to how
+1. (p. 509) Don't just pay attention to your job; pay attention to how
    your job will be done if you are no longer around.
 1. (p. 522) Success consists of going from failure to failure without
    loss of enthusiasm.
