@@ -19,5 +19,12 @@ Author: Don Miguel Ruiz
 
 # Review
 
+The four agreements are:
+
+  1. Be Impeccable With Your Word.
+  2. Don't Take Anything Personally.
+  3. Don't Make Assumptions.
+  4. Always Do Your Best.
+
 {{< myrating rating="👍" >}}
 
