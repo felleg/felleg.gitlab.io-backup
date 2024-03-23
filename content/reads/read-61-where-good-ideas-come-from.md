@@ -5,6 +5,7 @@ cover: img/reads/where-good-ideas-come-from.png
 amzcover: https://m.media-amazon.com/images/I/51x1FOsRVwL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-61-where-good-ideas-come-from', '/61']
+number: 61
 author: Steven Johnson
 
 ---

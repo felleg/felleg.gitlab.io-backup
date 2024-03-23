@@ -6,6 +6,7 @@ amzcover: https://m.media-amazon.com/images/I/51XhtnCV4NL.jpg
 tags: ['reads', 'nonfiction']
 aliases:
   - '/67'
+number: 67
 author: Taylor Cox, Jr.
 
 ---

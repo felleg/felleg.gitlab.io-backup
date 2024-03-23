@@ -11,6 +11,7 @@ tags:
 aliases:
   - '/##'
 draft: true
+number: ##
 
 ---
 

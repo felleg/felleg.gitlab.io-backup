@@ -5,6 +5,7 @@ cover: img/reads/drive.png
 amzcover: https://m.media-amazon.com/images/I/81pUH8Q8GkL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-63-drive', '/63']
+number: 63
 author: Daniel H. Pink
 
 ---

@@ -5,6 +5,7 @@ cover: img/reads/remote-not-distant.png
 amzcover: https://m.media-amazon.com/images/I/611bk4HUZ4L._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-48-remote-not-distant', '/48']
+number: 48
 author: Gustavo Razzetti
 
 ---

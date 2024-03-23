@@ -5,6 +5,7 @@ cover: img/reads/l-art-du-bonheur.png
 amzcover: https://m.media-amazon.com/images/I/61t2aKIYrsL._SL400_.jpg
 tags: ['reads', 'lectures', 'nonfiction']
 aliases: ['/books/book-59-l-art-du-bonheur', '/59']
+number: 59
 author: Dalai-Lama & Cutler
 
 ---

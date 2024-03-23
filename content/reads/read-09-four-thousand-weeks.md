@@ -7,6 +7,7 @@ amzcover: https://m.media-amazon.com/images/I/71OGR28QGtL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-09-four-thousand-weeks', '/9']
 author: Oliver Burkeman
+number: 9
 ---
 
 Release year: 2021

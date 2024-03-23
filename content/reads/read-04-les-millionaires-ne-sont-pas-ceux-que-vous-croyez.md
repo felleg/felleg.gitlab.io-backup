@@ -7,6 +7,7 @@ amzcover: https://m.media-amazon.com/images/I/61CfkVEHneL._SL400_.jpg
 tags: ['reads', 'nonfiction', 'lectures']
 aliases: ['/books/book-04-les-millionaires-ne-sont-pas-ceux-que-vous-croyez', '/4']
 author: Nicolas Bérubé
+number: 4
 ---
 
 Release year: 2019

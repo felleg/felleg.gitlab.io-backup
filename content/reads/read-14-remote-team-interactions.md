@@ -6,6 +6,7 @@ cover: img/reads/remote-team-interactions.png
 amzcover: https://m.media-amazon.com/images/I/61pRMwDSW1L._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-14-remote-team-interactions', '/14']
+number: 14
 author: Skelton & Pais
 
 ---

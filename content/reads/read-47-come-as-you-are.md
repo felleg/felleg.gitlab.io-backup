@@ -6,6 +6,7 @@ amzcover: https://m.media-amazon.com/images/I/7129vKi72mL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-47-come-as-you-are', '/47']
 author: Emily Nagoski
+number: 47
 ---
 
 Release year: 2015

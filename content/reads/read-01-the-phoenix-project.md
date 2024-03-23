@@ -7,6 +7,7 @@ amzcover: https://m.media-amazon.com/images/I/81ZMvLDtmIL._SL400_.jpg
 tags: ['reads', 'fiction']
 aliases: ['/books/book-01-the-phoenix-project', '/1']
 author: Gene Kim
+number: 1
 ---
 
 Release year: 2014

@@ -5,6 +5,7 @@ cover: img/reads/principles.png
 amzcover: https://m.media-amazon.com/images/I/61LKD6scbfL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-62-principles', '/62']
+number: 62
 author: Ray Dalio
 
 ---

@@ -6,6 +6,7 @@ amzcover: https://m.media-amazon.com/images/I/71yMtVSeeiL._SL400_.jpg
 tags: ['reads', 'lectures', 'fiction']
 aliases:
   - '/66'
+number: 66
 author: Jean-Jacques Pelletier
 
 ---

@@ -184,7 +184,7 @@
     position: absolute;
     color: goldenrod;
     bottom: 0px;
-    left: 0%; /* no idea why 20% centers it */
+    left: 30%; /* no idea why 20% centers it */
     font-size: 10px;
   }
   

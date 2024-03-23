@@ -6,6 +6,7 @@ cover: img/reads/accelerate.jpg
 amzcover: https://m.media-amazon.com/images/I/71A4igyepNL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-19-accelerate', '/19']
+number: 19
 author: Forsgren, Humble, Kim
 
 ---

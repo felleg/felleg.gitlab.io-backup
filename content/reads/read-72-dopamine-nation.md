@@ -9,6 +9,7 @@ tags:
   #- 'fiction'
 aliases:
   - '/72'
+number: 72
 author: Anna Lembke
 
 ---

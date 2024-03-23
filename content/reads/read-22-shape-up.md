@@ -6,6 +6,7 @@ cover: img/reads/shape-up.png
 amzcover: https://www.colemanm.org/images/books/singer-shape-up.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-22-shape-up', '/22']
+number: 22
 author: Ryan Singer
 
 ---

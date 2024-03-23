@@ -5,6 +5,7 @@ cover: img/reads/ansible-for-devops.png
 amzcover: https://m.media-amazon.com/images/I/61lbovdegiL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-49-ansible-for-devops', '/49']
+number: 49
 author: Jeff Geerling
 
 ---

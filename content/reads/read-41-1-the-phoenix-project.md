@@ -6,6 +6,7 @@ cover: img/reads/the-phoenix-project.png
 amzcover: https://m.media-amazon.com/images/I/81ZMvLDtmIL._SL400_.jpg
 tags: ['reads', 'fiction']
 aliases: ['/books/book-41-1-the-phoenix-project', '/41']
+number: 41 
 author: Gene Kim
 
 ---

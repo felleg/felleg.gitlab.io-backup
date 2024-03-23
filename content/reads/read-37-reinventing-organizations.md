@@ -6,6 +6,7 @@ cover: img/reads/reinventing-organizations.png
 amzcover: https://m.media-amazon.com/images/I/61vFuxqvpoL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-37-reinventing-organizations', '/37']
+number: 37
 author: Frédéric Laloux
 
 ---

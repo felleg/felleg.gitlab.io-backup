@@ -21,6 +21,7 @@ for file in $(ls -r content/reads/*); do
     title=$(grep "title:" "$file" | awk '{$1=""; print substr($0,2)}')
 
     author=$(grep "author:" "$file" | awk '{$1=""; print substr($0,2)}')
+    number=$(grep "number:" "$file" | awk '{$1=""; print substr($0,2)}')
 
     # Extract the post link from the file name (assuming YYYY-MM-DD-title.md format)
     post_link=/reads/$(basename ${file%%.md})
@@ -32,6 +33,7 @@ for file in $(ls -r content/reads/*); do
     cover_img: $cover_path
     cover_link: $post_link
     author: $author
+    number: $number
 EOF
 
 done

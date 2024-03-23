@@ -6,6 +6,7 @@ cover: img/reads/execution.jpg
 amzcover: https://m.media-amazon.com/images/I/71Xg5STofiL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-29-execution', '/29']
+number: 29
 author: Bossidy and Charran
 
 ---

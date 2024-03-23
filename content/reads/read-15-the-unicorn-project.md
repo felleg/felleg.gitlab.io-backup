@@ -6,6 +6,7 @@ cover: img/reads/the-unicorn-project.png
 amzcover: https://m.media-amazon.com/images/I/91rEuJXeh3L._SL400_.jpg
 tags: ['reads', 'fiction']
 aliases: ['/books/book-15-the-unicorn-project', '/15']
+number: 15
 author: Gene Kim
 
 ---

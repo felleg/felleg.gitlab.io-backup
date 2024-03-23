@@ -7,6 +7,7 @@ amzcover: https://m.media-amazon.com/images/I/71t4GuxLCuL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-02-the-subtle-art-of-not-giving-a-f-ck', '/2']
 author: Mark Manson
+number: 2
 ---
 
 Release year: 2016

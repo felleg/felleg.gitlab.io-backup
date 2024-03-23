@@ -5,6 +5,7 @@ cover: img/reads/the-culture-code.png
 amzcover: https://m.media-amazon.com/images/I/71xGzjUAe7L._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-53-the-culture-code', '/53']
+number: 53
 author: Daniel Coyle
 
 ---

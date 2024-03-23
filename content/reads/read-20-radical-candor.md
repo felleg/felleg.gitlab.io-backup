@@ -6,6 +6,7 @@ cover: img/reads/radical-candor.jpg
 amzcover: https://m.media-amazon.com/images/I/81Yd6Q6geBL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-20-radical-candor', '/20']
+number: 20
 author: Kim Scott
 
 ---

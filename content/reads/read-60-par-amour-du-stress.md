@@ -5,6 +5,7 @@ cover: img/reads/par-amour-du-stress.png
 amzcover: https://m.media-amazon.com/images/I/810hCYfCwjL._SL400_.jpg
 tags: ['reads', 'lectures', 'nonfiction']
 aliases: ['/books/book-60-par-amour-du-stress', '/60']
+number: 60
 author: Sonia Lupien
 
 ---

@@ -7,6 +7,7 @@ amzcover: https://m.media-amazon.com/images/I/918V14a5SML._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-03-the-four-agreements', '/3']
 author: Don Miguel Ruiz
+number: 3
 ---
 
 Release year: 1997

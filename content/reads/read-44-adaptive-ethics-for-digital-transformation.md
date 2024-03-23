@@ -7,6 +7,7 @@ amzcover: https://m.media-amazon.com/images/I/71aF7FMH1uL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-44-adaptive-ethics-for-digital-transformation',
 '/44']
+number: 44
 author: Mark Schwartz
 
 ---

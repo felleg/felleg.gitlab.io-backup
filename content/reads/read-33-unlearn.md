@@ -6,6 +6,7 @@ cover: img/reads/unlearn.png
 amzcover: https://m.media-amazon.com/images/I/81q5kO3PhjL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-33-unlearn', '/33']
+number: 33
 author: Barry O' Reilly
 
 ---

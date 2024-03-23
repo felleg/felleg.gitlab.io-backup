@@ -6,6 +6,7 @@ cover: img/finished-devops-handbook.jpg
 amzcover: https://m.media-amazon.com/images/I/819OwBruPlL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-12-the-devops-handbook', '/12']
+number: 12
 author: Gene Kim et al.
 
 ---

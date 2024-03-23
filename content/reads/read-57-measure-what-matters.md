@@ -5,6 +5,7 @@ cover: img/reads/measure-what-matters.png
 amzcover: https://m.media-amazon.com/images/I/81qiqyy-XPL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-57-measure-what-matters', '/57']
+number: 57
 author: John Doerr
 
 ---

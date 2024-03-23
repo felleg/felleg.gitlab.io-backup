@@ -5,6 +5,7 @@ cover: img/reads/the-48-laws-of-power.png
 amzcover: https://m.media-amazon.com/images/I/611X8GI7hpL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-55-the-48-laws-of-power', '/55']
+number: 55
 author: Robert Greene
 
 ---

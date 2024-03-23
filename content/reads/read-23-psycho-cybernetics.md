@@ -6,6 +6,7 @@ cover: img/reads/psycho-cybernetics.png
 amzcover: https://m.media-amazon.com/images/I/61PsDMWz1ML._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-23-psycho-cybernetics', '/23']
+number: 23
 author: Maxwell Matlz
 
 ---

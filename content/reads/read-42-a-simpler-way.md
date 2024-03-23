@@ -6,6 +6,7 @@ cover: img/reads/a-simpler-way.png
 amzcover: https://m.media-amazon.com/images/I/71WGAN-J1KL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-42-a-simpler-way', '/42']
+number: 42
 author: Wheatley & Kellner-Rogers
 
 ---

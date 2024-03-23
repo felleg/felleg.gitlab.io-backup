@@ -6,6 +6,7 @@ amzcover: https://m.media-amazon.com/images/I/71wEDMAAnOL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases:
   - '/69'
+number: 69
 author: Carol S. Dweck
 
 ---

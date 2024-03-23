@@ -6,6 +6,7 @@ amzcover: https://m.media-amazon.com/images/I/51oAA5ZfaNL._SL400_.jpg
 CoverCaption: "My copy got a little banged up... long story!"
 tags: ['reads', 'nonfiction']
 aliases: ['/64']
+number: 64
 author: Gergely Orosz
 
 ---

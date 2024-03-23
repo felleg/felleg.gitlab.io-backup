@@ -6,6 +6,7 @@ cover: img/reads/project-to-product.png
 amzcover: https://m.media-amazon.com/images/I/81dZ9NDVkuL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-17-project-to-product', '/17']
+number: 17
 author: Mik Kersten
 
 ---

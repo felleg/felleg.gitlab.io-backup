@@ -7,6 +7,7 @@ amzcover: https://m.media-amazon.com/images/I/71RMKwXVEML._SL400_.jpg
 tags: ['reads', 'nonfiction', 'lectures']
 aliases: ['/books/book-32-mon-cerveau-a-encore-besoin-de-lunettes',
 '/32']
+number: 32
 author: Annick Vincent
 
 ---

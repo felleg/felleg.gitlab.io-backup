@@ -6,6 +6,7 @@ cover: img/reads/the-fearless-organization.png
 amzcover: https://m.media-amazon.com/images/I/716QNCYUMAL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-30-the-fearless-organization', '/30']
+number: 30
 author: Amy C. Edmondson
 
 ---

@@ -5,6 +5,7 @@ cover: img/reads/le-petit-larousse-2024.jpg
 amzcover: https://m.media-amazon.com/images/I/81LuSwaxywL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-36-le-petit-larousse', '/36']
+number: 36
 author: ""
 
 ---

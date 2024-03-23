@@ -7,6 +7,7 @@ amzcover: https://m.media-amazon.com/images/I/818+06X9jfL._SL400_.jpg
 tags: ['reads', 'nonfiction', 'lectures']
 aliases: ['/books/book-27-dis-moi-qui-tu-aimes-je-te-dirai-qui-tu-es',
 '/27']
+number: 27
 author: Marc Pistorio
 
 ---

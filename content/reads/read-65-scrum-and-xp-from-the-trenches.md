@@ -5,6 +5,7 @@ cover: img/reads/scrum-and-xp-from-the-trenches.png
 amzcover: https://m.media-amazon.com/images/I/61bgGVBYHZL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/65']
+number: 65
 author: Henrik Kniberg
 
 ---

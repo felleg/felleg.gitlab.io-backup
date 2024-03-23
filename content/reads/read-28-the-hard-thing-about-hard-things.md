@@ -6,6 +6,7 @@ cover: img/reads/the-hard-thing-about-hard-things.jpg
 amzcover: https://m.media-amazon.com/images/I/810u9MkT3SL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-28-the-hard-thing-about-hard-things', '/28']
+number: 28
 author: Ben Horowitz
 
 ---

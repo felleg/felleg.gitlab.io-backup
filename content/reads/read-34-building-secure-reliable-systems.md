@@ -6,6 +6,7 @@ cover: img/reads/building-secure-and-reliable-systems.png
 amzcover: https://m.media-amazon.com/images/I/91PMqRuYpIL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-34-building-secure-reliable-systems', '/34']
+number: 34
 author: Header Adkins et al.
 
 ---

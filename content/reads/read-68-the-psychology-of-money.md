@@ -6,6 +6,7 @@ amzcover: https://m.media-amazon.com/images/I/71TRUbzcvaL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases:
   - '/68'
+number: 68
 author: Morgan Housel
 
 ---

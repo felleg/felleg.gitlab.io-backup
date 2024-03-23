@@ -7,6 +7,7 @@ amzcover: https://incisivebooktakeaways.com/wp-content/uploads/2020/08/The-Wealt
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-06-the-wealthy-barber-returns', '/6']
 author: David Chilton
+number: 6
 ---
 
 Release year: 2011

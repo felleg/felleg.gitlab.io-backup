@@ -6,6 +6,7 @@ cover: img/reads/team-topologies.png
 amzcover: https://m.media-amazon.com/images/I/71JYQSR94iL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-11-team-topologies', '/11']
+number: 11
 author: Skelton & Pais
 
 ---

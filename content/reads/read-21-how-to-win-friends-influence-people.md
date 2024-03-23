@@ -6,6 +6,7 @@ cover: img/reads/how-to-win-friends-and-influence-people.png
 amzcover: https://m.media-amazon.com/images/I/61GRQsD6sKL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-21-how-to-win-friends-influence-people', '/21']
+number: 21
 author: Dale Carnegie
 
 ---

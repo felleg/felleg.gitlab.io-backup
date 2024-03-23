@@ -7,6 +7,7 @@ amzcover: https://m.media-amazon.com/images/I/71t8MloAM9L._SL400_.jpg
 tags: ['reads', 'nonfiction', 'lectures']
 aliases: ['/books/book-08-en-as-tu-vraiment-besoin', '/8']
 author: Pierre-Yves McSween
+number: 8
 ---
 
 Release year: 2018

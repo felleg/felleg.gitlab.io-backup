@@ -7,6 +7,7 @@ amzcover: https://m.media-amazon.com/images/I/818uSIK9lwL._SL400_.jpg
 tags: ['reads', 'nonfiction']
 aliases: ['/books/book-05-millionaire-teacher', '/5']
 author: Andrew Hallam
+number: 5
 ---
 
 Release year: 2011
