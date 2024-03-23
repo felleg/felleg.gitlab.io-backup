@@ -4,6 +4,8 @@
     <main class="posts">
         <h1>{{ .Title }}</h1>
 
+        <p><a href="/bookshelf">Click here for bookshelf view</a></p>
+
         {{ if .Content }}
             <div class="content">{{ .Content }}</div>
         {{ end }}
