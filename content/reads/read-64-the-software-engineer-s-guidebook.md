@@ -48,7 +48,7 @@ forward to:
 
 The book certainly has merit, being written from an experienced engineer
 who spent a lot of time working at companies like Uber and who spent
-many years writing on the topic on his [blog](pragmaticengineer.com).
+many years writing on the topic on his [blog](https://pragmaticengineer.com).
 However, don't expect depth; its length is used to cover a multitude of
 topics connected to software engineering, not to be the ultimate
 resource for each topic. In a sense, the book is an introduction to all
