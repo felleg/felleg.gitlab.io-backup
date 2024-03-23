@@ -11,7 +11,7 @@ tags:
 
 Rules:
 - Pick an object around you.
-- Try to answer the question: "C'est quoi la vraie place où ça va ça?"
+- Try to answer the question: "C'est quoi la *vraie* place où ça va ça?"
 
 This potentially interesting solo game can be played anywhere. You may
 use it to practice your thinking.
