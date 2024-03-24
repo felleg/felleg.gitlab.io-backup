@@ -1,6 +1,10 @@
 ---
 title: "The Music Shelf"
 discshelf_item:
+  - title: Le Plein de réconfort
+    author: Marie-Ange
+    cover_img: https://f4.bcbits.com/img/a1358658995_65
+    cover_link: https://marieange.bandcamp.com/album/le-plein-de-r-confort
   - title: Caracas
     author: Felix Martin
     cover_img: https://f4.bcbits.com/img/a0833042601_10.jpg
