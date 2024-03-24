@@ -172,6 +172,9 @@ disableHugoGeneratorInject = false
   [[params.social]]
     name = "bookshelf"
     url = "/bookshelf"
+  [[params.social]]
+    name = "discshelf"
+    url = "/discshelf"
 
   [[params.social]]
     name = "art"

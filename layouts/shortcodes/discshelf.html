@@ -1,0 +1,28 @@
+{{ $js := resources.Get "js/discshelf.js" }}
+{{ $css := resources.Get "css/discshelf.css" }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}" />
+
+<script src="{{ $js.RelPermalink }}" type="module"></script>
+<div class="discshelf">
+  {{ range sort .Page.Params.discshelf_item "author" }}
+  <div class="disc">
+    <div class="side spine" style="background-color:{{ .color }};">
+      <span class="spine-title"> {{.title | truncate 30 }} </span>
+         <span class="spine-author">
+           {{ .author }}
+         </span>
+    </div>
+    <div class="side top"></div>
+    <div class="side cover"
+         style="background-image: url({{ .cover_img }}); cursor:pointer;"
+         onclick="location.href='{{ .cover_link | safeURL }}'">
+    </div>
+  </div>
+  {{ end }}
+</div>
+  <p>Thanks to <a href="https://bhdicaire.com"
+    target="_blank">@bhdicaire</a> , <a
+    href="https://github.com/kjrstory/hugo-shortcode-bookshelf"
+    target="_blank">@kjrstory</a> and <a
+    href="https://github.com/petargyurov/virtual-bookshelf"
+    target="_blank">@petargyurov</a> for making this display possible. ❤️</p>
