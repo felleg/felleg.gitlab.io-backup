@@ -1,12 +1,6 @@
 ---
 title: "The Disc Shelf"
 discshelf_item:
-<!--
-  - title: 
-    author: 
-    cover_img: 
-    cover_link: 
--->
   - title: Caracas
     author: Felix Martin
     cover_img: https://f4.bcbits.com/img/a0833042601_10.jpg
@@ -502,3 +496,9 @@ discshelf_item:
 ---
 
 {{< discshelf >}}
+<!--
+  - title: 
+    author: 
+    cover_img: 
+    cover_link: 
+-->
