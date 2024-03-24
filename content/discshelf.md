@@ -470,7 +470,7 @@ discshelf_item:
     cover_img: https://m.media-amazon.com/images/I/91Zvds0wV7L._AC_SL400_.jpg
     cover_link: https://open.spotify.com/album/3mbeMdm2SRFy4f9v4iD2jP?si=e46fa71ec9a04b1f
   - title: Close to the Edge
-    author: Yes
+    author: " Yes"
     cover_img: https://m.media-amazon.com/images/I/81t1XjtY5+L._AC_SL400_.jpg
     cover_link: https://open.spotify.com/album/6344rkGqCBDenGoS7eJlBN?si=aa3a4c930c6442c3
   - title: Depois do Fim
