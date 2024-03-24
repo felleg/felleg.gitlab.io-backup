@@ -1,6 +1,10 @@
 ---
 title: "The Music Shelf"
 discshelf_item:
+  - title: Prendre congé
+    author: Marie-Ange
+    cover_link: https://marieange.bandcamp.com/album/prendre-cong
+    cover_img: https://f4.bcbits.com/img/a3005164302_65
   - title: Le Plein de réconfort
     author: Marie-Ange
     cover_img: https://f4.bcbits.com/img/a1358658995_65
