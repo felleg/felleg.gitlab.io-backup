@@ -1,5 +1,5 @@
 ---
-title: "The Disc Shelf"
+title: "The Music Shelf"
 discshelf_item:
   - title: Caracas
     author: Felix Martin
