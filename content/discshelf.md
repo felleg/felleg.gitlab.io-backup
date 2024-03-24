@@ -1,6 +1,16 @@
 ---
 title: "The Disc Shelf"
 discshelf_item:
+<!--
+  - title: 
+    author: 
+    cover_img: 
+    cover_link: 
+-->
+  - title: Caracas
+    author: Felix Martin
+    cover_img: https://f4.bcbits.com/img/a0833042601_10.jpg
+    cover_link: https://felixmartinmusic.bandcamp.com/album/caracas
   - title: "In the Court of the Crimson King"
     cover_img: https://m.media-amazon.com/images/I/710Ir2Gfk5L._AC_SL400_.jpg
     cover_link: https://open.spotify.com/album/75ol9OP8bJaRqzGimpFHDm?si=4592d3e24ad14dd2
