@@ -3,6 +3,10 @@ title: "The Music Shelf"
 aliases:
   - /discshelf
 discshelf_item:
+  - title: CASIOPEA
+    author: CASIOPEA
+    cover_link: https://open.spotify.com/album/3uFgYgCEvCSACjB8XHl3hb
+    cover_img:  https://upload.wikimedia.org/wikipedia/en/c/ca/CasiopeaSelfTitleAlbumCover.jpg
   - title: Prendre congé
     author: Marie-Ange
     cover_link: https://marieange.bandcamp.com/album/prendre-cong
