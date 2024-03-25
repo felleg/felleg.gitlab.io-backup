@@ -168,13 +168,12 @@ disableHugoGeneratorInject = false
   [[params.social]]
     name = "bandcamp"
     url = "https://felleg.bandcamp.com"
-
+  [[params.social]]
+    name = "music"
+    url = "/music"
   [[params.social]]
     name = "bookshelf"
     url = "/bookshelf"
-  [[params.social]]
-    name = "discshelf"
-    url = "/discshelf"
 
   [[params.social]]
     name = "art"

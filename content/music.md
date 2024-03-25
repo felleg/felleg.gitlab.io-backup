@@ -1,5 +1,7 @@
 ---
 title: "The Music Shelf"
+aliases:
+  - /discshelf
 discshelf_item:
   - title: Prendre congé
     author: Marie-Ange
@@ -501,6 +503,10 @@ discshelf_item:
     author: Spock's Beard
     cover_img: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.progarchives.com%2Fprogressive_rock_discography_covers%2F320%2Fcover_25328312017_r.jpg&f=1&nofb=1&ipt=74f035a3f5727626ffaec1d62786402f5a1121b4a7c9da291e2a155c5c16d1c6&ipo=images
     cover_link: https://www.youtube.com/watch?v=KLiS6YbBecU
+  - title: Elevator Music for an Elevated Mood
+    author: Cory Wong
+    cover_img: https://f4.bcbits.com/img/a2490519478_10.jpg
+    cover_link: https://corywong.bandcamp.com/album/elevator-music-for-an-elevated-mood
 ---
 
 {{< discshelf >}}
