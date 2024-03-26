@@ -515,8 +515,8 @@ discshelf_item:
     author: Jethro Tull
     cover_img: https://upload.wikimedia.org/wikipedia/en/1/19/JethroTullAqualungalbumcover.jpg
     cover_link: https://open.spotify.com/album/0NGM3Ftwjw0dLNpAowmz3x?si=cC4dvuI0Tga8_dIrRnLUPg
-  - title: Octobre
-    author: Les Nouvelles terres
+  - title: Les Nouvelles terres
+    author: Octobre
     cover_img: http://www.progarchives.com/progressive_rock_discography_covers/2970/cover_12862072022_r.jpg
     cover_link: https://www.youtube.com/watch?v=hJ3NEzhF1eY
   - title: Vos Voisins
