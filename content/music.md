@@ -531,10 +531,10 @@ discshelf_item:
     author: Morse Code
     cover_img: https://www.progarchives.com/progressive_rock_discography_covers/1112/cover_18411942018_r.jpg
     cover_link: https://open.spotify.com/album/73FCPWHvyjbQoyQGNYEsXN?si=JSKhFsgfQhi1VrJndmn2EA
-  - title: Pollen
-    author: Pollen
-    cover_img: https://www.progarchives.com/progressive_rock_discography_covers/909/cover_92452672017_r.jpg
-    cover_link: https://open.spotify.com/album/1Pz6HZgLz1V3YV8M69i309?si=IkzZWpHHSFmGwCxX9GJMew
+  #- title: Pollen
+  #  author: Pollen
+  #  cover_img: https://www.progarchives.com/progressive_rock_discography_covers/909/cover_92452672017_r.jpg
+  #  cover_link: https://open.spotify.com/album/1Pz6HZgLz1V3YV8M69i309?si=IkzZWpHHSFmGwCxX9GJMew
   - title: Concerto Grosso per i New Trolls
     author: New Trolls
     cover_img: https://www.progarchives.com/progressive_rock_discography_covers/583/cover_5339131872017_r.jpg
