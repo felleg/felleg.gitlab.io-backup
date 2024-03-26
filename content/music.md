@@ -3,6 +3,10 @@ title: "The Music Shelf"
 aliases:
   - /discshelf
 discshelf_item:
+  - title: McCartney
+    author: Paul McCartney
+    cover_link: https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT?si=OHV1s6MXRdW8j_rm1TaQWA
+    cover_img: https://upload.wikimedia.org/wikipedia/en/3/39/Paul_McCartney_-_McCartney.jpg
   - title: CASIOPEA
     author: CASIOPEA
     cover_link: https://open.spotify.com/album/3uFgYgCEvCSACjB8XHl3hb
