@@ -515,6 +515,30 @@ discshelf_item:
     author: Jethro Tull
     cover_img: https://upload.wikimedia.org/wikipedia/en/1/19/JethroTullAqualungalbumcover.jpg
     cover_link: https://open.spotify.com/album/0NGM3Ftwjw0dLNpAowmz3x?si=cC4dvuI0Tga8_dIrRnLUPg
+  - title: Octobre
+    author: Les Nouvelles terres
+    cover_img: http://www.progarchives.com/progressive_rock_discography_covers/2970/cover_12862072022_r.jpg
+    cover_link: https://www.youtube.com/watch?v=hJ3NEzhF1eY
+  - title: Vos Voisins
+    author: Vos Voisins
+    cover_img: https://www.progarchives.com/progressive_rock_discography_covers/3798/cover_742112262020_r.jpg
+    cover_link: https://www.youtube.com/watch?v=wSQ_1h4wykE
+  - title: La Marche des hommes
+    author: Morse Code
+    cover_img: https://www.progarchives.com/progressive_rock_discography_covers/1112/cover_544710942018_r.jpg
+    cover_link: https://open.spotify.com/album/45dmVFFvaqwjZEIhNBCTUt?si=wvCqSoSFQ7uFLlywKI__9A
+  - title: Je suis le temps
+    author: Morse Code
+    cover_img: https://www.progarchives.com/progressive_rock_discography_covers/1112/cover_18411942018_r.jpg
+    cover_link: https://open.spotify.com/album/73FCPWHvyjbQoyQGNYEsXN?si=JSKhFsgfQhi1VrJndmn2EA
+  - title: Pollen
+    author: Pollen
+    cover_img: https://www.progarchives.com/progressive_rock_discography_covers/909/cover_92452672017_r.jpg
+    cover_link: https://open.spotify.com/album/1Pz6HZgLz1V3YV8M69i309?si=IkzZWpHHSFmGwCxX9GJMew
+  - title: Concerto Grosso per i New Trolls
+    author: New Trolls
+    cover_img: https://www.progarchives.com/progressive_rock_discography_covers/583/cover_5339131872017_r.jpg
+    cover_link: https://open.spotify.com/album/0mRb2LNmhOs5IkySl1IYTp?si=sYsQhGOrSHmQWrTxg0Z9vQ
 ---
 
 {{< discshelf >}}
