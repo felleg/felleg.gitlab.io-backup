@@ -511,6 +511,10 @@ discshelf_item:
     author: Cory Wong
     cover_img: https://f4.bcbits.com/img/a2490519478_10.jpg
     cover_link: https://corywong.bandcamp.com/album/elevator-music-for-an-elevated-mood
+  - title: Aqualung
+    author: Jethro Tull
+    cover_img: https://upload.wikimedia.org/wikipedia/en/1/19/JethroTullAqualungalbumcover.jpg
+    cover_link: https://open.spotify.com/album/0NGM3Ftwjw0dLNpAowmz3x?si=cC4dvuI0Tga8_dIrRnLUPg
 ---
 
 {{< discshelf >}}
