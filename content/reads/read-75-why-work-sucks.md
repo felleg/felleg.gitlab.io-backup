@@ -10,14 +10,13 @@ tags:
   #- 'fiction'
 aliases:
   - '/75'
-draft: true
 number: 75
 
 ---
 
 Release year: 2008
 
-Author: [Cali Ressler](https://www.linkedin.com/in/caliressler/) and [Jody Thompson](https://www.gorowe.com/)
+Authors: [Cali Ressler](https://www.linkedin.com/in/caliressler/) and [Jody Thompson](https://www.gorowe.com/)
 
 {{< mynotes link="https://drive.google.com/file/d/1vU9HzKtgXCHDvBp7LqnhKhFrYJu5cRlB/view?usp=drive_link" >}}
 
@@ -31,7 +30,7 @@ It has been a while since a book blew my mind as much as this one.
 
 *Why Work Sucks* in an interesting beast, being published 12 years
 before the global pandemic that revolutionized our approach to
-remote/hybrid work. It often feels funny to read passages of managers
+remote/hybrid work. It often feels funny to read passages from managers
 who feel unnerved when a desk is empty during core hours. I don't know
 about your workplace, but where I currently work, desks are generally
 empty the majority of the time, and all my work interactions happen
@@ -41,20 +40,17 @@ written does not exist anymore.
 And yet... The way we think about time at work has not changed a whole
 lot. Personally, I was shocked to realize how often I would use the
 clock to measure my success/failure and judge my peers. The book defines
-this as **sludging**. In the author's perfect world, all companies would
+this as **sludging**. In the authors' perfect world, all companies would
 be Remote-Only Work Environments (ROWEs) where Sludge is absent. Nobody
 talks about time, ever. Not one judges someone else's (lack of)
 presence, ever. As long as the work gets done and bottlenecks are fixed,
 people are encouraged to just move on with their lives.
 
-It is a utopia. The change in mentality required to make this work is so
+It is a utopia. The change in mentality required to make this work (!) is so
 deep and so vast that I won't even begin to dream about implementing
 this in my current workplace. Worse yet, Best Buy, the single company used as the
-perfect example of a ROWE in the book, has dropped ROWE in 2013.
-Ironically, the book talks about "flavor of the month" technical changes
-that fail to make the deep culture changes required to thoroughly
-implement them. I truly wonder what went down at Best Buy to erode their
-ROWE.
+perfect example of a ROWE in the book, [has dropped ROWE in
+2013](https://www.tlnt.com/articles/goodbye-rowe-best-buy-ends-flex-work-program-it-was-famous-for).
 
 What I got out of this book was not the desire to change my workplace.
 It was the desire to change the importance time has on my judgement of
