@@ -182,7 +182,7 @@
   
   .spine-author {
     position: absolute;
-    color: darkgrey;
+    color:navy;
     bottom: 0px;
     left: 0%; /* no idea why 20% centers it */
     font-size: 10px;
