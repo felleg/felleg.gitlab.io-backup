@@ -1,6 +1,6 @@
 ---
 date: 2023-10-21T10:53:08-04:00
-title: "(Read 52) What Color Is Your Parachute"
+title: "(Read 52) What Color Is Your Parachute?"
 cover: img/reads/what-color-is-your-parachute.png
 amzcover: https://m.media-amazon.com/images/I/61vKHv3PD3L._SL400_.jpg
 tags: ['reads', 'nonfiction']
