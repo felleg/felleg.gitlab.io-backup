@@ -16,7 +16,7 @@ bookshelf! Try it out for yourself [here](/bookshelf).
 Thank you Benoit Dicaire for telling me about this cool open source
 functionality. :smile:
 
-# Before (/allreads)
+# Before ([/allreads](/allreads))
 {{< figure src="/img/allreads-20240322.png" position="center" caption="" >}}
 
 # After ([/bookshelf](/bookshelf))
