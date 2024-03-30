@@ -37,7 +37,7 @@ EOF
 # Loop over files in content/reads in order of creation
 for file in $(ls -r content/reads/*); do
     # Extract the line containing "cover:"
-    covers_line=$(grep "cover:" "$file")
+    covers_line=$(grep "^cover:" "$file")
 
     # Extract the cover image path
     cover_path=$(echo "$covers_line" | awk '{print $2}')
@@ -52,10 +52,13 @@ for file in $(ls -r content/reads/*); do
     echo "<a href=\"$post_link\"><img src=\"/${cover_path%%.*}-scaled.png\" title=$title style=\"width: auto; max-height: 200px;\"></a>" >> "$output_file"
 
     # Create a scaled image
-    scaled_path=$(pwd)/public/${cover_path%%.*}-scaled.png
+    scaled_path=$(pwd)/static/${cover_path%%.*}-scaled.png
     # Source: https://stackoverflow.com/a/12329592/5565172
-    convert static/$cover_path -scale x200 -sharpen 0x1.2 -quality 95 $scaled_path
-    ln -f -s $scaled_path static/img/reads
+    #convert static/$cover_path -scale x200 -sharpen 0x1.2 -quality 95 $scaled_path
+    set -x
+    cp static/$cover_path $scaled_path
+    set +x
+    ln -f -s $scaled_path public/img/reads
 done
 
 # Close the HTML file

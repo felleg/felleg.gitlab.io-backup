@@ -44,6 +44,8 @@ cat >> "$output_file" << EOF
 
 [Click here for list view](/reads)
 
+[Click here for mosaic view](/bookmosaic)
+
 {{< bookshelf >}}
 
 Thanks to [@bhdicaire](https://bhdicaire.com),
