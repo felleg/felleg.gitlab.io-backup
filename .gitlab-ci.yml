@@ -11,7 +11,7 @@ pages:
     - bash scripts/generate-bookshelf.sh
     #- cd static/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/
     #- bash update_photo_array.sh
-    - cd -
+    #- cd -
     - hugo
 
   artifacts:
