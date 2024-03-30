@@ -111,6 +111,7 @@ colleagues and loved ones.
 1. (p. 41) The 3 signals that you're talking about the wrong thing:
     - Your emotions escalate
     - You walk away skeptical
+    - You're in a déjà vu dialogue
 1. (p. 43) The 3 levels of conversation (CPR):
     - Content
     - Pattern
