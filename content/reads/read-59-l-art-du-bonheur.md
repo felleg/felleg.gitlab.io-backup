@@ -34,7 +34,7 @@ aux notions de paix, de compassion, et bien-sûr de bonheur. Ce qui m'a
 surpris est à quel points ses enseignements semblent à première vue
 comme l'évidence-même. Prenons par exemple une de ses prises de
 conscience les plus centrales: "Le but de la vie, c'est le bonheur."
-Comme le diraient probablement certaines les gens autour de moi, "tout
+Comme le diraient probablement certaines personnes autour de moi, "tout
 le monde sait ça!" Et pourtant, plus je creusais dans ce livre,
 plus je commençais à percevoir qu'il y avait beaucoup de profondeur dans
 cette idée.
