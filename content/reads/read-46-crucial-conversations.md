@@ -98,7 +98,7 @@ colleagues and loved ones.
    organizations by measuring the lag time between when problems are
    identified & when they are resolved.
 1. (p. 6) If you fail to discuss issues you have with your boss, your
-   life partner, your neighboy, ..., they (the issues) become the lends
+   life partner, your neighbor, ..., they (the issues) become the lends
    you see the other person through.
 1. (p. 14) *The* predictor of success or failure is whether people can
    hold specific, relevant Crucial Conversations.
