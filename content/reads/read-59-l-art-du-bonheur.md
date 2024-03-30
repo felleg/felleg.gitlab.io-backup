@@ -67,7 +67,7 @@ bonheur, il est là. Y travailler, c'est un choix accessible à tous.
 # :star: Star quotes
 
 1. (p. 28) Le but de la vie, c'est le bonheur.
-1. (p. 31) "Rien que de me lever le matin, et de songer 'a ce que la
+1. (p. 31) "Rien que de me lever le matin, et de songer à ce que la
    journée va m'apporter, je suis enthousiaste. C'est l'état d'esprit,
    plus que les évènements extérieurs, qui détermine le bonheur."
 1. (p. 42) Le bonheur le plus élevé est celui que l'on atteint au stade
