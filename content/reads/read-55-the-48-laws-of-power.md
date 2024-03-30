@@ -22,7 +22,7 @@ Author: [Robert Greene](https://powerseductionandwar.com/)
 
 # Review
 
-Recently, my colleague @Pierre-Francois Saint-Marc noticed I was reading *The 48 Laws of Power* and
+Recently, my colleague Pierre-Francois noticed I was reading *The 48 Laws of Power* and
 asked me, "Are you sure you want to read something like this in public?"
 
 I totally get where his question came from. Long before the book landed
