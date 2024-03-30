@@ -54,9 +54,8 @@ for file in $(ls -r content/reads/*); do
     # Create a scaled image
     scaled_path=$(pwd)/static/${cover_path%%.*}-scaled.png
     # Source: https://stackoverflow.com/a/12329592/5565172
-    #convert static/$cover_path -scale x200 -sharpen 0x1.2 -quality 95 $scaled_path
-    cp static/$cover_path $scaled_path
-    ln -f -s $scaled_path public/img/reads
+    convert static/$cover_path -scale x200 -sharpen 0x1.2 -quality 95 $scaled_path
+    cp $scaled_path public/img/reads
 done
 
 # Close the HTML file
