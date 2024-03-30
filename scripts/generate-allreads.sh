@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Output HTML file
-mkdir -p static/allreads
-output_file="static/allreads/index.html"
+mkdir -p static/bookmosaic
+output_file="static/bookmosaic/index.html"
 
 # Create the HTML file with a basic structure
 echo "<html><head><title>All Reads</title></head><body>" > "$output_file"
