@@ -116,7 +116,7 @@ discshelf_item:
     cover_img: /img/albums/mahini-dey.jpg
     cover_link: https://open.spotify.com/album/0JO8dpHTSkyYs7XpNCT04D?si=wu0A0BJaRH-b8n4_sxL7SA
   - title: Hybris
-    author: Änglagård
+    author: Anglagård
     cover_img: https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.progarchives.com%2Fprogressive_rock_discography_covers%2F18%2Fcover_33617552016_r.jpg&f=1&nofb=1&ipt=39b23df4d5e43041e8de665d5a4d58c6ca6b6d2d563d15b728ccf81104c6738a&ipo=images
     cover_link: https://anglagard.bandcamp.com/album/hybris
   - title: Banco del Mutuo Soccorso
@@ -264,7 +264,7 @@ discshelf_item:
     cover_img: https://m.media-amazon.com/images/I/816iZJs7RSL._AC_SL400_.jpg
     cover_link: https://open.spotify.com/album/1NeJ0QqKv002iYDiOCaUOA?si=2An97IytTBihR_P6gbGLdg
   - title: J'un Oeil
-    author: Sloche
+    author: ⭐ Sloche
     cover_img: https://m.media-amazon.com/images/I/51ZMP+1d6wL._AC_.jpg
     cover_link: https://open.spotify.com/album/1xwvkReFSJLw7gY5EtSmB4?si=ddL2ubjbTOC5jhNvbkknng
   - title: Stadacone
@@ -543,12 +543,54 @@ discshelf_item:
     author: New Trolls
     cover_img: https://www.progarchives.com/progressive_rock_discography_covers/583/cover_5339131872017_r.jpg
     cover_link: https://open.spotify.com/album/0mRb2LNmhOs5IkySl1IYTp?si=sYsQhGOrSHmQWrTxg0Z9vQ
+  - title: 3:47 EST
+    author: Klaatu
+    cover_img: https://upload.wikimedia.org/wikipedia/en/0/0e/Klaatu_-_3.47_EST_cover.jpg
+    cover_link: https://www.youtube.com/watch?v=F1mhxU7UCXc
+  - title: Hope
+    author: Klaatu
+    cover_img: https://upload.wikimedia.org/wikipedia/en/8/82/HopeKlaatuAlbumCover.jpg
+    cover_link: https://www.youtube.com/watch?v=pVX9Lbv7Lfo
+  - title: Fragile
+    author: Yes
+    cover_img: https://m.media-amazon.com/images/I/818muCDUYRL._AC_SL400_.jpg
+    cover_link: https://open.spotify.com/album/0dZF93WHyOhTWjz5EWM7yG?si=00ff50f0abab4979
+  - title: Pictura de Ipse
+    author: Hubert Lenoir
+    cover_img: https://f4.bcbits.com/img/a3306618369_10.jpg
+    cover_link: https://hubertlenoir.bandcamp.com/album/pictura-de-ipse-musique-directe
+  - title: Conspiracy of Owls
+    author: Conspiracy of Owls
+    cover_img: https://f4.bcbits.com/img/a1853501541_10.jpg
+    cover_link: https://listentothego.bandcamp.com/album/conspiracy-of-owls
+  - title: NES Jams
+    author: Shnabubula
+    cover_img: https://f4.bcbits.com/img/a2761734982_10.jpg
+    cover_link: https://shnabubula.bandcamp.com/album/nes-jams
+  - title: Sleep at the Edge of the Earth
+    author: Wilderun
+    cover_img: https://f4.bcbits.com/img/a1806077540_10.jpg
+    cover_link: https://wilderun.bandcamp.com/album/sleep-at-the-edge-of-the-earth
+  - title: Olden Tales & Deathly Trails
+    author: Wilderun
+    cover_img: https://f4.bcbits.com/img/a2851523047_10.jpg
+    cover_link: https://wilderun.bandcamp.com/album/olden-tales-deathly-trails
+  - title: Live at San Pedro Square
+    author: Super Soul Bros.
+    cover_img: https://f4.bcbits.com/img/a1075314228_10.jpg
+    cover_link: https://supersoulbros.bandcamp.com/album/live-at-san-pedro-sq
+  - title: Giant Sky
+    author: GIANTSKY
+    cover_img: https://f4.bcbits.com/img/a0592472219_10.jpg
+    cover_link: https://giantskyband.bandcamp.com/album/giant-sky
 ---
-
-{{< discshelf >}}
 <!--
   - title: 
     author: 
     cover_img: 
     cover_link: 
+
+    étoile: ⭐
 -->
+
+{{< discshelf >}}
