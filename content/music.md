@@ -552,7 +552,7 @@ discshelf_item:
     cover_img: https://upload.wikimedia.org/wikipedia/en/8/82/HopeKlaatuAlbumCover.jpg
     cover_link: https://www.youtube.com/watch?v=pVX9Lbv7Lfo
   - title: Fragile
-    author: Yes
+    author: "Yes "
     cover_img: https://m.media-amazon.com/images/I/818muCDUYRL._AC_SL400_.jpg
     cover_link: https://open.spotify.com/album/0dZF93WHyOhTWjz5EWM7yG?si=00ff50f0abab4979
   - title: Pictura de Ipse
