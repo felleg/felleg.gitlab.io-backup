@@ -263,8 +263,8 @@ discshelf_item:
     author: Premiata Forneria Marconi
     cover_img: https://m.media-amazon.com/images/I/816iZJs7RSL._AC_SL400_.jpg
     cover_link: https://open.spotify.com/album/1NeJ0QqKv002iYDiOCaUOA?si=2An97IytTBihR_P6gbGLdg
-  - title: J'un Oeil
-    author: ⭐ Sloche
+  - title: ⭐ J'un Oeil
+    author: Sloche
     cover_img: https://m.media-amazon.com/images/I/51ZMP+1d6wL._AC_.jpg
     cover_link: https://open.spotify.com/album/1xwvkReFSJLw7gY5EtSmB4?si=ddL2ubjbTOC5jhNvbkknng
   - title: Stadacone
