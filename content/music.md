@@ -583,6 +583,34 @@ discshelf_item:
     author: GIANTSKY
     cover_img: https://f4.bcbits.com/img/a0592472219_10.jpg
     cover_link: https://giantskyband.bandcamp.com/album/giant-sky
+  - title: Nonagon Infinity
+    author: King Gizzard & the Lizard Wizard
+    cover_img: https://f4.bcbits.com/img/a1566708845_10.jpg
+    cover_link: https://kinggizzard.bandcamp.com/album/nonagon-infinity-2
+  - title: Day & Age
+    author: Frost*
+    cover_img: https://f4.bcbits.com/img/a1041250151_10.jpg
+    cover_link: https://insideoutmusic.bandcamp.com/album/day-and-age-deluxe-edition
+  - title: Harvest
+    author: Ciccada
+    cover_img: https://f4.bcbits.com/img/a1319727171_10.jpg
+    cover_link: https://ciccadabem.bandcamp.com/album/harvest
+  - title: Sola Scriptura
+    author: Neal Morse
+    cover_img: https://upload.wikimedia.org/wikipedia/en/e/e7/Sola_Scriptura_cover.jpg
+    cover_link: https://www.youtube.com/watch?v=Cj4kK2BPY3g
+  - title: Remember the Future
+    author: Nektar
+    cover_img: https://upload.wikimedia.org/wikipedia/en/b/bd/Nektar_-_Remember_the_Future.jpg
+    cover_link: https://open.spotify.com/album/4KbPZYYiv1SlSg5QYuEsoN
+  - title: Selling England by the Pound
+    author: Genesis
+    cover_img: https://upload.wikimedia.org/wikipedia/en/5/57/GenesisSellingEngland.jpg
+    cover_link: https://open.spotify.com/album/1rZGSWC3pMmejDwYG0ZXma
+  - title: A Trick of the Tail
+    author: Genesis
+    cover_img: https://upload.wikimedia.org/wikipedia/en/f/f1/Trick76.jpg
+    cover_link: https://open.spotify.com/album/4B84Q4vYuoTPaxmFMYlbWD
 ---
 <!--
   - title: 
