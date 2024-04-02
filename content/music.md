@@ -611,6 +611,10 @@ discshelf_item:
     author: Genesis
     cover_img: https://upload.wikimedia.org/wikipedia/en/f/f1/Trick76.jpg
     cover_link: https://open.spotify.com/album/4B84Q4vYuoTPaxmFMYlbWD
+  - title: Sylva
+    author: Snarky Puppy
+    cover_img: https://m.media-amazon.com/images/I/61rDT8hpugL._AC_SL400_.jpg
+    cover_link: https://open.spotify.com/album/5qTbvG9dUShRD7xHRlL6EO?si=YJ9rwrnZQyKKmAxqKrpNXg
 ---
 <!--
   - title: 
