@@ -147,7 +147,7 @@
     top: 30px;
     transform-style: preserve-3d;
     transform: translateZ(0) rotateY(0);
-    transition: transform 1s;
+    transition: transform 0.25s;
   }
   
   .side {
