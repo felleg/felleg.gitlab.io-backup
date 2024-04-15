@@ -13,7 +13,7 @@ description: "In this post, I discuss how I overcame learning anxiety by creatin
 ---
 
 
-*In this post, my mission is to share my progression towards dealing
+*My mission is to share my progression towards dealing
 with my own learning anxiety. I realize that writing a 7,500+ words essay on the subject is probably not the best way to grab the attention
 of people who share that anxiety, but I did my best to make this text as
 entertaining and light as possible, in
@@ -32,7 +32,7 @@ way.*
 
 ---
 
-# Thanks 
+# Thanks
 
 Thanks to Alexandre Désilets-Benoit for giving me my X.
 
@@ -54,8 +54,8 @@ I think this sums it up nicely:
 > anxiety” and “survival anxiety.” Learning anxiety comes from being
 > afraid to try something new for fear that it will be too difficult,
 > that we will look stupid in the attempt, or that we will have to part
-> from old habits that have worked for us in the past. Learning
-> something new can cast us as the deviant in the groups we belong to.
+> from old habits that have worked for us in the past. **Learning
+> something new can cast us as the deviant in the groups we belong to.**
 > It can threaten our self-esteem and, in extreme cases, even our
 > identity.*
 >
@@ -82,27 +82,27 @@ convinced that most people who suffer that condition don't realize it
 either.
 
 I knew I felt
-bad about my performance at work and had for a long time, but I couldn't
+bad about my performance at work. I had felt that for a long time, but I couldn't
 quite put my finger on why. It's not that I wasn't trying hard enough: in
 fact, I felt I was trying so hard that I was getting close to burning
 out. However, I also felt like I wasn't accomplishing as much as I should
-have, considering the amount of energy I poured daily in my work. From
+have, considering the amount of energy I was pouring daily in my work. From
 the outside, it might have looked like this:
 
 {{< figure src="/img/too-busy.jpeg" position="center" caption="" >}}
 
-A series of events (which we'll get to, I promise) eventually put me in
+A series of events eventually put me in
 survival mode, where I had two possible outcomes:
 
-- learn to adapt... 
+- learn to adapt...
 - ... or learn to let go.
 
 This led me to read a certain DevOps  handbook, which led me to write
 down these words:
 
-{{< figure src="/img/learning-anxiety-lightbulb.jpg" position="center" caption="Aha!" >}}
+{{< figure src="/img/learning-anxiety-lightbulb.jpg" position="center" caption="In the team, we want to encourage learning and help overcome learning anxiety." >}}
 
-Well, here it is. This is the moment when my mind clicked and realized I had learning
+Well, here it is. This is the moment when my mind clicked and realized **I** had learning
 anxiety. Before writing it down and seeing it with my own eyes for the first time --- "learning
 anxiety" --- this is a concept that felt somewhat alien to me. Like, it
 made sense, but then how could I claim to have learning anxiety if I had
@@ -117,31 +117,12 @@ below all those around me.
 
 What I feel is ironic is that I had to overcome learning anxiety to
 realize this was precisely the problem holding me back from learning. In
-other words, as I was writing *"help overcome learning anxiety (<- I
-have that!)"*, I hadn't realized that, precisely at that moment, I was
-beginning to heal.
+other words, as I was writing *"learning anxiety (<- **I
+have that!**)"*, I hadn't realized that, precisely at that moment, I was
+beginning to heal. Very meta...
 
 Let's back up a bit to give you better context and hopefully walk you
 through the steps taken to untangle this mental knot.
-
-# Bad news and career changes
-
-The catalyst that sent me on this whole journey was a piece of bad news
-I received from my new employer, [nesto](nesto.ca), in mid-June 2022: I was
-getting a probation extension. I wasn't quite cutting it in the
-workplace. I had 2 months to course-correct, otherwise I could kiss my
-job goodbye. Part of the problem was the fact that I had trouble
-learning new concepts and remembering important details.
-
-This is what put me into survival mode.
-
-I had never been put in that kind of situation  before, where a manager
-told me I was not pulling my own weight. I wasn't going to waste this
-opportunity  to show the world what I could do when given proper
-motivation.
-
-Let's rewind the tape even further and see how this mountain of anxiety
-all began.
 
 # The anxiety begins
 
@@ -167,7 +148,7 @@ information is a mixed bag. On one hand, it finally provides an
 explanation to  why you are  having such a difficult time  accomplishing the
 tasks you were given. This  is a big plus. *"Of course, it all makes
 sense now! I'm bad at machine learning because, deep down, I'm a DevOps!
-Change my title now, please! This will fix all my problems"*, I would say
+Yes, change my title now, please! This will fix all my problems"*, I would say
 to myself. On the other hand, it places you in front of an undodgeable
 question: *"What the heck is DevOps, anyway?"*
 
@@ -179,22 +160,22 @@ much so that my boss recommended another career change, this time into a
 field I knew absolutely nothing about. I was rightfully terrified.
 
 Not wanting to waste any time, I feverishly started Googling the most
-basic things, like "how to devops?" and "what is devops?". To give you an idea of the steepness of
+basic things, like "How to DevOps?" and "What is DevOps?". To give you an idea of the steepness of
 learning curve I was faced with, check out this great video from [TechWorld
 with Nina](https://www.youtube.com/c/TechWorldwithNana) and count how
-many times something along the lines of "you need to learn" or "you need
-to know" is said:
+many times something along the lines of "you need to learn / know /
+understand" is said:
 
 {{< youtube 9pZ2xmsSDdo >}}
 
-(I counted over 30 occurences.)
+(I counted over 30 occurrences.)
 
 Every search result required me to do at least three other searches to
 understand what basic sentences meant. For a while, it felt like I was
-surrounded by buzzwords, with no one telling me anything. Oh how I wished [Jimmy Neutron's "book gum"](https://www.youtube.com/watch?v=x1ambhfSnBA) was real!
+surrounded by buzzwords, with no one telling me anything. Oh how I wished Jimmy Neutron's "[book gum](https://www.youtube.com/watch?v=x1ambhfSnBA)" was real!
 
 This process
-lasted ~~months~~ **years**, and it was not pleasant. I felt useless. I felt ashamed. I wished I could go back in time and
+lasted years, and it was unpleasant. I felt useless. I felt ashamed. I wished I could go back in time and
 learn about agile, CI/CD, and other DevOps requirements during my
 studies instead of having filled my brain with equations of motion that I had
 no use for. In short, at 27 years old, I already felt like I had missed the boat, and with each
@@ -208,7 +189,7 @@ fall with me. I wanted them to thrive and excel at their rightfully
 chosen tasks. Ironically, I now believe this is precisely the kind of
 mindset that drives the DevOps philosophy: Do everything you can to
 maximize the value your peers can deliver. However, I was simply too discouraged
-at the time to realize this.
+at the time to realize this...
 
 In 2019, as I was going on vacation, I stumbled upon a book called *The
 Phoenix Project*, which seemed really popular in the DevOps space as an
@@ -218,7 +199,7 @@ to learn. This is going to be great fun."
 
 {{< figure src="/img/phoenix-project.png" position="center" caption="Buying a book always gives me a little dopamine rush." >}}
 
-And it was great fun indeed! There are many reasons for this, I believe. Firstly, the book
+Turns out, it was great fun indeed! There are many reasons for this, I believe. Firstly, the book
 is, of course, very well written. It wouldn't sell over 500,000 copies
 if it wasn't. Secondly, and more importantly, the fact that I was open
 to the material and didn't feel pressured to understand everything right
@@ -231,8 +212,8 @@ was ready to conquer the world. My mind was now filled with ideas I was
 excited to try. *The Phoenix Project* subtly advertised
 for another book from the same author, *The DevOps Handbook*, which
 supposedly contained everything you needed to know to propel your
-business forward as Bill had done for Parts Unlimited in the Phoenix
-Project. I felt ready for it. Bring it on!
+business forward like the protagonist of *The Phoenix
+Project*. I felt ready for it. Bring it on!
 
 
 # Conquering *The DevOps Handbook*
@@ -249,13 +230,13 @@ For example, I had trouble remembering what the [Three Ways of
 DevOps](https://itrevolution.com/articles/the-three-ways-principles-underpinning-devops/) stood for, even though they were central parts of both the
 Phoenix Project and the handbook. It felt like I was drowning in
 information. If the Phoenix Project
-managed to organically sneak in   a reasonable amount of information within the context  of  story, the DevOps Handbook proved to be too much for me. There seemed to be no time for relaxation: The handbook  simply lined the knowledge nuggets one after the other relentlessly.
+managed to organically sneak in   a reasonable amount of information within the context  of  the story, the DevOps Handbook proved to be too much for me. There seemed to be no time for relaxation: The handbook  simply lined the knowledge nuggets one after the other relentlessly.
 
 Very early on, I could feel my reading velocity diminish as I was
 reading my physical copy. I started
 reading the digital version on my Kobo to see if that could help, but I
 got the same result; Initial progress
-was quick, and then everything grinded to a halt.
+was quick, and then everything ground to a halt.
 
 Reluctantly, I shelved  the handbook both physically and digitally, feeling ashamed and
 defeated.
@@ -271,6 +252,23 @@ potential.
 
 I just didn't expect that key to be the threat  of getting the old boot!
 
+
+# Bad news and career changes
+
+In mid-June 2022, three months after joining the nesto DevOps team, I
+received unfortunate news: I was
+getting a probation extension. I wasn't quite cutting it in the
+workplace. I had trouble learning the new tools and processes required
+to become a productive teammate. New concepts and important details eluded me. I had 2 months to course-correct, otherwise I could kiss my
+job goodbye.
+
+This is what put me into **survival mode**.
+
+I had never been put in that kind of situation  before, where a manager
+told me I was not pulling my own weight. I wasn't going to waste this
+opportunity  to show the world what I could do when given proper
+motivation.
+
 ## Good fold, Bad fold
 
 So I got to work, big time. My focus in mid-June was higher than ever,
@@ -279,31 +277,38 @@ personal goals was to get through the DevOps Handbook before the end of
 my extended probation, partly to prove to myself that I could
 accomplish something for once.
 
-And I am  happy to report that I did (!!), thanks in no small  part to a neat little trick that  I am  about to show you:
+And I am  happy to report that I did (:tada:), thanks in no small  part to a neat little trick that  I am  about to show you:
 
 {{< figure src="/img/finished-devops-handbook.jpg" position="center" caption="DONE!" >}}
 
 Can you  spot it? The little detail that allowed me to read the book?
 
-Look at the spine. Do you notice how curved it is? Isn't that simply wonderful? It reminds me of  skid marks on a  race track.
+Look at the spine. Do you notice how curved it is? Isn't that simply wonderful? It reminds me of a well-loved punching bag.
 
 I guess I must explain. See, I have developed a very recent fondness for
 curved spines (at least, on books). I used to think having a book with a
-curved spine meant you weren't taking care of your stuff. As if it was folded due to negligence, from   being
-dropped and thrown around regularly.
-
-Today, I realize there are good folds, and there
+curved spine meant you weren't taking care of your stuff. I saw curved spines as if it was folded due to negligence, from   being
+dropped and thrown around regularly.  Today, I realize there are good folds, and there
 are bad folds. A bad fold is the kind of fold I described above:
 actual damage. The picture above is an example of a good fold: it is
 evidence left by someone who really put their energy into
 extracting everything there was to learn from a specific book. It's a
 subtle difference, but it means a lot!
 
-For example, if someone was standing in a gym next to their punching bag, you would probably understand that whatever damage the bag exhibits went directly into making that person stronger. A person holding a folded book is pretty much the same thing.
+For example, if someone was standing in a gym next to their punching
+bag, you would probably understand that whatever damage the bag exhibits
+went directly into making that person stronger. If you had to win a
+fight, you'd probably pick the boxer who has a seemingly unused punching
+bag in their gym.
 
-## Book Suplex  - Opening Pandora's Box
+Now look at the books in your library (if you have some!). What does
+this say about your learning habits?
 
-It was my current manager (and mentor!)
+{{< figure src="/img/punching-bags.png" position="center" caption="" >}}
+
+## Opening Pandora's Box
+
+It was my then manager (and mentor!)
 Mathieu Frenette who showed me a "tool" that I
 would be using for the rest of my life. It is a
 way of holding books that reminds us that **our goal is to learn**. I call it the book suplex, but I also give it other fun names like the inverse fold, or the broken spine grab. Here is what it looks like:
@@ -316,15 +321,17 @@ Yet, those who know, know.
 Now, you might be asking: What difference does it make to hold a book
 bent over backwards?
 
-Personally, the book suplex taught me an important
-lesson: **Books are punching bags**. If they are damaged after you are done with them, chances are it's because you showed them who's boss.
+- It's more comfortable for long periods of time
+- It's less distracting (because you see only one page at a time)
+- It leaves a mark (books are punching bags!)
 
 A book is just a bunch of pages with ink on them. It is a book's content that is valuable, i.e. what sticks in your brain after  you are done with it.  The extraction process might leave marks, but  that is secondary.
-Books are a mere tactile visual support. A suplexed book is not impacted
+Books are a mere tactile visual support. We have to stop "respecting"
+our books. A suplexed book is not impacted
 at all in its capacity to teach us something. Yet, as obvious as this
 might sound, it is a truth that eluded me for many years.
 
-(flashback)
+## Flashback
 
 About 10 years ago, I was a relatively money-poor grad student. I was relatively short on cash and keeping
 my old course manuals was not something I could afford to do. Thus, I
@@ -357,7 +364,7 @@ Is it really a coincidence that a curved book spine looks like a smile?
 
 # Creating a system of learning
 
-So, knew how to hold a book. Big whoop. This didn't
+So, I knew how to hold a book. Big whoop. This didn't
 change the fact that after reading 10 pages, I
 couldn't contain all the information I was reading. If 10 pages
 of info coming in my brain meant 10 pages of info coming out, that does not count
@@ -368,73 +375,26 @@ This time, something was different though. Folding my paperback opened
 Pandora's box. Now that I was unafraid to hurt the resell value of my book,
 a world of possibilities became accessible.
 
-## Attempt 1: Margin notes
-
-I began by writing notes in the margin that I felt would make it easier
-to understand at a glance what a page was about. The reasoning was that
-whenever I pulled the book from my shelf, I would quickly find
-information as I flipped through the pages.
-
-{{< figure src="/img/bad-margin-notes.jpg" position="center" caption="" >}}
-
-Unfortunately, that did not work. Why? Simply because I never took the
-time to go back to chapters I had already read. And this was
-supported by something my partner Gabrielle told me, as she was
-completing her PhD: **"You never want to read the same book twice"**. As a
-fan of novels, this was something I initially disagreed with. Indeed, who doesn't love going back to a book that brought them great joy?  However, I
-came to understand what her statement meant later on: Reading a book twice is
-suboptimal and a potential waste of time. What does that say about the
-first time you read that book?
-
-In short, we obviously want to learn things
-right on the first run-through, so planning on going back to the book is
-an anti-pattern. Unfortunately, I was still a slow learner...
-
-## Attempt 2: Highlighting
-
-{{< figure src="/img/highlighting.jpg" position="center" caption="Gold nuggets of knowledge!" >}}
-
-Armed with a highlighter, I had an idea: If a book is a goldmine of
-information, my highlighter will allow me to illustrate where the actual
-gold nuggets are.
-
-Indeed, not every word in a book is going to be useful information to
-*you*. It is up to you to determine what information is worth going back
-to or not. Some books will not resonate with you as much as anticipated and contain few nuggets. Some will contain so many nuggets that your highlighter will run it before you reach the end of the book. These things are hard to predict.
-
-Once again, though, I faced a problem: What good was it to highlight in
-a book if that meant I had to keep going back to the book to find these
-nuggets, or worse, re-understand the context in which that nugget made
-sense? Again, I could hear Gabrielle's wise statement in the back of my
-mind: "You never want to read the same book twice."
-
-Duh! Ok, the third time is the charm.
-
-## Attempt 3 (eureka!): Record knowledge in a journal
-
-After feeling like I was on the right path but struggling to find a
-system that works, I started searching the internet for ideas. How do
-fast learners learn? That is when I found this video from Matt Morris,
-which outlined the system eerily close to my current system of learning, and which helped me
-overcome my learning anxiety:
-
-{{< youtube _WCfaGarc4U >}}
-
-This video was life-changing.
-
-In short, Matt's strategy is the following:
+Many attempts were made before stumbling upon my learning system. We
+learn by doing. I'll
+spare you the details and leave you with the good stuff. [This video from
+Matt Morris gives you the main
+idea](https://www.youtube.com/watch?v=_WCfaGarc4U).  In short, the strategy is the following:
 
 > Material needed:
-> - Book
-> - Notebook
+> - Book to read
+> - Notebook to write
 > - Pen
 > - Highlighter
 >
 > While reading:
-> - Look for the golden nuggets of information
-> - Highlight the important bits
-> - Rewrite it into your journal
-> - Reread your journal, highlight important bits
+> - Look for the golden nuggets of information *you* find interesting
+> - Highlight these golden nuggets and nothing else
+>
+> After:
+> - Read your highlights and rewrite them into your notebook
+> - Now read your notebook. Highlight important bits in it.
+> - Rinse and repeat...
 
 The idea behind this system is simple and forces you to work  smart.
 Books do contain answers to our questions - that is why we choose to read
@@ -457,15 +417,15 @@ naturally evolved from there.
 {{< figure src="/img/rewriting.png" position="center" caption="" >}}
 
 The core idea stays roughly the same as Matt Morris' strategy outlined
-above. However, there are subtle details that make my method
-work for me:
+above. However, after doing this for a few years, I picked up some
+additional tricks that I find worth sharing:
 
 ## Make a clear distinction between "books" and "novels"
 
 My system only applies to books, which contain material from which I aim
 to learn. By my definition, books are not designed around entertainment, unlike novels.
 
-The Phoenix Project skirted that line brilliantly and I think that can
+*The Phoenix Project* skirted that line brilliantly and I think that can
 partly explain its incredible success. However, in most cases, before
 you start reading, you should already know what system of rules will
 apply by answering questions such as:
@@ -475,17 +435,8 @@ apply by answering questions such as:
   entertainment?
 - Will you search for knowledge nuggets while reading?
 
-Personally, I read books in physical form, and novels in digital form.
-
-I know, I know! I [used to say that physical books had no reason to
-exist](/posts/2020/10/i-love-e-readers/), but now my stance has softened:
-for books aimed at learning in the workplace, paper is almost
-quintessential,
-because you can physically annotate it, and then pass it along to
-your co-workers. It becomes both a trophy and a reference tool. It makes
-learning visible and tactile to everyone.
-
-{{< figure src="/img/20220807-readlist.jpg" position="center" caption="My current reading list: a book, a Go book, and a novel." >}}
+Personally, I read books in physical form, and novels in digital form,
+using my Kobo.
 
 ## Read a single book at a time
 
@@ -511,56 +462,29 @@ next one. You don't want to make commitments that you might not be able
 to complete! I strongly advise to order only a single book at a time,especially at the start of your learning journey -
 don't get carried away!
 
-{{< figure src="/img/continuous-delivery.jpg" position="center" caption="This is the next book I'm tackling. It has been on my radar for years. I finally feel ready to give it an honest try." >}}
+## Grab your book before grabbing your phone
 
-Note: Reading a Go book on the side is ok, although I recommend
-reading a single Go book at a time. :smile:
+**This tip is so important that it could be its own blog post**.
 
-## Schedule (and respect!) your book time
+The best way to progress through a book is not to allocate
+long periods of time for reading, but rather to keep your book handy at
+all times and to read a paragraph or two (or more, if you're lucky!)
+whenever you're between tasks.
 
-{{< figure src="/img/schedule-book-time.png" position="center" caption="" >}}
+Basically, any time you feel like picking up your phone to browse, pick
+your book first, and see if you can squeeze a quick paragraph or two.
+You'll be amazed by the results.
+This does require you to keep your book within reach and visible as often as
+possible.
 
-**This tip is so important that it could be its own blog post** (and it
-probably will).
+# Hardware
 
-How fast you learn is directly proportional to the amount of
-time you are ready to invest in your learning. What I'm
-starting to find out is that time is like money: Whatever amount you
-don't actively invest in yourself has a way of vanishing in mysterious ways.
-
-Personally, I try as much as possible to schedule my reading sessions in
-advance. This has multiple benefits:
-
-- I can move other events to make sure I have enough time to read
-- It reminds me of the actual quantity of efforts I put into my learning
-- It informs my partner when I am focused and need my own space
-
-If I feel like I'm learning too slowly, all I have to do is put more
-time in my schedule to read.
-
-Interestingly, this scheduling process made me realize I had much more free time  than I thought. As reading began to make me feel relaxed and empowered, it mostly replaced my other time wasters (YouTube, Reddit, Twitter, video games, complaining, ...), simply because it became a joyful, reassuring part of my day. In short, reading, i.e. learning, started to  feel like knitting. When I read, I shut out the whole world and just focus on my task, almost on auto-pilot, similar to someone watching TV. The difference is that reading (and writing!) for an hour makes me feel both powerful and calm, unlike watching Coffeezilla or the CUPodcast  on YouTube for the same  amount of time.
-
-We are all equal when it comes to time. On average, our weeks consist of
-roughly 110 awake hours, of which at least 40 are taken by our jobs. If
-we squander our weekly remaining 70 hours week after week, no wonder we
-feel like we are accomplishing nothing. These 70 hours are all we have
-in our "time tank". Life has no mercy when it comes to time, so we have
-to make sure we plan ahead in order to be able to spend our time in a
-way that is truly meaningful to us.
-
-Personally, I aim at spending at least 6 hours reading or taking notes
-weekly. It can be while in public transport, after dinner, at the
-park... When I'm washing the dishes, I try to watch videos that can help
-me learn (e.g. [Why Scaling Agile Doesn't
-Work](https://www.youtube.com/watch?v=2zYxWEZ0gYg) by Jez Humble). Any
-second I can spend learning is time well invested, especially now that I
-have a system that works for me.
-
-## Invest in a bound journal
 
 Alright, we are now getting into the tips you were probably looking for. For most of us,making a purchase is the fun, exciting part. My dopamine-hungry brain loves it when I buy stuff.
 
 So, what hardware do I recommend?
+
+## Bound journal
 
 First off, this is probably basic common-sense, but I'll make it explicit, just in
 case: Don't use a spiral-bound Hilroy notebook
@@ -575,15 +499,9 @@ Some features that I personally look for when buying a journal:
 - table of content
 - numbered pages
 
-I currently write my notes in a TRURED notebook I found at Staples
-(Bureau en Gros) which cost me $10. It was the cheapest dotted bound
-journal in the store. It didn't have all the features I listed above,
-but I worked around that easily.
-
-I also bought a Leuchtturm 1917 A5 to use
-as a personal diary and I liked its features, feel, and available
-colors, so I think the Leuchtturm will be my notebook of choice going forward.
-Moleskin gear seems slightly overpriced to me, but your mileage may vary.
+The bound journal I've been using is the [TRU RED Medium Flexible Cover
+Dotted Journal](https://www.staples.ca/products/2934243-en-tru-red-medium-flexible-cover-dotted-journal-black)
+from Staples.
 
 {{< figure src="/img/use-bound-journals.png" position="center" caption="" >}}
 
@@ -592,7 +510,7 @@ easily fold back the notebook and stay opened flat on a table. If you do
 invest in a spiral-notebook, at least make sure it is high quality.
 
 
-## Use a grid or dotted journal
+### Use a grid or dotted journal
 
 This allows better horizontal alignment of information for writing
 lists. It makes my messy handwriting look less messy. Personally, I am
@@ -601,7 +519,7 @@ grid without being as visually distracting.
 
 {{< figure src="/img/dotted-journal.jpg" position="center" caption="" >}}
 
-## Number your pages
+### Number your pages
 
 If your notebook doesn't have page numbers already (most don't), I
 strongly recommend that you number your pages yourself. This is
@@ -609,80 +527,44 @@ invaluable to allow you to reference your notes later on. It is such an
 integral part of my system that I initially forgot to list it here! This
 is a quality of life upgrade that is too obvious to live without.
 
-## Take the time to shop for pens and highlighters
+### Make your own margins!
 
-Story time, as this is a subject that is near and dear to my heart.
+For most of my life, I assumed the margin was meant for graders to
+review your work and comment on their corrections. Well, news flash: the
+margin is for everybody!
 
-For the longest time, I did not care about the writing
-material I used. I was perfectly content with whatever pen I'd find on
-the ground or have given to me by my family, my friends, or my workplace.
+It's a shame that most quality notebooks that I know of don't have
+margins. Use this to your advantage: make your margins as wide or as
+thin as you need.
 
-What I didn't realize is that there is no one-size-fits-all pen. What
-works for you might not work for me, and vice versa.
+{{< figure src="/img/margins.jpg" position="center" caption="" >}}
 
-For example, the first pen I bought with the intent of upgrading my writing experience was  a Pilot G-2 07. I was tired of
-the worthless pens I was using at home for journaling and taking notes.
-I just went to the pharmacy and grabbed whatever black pen looked good
-in the Pilot display at my local pharmacy. I felt like Pilot was a brand that earned my trust over the years.
+In my notes, sometimes I write questions or things that will need
+further updates. The margins is the perfect place to put such updates.
+Of course, not all of your notes will require a margin note, but that's
+a good thing: it leaves you with more room for the notes that truly need
+commenting later on.
 
-Luckily, the Pilot G-2 was
-definitely a step up from the pen I was previously using:
-- Deep dark ink
-- Effortless glide
-- Satisfying clicky button
 
-But it also had cons:
-- Empties quickly
-- Smears!!
+## Pens and highlighters
 
-{{< figure src="/img/smear.jpg" position="center" caption="Smears! I hate smears." >}}
+Take the time to really search for a pen that makes writing a joyful
+experience for *you*.
 
-Being left-handed definitely didn't help with smears. Thus, the search
-for my pen of choice began, a pen that, no matter what type of paper I
-chose, would not let me down and would not definitely not smear.
-
-Online searches seemed to center on three candidates:
-- Pilot G-2 07 (which I already knew was not for me)
-- Paper Mate InkJoy
-- Bic Cristal
-
-I went to my local pharmacy and saw bags of Paper Mate InkJoys and Bic
-Cristals, similarly priced at 10 pens for $3. "Screw it", I said, and I
-bought both. That is the best $6 investment I have ever made.
-
-I proceeded to write an entry in my personal diary to test the pens.
-After a couple pages, the results were in: The Bic Cristal ticked all the
-boxes for me. Although its ink was paler than I would have liked, it
-was easy to push on paper, had a comfortable hexagonal barrel, and most
-importantly, **did not smear**.
-
-Amusingly, the Bic Cristal is the most cheaply priced pen out of all the
-options I tried. The best tools are not necessarily going to be the most expensive, but you will
-never find the right tool for you unless you go out, search different
-options and compare them yourself. Don't cheap out on
-this step - these are your learning tools. Invest the time required to
-find the pen and highlighter that makes writing a joyful experience for
-you.
-
-Thus, if you're looking for recommendations, mine are:
+If you're looking for recommendations, mine are:
 - Pen: Bic Cristal (black or blue)
-- Highlighter: Bic Brite-liner Grip
+- Highlighter: Something basic and colorful, like [those sold at Staples](https://www.staples.ca/products/496808-en-chisel-tip-tank-style-highlighters-yellow-20-pack)
 
-{{< figure src="/img/bic-cristal-and-brite-liner.jpg" position="center" caption="So, am I a good [pen seller](https://www.youtube.com/watch?v=9UspZGJ-TrI)? ;)" >}}
+Why?
 
-Note: This process led me to learn about the history of the ballpoint
-pen, which was a fascinating read.
+- They are cheap, easy to find and reliable
+- The Bic Cristal does not smear (I'm left handed)
+- The highlighter has lots of ink and lasts a long time
 
-Note 2: I stumbled upon [this video about the Bic Cristal from Joe Van
-Cleave](https://www.youtube.com/watch?v=kuIkTRf8UFc) who, like me, is
-enamoured with his Bic pens. This is what we're aiming for: finding the
-tools that genuinely make us excited to get to work to use them.
-
-Note 3: Interestingly, for drawing on human skin, the Paper Mate InkJoy
-is surprisingly hard to beat. I will not be answering questions.
+{{< figure scale="400px" src="/img/bic-cristal-and-highlighter.jpg" position="center" caption="So, am I a good [pen seller](https://www.youtube.com/watch?v=9UspZGJ-TrI)? ;)" >}}
 
 
-## Have a ruler handy
+## Ruler
 
 This allows you to make nice lines, for tables or underlines. Any cheap
 15 cm ruler will do. It makes your journal more pleasing to read, which
@@ -693,53 +575,7 @@ The best storage place I found for my ruler is directly in my notebook. The book
 
 {{< figure src="/img/ruler.jpg" position="center" caption="" >}}
 
-## ~~Leave some gaps to allow for future corrections and details~~
-
-~~Few things are as powerful as going back and fixing or adding more oomph
-to a previous note.~~
-
-~~I try to always leave roughly two empty lines around each knowledge
-nugget in case I ever need to come back and add corrections or related
-ideas/references. Sometimes, even that feels too cramped. Be generous
-with your future self, if you can afford the "wasted" space. (See [photo above](/img/ruler.jpg))~~
-
-## Make your own margins!
-
-
-For most of my life, I assumed the margin was meant for graders to
-review your work and comment on their corrections. Well, news flash: the
-margin is for everybody!
-
-As you can see from the struckthrough tip above, my system is constantly
-evolving. Leaving two empty lines between each note is a passable trick,
-but it still feels a little cramped. The best use of space is to use
-margins.
-
-It's a shame that most quality notebooks that I know of don't have
-margins. Use this to your advantage: make your margins as wide or as
-thin as you need.
-
-{{< figure src="/img/margins.jpg" position="center" caption="" >}}
-
-Ironically, I rediscovered the usefulness of margins after using a
-Hilroy notebook to take notes during a day of work (I had forgotten my
-workbook at home).
-
-{{< figure src="/img/margin-notes.jpg" position="center" caption="The legendary Hilroy margin was staring my in the face all this time." >}}
-
-In my notes, sometimes I write questions or things that will need
-further updates. The margins is the perfect place to put such updates.
-Of course, not all of your notes will require a margin note, but that's
-a good thing: it leaves you with more room for the notes that truly need
-commenting later on.
-
-Like numbering my pages,
-using proper margins is an absolute necessity to allow me to take full
-advantage of my notes.
-
-
-Note: If this is the reason why each pack of Bic Cristal comes with a red pen, Bic
-managed to blow my mind once again.
+# Tricks
 
 ## Track your progress by folding the corners
 
@@ -785,7 +621,7 @@ are many reasons why:
 
 - My finger is too big to accurately point to specific words on a page
 - To reach the full width of the page with my finger, I have to move my
-  entire arm back and forth as a read, or move the arm holding the book. It wastes energy.
+  entire arm back and forth as I read, or move the arm holding the book. It wastes energy.
 - I don't particularly appreciate the friction of the page on the tip of
   my index, especially over extended periods of time.
 
@@ -832,12 +668,6 @@ Don't let a good idea go to waste!
 
 {{< figure src="/img/good-margin-notes.jpg" position="center" caption="" >}}
 
-Note: To me, this type of margin note is subtly different from [the type of
-margin notes I discussed previously](#attempt-1-margin-notes), because
-it consists of new ideas, instead of being an attempt to summarize a
-paragraph. A paragraph summary should live in your notebook, where you
-will read it later to cement your learning.
-
 
 ## Write the source of your knowledge nuggets
 
@@ -853,7 +683,7 @@ of daily work is even more important than daily work!").
 
 Side effects may include people calling you a bookworm.
 
-## Use Bit.ly to encode web links in your notebook
+## Use a URL shortener to encode web links in your notebook
 
 ( This section will be written eventually, but I'm sure you can figure that part out by yourself until I write about it :smiley: Bit.ly is an app and browser add-on you can use to shorten links. )
 
@@ -889,7 +719,7 @@ It just makes sense, you know?
 This is the fun part. When you finished reading a book and collecting
 all its nuggets in your journal, you are free to share it with the
 world. In fact, I think it's better to bring the book out of your home
-and find it a new home where it will be happy. In my case, since my
+and find it a new library where it will be happy. In my case, since my
 employer provides me a personal wellness account that funds my book
 purchases, I think it's a no-brainer to bring these books back to the
 office, where I know they will benefit my colleagues.
@@ -904,32 +734,10 @@ personal development, I added a little note on the title page:
 
 {{< figure src="/img/encouraging-others.jpg" position="center" caption="" >}}
 
-## ~~In your next journal, import your best previous nuggets~~
+## Scanning, reviewing and quoting one last time!
 
-~~Always in a effort to make information accessible, what I plan on doing
-when I fill my current journal and inevitably have to get a new one, is
-to transfer my favorite nuggets to the new journal. That way, I won't
-have to constantly switch between journals.~~
-
-~~This goes in line with the "single source of truth" principle found in
-the DevOps mentality. Information is only useful if it is first accessible!~~
-
-~~Also, if you have access to a digital scanner, I strongly recommend that
-you scan the entire content of your finished journal for preservation.
-You wouldn't want a dumb water leak to ruin all your hard work!~~
-
-## Scan your notes and back them up
-
-I wrote the previous striked-through passage before I had actually
-finished filling my first notebook with notes from my lectures. I
-assumed that I would like to carry the material that stuck with me most
-to the next notebook, in a way to could keep important quotes easy for
-me to find.
-
-Well, I can now safely say that this assumption was false. Four
-notebooks later, the habit I developed was to scan my notes once they
-are complete for a given book and [host them on a specific page of my
-personal website](/books). This has many advantages:
+I developed the habit to scan my notes once they
+are complete for a given book and putting them on my Google Drive. This has many advantages:
 
 - It creates a true cloud-supported backup, meaning that I would most
   likely have to delete the files myself to lose them.
@@ -943,6 +751,24 @@ personal website](/books). This has many advantages:
 If you are looking for a flatbed scanner, the one I am currently using
 is the [Canon LiDE 400](https://amazon.ca/dp/B07GPS69KF) and I am
 totally satisfied with it. Recommended!
+
+After scanning my notes, I write a new post with all my favorite quotes
+from my note. I call those :star: Star Quotes :star:. I then proceed to
+write a short review for the book. Having to summarize my understanding
+of the book and writing about my appreciation of it is what really
+cements it in my brain. A bonus side effect of that is that it creates a
+nice [virtual bookshelf](/bookshelf) that I can use to retrieve my notes
+and even share them with interested parties.
+
+
+# Remember: Reading a book twice is inefficient
+
+I've hinted at it before, but I'll say it clearly once more: If you are
+reading a book a second time, what does this say about the first time
+you read it? Life if too short to read a book in its entirety twice.
+Instead, rely on your notes to quickly get the essence of the book.
+That's your reward for putting in this work: you can get the same info
+as reading the full book in a fraction of the time.
 
 # Conclusion
 
@@ -962,8 +788,10 @@ get to decide which book I read. As a professional, I am the master of my own
 learning. As the DevOps Handbook rightfully puts it on page 320 of its
 second edition:
 
-> The only sustainable competitive advantage is [your] ability to learn
-> faster than the competition.
+> **The only sustainable competitive advantage is [your] ability to learn
+> faster than the competition.**
+>
+> -- Peter Senge
 
 Textbooks have a purpose outside the classroom, even if that
 means you won't have a professor
@@ -973,11 +801,11 @@ without creating headaches or feeling like puzzles. A book you chose
 almost certainly contains parts of the answer to the question that made you
 choose it.
 
-Imagine how you will feel when your book shows you a new way to think about a specific problem you couldn't quite put your finger on. Suddenly, a new connection occurs in your brain. Now, all you can see is the answer. Everything simply  makes  sense! Personally, this is among the most powerful and freeing experiences I have felt yet. It truly is a transcending moment that cannot overstated.
+Imagine how you will feel when your book shows you a new way to think about a specific problem you couldn't quite put your finger on. Suddenly, a new connection occurs in your brain. Now, all you can see is the answer. Everything simply  makes  sense! Personally, this is among the most powerful and freeing experiences I have felt yet. It truly is a transcending moment that cannot be overstated.
 
 **We are all lifelong learners.** If you want to learn about something, you can do it. What allows some
 people to learn faster than others is that they have created and
-optimized a learning system that is suited around their way of learning.
+optimized a learning system that is suited around *their* way of learning.
 When I realized that the core mission of DevOps is to create a system that
 automates organizational learning, I felt the pinch of irony, because to
 realize this, I had to create my own system of learning. Now that this
@@ -1002,9 +830,9 @@ hopefully, in less time than it initially took me (3 years)!
 
 After all, that's what learning is all about! :wink:
 
-I you want to follow my "learning journey" progress, head over to my [reading list](/readlist).
+I you want to follow my "learning journey" progress, head over to my [reading list](/reads).
 
-[^1]: 2022/08/22 Update: I believe I have found a tool that can help
+[^1]: 2022/08/22 Update: I believe I have found tools that can help
   learning from browser pages!
   [Highlight by
-  Weave-Trix](https://addons.mozilla.org/en-CA/firefox/addon/highlight-by-trix/) for Firefox.
+  Weave-Trix](https://addons.mozilla.org/en-CA/firefox/addon/highlight-by-trix/) and [Reader Ruler](https://addons.mozilla.org/en-US/firefox/addon/readingruler/) for Firefox.
