@@ -24,7 +24,7 @@ be inspired to take steps towards overcoming this wall.*
 that **anyone can experience learning anxiety and solving it requires a
 system of your own creation that will make learning a joyful experience
 to you**. If you experience learning anxiety, my hope is that this post
-will make you realize that you are not alone and that, with a little
+will make you realize that you are not alone. With a little
 bit of creativity, you can get through any obstacle that stands in your
 way.*
 
@@ -100,7 +100,7 @@ survival mode, where I had two possible outcomes:
 This led me to read a certain DevOps  handbook, which led me to write
 down these words:
 
-{{< figure src="/img/learning-anxiety-lightbulb.jpg" position="center" caption="In the team, we want to encourage learning and help overcome learning anxiety." >}}
+{{< figure src="/img/learning-anxiety-lightbulb.jpg" position="center" caption="'In the team, we want to encourage learning and help overcome learning anxiety.'" >}}
 
 Well, here it is. This is the moment when my mind clicked and realized **I** had learning
 anxiety. Before writing it down and seeing it with my own eyes for the first time --- "learning
@@ -143,7 +143,7 @@ change my life.
 
 *"You know what? I think DevOps would be a good fit for you."*
 
-For  someone with self-diagnosed impostor syndrome, receiving this kind of
+For  someone with a self-diagnosed impostor syndrome, receiving this kind of
 information is a mixed bag. On one hand, it finally provides an
 explanation to  why you are  having such a difficult time  accomplishing the
 tasks you were given. This  is a big plus. *"Of course, it all makes
@@ -230,7 +230,7 @@ For example, I had trouble remembering what the [Three Ways of
 DevOps](https://itrevolution.com/articles/the-three-ways-principles-underpinning-devops/) stood for, even though they were central parts of both the
 Phoenix Project and the handbook. It felt like I was drowning in
 information. If the Phoenix Project
-managed to organically sneak in   a reasonable amount of information within the context  of  the story, the DevOps Handbook proved to be too much for me. There seemed to be no time for relaxation: The handbook  simply lined the knowledge nuggets one after the other relentlessly.
+managed to organically sneak in   a reasonable amount of information within the context  of  the story, the *DevOps Handbook* proved to be too much for me. There seemed to be no time for relaxation: The handbook  simply lined the knowledge nuggets one after the other relentlessly.
 
 Very early on, I could feel my reading velocity diminish as I was
 reading my physical copy. I started
@@ -239,10 +239,11 @@ got the same result; Initial progress
 was quick, and then everything ground to a halt.
 
 Reluctantly, I shelved  the handbook both physically and digitally, feeling ashamed and
-defeated.
+defeated. I felt even more like an impostor: the fact I couldn't get
+through the *DevOps Handbook* served as evidence to that.
 
 This pattern of excitement for learning leading  to bitter abandon was,
-as you might have guessed, not limited to the DevOps Handbook.
+as you might have guessed, not limited to the *DevOps Handbook*.
 Throughout most of my time at Contxtful, I was given the opportunity to
 learn, and by my own account, failed at it more   than I succeeded.
 Eventually, the feeling of being unable to reach  my full potential with
@@ -253,7 +254,7 @@ potential.
 I just didn't expect that key to be the threat  of getting the old boot!
 
 
-# Bad news and career changes
+# Bad news
 
 In mid-June 2022, three months after joining the nesto DevOps team, I
 received unfortunate news: I was
@@ -273,7 +274,7 @@ motivation.
 
 So I got to work, big time. My focus in mid-June was higher than ever,
 thanks to survival instincts that kicked into high gear. One of my first
-personal goals was to get through the DevOps Handbook before the end of
+personal goals was to get through the *DevOps Handbook* before the end of
 my extended probation, partly to prove to myself that I could
 accomplish something for once.
 
@@ -351,7 +352,7 @@ collection](/posts/2021/03/selling-my-video-game-collection-the-hoarding-project
 Whatever the reason, I'm glad I made it this far in  life  despite this backwards mindset, because I
 don't plan on doing this ever again.
 
-(end flashback)
+(End flashback)
 
 So there you have it. Now you know why I believe a folded book is beautiful. It means
 someone probably gave the book the time and energy it deserved. And, indirectly, if this "damaged"
@@ -441,7 +442,7 @@ using my Kobo.
 ## Read a single book at a time
 
 As you start learning, you get excited when you see all the
-possibilities within your grasp. Never forget "Stop starting, start
+possibilities within your grasp. Never forget, "Stop starting, start
 finishing".
 
 {{< figure src="/img/stop-starting-start-finishing.jpg" position="center" caption="Words to live by." >}}
@@ -459,7 +460,7 @@ attention.
 
 You might want to wait  until you are in the final pages of a book before ordering your
 next one. You don't want to make commitments that you might not be able
-to complete! I strongly advise to order only a single book at a time,especially at the start of your learning journey -
+to complete! I strongly advise to order only a single book at a time, especially at the start of your learning journey -
 don't get carried away!
 
 ## Grab your book before grabbing your phone
@@ -480,7 +481,7 @@ possible.
 # Hardware
 
 
-Alright, we are now getting into the tips you were probably looking for. For most of us,making a purchase is the fun, exciting part. My dopamine-hungry brain loves it when I buy stuff.
+Alright, we are now getting into the tips you were probably looking for. For most of us, making a purchase is the fun, exciting part. My dopamine-hungry brain loves it when I buy stuff.
 
 So, what hardware do I recommend?
 
@@ -490,14 +491,6 @@ First off, this is probably basic common-sense, but I'll make it explicit, just 
 case: Don't use a spiral-bound Hilroy notebook
 or, worse, a stitched exercise book. These won't do much good here if pages
 keep tearing and falling out of your journal after a few years.
-
-Some features that I personally look for when buying a journal:
-- A5 size - not too big, not too small.
-- comes with stickers for the spine and cover to easily identify in my
-  library
-- dedicated space to write contact information (if lost)
-- table of content
-- numbered pages
 
 The bound journal I've been using is the [TRU RED Medium Flexible Cover
 Dotted Journal](https://www.staples.ca/products/2934243-en-tru-red-medium-flexible-cover-dotted-journal-black)
@@ -517,7 +510,7 @@ lists. It makes my messy handwriting look less messy. Personally, I am
 now very fond of dotted journals, because they provide the benefits of a
 grid without being as visually distracting.
 
-{{< figure src="/img/dotted-journal.jpg" position="center" caption="" >}}
+{{< figure src="/img/dotted-journal-2.png" position="center" caption="" >}}
 
 ### Number your pages
 
@@ -592,7 +585,7 @@ fall out of the book!
 
 {{< figure src="/img/folded-corners-system.png" position="center" caption="" >}}
 
-I can't overstate how useful this is. It make it feel like no moment
+I can't overstate how useful this is. It gives the feeling that no moment
 spent reading or taking notes is wasted. Whenever something else needs
 my attention, I simply fold the corner, fully aware that whenever I'll
 come back to the book, I will know exactly what I was up to. Simply put,
@@ -678,7 +671,7 @@ reference to the source material. This helps finding context or
 correcting notes in the rare cases where your notes are unclear and you
 must refer to the book. Trust me, it can save you a lot
 of time, and also makes sharing that nugget in the
-future even easier (e.g. "As the DevOps Handbook says on page 49, improvement
+future even easier (e.g. "As the *DevOps Handbook* says on page 49, improvement
 of daily work is even more important than daily work!").
 
 Side effects may include people calling you a bookworm.
@@ -729,7 +722,7 @@ library is the victory lap.
 
 {{< figure src="/img/book-sharing.png" position="center" caption="" >}}
 
-For the DevOps Handbook, since this book meant a lot for me during my
+For the *DevOps Handbook*, since this book meant a lot for me during my
 personal development, I added a little note on the title page:
 
 {{< figure src="/img/encouraging-others.jpg" position="center" caption="" >}}
