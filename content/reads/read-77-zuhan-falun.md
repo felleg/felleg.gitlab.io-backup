@@ -38,7 +38,7 @@ je morde:
   anniversaire en grand. Nous avions commencé à voir des spectacles
   ensemble, et cela me semblait être le cadeau parfait.
 - Je savais depuis plusieurs années que Shen Yun existait, et j'étais
-  curieux d'en savoir plus
+  curieux d'en savoir plus.
 - Ce spectacle est impossible à voir en Chine... Qu'est-ce que cette
   troupe pouvait nous enseigner que la Chine craignait tant?
 
