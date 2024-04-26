@@ -51,7 +51,7 @@ ceux qui découvrent la lecture et se sortent de l'ignorance, ce qui
 représente un thème majeur de la trame narrative du spectacle. Or, quand
 j'ai su que le livre sur lequel cette entreprise prenait racine était en
 vente pendant l'entracte pour 20$, j'ai sauté sur l'occasion. Et c'est
-donc de ce livre que je veux vous parler aujourd'hui. *Zuhan Falun -
+donc de ce livre dont je vais vous parler aujourd'hui. *Zuhan Falun -
 Tourner la roue de la Loi*.
 
 La dame qui m'a vendu le livre, d'apparence québécoise bien francophone
