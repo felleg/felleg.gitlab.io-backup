@@ -44,12 +44,12 @@ je morde:
 
 Pour tout vous dire, j'étais absolument sous le charme lors de la
 première partie du spectacle de Shen Yun. Visuellement, mes attentes
-étaient comblées, j'ai ri, et même presque pleuré. C'était un moment
+étaient comblées. J'y ai ri, et même presque pleuré d'émotion. C'était un moment
 intime pour moi qui, peu importe ce que Shen Yun représente réellement, restera
 bien gravé dans ma mémoire. Il faut dire que j'ai un point faible pour
 ceux qui découvrent la lecture et se sortent de l'ignorance, ce qui
 représente un thème majeur de la trame narrative du spectacle. Or, quand
-j'ai su que le livre sur lequel le spectacle prenait racine était en
+j'ai su que le livre sur lequel cette entreprise prenait racine était en
 vente pendant l'entracte pour 20$, j'ai sauté sur l'occasion. Et c'est
 donc de ce livre que je veux vous parler aujourd'hui. *Zuhan Falun -
 Tourner la roue de la Loi*.
