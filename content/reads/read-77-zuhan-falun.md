@@ -60,7 +60,7 @@ m'a informé que c'était un texte très profond à lire du début à la fin,
 sans sauter de chapitres. Cela correspond à mon style de lecture, donc
 j'étais ravi d'entendre cela. Je pouvais m'attendre à en apprendre plus
 sur les fondements des croyances bouddhistes d'avant l'ère communiste de
-la Chine. Au menu: discussions sur la méditation, le karma et la
+la Chine. Au menu: discussions sur la méditation, le karma, la
 réincarnation, et plus. Je sais bien que cela constitue des sujets ésotériques,
 mais je considère aussi que ce genre d'images et de métaphores peuvent
 avoir un effet profondément bénéfique sur la vie d'une personne lorsque
