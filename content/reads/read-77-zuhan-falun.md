@@ -75,9 +75,15 @@ un aperçu:
 {{< figure src="/img/zuhan-falun-page-10.jpg" position="center" caption="" >}}
 
 En résumé: tout le livre est un nonsens. L'auteur promet de grande
-choses, promet de ne pas faire de promesses qu'il ne saurait tenir, nous
-met en garde contre nos perceptions, nous apprend que la majorité de ce
-que l'on connait est faut... Mais n'enseigne rien. J'ai défié la règle
+choses tout en nous assurant de jamais faire de promesses qu'il ne saurait tenir. Cela semble bon. Il nous
+met en garde contre nos perceptions, et nous apprend que la majorité de ce
+que l'on connait est faut. Cela est intriguant. Toutefois, le vrai
+problème arrive quand on essaie de comprendre là où l'auteur veut en
+venir: lui qui a pris le temps d'écrire un livre, il s'efforce pour nous
+expliquer que des maîtres comme Li Hongzhi peuvent réaliser des miracles, mais que les atouts pour y parvenir ne peuvent être transmis. Les réponses à nos questions doivent venir de notre intérieur, et il n'y a rien d'autre que des maîtres comme Li Hongzhi puissent nous enseigner, à part
+que nous ne savons rien.
+
+J'ai défié la règle
 de celle qui m'a vendu le livre pour aller voir au-delà de la page 10 ce
 qui se cachait. Du début à la fin, le même ton, le même propos restait:
 on aurait cru lire un narcissique qui ventait les
