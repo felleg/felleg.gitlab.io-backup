@@ -28,7 +28,7 @@ vous-mêmes:
 
 {{< youtube rnh3APc_ZKI >}}
 
-Bien que j'ose croire que j'ai rarement tendance à mordre à l'hameçon de
+Même si j'ose croire que j'ai rarement tendance à mordre à l'hameçon de
 la publicité, cette fois-ci tous les éléments étaient rassemblés pour que
 je morde:
 
