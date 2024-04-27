@@ -176,7 +176,7 @@ d'humilité.
 
 {{< figure src="/img/shen-yun-felix.jpg" position="center" caption="" scale="300px" >}}
 
-À *Zhuan Falun*, je donne sans hésiter mon pire classement à ce jour, un
+À *Zuhan Falun*, je donne sans hésiter mon pire classement à ce jour, un
 honneur peu enviable:
 
 {{< myrating rating="👎👎" >}}
