@@ -77,7 +77,7 @@ un aperçu:
 En résumé: tout le livre est un nonsens. L'auteur promet de grandes
 choses tout en nous assurant de ne jamais faire de promesses qu'il ne saurait tenir. Cela semble bon. Il nous
 met aussi en garde contre nos perceptions, et nous apprend que la majorité de ce
-que l'on connait est faut. Cela est intriguant. Toutefois, le vrai
+que l'on connait est faux. Cela est intriguant. Toutefois, le vrai
 problème arrive quand on essaie de comprendre là où l'auteur veut en
 venir; lui qui a pris le temps d'écrire un livre, il s'efforce pour nous
 expliquer que des maîtres comme Li Hongzhi peuvent réaliser des miracles, mais que les atouts pour y parvenir ne peuvent être transmis. Les réponses à nos questions doivent venir de notre intérieur, et il n'y a rien d'autre que des maîtres comme Li Hongzhi puissent nous enseigner, à part
