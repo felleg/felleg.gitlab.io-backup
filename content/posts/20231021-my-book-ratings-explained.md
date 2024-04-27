@@ -19,8 +19,7 @@ give a score that ranges from:
 
 Let's go more in detail about what each rating generally means to me:
 
-- **Two thumbs down** (👎👎) is something I would tell you to avoid. To me, it didn't feel worth the time investment. I haven't rated
-  something this badly yet.
+- **Two thumbs down** (👎👎) is something I would tell you to avoid. To me, it didn't feel worth the time investment at all.
 - **One thumb down** (👎) is a good book that, as much as I wish I could recommend it
   to someone, there is probably another book I would recommend above it.
 - **One thumb up** (👍) is something I would feel safe recommending to most people.
