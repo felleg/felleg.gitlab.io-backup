@@ -145,7 +145,7 @@ Je ne détiens pas la vérité. Je ne sais pas si le Falun Dafa est bon ou
 mauvais. Qui peut être contre un groupe dont les trois principes
 fondamentaux sont l’authenticité, la bonté et la tolérance? Je ne sais
 pas non plus comment me positionner par rapport à la Chine communiste
-moderne. Je ne sais pas si les intentions de Li Hongzhi sont altruistes
+moderne. J'ignore par-dessus tout si les intentions de Li Hongzhi sont altruistes
 ou égoïstes, ou même s'il est sincère. Tout ce que je sais, c'est que je
 m'attendais à voir un spectacle de danse racontant des histoires
 exotiques, et qu'à la place j'ai eu à me questionner si le prix de mes
