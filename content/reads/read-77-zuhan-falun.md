@@ -157,8 +157,7 @@ je le croyais, et que j'ai été bien naïf en achetant mes billets pour
 Shen Yun. Si j'avais fait un minimum de recherches, j'aurais mieux su
 dans quoi je m'embarquais. Force est d'admettre que les tensions entre
 les adhérants du Falun Dafa et le régime politique chinois actuel sont
-fascinantes pour plusieurs raisons, mais cela n'était pas ce à quoi je
-m'attendais.
+fascinantes pour plusieurs raisons, mais cela n'était pas ce sur quoi je souhaitais apprendre ce jour-là.
 
 Je me suis senti berné, trompé, eu. Je repensais à [Influence](/34) que
 j'ai lu par le passé, pour constater que tous les signes étaient là pour
