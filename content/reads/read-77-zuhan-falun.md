@@ -67,7 +67,7 @@ avoir un effet profondément bénéfique sur la vie d'une personne lorsque
 bien appliqués. C'est avec excitation que j'ai entamé ma lecture.
 
 Eh bien, j'ai le malheur de vous annoncer que c'est le livre que j'ai
-abandonné le plus rapidement dans ma vie. Après 10 pages, la décision
+abandonné le plus rapidement dans ma vie. Après 10 pages seulement, la décision
 était prise et irrévocable. Voici la page où j'ai posé mon genou de
 lecteur, pour vous en donner
 un aperçu:
