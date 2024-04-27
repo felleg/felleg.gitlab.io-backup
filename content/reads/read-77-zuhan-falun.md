@@ -152,7 +152,7 @@ exotiques, et qu'à la place j'ai eu à me questionner si le prix de mes
 billets a servi à financer une organisation relayant des théories de
 QAnon et qui ont épaulé la présidence de Donald Trump.
 
-Cela m'a confronté au fait que la réalité est beaucoup plus nuancé que
+Cela m'a confronté au fait que la réalité est beaucoup plus complexe que
 je le croyais, et que j'ai été bien naïf en achetant mes billets pour
 Shen Yun. Si j'avais fait un minimum de recherches, j'aurais mieux su
 dans quoi je m'embarquais. Force est d'admettre que les tensions entre
