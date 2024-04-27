@@ -150,7 +150,7 @@ ou égoïstes, ou même s'il est sincère. Tout ce que je sais, c'est que je
 m'attendais à voir un spectacle de danse racontant des histoires
 exotiques, et qu'à la place j'ai eu à me questionner si le prix de mes
 billets a servi à financer une organisation relayant des théories de
-QAnon et qui ont épaulé la présidence de Donald Trump.
+QAnon et même épaulé la présidence de Donald Trump.
 
 Cela m'a confronté au fait que la réalité est beaucoup plus complexe que
 je le croyais, et que j'ai été bien naïf en achetant mes billets pour
