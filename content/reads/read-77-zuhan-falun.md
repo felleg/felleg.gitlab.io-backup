@@ -40,7 +40,7 @@ je morde:
 - Je savais depuis plusieurs années que Shen Yun existait, et j'étais
   curieux d'en savoir plus.
 - Ce spectacle est impossible à voir en Chine... Qu'est-ce que cette
-  troupe pouvait nous enseigner que la Chine craignait tant?
+  troupe pouvait nous enseigner que la Chine craint tant?
 
 Pour tout vous dire, j'étais absolument sous le charme lors de la
 première partie du spectacle de Shen Yun. Visuellement, mes attentes
