@@ -106,7 +106,7 @@ Voici un résumé du Falun Dafa sur Wikipedia en date du 26 avril 2024:
 > aux mouvements lents et souples, ainsi que le travail sur soi à travers
 > ce qu'il appelle les trois principes fondamentaux : l'authenticité, la
 > bonté et la tolérance. En dépit du fait que les universitaires
-> occidentaux le considèrent comme un nouveau mouvement religieux (NRM),
+> occidentaux le considèrent comme un nouveau mouvement religieux,
 > les adeptes refusent catégoriquement cette classification.
 >
 > Créé en 1992, le Falun Gong est d'abord rapidement reconnu et soutenu
@@ -119,7 +119,7 @@ Voici un résumé du Falun Dafa sur Wikipedia en date du 26 avril 2024:
 >
 > Le PCC, dirigé alors par Jiang Zemin, devient par conséquent hostile au
 > Falun Gong et commence en 1999 la répression de cette pratique sur le
-> territoire de la république populaire de Chine (RPC). Le Bureau 610 est
+> territoire de la république populaire de Chine. Le Bureau 610 est
 > créé, afin de coordonner cette répression et les pratiquants sont
 > dénoncés et arrêtés à travers la Chine. Lors de leur emprisonnement, ils
 > sont sujets à de mauvais traitements ainsi qu'à des prélèvements
