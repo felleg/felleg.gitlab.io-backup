@@ -75,7 +75,7 @@ un aperçu:
 {{< figure src="/img/zuhan-falun-page-10.jpg" position="center" caption="" >}}
 
 En résumé: tout le livre est un nonsens. L'auteur promet de grandes
-choses tout en nous assurant de jamais faire de promesses qu'il ne saurait tenir. Cela semble bon. Il nous
+choses tout en nous assurant de ne jamais faire de promesses qu'il ne saurait tenir. Cela semble bon. Il nous
 met en garde contre nos perceptions, et nous apprend que la majorité de ce
 que l'on connait est faut. Cela est intriguant. Toutefois, le vrai
 problème arrive quand on essaie de comprendre là où l'auteur veut en
