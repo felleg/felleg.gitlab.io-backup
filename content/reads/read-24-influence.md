@@ -27,6 +27,22 @@ A bit too long-winded for its own good, *Influence* still contains
 powerful insight about what influences our decisions. (Thanks Dan for
 this recommendation!)
 
+Here's a summary of the methods of influence discussed in the book:
+
+- Reciprocation
+  - Enforces ininvited debts
+  - Can trigger unfair exchanges
+- Commitment and consistency
+- Social proof
+- Liking
+  - Physical attractiveness
+  - Similarity
+  - Compliments
+  - Contact and cooperation
+- Authority
+  - Clothes
+  - Trappings
+
 {{< myrating rating="👍" >}}
 
 ---
