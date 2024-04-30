@@ -159,7 +159,7 @@ dans quoi je m'embarquais. Force est d'admettre que les tensions entre
 les adhérants du Falun Dafa et le régime politique chinois actuel sont
 fascinantes pour plusieurs raisons, mais cela n'était pas ce sur quoi je souhaitais apprendre ce jour-là.
 
-Je me suis senti berné, trompé, eu. Je repensais au livre [Influence, par Robert B. Cialdini](/34) et je remarquais que tous les signes étaient là pour
+Je me suis senti berné, trompé, eu. Je repensais au livre [Influence, par Robert B. Cialdini](/24) et je remarquais que tous les signes étaient là pour
 me mettre la puce à l'oreille, que j'aurais dû les détecter, et que je
 suis pourtant tombé dans le panneau à pleine vitesse.
 
