@@ -7,7 +7,7 @@ cover:
 tags:
   - untagged
   #- featured
-description: "enter your description here"
+#description: "enter your description here"
 ---
 
 Following the creation of [the
