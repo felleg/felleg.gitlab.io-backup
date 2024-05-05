@@ -81,16 +81,55 @@ Auteurs: Steven L. McShane & Charles Benabou
     - les facteurs personnels
     - les facteurs environnementaux
     - la relation entre les facteurs personnels et environnementaux
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
+1. (p. 58) L'environnement d'affaire des organisations est composé de:
+    - les fournisseurs
+    - les distributeurs
+    - les clients
+    - les concurrents
+1. (p. 71) Le **capital humain** est constitué de toutes les compétences
+   pertinentes faisant partie des ressources humaines d'une entreprise.
+   Il devient l'investissement le plus précieux des firmes innovatrices.
+1. (p. 71) Le **capital relationnel** consiste en la valeur qu'ajoutent
+   les relations entre l'entreprise et ses parties prenantes (clients
+   fidèles, fournisseurs fiables, etc.)
+1. (p. 76) Les acteurs concernés par l'introduction des nouvelles
+   technologies doivent être familiers avec:
+    - la gestion du changement
+    - l'apprentissage individuel et organisationnel auquel participent
+      les TIC
+    - la dynamique des équipes (virtuelles ou autonomes)
+    - le leadership pour gérer le changement
+    - les modes de rémunération et de reconnaissance (étant donné les
+      changements de rôles et de compétences)
+    - l'organisation du travail
+    - l'établissement de nouvelles structures
+    - le changement de culture de l'entreprise dû aux novueaux modes de
+      fonctionnement
+    - la prise de décision
+1. (p. 77) Toutes les entreprises finissent par subir l'influence des
+   aspects socioéthiques de leur environnement. Ce sont les critères de
+   leur prospérité à long terme qui doivent être évalués.
+1. (p. 80) **Légitimité**: La capacité d'une organisation de se faire
+   reconnaître comme acceptable pour la société, tant dans ses objectifs
+   que dans ses pratiques ou ses résultats. Cette capacité influence
+   directement sa liberté d'Action.
+1. (p. 81) La légitimité se mérite et doit être entretenue, pour éviter
+   de la perdre.
+1. (p. 81) La **gouvernance** fait référence à la capacité d'une
+   organisation de satisfaire les intérêts de la société dans son
+   ensemble, grâce à ses choix économiques et au respect de valeurs
+   sociales communes, sans lesquelles aucune société ne peut fonctionner
+   normalement.
+1. (p. 81) La **responsabilité sociale des entreprises** est
+   l'application pratique des principes éthiques par lesquels
+   l'organisation mérite sa légitimité.
+1. (p. 82) Le **triple bilan**:
+    - profits (rentabilité économique)
+    - personnes (développement social)
+    - planète (protection de l'environnement)
+1. (p. 87) Les individus doivent anticiper les besoins futurs de
+   l'organisation et parfaire de nouvelles aptitudes qui concordent avec
+   ces besoins.
 1. (p. 
 1. (p. 
 1. (p. 
