@@ -130,34 +130,112 @@ Auteurs: Steven L. McShane & Charles Benabou
 1. (p. 87) Les individus doivent anticiper les besoins futurs de
    l'organisation et parfaire de nouvelles aptitudes qui concordent avec
    ces besoins.
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
+1. (p. 90) La majorité des entreprises sont nationales et domestiques,
+   et ce sont elles qui emploient le plus grand nombre de salariés.
+1. (p. 90) La **qualité** est l'ensemble des caractéristiques d'un
+   produit ou d'un service qui satisfait les besoins de leurs
+   utilisateurs:
+    - la performance
+    - la durabilité
+    - l'esthétique
+    - la conformité aux standards établis
+1. (p. 92) :star: Au 20e siècle, les organisations avaient une structure
+   pyramidale. Au 21e siècle, la structure est en toile d'araignée.
+1. (p. 112) La composition de l'**attitude**:
+    - croyances (composante cognitive)
+    - sentiments (aspect affectif)
+    - intention d'agir
+1. (p. 112) Des attitudes générales ne permettent pas de prédire des
+   comportements particuliers. Des attitudes spécifiques annoncent des
+   comportements spécifiques.
+1. (p. 112) Plus il s'écoule de temps entre la mesure de l'attitude et
+   l'observation de certains comportements, plus il est probable qu'il
+   n'y ait pas de rapport entre l'une et l'autre.
+1. (p. 115) Les quatre réactions des employés quant à l'insatisfaction
+   au travail:
+    - quitter l'organisation
+    - expression pour modifier la situation désagréable (en opposition avec "fuir la situation")
+    - loyauté
+    - négligence
+1. (p. 116) De nombreux chercheurs voient désormais l'expression comme
+   une réaction très positive/constructive. Celui qui s'identifie à son
+   organisation sera plus enclin à s'exprimer qu'à partir.
+1. (p. 117) Le remplacement d'un employé coûte environ une fois son
+   salaire annuel (et davantage pour des spécialistes)
+1. (p. 118) Des employés heureux rendent les clients satisfaits. La
+   satisfaction au travail prédispose l'employé à se montrer aimable
+   avec le client.
+1. (p. 118) Les employés satisfaits, étant moins susceptibles de quitter
+   leur emploi, acquièrent de l'expérience, donnent un meilleur service.
+   Les clients tissent des liens particuliers avec eux, ce qui les
+   fidélise.
+1. (p. 124) Les employés qui privilégient fortement l'engagement de
+   continuité (ils croient qu'ils ont intérêt à demeurer dans
+   l'organisation parce que le coût lié à leur départ serait trop élevé)
+   donnent un rendement inférieur et sont moins susceptibles d'adopter
+   des comportements associés à la citoyenneté organisationnelle.
+1. (p. 125) :star: L'art de gérer l'engagement organisationnel de ses
+   employés consiste à:
+    - augmenter leur engagement affectif
+    - stimuler modérément leur engagement moral
+    - maintenir leur engagement de continuité à un niveau aussi bas que
+      possible
+1. (p. 125) Les "menottes en or" sont efficaces pour diminuer le
+   roulement, mais elles favorisent aussi l'engagement de continuité
+   plutôt que l'engagement affectif.
+1. (p. 126) :star: La loyauté des employés s'accroît si ces derniers
+   sont tenus informés de ce qui se passe dans l'entreprise et qu'ils
+   ont la possibilité d'interagir avec des collègues de l'ensemble de
+   l'organisation.
+1. (p. 126) :star: Faire confiance, c'est être convaincu qu'autrui
+   (organisations ou personnes) ne nuira pas à nos intérêts.
+1. (p. 127) Le contrat psychologique entre employeur et employé:
+    - L'employeur s'attend à ce que les employés:
+        - effectuent les tâches pour lesquelles ils sont payés
+        - respectent les collègues, les clients, les biens et la
+          réputation de l'organisation
+    - Les employés s'attendent à:
+        - l'équité dans les pratiques de l'organisation, notamment dans
+          les différentes sortes de rétributions et de récompenses
+        - une certaine autonomie
+        - une sécurité d'emploi raisonnable
+1. (p. 128) Un engagement de continuité de la part des employés est lié
+   à la perception d'un contrat transactionnel, tandis qu'un engagement
+   de type affectif (l'employé s'identifie et s'investit envers son
+   organisation, il intériorise les objectifs de l'organisation) est
+   associé à un contrat psychologique relationnel.
+1. (p. 128) La **citoyenneté organisationnelle** a trait aux attitudes
+   et comportements favorables d'un employé vis-à-vis son organisation
+   et qui dépassent les exigences normales de son poste.
+1. (p. 129) Des études montrent que les facteurs qui prédisent le mieux
+   l'absentéisme sont:
+    - l'historique des absences des individus
+    - des politiques inexistantes sur cette conduite
+    - la perception que l'entreprise est tolérante, voire laxiste à
+      propos des absences
+1. (p. 131) La hiérarchie des valeurs d'une personne est stable et
+   permanente.
+1. (p. 133) Il n'y a pas de différence significative entre les
+   générations, tant du point de vue des valeurs que des attitudes;
+   c'est leur importance relative qui change.
+1. (p. 133) Comme les valeurs sont des repères, les employés qui
+   embrassent des valeurs assez différentes de celles de l'organisation
+   ont tendance à prendre des décisions incompatibles avec les objectifs
+   de celle-ci. Toutefois, des valeurs divergentes apportent des points
+   de vue différents, voire des conflits constructifs.
+1. (p. 136) Certains droits individuels s'opposent malheureusement à
+   d'autres. Par exemple, le droit des actionnaires d'être informés des
+   activités de l'entreprise peur entrer en conflit avec le droit d'un
+   dirigeant à sa vie privée.
+1. (p. 137) On se conforme aux lois alors qu'on adhère volontairement à
+   l'éthique. L'éthique va donc au-delà de la législation qui a cours
+   dans son environnement.
+1. (p. 138) Rentabilité et comportement responsable ne sont pas
+   incompatibles.
+1. (p. 140) Trop de facteurs interviennent (e.g. la chance, des
+   subordonnés particuliers, la situation, la culture de l'entreprise,
+   etc.) pour que la personnalité seule puisse expliquer la réussite
+   d'un leader.
 1. (p. 
 1. (p. 
 1. (p. 
