@@ -236,8 +236,19 @@ Auteurs: Steven L. McShane & Charles Benabou
    subordonnés particuliers, la situation, la culture de l'entreprise,
    etc.) pour que la personnalité seule puisse expliquer la réussite
    d'un leader.
-1. (p. 
-1. (p. 
+1. (p. 142) Les cinq dimensions de la personnalité:
+    - fiabilité ("conscientiousness")
+    - amabilité
+    - stabilité émotive
+    - ouverture à l'expérience
+    - extraversion
+1. (p. 145) Le sentiment d'efficacité est la confiance que l'on a en ses
+   capacités de mener à bien une tâche avec succès. Ce sentiment se
+   divise en trois composantes:
+    - le niveau de performance que l'individu croit atteindre
+    - la force de ce sentiment ^
+    - la croyance que ce sentimant ^ peut être transféré d'une situation
+      à une autre
 1. (p. 
 1. (p. 
 1. (p. 
