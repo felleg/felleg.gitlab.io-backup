@@ -454,32 +454,122 @@ Auteurs: Steven L. McShane & Charles Benabou
    l'accomplissement de tâches réalisables et exigeantes qui mobilisent
    toute notre concentration et toutes nos compétences.
     - "Flux", une expérience optimale.
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
+1. (p. 301) Les récompenses basées sur l'appartenance et l'ancienneté
+   tendent à attirer les candidats qui recherchent la sécurité d'emploi.
+1. (p. 308) Pour harmoniser la rémunération des actionnaires avec celle
+   des dirigeants, on peut verser des primes sous forme d'actions en
+   insistant pour que le dirigeant les conserve jusqu'à la fin de sa
+   carrière dans la compagnie.
+1. (p. 308) Le principal inconvénient du régime d'actionnariat du
+   personnel, du système d'options, est que le personnel perçoit souvent
+   mal la relation entre l'effort individuel/d'équipe et la valeur des
+   actions de l'entreprise. Des facteurs étrangers à l'effort des
+   employés influencent le prix des actions de la compagnie et sa
+   rentabilité.
+1. (p. 309) :star: La nature des objectifs conditionne celle du système
+   de récompense. Avant toute chose, il faudra définir les objectifs de
+   la mise sur pied d'un système de récompenses.
+1. (p. 309) Pour être satisfaisante, la rétribution doit être assez
+   importante aux yeux de celui qui la reçoit. La solution consiste à
+   demander aux membres du personnel ce qui a de la valeur pour eux.
+1. (p. 310) :star: Les récompenses d'équipe tendent à augmenter la
+   coopération entre les employés et à diminuer l'esprit de compétition
+   au sein du groupe.
+1. (p. 310) Il faut veiller à ce que l'arrêt de récompenses ne soit pas
+   perçu en fait comme une punition (donc l'expliquer).
+1. (p. 310) Une exagération des récompenses peut diminuer l'envie de
+   prendre des risques chez les dirigeants de manière à ne pas menacer
+   leurs avantages, ce qui réduit les efforts d'innovation et de
+   changement.
+1. (p. 312) :star: Les réactions des employés à leurs rétributions
+   reflètent leur culture nationale.
+1. (p. 315) La notion de qualité n'a aucune signification si le
+   travailleur ignore la fonction de ce qu'il produit.
+1. (p. 325) **Gestion par processus**: Repenser l'organisation du
+   travail. Les services traditionnels (marketing, achat, etc.) et
+   organisés sous forme pyramidale disparaissent au profit de
+   l'organisation d'unités correspondant à des processus clés et centrés
+   sur le client (réalisation des commandes, développement des produits,
+   stratégies). Un chef dirige chacune des unités.
+1. (p. 329) :star: La plus grande faiblesse d'un gestionnaire, c'est de
+   ne pas savoir bien s'entourer par crainte d'avoir des gens plus forts
+   que lui dans certains domaines.
+1. (p. 330) **Soliloque**: dialogue interne avec soi-même qui vise à
+   clarifier nos pensées, à prendre de meilleures décisions et à nous
+   encourager.
+1. (p. 337) Les mesures de réduction du temps de travail (avec réduction
+   de salaire) et du travail partagé permettent de réduire les
+   licenciements massifs dans les périodes économiques difficiles pour
+   les entreprises.
+1. (p. 341) :star: Les erreurs sont autorisées, mais la même erreur ne
+   peut être tolérée plus de deux fois.
+1. (p. 349) Toutes les équipes sont des groupes, mais tous les groupes
+   ne sont pas des équipes. Pour qu'un groupe devienne une équipe, il
+   doit posséder les caractéristiques suivantes:
+    - Les membres ont un projet/des intérêts communs
+    - Les membres travaillent ensemble pour concrétiser ces
+      projets/objectifs
+    - Les interactions des membres sont fréquentes et leurs activités
+      sont interdépendantes
+    - Les membres ont le sentiment d'appartenir à la même équipe
+    - Les membres ont des rôles bien définis et acceptés à l'intérieur
+      du groupe (structure stable)
+    - L'équipe de cohésive
+    - Les membres se connaissent professionnellement ou personnellement
+    - Le projet qui les unit a une certaine durée
+1. (p. 353) Nous nous définissons à travers nos affiliations à des
+   groupes dans la société.
+1. (p. 354) Les recherches montrent que les membres d'une équipe
+   travaillent plus efficacement quand ils sont récompensés, du moins en
+   partie, pour la performance du groupe entier.
+1. (p. 357) Les chercheurs soulignent l'importance d'enseigner aux
+   employés comment communiquer entre eux et coordonner leur travail au
+   sein d'une équipe.
+1. (p. 359) Les avantages de la diversité se font surtout sentir quand
+   l'équipe s'efforce d'atteindre un consensus (au lieu de voter) et que
+   chaque membre tente activement de comprendre et d'intégrer les points
+   de vue de ses coéquipiers.
+1. (p. 360) Les étapes d'évolution d'une équipe:
+    1. Formation
+    1. Conflit
+    1. Régulation
+    1. Coopération
+    1. Dissolution
+    1. (Note: les équipes peuvent aussi revenir à un stade antérieur,
+       e.g. quand de nouveaux membres s'ajoutent)
+1. (p. 361) **Le modèle de l'équilibre rompu**: En général un groupe,
+   face à des échéanciers, planifie ses activités durant la première
+   moitié du temps qui lui est imparti, mais les révise et les met en
+   œuvre dans la deuxième partie.
+1. (p. 365) **Les rôles à l'intérieur des groupes**:
+    - Orientés vers la tâche:
+        - _Initiateur_: Détermine les objectifs de la réunion et propose
+          des moyens pour les atteindre
+        - _Demandeur d'information_: Demande l'éclaircissement de
+          certaines idées ou des preuves à l'appui d'une opinion
+        - _Transmetteur d'information_: Donne de l'info et ses opinions
+          sur la tâche et les objectifs de l'équipe
+        - _Coordonnateur_: Coordonne les sous-groupes et rassemble les
+          idées
+        - _Évaluateur_: Évalue le fonctionnement de l'équipe en le
+          comparant à une norme établie
+        - _Secrétaire_: Agit comme la mémoire de l'équipe
+        - _Orienteur_: Garde l'équipe concentrée sur ses objectifs
+    - Orientés vers les relations interpersonnelles:
+        - _Pacificateur_: Arbitre les conflits entre les membres du groupe
+          et apaise les tensions
+        - _Animateur_: Encourage et facilite la participation de tous les
+          membres de l'équipe
+        - _Motivateur_: Approuve et appuie les idées de ses coéquipiers,
+          manifestant sa sympathie et sa solidarité envers l'équipe
+1. (p. 368) Les équipes très cohésives ont un rendement inférieur quand
+   elles privilégient leurs propres normes en premier et que celles-ci
+   s'opposent aux objectifs de l'organisation.
+1. (p. 369) Les équipes ne sont pas toujours nécessaires. Parfois, il
+   est plus approprié qu'une personne mène seule une action rapide et
+   décisive.
+1. (p. 369) **Loi de Brooks**: L'ajout de nouveaux membres à un projet
+   en retard ne fait que le retarder d'avantage.
 1. (p. 
 1. (p. 
 1. (p. 
