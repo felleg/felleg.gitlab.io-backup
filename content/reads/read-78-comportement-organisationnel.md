@@ -419,17 +419,41 @@ Auteurs: Steven L. McShane & Charles Benabou
 1. (p. 264) L'adhésion aux objectifs est plus susceptible de se produire
    quand ceux-ci sont publics, fixés par l'employé lui-même, et que
    celui-ci a un sentiment de contrôle interne.
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
+1. (p. 265) La rétroaction doit porter sur la tâche et non sur la
+   personne, ce qui a pour effet de réduire ses réactions de défense dans
+   le cas d'objectifs non atteints. La rétroaction doit porter sur les
+   actes de l'employé plutôt que sur des conditions hors de son contrôle
+   pour éviter toute "contamination" de jugement. La rétroaction partage les mêmes
+   caractéristiques que doit posséder un objectif efficace:
+    - précise
+    - pertinente
+    - synchrone (timely)
+    - fréquente
+    - crédible
+1. (p. 266) L'employé qui effectue de nouvelles tâches doit recevoir une
+   rétroaction plus fréquente, car il a davantage besoin de directives
+   et de conseils, en même temps que d'un renforcement positif.
+1. (p. 271) L'individu détermine s'il a été traité de façon juste en
+   comparant son propre rapport rétribution-contribution (R/C) à celui
+   des autres personnes.
+    - la rétribution (tangible ou non) est ce que l'individu reçoit en
+      échange de ses contributions
+1. (p. 274) :star: Les personnes recherchent la justice pour elle-même, et pas
+   seulement comme un moyen d'améliorer leurs avantages.
+1. (p. 276) Payer un employé plus qu'il le mérite pour stimuler sa
+   motivation est une solution à court terme seulement. À long terme,
+   l'employé finit par banaliser ce privilège et ses collègues auront le
+   sentiment d'être sous-payés.
+1. (p. 277) L'attribution de récompenses extrinsèques, comme la paie,
+   pour un travail qui était déjà intrinsèquement motivant aurait
+   tendance à diminuer l'intensité de la motivation de la personne. Au
+   mieux, les récompenses extrinsèques stimuleraient la motivation à
+   accomplir des tâches assez répétitives.
+1. (p. 278) :star: Les moments de joie et de satisfaction extrêmes,
+   curieusement, ne sont pas associés aux loisirs, mais à
+   l'accomplissement de tâches réalisables et exigeantes qui mobilisent
+   toute notre concentration et toutes nos compétences.
+    - "Flux", une expérience optimale.
 1. (p. 
 1. (p. 
 1. (p. 
