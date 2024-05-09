@@ -247,8 +247,316 @@ Auteurs: Steven L. McShane & Charles Benabou
    divise en trois composantes:
     - le niveau de performance que l'individu croit atteindre
     - la force de ce sentiment ^
-    - la croyance que ce sentimant ^ peut être transféré d'une situation
+    - la croyance que ce sentiment ^ peut être transféré d'une situation
       à une autre
+1. (p. 150) On peut dégager 7 types de personnalités caractérisant des
+   employés difficiles:
+    - l'agressif
+    - le compétitif
+    - le geignard
+    - l'apathique
+    - le complaisant
+    - le négatif
+    - le prétentieux
+    - l'indécis
+1. (p. 150) Les types de leaders à tendance névrotique:
+    - le théâtrale (narcissique)
+    - le schizoïde (l'absent au manque d'intérêt)
+    - le compulsif (perfectionniste, dogmatique, indécis)
+    - le dépressif (au sentiment d'impuissance)
+    - le paranoïaque (méfiance excessive)
+1. (p. 165) On tend à se souvenir de l'information qui va dans le sens
+   de nos valeurs et de nos attitudes tout en ignorant celle qui ne leur
+   correspond pas.
+1. (p. 166) Adopter trop rapidement une théorie, c'est s'empêcher de
+   voir ce qui s'est vraiment passé.
+1. (p. 168) :star: Dans des situations conflictuelles, l'image négative
+   que nous avons, et parfois cultivons, de nos adversaires nous permet
+   de conserver une image positive de nous-mêmes.
+1. (p. 174) :star: L'**effet Pygmalion** se produit lorsque les attentes
+   que l'on a envers une personne l'incitent à agir d'une manière
+   correspondant à ces attentes.
+    - Note: Le personnel est plus souvent victime d'un effet Pygmalion
+      négatif (effet Golem) que d'un effet positif.
+1. (p. 171) On peut attribuer un comportement à des facteurs internes
+   chez la personne si (ou, inversement, facteurs externes si pas):
+    - le comportement est fréquent chez cette personne
+    - le comportement est fréquent chez cette personne dans d'autres
+      situations
+    - le comportement *n'est pas* fréquent chez d'autres personnes dans
+      des situations similaires
+1. (p. 171) Exemples de:
+    - Facteurs internes:
+        - compétences
+        - motivation
+    - Facteurs externes:
+        - environnement
+        - autres personnes
+        - chance
+1. (p. 173) L'**erreur de complaisance** est la tendance d'une personne
+   à attribuer systématiquement ses succès à des facteurs internes et
+   ses échecs à des facteurs externes.
+1. (p. 175) Une impression négative tend à être plus durable qu'une
+   impression positive, car les caractéristiques défavorables sont plus
+   facilement attribuées à la personne, alors que les caractéristiques
+   positives sont plus souvent attribuées à la situation.
+1. (p. 180) :star: :star: :star: L'**apprentissage** est le changement
+   relativement permanent d'un comportement qui résulte de l'acquisition
+   de compétences.
+1. (p. 190) Les différents obstacles à l'apprentissage:
+    - Trouver chez les autres ("dehors") les causes de *nos* échecs
+    - Agir sans diagnostic des problèmes (illusion de proactivité)
+    - La fixation sur les événements (mémoire courte)
+    - Incapacité à répondre à des menaces graduelles (grenouille
+      ébouillantée)
+    - Incapacité à prévoir ce qui ne relève pas de notre expérience
+      immédiate
+    - Incapacité des dirigeants à se remettre en question
+1. (p. 192) L'acquisition et le partage des connaissances sont des
+   exercices vains si les employés ne disposent pas d'une liberté assez
+   grande pour les mettre en pratique.
+1. (p. 192) :star: Dans beaucoup de grandes entreprises, on a créé le
+   poste de directeur de la gestion du savoir (Chief Knowledge Officer)
+   chargé d'organiser le capital intellectuel de l'entreprise. Ses
+   responsabilités sont:
+    - Lier la stratégie du savoir dans l'entreprise avec les stratégies
+      corporatives (mission, performance, ...)
+    - Définir la politique de gestion des compétences clés
+    - Promouvoir des projets du savoir à l'intérieur et en dehors de
+      l'entreprise
+    - Participer activement à l'architecture des systèmes et des
+      structures du savoir de l'entreprise
+1. (p. 192) Les chefs d'entreprise sont les gardiens de la mémoire
+   organisationnelle.
+1. (p. 203) "À Industriel Alliance, chaque mois, une dizaine d'employés
+   sont tirés au sort pour avoir droit à un lunch servi par leur patron,
+   dans une salle de réunion de l'entreprise. C'est l'occasion de
+   formuler critiques, demandes et recommandations. Il n'y a pas de
+   directeur ou VP durant le repas. Aucun sujet n'est tabou."
+1. (p. 204) Utiliser les émotions ne veut pas dire être irrationnel. Les
+   émotions sont un des moteurs de la créativité et de la motivation.
+1. (p. 207) Pour faire des profits, il faut attirer les meilleurs
+   employés et pour cela, il faut que le lieu de travail soit plaisant.
+1. (p. 208) La colère est l'une des émotions les plus difficiles à
+   maîtriser.
+1. (p. 210) On peut former des employés à faire n'importe quel boulot,
+   mais les employés doivent déjà avoir l'attitude appropriée.
+1. (p. 212) Les meilleurs recruteurs ont plus de facilité à:
+    - affirmer leurs sentiments et opinions
+    - se mettre à la place des autres
+    - être heureux dans la vie
+    - prendre conscience de leurs émotions dans une situation
+      particulière
+1. (p. 212) **Intelligence émotionnelle**: capacité à reconnaître nos
+   émotions et à les exprimer correctement aux autres, à les soumettre à
+   notre jugement, à les maîtriser pour favoriser l'épanouissement
+   personnel.
+1. (p. 214) **Compassion organisationnelle**: capacité des dirigeants de
+   soulager la souffrance de leurs employés ou d'autres personnes.
+   Exemples:
+    - Offrir le plus de ressources possible (argent, aide médicale,
+      etc.)
+    - Réagir rapidement
+    - Fournir de l'information constante sur les événements et sur ce
+      qui est fait pour remédier à la situation
+    - Encourager les interactions sociales (réduction de l'anxiété par
+      le contact)
+    - Ne pas faire semblant d'ignorer la gravité de la situation
+    - Essayer de faire revenir les gens à leurs activités habituelles en
+      continuant de fournir le soutien nécessaire
+1. (p. 219) Bon nombre de plaintes pour harcèlement sexuel proviennent
+   d'une relation consensuelle ayant mal tourné.
+1. (p. 221) Facteurs déclenchant le harcèlement psychologique:
+    - Culture organisationnelle laxiste
+    - Politiques de gestion du personnel défaillantes
+    - Niveau général de stress élevé
+    - Emplois précaires
+    - Changements radicaux dans l'organisation du travail
+    - Mauvais rapports entre employés et hiérarchie
+    - Confusion dans les rôles de chacun
+1. (p. 223) Les employés sont plus anxieux quand ils n'ont aucun
+   contrôle sur la manière d'exécuter leurs tâches, le moment de les
+   faire ou le rythme de travail et la surveillance constante. Le
+   travail est plus stressant quand il est régulé par une machine qui
+   exige une surveillance continue ou quand c'est un autre qui gère
+   votre horaire de travail.
+1. (p. 225) Les cadres qui se trouvent en bas de la pyramide
+   organisationnelle ont une moins bonne santé que ceux qui se trouvent
+   tout en haut. C'est parce que les hauts dirigeants ont une plus
+   grande latitude décisionnelle.
+1. (p. 228) :star: La lutte à l'absentéisme, c'est aussi s'occuper de
+   ceux qui sont présents.
+1. (p. 230) On peut renforcer sa confiance en soi de manière à percevoir
+   les difficultés professionnelles comme un défi et non comme une
+   menace.
+1. (p. 241) "J'aime mieux voir un employé heureux qu'un client heureux,
+   car l'un ne va pas sans l'autre."
+1. (p. 249) Les deux natures de l'estime:
+    - Estime de soi, découlant de la réussite personnelle
+    - Estime sociale, c'est-à-dire la reconnaissance et le respect
+      provenant des autres
+1. (p. 254) Besoins humains fondamentaux:
+    - Acquérir et conserver
+    - Entrer en relation
+    - Apprendre
+    - Se défendre
+    - Besoins secondaires, très importantes sources de motivation:
+        - Besoin d'accomplissement
+        - Besoin d'affiliation
+        - Besoin de pouvoir
+1. (p. 257) Les leaders efficaces doivent posséder un fort besoin de
+   pouvoir *social* (l'influence qui leur permettrait d'agir sur leur
+   communauté) plutôt que *personnel* (pour leur propre bénéfice).
+1. (p. 262) Les employés fortement engagés ne sont pas forcément plus
+   productifs, mais ils sont plus fidèles à l'entreprise.
+1. (p. 263) :star: Un objectif établi doit répondre aux exigences suivantes:
+    - être précis
+    - être pertinent
+    - être stimulant
+    - susciter l'engagement
+    - favoriser la participation
+    - donner lieu à une rétroaction
+1. (p. 264) L'adhésion aux objectifs est plus susceptible de se produire
+   quand ceux-ci sont publics, fixés par l'employé lui-même, et que
+   celui-ci a un sentiment de contrôle interne.
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
 1. (p. 
 1. (p. 
 1. (p. 
