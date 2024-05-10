@@ -1058,18 +1058,69 @@ crédible.
 1. (p. 577) La satisfaction et la performance dans une équipe dépendent
 de la qualité des relations qui s'établissent entre le leader et chaque
 subordonné.
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
+1. (p. 583) **Leadership interpellable**: Le chef, se donnant en
+   exemple, fonde son autorité sur la transparence de ses actes.
+1. (p. 595) Il existe une limite au nombre d'employés qu'un chef peut
+   commander.
+1. (p. 605) Le stress est un symptôme courant dans les structures
+   matricielles mal gérées, car les employés doivent alors rendre des
+   comptes à deux chefs ayant des besoins et des attentes parfois
+   divergents.
+1. (p. 611) À mesure que les entreprises découvrent leurs compétences
+   fondamentales, elles confient les tâches non vitales à d'autres
+   organisations.
+1. (p. 625) La réussite n'est pas une affaire individuelle, mais
+   collective.
+1. (p. 626) :star: La **culture organisationnelle** est l'ensemble des
+   postulats, des valeurs et des croyances partagées qui régissent la
+   manière de réfléchir et de faire face aux problèmes et aux
+   opportunités qui se présentent à l'organisation. Elle détermine ce
+   qui est important ou non au sein de l'entreprise. C'est L'ADN de
+   l'organisation.
+1. (p. 626) :star: Une **culture** est un ensemble de valeurs, symboles,
+   savoirs partagés/acceptés par le plus grand nombre d'individus dans
+   une organisation donnée. Elle dicte expli/implicitement les
+   comportements acceptables ou non dans la collectivité.
+1. (p. 627) :star: **Artéfacts de la culture organisationnelle:**
+    - Tangible:
+        - Structures physiques (aménagement de l'espace)
+        - Langage, communication entre les gens
+        - Rituels et cérémonies
+        - Histoires et légendes
+        - Récompense
+        - Accueil des visiteurs
+        - Accueil des nouveaux employés
+        - Fréquence des visites des dirigeants à leurs subalternes
+        - La durée des pauses
+    - Culture organisationnelle (sous l'eau, invisible):
+        - Croyances
+        - Valeurs
+        - Postulats
+1. (p. 627) **Les dimensions de la culture organisationnelle**:
+    - Tendance à innover et prendre des risques
+    - Accent mis sur le service à la clientèle et le respect des
+      employés
+    - Méticulosité, exactitude, respect des normes
+    - Fluidité des canaux de communication
+    - Orientation vers les résultats
+    - Préférence pour le travail d'équipe
+1. (p. 630) Chaque organisation possède des sous-cultures qui
+   constituent un sol fertile pour de nouvelles valeurs permettant à
+   l'entreprise de s'adapter aux besoins de ses clients, fournisseurs,
+   et la société.
+1. (p. 630) Les fonctions de la culture d'une organisation:
+    - Mécanisme de régulation et de contrôle
+    - Donner un sentiment d'identité
+    - Susciter l'adhésion à la mission
+    - Permettre de déchiffrer les événements
+1. (p. 631) :star: Comprendre la culture d'une organisation est une
+   tâche ardue qui exige l'évaluation de nombreux artéfacts subtils et
+   souvent ambigus. Ce procédé ressemble beaucoup à l'étude
+   anthropologique d'une nouvelle société.
+1. (p. 632) Les histoires et les légendes sont des messages forts qui
+   véhiculent des normes sociales et dictent la manière dont il faut
+   faire (ou pas) les choses. Elles donnent un aspect humain et réaliste
+   aux attentes des entreprises et la manière dont les choses devraient
+   fonctionner dans l'organisation.
 1. (p. 
 1. (p. 
