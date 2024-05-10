@@ -570,121 +570,494 @@ Auteurs: Steven L. McShane & Charles Benabou
    décisive.
 1. (p. 369) **Loi de Brooks**: L'ajout de nouveaux membres à un projet
    en retard ne fait que le retarder d'avantage.
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
+1. (p. 370) La tendance des individus à fournir moins d'efforts en
+   groupe est plus fréquente dans les équipes de grande taille où la
+   contribution de chaque individu est difficile à déterminer.
+1. (p. 385) La communication de personne à personne est la forme de
+   communication la plus efficace quand les données sont complexes ou
+   sensibles. Les vidéoconférences, qui semblent similaires à la
+   communication en personne, sont beaucoup plus limitées que nous le
+   pensons.
+1. (p. 386) Dans une équipe virtuelle, le temps pour les conversations
+   ouvertes est très limité. Il est presque impossible de faire un
+   remue-méninges entre collègues.
+1. (p. 386) Les employés d'Entreprise Networks de Siemens se retrouvent
+   tous les ans pendant 4 jours. Cette session annuelle a permis de
+   tisser des liens, ce qui a contribué à limiter la rotation du
+   personnel et à accroître la cohésion de l'équipe.
+1. (p. 387) :star: La confiance existe lorsque vous avez le sentiment
+   bien assuré que les intentions et les actions d'autrui ne porteront
+   pas préjudice à ce que vous valorisez.
+1. (p. 387) En général, la confiance uniquement basée sur le calcul ne
+   réussit pas à maintenir longtemps les bonnes relations entre tous les
+   membres de l'équipe, surtout si elle est virtuelle.
+1. (p. 388) On bâtit une équipe en réalisant les quatre activités
+   suivantes:
+    - Définition des rôles
+    - Établissement des objectifs
+    - Résolutions des problèmes
+    - Amélioration des relations interpersonnelles
+1. (p. 390) :star: La construction d'équipe est un processus continu et
+   non un exercice ponctuel.
+1. (p. 401) Il faut éviter de définir un problème à l'aide de ses
+   solutions, car c'est un piège (exemple: "Le problème est que nous
+   avons besoin de mieux contrôler nos fournisseurs"). Un bon diagnostic
+   serait de déterminer d'abord la cause des symptômes avant de passer
+   aux solutions.
+1. (p. 401) Malheureusement, les décideurs tendent à considérer un
+   problème nouveau avec des solutions anciennes qui ont fonctionné par
+   le passé. Les solutions anciennes ne sont pas nécessairement ajustées
+   au problème nouveau.
+1. (p. 406) L'**intuition** est l'expression des connaissances tacites
+   d'une personne.
+1. (p. 408) :star: On peut minimiser l'intensification d'un engagement
+   et la justification post-décisionnelle en faisant en sorte que ceux
+   qui prennent les décisions ne sont pas ceux qui les évaluent. Cela
+   permet d'éviter le désir de sauver la face, car la personne
+   responsable de l'évaluation de la décision n'est pas liée à la
+   décision initiale.
+1. (p. 409) On peut classer le processus décisionnel des individus selon
+   deux dimensions:
+    - tolérance à l'ambiguïté (situation peu définies)
+    - façon de raisonner (rationnelle vs intuitive)
+1. (p. 410) **Cadrage (framing)** : Les gens prennent des décisions
+   différentes pour résoudre un même problème selon la façon dont
+   celui-ci est présenté
+1. (p. 411) **Les heuristiques (rules of thumb)** sont des méthodes de
+   résolution de problème qui simplifient le processus décisionnel, mais
+   sans faire appel à une analyse systématique des jugements portés.
+1. (p. 412) :star: Lorsque les activités de l'organisation ne
+   correspondent pas aux attentes des clients, les employés sont souvent
+   les premiers à le savoir.
+1. (p. 413) La pertinence et l'efficacité d'une participation dans le
+   processus de prise de décision dépend de:
+    - la source des connaissances nécessaires à cette décision
+    - l'engagement par rapport à la décision
+    - la structure décisionnelle en cours
+    - les risques de conflit pouvant intervenir dans le processus de
+      décision
+1. (p. 413) S'il est peu probable que le personnel accepte une décision
+   prise sans consultation, la consultation est généralement nécessaire.
+   Si les objectif et les normes du personnel entrent en conflit avec
+   les objectifs de l'organisation, alors un niveau peu élevé de
+   consultation est conseillé.
+1. (p. 416) :star: :star: Créez une culture qui exprime que ce n'est pas grave
+   d'échouer.
+1. (p. 416) :star: Le génie est constitué de 1% d'inspiration et 99% de
+   transpiration.
+1. (p. 416) La créativité est un processus d'apprentissage continu. Elle
+   est synonyme de changement, et les changements sont possibles
+   seulement lorsque les employés ont le pouvoir d'expérimenter leurs
+   idées. Les employés tendent à être plus créatifs lorsqu'ils pensent
+   que leur travail influencera de manière substantielle l'organisation
+   ou la société.
+1. (p. 417) Les inhibiteurs de la créativité:
+    - Pressions temporelles extrêmes
+    - Objectifs irréalistes
+    - Interruptions incessantes
+1. (p. 420) **Symptômes de la pensée de groupe**:
+    - Illusion d'invulnérabilité: L'équipe accepte des décisions
+      risquées, car les faiblesses sont ignorées ou cachées
+    - Présomption de moralité: Les membres ne ressentent pas le besoin
+      de débattre de l'éthique de leurs actions
+    - Rationalisation: Ce qui ne semble pas relever de la décision de
+      l'équipe est écarté
+    - Les "ennemis" (groupes extérieurs) sont présentés comme totalement
+      diaboliques ou idiots
+    - Autocensure
+    - Illusion d'unanimité: Chaque membre croit qu'il est le seul à
+      douter, dû au comportement "harmonieux" créé par l'autocensure. Ce
+      silence est perçu comme une preuve de consensus
+    - Défense du groupe: Certains membres empêchent toute information
+      négative ou contradictoire d'affecter le groupe
+    - Pression sur les dissidents (pression de conformité)
+1. (p. 421) **Effet de polarisation de groupe**: À la fin de la réunion,
+   il est fort probable que l'équipe s'accordera sur une solution plus
+   extrême que l'opinion moyenne initiale de chacun. Cela est dû à:
+    - la persuasion
+    - le soutien social
+    - le transfert de responsabilité (les individus se sentent moins
+      responsables des conséquences des décisions prises par l'équipe)
+1. (p. 422) **Conflit constructif**: Les membres d'une équipe débattent
+   en s'assurant que le conflit reste centré sur la tâche plutôt que sur
+   les personnes. On évite les énoncés menaçants l'estime et le
+   bien-être des autres membres de l'équipe.
+1. (p. 423) La diversité de l'équipe n'engendrera pas de conflit
+   constructif si le responsable d'équipe prend la plupart des décisions
+   seul.
+1. (p. 423) **Les 4 règles du remue-méninge**:
+    - Discuter librement: Les idées folles et bizarres sont acceptées
+      parce qu'elles deviennent la source de pensées divergentes dans le
+      processus créatif
+    - N'émettre aucune critique: parce qu'on s'attend à des idées folles
+      et bizarres
+    - Fournir autant d'idées que possible: La pensée divergente
+      intervient une fois que toutes les idées traditionnelles ont été
+      présentées
+    - S'inspirer des idées des autres: Combiner ou améliorer les idées
+      déjà présentées
+1. (p. 425) Le remue-méninges électronique permet d'émettre davantage
+   d'idées que le remue-méninges traditionnel. C'est parce que les
+   participants peuvent proposer leur idée dès que celle-ci leur vient,
+   plutôt que d'attendre leur tour. Il permet aussi de lancer des idées
+   farfelues sans que personne ne sache qui en est l'auteur.
+1. (p. 435) "Vous avez beau avoir le plus bel environnement de travail
+   et les meilleurs programmes pour les employés, si c'est mal
+   communiqué, ça n'aura pas l'effet recherché.
+1. (p. 438) Idée: Rendre disponible le CV des employés de la compagnie
+   sur intranet.
+1. (p. 442) "Toutes les querelles qui éclatent chez Disney semblent
+   résulter d'un malentendu causé par un courriel."
+1. (p. 449) Les canaux de communication les plus riches sont les plus
+   appropriés dans des situations inhabituelles ou ambiguës.
+1. (p. 449) Canaux de communication, du plus riche au moins riche:
+    - face à face
+    - vidéoconférence
+    - téléphone
+    - courriel, lettres
+    - bulletins d'informations
+    - rapports financiers
+1. (p. 449) :star: **Le mode de communication choisi est le message**,
+   c'est-à-dire que l'importance du message peut être déduite par le
+   choix du mode de communication. Il faut donc être sensible au sens
+   symbolique du support de communication choisi et s'assurer qu'il
+   renforce le sens du message plutôt que l'inverse.
+1. (p. 450) :star: Le plus grand problème avec la communication, c'est
+   l'illusion qu'elle a eu lieu.
+1. (p. 453) Trois actions permettent de réduire la charge d'information:
+    - trier
+    - résumer
+    - omettre
+1. (p. 457) Un écouteur actif améliore sa compréhension lorsqu'il
+   résiste à la tentation d'évaluer immédiatement les propos de l'autre,
+   en évitant d'interrompre son interlocuteur et en écoutant avec une
+   attention soutenue.
+1. (p. 458) :star: Une conversation peut toujours nous apprendre des
+   choses intéressantes: il suffit de les rechercher activement.
+1. (p. 459) L'écoutant actif donne une rétroaction en reformulant les
+   idées du locuteur. Il montre qu'il s'intéresse à la conversation et
+   aide le locuteur à déterminer que vous avez compris le message.
+1. (p. 459) Les communications ascendantes sont encore moins précises
+   que les communications descendantes. Parce que les employés ont
+   tendance à éviter de parler de leurs erreurs ou de mauvaises
+   nouvelles à leurs supérieurs, ils ont plutôt tendance à exagérer
+   leurs réussites.
+1. (p. 462) Généralement 75% des employés entendent les nouvelles par
+   une communication parallèle (basée sur les relations sociales plutôt
+   que les organigrammes) avant de l'obtenir de canaux officiels.
+1. (p. 463) Le moral baisse quand la direction est plus lente que le
+   système informel à communiquer l'information.
+1. (p. 467) Le **plan de communication en période de crise** consiste à
+   clairement choisir:
+    - l'objectif de la communication
+    - le message
+    - les émetteurs
+    - la cible
+    - les moyens
+1. (p. 468) La **contagion émotionnelle** est la tendance automatique et
+   inconsciente à imiter les comportements non verbaux des autres.
+1. (p. 478) Les **sources de pouvoir**:
+    - Structurelles:
+        - Légitime
+        - De récompense
+        - De contrainte
+    - Personnelles:
+        - D'expertise
+        - D'information
+        - De référence (admiration, respect, dû au charisme)
+        - De relation (réseaux)
+1. (p. 478) Les **situations créatrices de pouvoir**:
+    - Contrôle de l'incertitude
+    - Être irremplaçable
+    - Position stratégique
+    - Pouvoir discrétionnaire
+    - Visibilité
+1. (p. 478) Si A exerce du pouvoir sur B, c'est parce que B dépend de A
+   pour obtenir quelque chose qu'il ne pourrait pas avoir sans
+   l'intervention de A.
+1. (p. 488) Une bonne direction va définir des stratégies pour que les
+   acteurs de l'organisation (peu importe le niveau stratégique) gagnent
+   le plus d'autonomie possible.
+1. (p. 489) :star: :star: Le pouvoir n'est pas un attribut (tel le physique
+   d'une personne), mais une relation de réciprocité asymétrique.
+1. (p. 492) :star: Parvenir à introduire de nouvelles valeurs
+   organisationnelles est un processus d'influence essentiel en matière
+   de leadership.
+1. (p. 493) L'**autorité tacite** consiste à influencer le comportement
+   d'autrui en utilisant un pouvoir légitime, mais sans y faire
+   explicitement référence. Ce type d'autorité est la forme la plus
+   courante dans les cultures à distance hiérarchique élevée (e.g.
+   castes en Inde)
+1. (p. 494) **Prévenance**: Toute tentative d'accroître la sympathie
+   d'une personne envers soi.
+1. (p. 495) Les personnes qui utilisent la prévenance de manière trop
+   évidente et sans réel objet peuvent perdre toute influence, car leur
+   comportement sera considéré comme faux et intéressé. Elles ont alors
+   peu de chances d'avancement.
+1. (p. 496) Les recherches soutiennent que les tactiques "douces" comme
+   la persuasion amicale et la prévenance subtile, sont mieux acceptées
+   que les tactiques "dures" comme le recours à l'autorité hiérarchique
+   ou la contrainte.
+1. (p. 497) Les employés canadiens acceptent bien la prévenance, car
+   elle minimise les conflits et encourage des relations de confiance,
+   ce qui n'est pas le cas dans les cultures à distance hiérarchique
+   élevée (e.g. à Hong Kong)
+1. (p. 498) Les jeux politiques ont tendance à apparaître lorsque les
+   modes d'attribution des ressources sont ambigus, complexes ou
+   manquent de règles formelles d'application.
+1. (p. 503) La politique n'est pas éthique lorsqu'elle sert uniquement
+   les intérêts personnels au détriment de l'organisation et des autres
+   individus.
+1. (p. 511) :star: Si un patron dit non, il *doit* expliquer pourquoi.
+1. (p. 512) Un des rôles principaux des dirigeants, et plus généralement
+   des responsables RH, est d'intégrer les différences des
+   groupes/unités dans l'organisation, i.e. résoudre des conflits qui
+   touchent le personnel.
+1. (p. 512) Les conflits ne doivent être ni supprimés ni évités, mais
+   gérés, voire stimulés dans le cas où l'efficacité, la créativité et
+   l'innovation en dépendent.
+1. (p. 512) Le conflit est une question de perception: peu importe que
+   les raisons du conflit soient réelles ou non, la réalité est définie
+   par les parties concernées.
+1. (p. 512) La plupart des conflits résolus montrent qu'en fait, les
+   intérêts communs des parties sont plus nombreux qu'elles ne l'avaient
+   imaginé.
+1. (p. 516) La perception d'un ennemi commun renforce la cohésion de
+   groupe et atténue les conflits internes.
+1. (p. 516) **Six types de conflits:**
+    - Intrapersonnel (dilemmes dans l'individu)
+    - Interpersonnel (entre 2+ personnes)
+    - Intragroupe (dans un groupe)
+    - Intergroupe (2+ groupes)
+    - Intraorganisationnel (dans une organisation)
+    - Interorganisationnel (2+ organisations)
+1. (p. 519) :star: **Sept facteurs structurels qui forment un terrain propice
+   aux conflits:**
+    - Les différences des buts des groupes
+    - L'indépendance des tâches
+    - La concurrence par des ressources limitées
+    - Le degré de clarté des règles/règlements/rôles
+    - La nature du système de communication dans l'organisation
+    - Les différences de niveaux de pouvoir
+    - Les variations dans le système d'évaluation et récompenses des
+      groupes
+1. (p. 519) :star: Pour tempérer les querelles, il faut préférer le
+   conflit lié aux tâches et l'empêcher de dégénérer en conflit
+   socio-affectif.
+1. (p. 523) **Étapes de l'isolement de parties en conflit:**
+    1. Une partie exprime son désaccord avec arrogance. Elle est perçue
+       par l'autre partie en adversaire plutôt qu'en collaboratrice.
+    1. Cette attitude pousse l'autre partie à lui rendre la pareille,
+       par réciprocité.
+    1. Cette escalade diminue la motivation à communiquer entre parties,
+       ce qui accentue les stéréotypes et l'incompréhension.
+    1. Résultat: les individus en conflit se renferment sur eux-mêmes.
+1. (p. 524) :star: :star: Le service des ventes abuse de son pouvoir
+   quand il impose des contraintes irréalistes au service de production.
+1. (p. 524) Alors que les activités des différents services doivent
+   converger pour réaliser les buts de l'organisation grâce à des
+   efforts communs, le système d'évaluation et de récompense valorise
+   souvent les performances de chacun des services.
+1. (p. 526) Les personnes dogmatiques, autoritaires et ayant une faible
+   estime d'elles-mêmes ont une propension à se retrouver dans des
+   situations conflictuelles.
+1. (p. 527) Un conflit de personnalité entre deux collègues de travail
+   peut représenter une cause suffisante de congédiement.
+1. (p. 528) Styles de gestion des conflits interpersonnels:
+    - Résolution de problème (haut degré de collaboration, haute
+      affirmation de soi)
+    - Compromis (collaboration modérée, affirmation modérée)
+    - Affrontement (collaboration basse, affirmation haute)
+    - Conciliation (collaboration haute, affirmation basse)
+    - Évitement (collaboration basse, affirmation basse)
+1. (p. 528) La résolution de problème pour gérer un conflit est le seul
+   style qui représente une attitude gagnant-gagnant. Elle donne les
+   meilleurs résultats quand les intérêts des parties ne sont pas
+   diamétralement opposés et quand elles ont assez de confiance et
+   d'ouverture pour partager l'information.
+1. (p. 529) L'évitement constitue la meilleure approche quand le conflit
+   est devenu émotif. Mais l'évitement ne doit *pas* constituer une
+   solution à long terme, car il accroît le sentiment de frustration de
+   l'autre partie de voir le problème non résolu.
+1. (p. 529) L'affrontement systématique est rarement approprié, mais
+   peut s'avérer nécessaire quand une partie est persuadée d'avoir
+   raison et que le différend doit être réglé rapidement, ou quand
+   l'autre partie bafoue les règles d'éthique. **Tout comportement
+   immoral est inacceptable**.
+1. (p. 530) :star: Une attitude trop conciliante peut donner à la partie
+   adverse des attentes irréalistes et la pousser à exiger toujours
+   plus. À la longue, la conciliation risque d'aggraver le conflit
+   plutôt que de le résoudre.
+1. (p. 530) :star: :star: **Le style de résolution de conflit le plus approprié
+   selon la situation**:
+    - Conciliation (céder entièrement aux désirs de l'autre partie)
+        - Le problème est plus important pour une partie que pour
+          l'autre
+        - Une partie négocie en position de faiblesse
+        - Il est important de préserver la relation avec la partie
+          adverse
+        - Il faut prévenir l'escalade du conflit
+        - Il y a trop d'émotivité dans les interactions
+    - Affrontement (gagner aux dépends de l'autre partie)
+        - Le problème est relativement simple, mais l'issue est
+          importante
+        - Une décision rapide est requise
+        - La décision est impopulaire et le consensus est impossible
+        - Les subordonnés n'ont ni l'expertise ni l'info pour résoudre
+          le problème
+        - Une partie n'a pas besoin de l'autre pour mettre en œuvre sa
+          décision
+    - Évitement
+        - Le problème est peu important
+        - La confrontation est plus "coûteuse" que la résolution du
+          problème
+        - Le conflit actuel n'est qu'un symptôme d'un problème plus
+          grave à découvrir
+        - Il faut détendre l'atmosphère
+    - Compromis (chercher à compenser les pertes par des gains de même
+      valeur)
+        - Les intérêts et les objectifs sont mutuellement exclusifs
+        - Les deux parties ont un pouvoir égal
+        - Le consensus est impossible
+        - Dans les circonstances, les autres stratégies seraient
+         "défavorables"
+        - Une solution temporaire est requise
+    - Coopération (trouver une solution favorable aux deux parties)
+        - Le problème est complexe
+        - La solution est impossible sans l'une ou l'autre des parties
+        - Le temps disponible est suffisant
+        - Les enjeux sont importants
+        - La relation entre les parties doit être préservée
+1. (p. 531) Le compromis est rarement une solution finale et il peut
+   amener les parties à négliger certaines possibilités de gains
+   réciproques.
+1. (p. 531) :star: Résoudre des conflits nécessite parfois de les
+   susciter ou de les aggraver.
+1. (p. 532) Les forces multinationales du maintien de la paix
+   travaillent plus efficacement quand les soldats mangent et bavardent
+   souvent ensemble.
+1. (p. 533) :star: Plus les divers groupes d'une entreprise ont des
+   occasions de communiquer d'une manière informelle, mieux ils
+   travailleront ensemble.
+1. (p. 533) Lorsque deux groupes appartiennent à la même division et que
+   ces deux groupes ont une clientèle, des objectifs et des techniques
+   de travail relativement différents, on peut scinder cette division en
+   deux.
+1. (p. 536) Au début de négociations, les négociateurs chevronnés
+   divulguent seulement quelques données en essayant de déterminer si
+   l'autre partie fera de même.
+1. (p. 536) En négociations, le **position** est la demande ferme
+   exprimée par une partie. Les **intérêts ou enjeux véritables** sont
+   les préoccupations réelles sous-jacentes aux positions et aux
+   négociations des parties. Exemple:
+    - Position: Le syndicat s'oppose à une reclassification des postes
+    - Intérêts: Crainte que la mise en œuvre d'équipes autonomes mène à
+      des licenciements.
+1. (p. 537) La **zone de négociation**, si elle existe, se trouve entre votre point de
+résistance et le point de résistance de l'autre partie.
+1. (p. 538) Être sensible aux arguments de l'adversaire ne veut pas dire
+qu'on les approuve, mais les deux parties y gagnent en estime
+réciproque.
+1. (p. 539) Il est plus facile de négocier sur votre propre territoire
+parce que vous connaissez bien l'environnement et pouvez conserver vos
+habitudes rassurantes.
+1. (p. 539) :star: Disposition des sièges pour une négociation réussie:
+    - Les deux parties regardent le même tableau blanc. Cela met en
+      évidence qu'elles font face au même problème.
+    - Les différents participants sont dispersés autour de la table pour
+      favoriser une orientation gagnant-gagnant.
+1. (p. 540) Les négociateurs obtiennent des résultats plus favorables
+quand ils sont bien préparés et qu'ils se sont fixé des objectifs
+concrets.
+1. (p. 540) :star: Cherchez à comprendre avant de chercher à être
+compris.
+1. (p. 541) Les négociateurs efficaces minimisent les conflits
+socioaffectifs en se concentrant sur les problèmes plutôt que sur les
+gens. Ils évitent les propos comme "Je pense que vous serez d'accord
+pour juger que mon offre est généreuse."
+1. (p. 541) :star: Un bon négociateur, avant d'entrer dans la pièce où ont
+lieu les négociations, demandera à ses collègues de lui poser des
+questions difficiles.
+1. (p. 541) La meilleure stratégie de négociation consiste à adopter une
+attitude modérée et à faire juste assez de concessions pour montrer à
+l'autre partie qu'on est sincère et désireux de résoudre le conflit,
+tout en étant ferme.
+1. (p. 542) L'**ombudsman** est un poste officiel pour celui qui
+écoutera les conflits entre les parties. Il fait son enquête sur la
+problématique et essaie de trouver une solution. Pour traiter une
+plainte, il peut mener des enquêtes, influencer, conseiller,
+recommander, mais *jamais* décider.
+1. (p. 542) :star: L'existence de l'ombudsman dans l'entreprise est la
+reconnaissance du fait que, dans toute démocratie ou système, il y a des
+erreurs et un besoin de jeter un deuxième regard.
+1. (p. 544) En règle générale, la médiation est la méthode qui convient
+le mieux dans les cas de conflits fréquents qui opposent les employés,
+surtout lorsqu'ils ne communiquent plus.
+1. (p. 553) Le rôle des cadres auprès de leurs subordonnés:
+    - rassembleur
+    - catalyseur de talents
+    - mentor
+    - "serviteur" indispensable (leadership discret)
+1. (p. 553) Un **leader** est quelqu'un qui donne de l'espoir aux
+personnes qui l'entourent et qui prêche par l'exemple. Il ou elle aide
+les autres à "trouver le chemin" vers le but commun. Être leader n'est
+pas un job, c'est une mission.
+1. (p. 554) Le **leadership** est l'aptitude d'une personne à influencer
+et motiver d'autres individus et à leur permettre de contribuer à
+l'efficacité et à la réussite de leur organisation.
+1. (p. 556) :star: L'intégrité est la caractéristique la plus importante
+des leaders. Le personnel souhaite avoir des chefs honnêtes à qui il
+peut faire confiance.
+1. (p. 557) :star: Il y a un prix à payer pour être un vrai leader,
+celui de la discipline personnelle.
+1. (p. 561) **Les styles de leadership**:
+    - Participatif (haut intérêt pour les relations et pour la tâche)
+    - Social (haut intérêt pour les relations)
+    - Autocratique (haut intérêt pour les tâches)
+    - Intermédiaire (moyen en relations et tâches)
+    - Anémique (sans intérêt)
+1. (p. 562) Il n'est pas nécessaire d'être un leader flamboyant pour
+être efficace. La crise passée, les qualités des leaders charismatiques
+peuvent se retourner contre eux et les rendre inadéquats dans la
+nouvelle réalité.
+1. (p. 563) :star: Les leaders à l'excellence durable:
+    - dégagent un mélange paradoxal d'humilité sur le plan personnel et
+      de volonté sur le plan professionnel
+    - agissent avec calme et détermination
+    - sont motivés en raison de leurs principes et non de leur charisme
+    - s'appliquent à pérenniser l'entreprise en préparant leurs
+      successeurs
+    - ne blâment jamais les autres pour leurs erreurs
+1. (p. 563) :star: Un leader qui élimine les obstacles (en donnant des
+moyens, clarifiant les tâches, ...) pour son subordonné accroît la
+perception de celui-ci que travailler de façon ardue le conduira à une
+performance élevée qui sera reconnue et récompensée.
+1. (p. 564) Les leaders au service des autres ne se considèrent pas dans
+une position de pouvoir; il veulent être des entraîneurs (coachs) et
+animateurs.
+1. (p. 565) [Quel style de leadership est adapté à quelle
+situation](https://felx.cc/leadership-style-situation)
+1. (p. 569) Le style de leadership est lié à la personnalité du leader
+et par conséquent est relativement stable dans le temps.
+1. (p. 570) Les leaders efficaces aident les membres des équipes à
+s'autodiriger.
+1. (p. 571) :star: La gestion par organigramme ne fonctionne jamais.
+1. (p. 571) :star: Prônons la gestion par l'exemple. Il ne faut jamais
+demander aux employés de faire ce qu'on n'est pas prêt à faire soi-même.
+1. (p. 572) Les organisations ont besoin de deux types de leadership à
+la fois:
+    - transactionnel (améliore l'efficacité organisationnelle en temps
+      de stabilité)
+    - transformationnel (dirige l'entreprise vers des changements de
+      paradigmes en période de turbulences)
+1. (p. 573) :star: La qualité la plus importante d'un leader est la
+capacité de concevoir et de partager sa vision avec l'organisation.
+1. (p. 574) :star: :star: :star: Si vous parlez de vitesse d'exécution,
+mais que vous reportez des décisions difficiles, vous n'êtes pas
+crédible.
+1. (p. 577) La satisfaction et la performance dans une équipe dépendent
+de la qualité des relations qui s'établissent entre le leader et chaque
+subordonné.
 1. (p. 
 1. (p. 
 1. (p. 
