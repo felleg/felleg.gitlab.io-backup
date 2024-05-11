@@ -33,16 +33,16 @@ taper les star quotes pour ce review.
 
 Ce livre est normalement utilisé dans les salles de classe de niveau
 supérieur en ressources humaines. Et ça paraît que le niveau est
-supérieur. Malgré le nombre impressionnant de pages, ça reste du bien
+supérieur. Par-dessus tout, je suis impresionné que malgré le nombre impressionnant de pages, ça reste du bien
 concentré!
 
 Je me suis amusé à scroll dans le wall of text créé par les star quotes.
 En tout, j'ai recueilli 307 citations dans ce review. Voici une façon de
 vous illustrer ce que ça représente:
 
-[image]
+{{< figure src="/img/star-quotes-graph.png" position="center" caption="" >}}
 
-En espérant que vous retirez autant de pépites de cette mine d'or que
+En espérant que vous retirerez autant de pépites de cette mine d'or que
 moi!
 
 {{< myrating rating="👍👍" >}}
