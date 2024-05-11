@@ -28,7 +28,7 @@ Auteurs: Steven L. McShane & Charles Benabou
 
 J'ai commencé à lire ce livre au mois de mars, et je l'ai terminé le 5
 mai. Il est aujourd'hui le 10 mai et je viens tout juste de finir de
-taper les star quotes pour ce review.
+réécrire les star quotes pour ce review.
 
 Ce livre est normalement utilisé dans les salles de classe de niveau
 supérieur en ressources humaines. Et ça paraît que le niveau est
