@@ -10,7 +10,6 @@ tags:
   #- 'fiction'
 aliases:
   - '/78'
-draft: true
 number: 78
 
 ---
