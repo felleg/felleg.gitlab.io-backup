@@ -27,7 +27,25 @@ Auteurs: Steven L. McShane & Charles Benabou
 
 # Review
 
-{{< myrating rating="👍" >}}
+J'ai commencé à lire ce livre au mois de mars, et je l'ai terminé le 5
+mai. Il est aujourd'hui le 10 mai et je viens tout juste de finir de
+taper les star quotes pour ce review.
+
+Ce livre est normalement utilisé dans les salles de classe de niveau
+supérieur en ressources humaines. Et ça paraît que le niveau est
+supérieur. Malgré le nombre impressionnant de pages, ça reste du bien
+concentré!
+
+Je me suis amusé à scroll dans le wall of text créé par les star quotes.
+En tout, j'ai recueilli 307 citations dans ce review. Voici une façon de
+vous illustrer ce que ça représente:
+
+[image]
+
+En espérant que vous retirez autant de pépites de cette mine d'or que
+moi!
+
+{{< myrating rating="👍👍" >}}
 
 ---
 
@@ -103,7 +121,7 @@ Auteurs: Steven L. McShane & Charles Benabou
       changements de rôles et de compétences)
     - l'organisation du travail
     - l'établissement de nouvelles structures
-    - le changement de culture de l'entreprise dû aux novueaux modes de
+    - le changement de culture de l'entreprise dû aux nouveaux modes de
       fonctionnement
     - la prise de décision
 1. (p. 77) Toutes les entreprises finissent par subir l'influence des
@@ -112,7 +130,7 @@ Auteurs: Steven L. McShane & Charles Benabou
 1. (p. 80) **Légitimité**: La capacité d'une organisation de se faire
    reconnaître comme acceptable pour la société, tant dans ses objectifs
    que dans ses pratiques ou ses résultats. Cette capacité influence
-   directement sa liberté d'Action.
+   directement sa liberté d'action.
 1. (p. 81) La légitimité se mérite et doit être entretenue, pour éviter
    de la perdre.
 1. (p. 81) La **gouvernance** fait référence à la capacité d'une
@@ -1189,87 +1207,178 @@ subordonné.
     - l'innovation et la tradition
     - la circulation de l'information (restreinte ou large)
     - la prise de décision (par consensus ou autoritaire)
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
+1. (p. 641) Même si leurs cultures diffèrent d'une manière importante,
+   deux sociétés peuvent former une union durable si elles utilisent une
+   stratégie de fusion appropriée.
+1. (p. 642) :star: **[Les stratégies de fusion]**(https://felx.cc/.cc/tUF)
+1. (p. 643) :star: Les changements sont efficaces quand ils deviennent
+   "la manière dont on fait les choses ici."
+1. (p. 643) **Étapes de création de changement**:**
+    1. Les chefs d'entreprise doivent rendre leurs employés conscients
+       de l'urgence de changement
+    1. Les chefs doivent "dégeler" la culture existante en éliminant les
+       artéfacts qui la symbolisent
+    1. "Recongeler" la nouvelle culture en y introduisant des artéfacts
+       qui véhiculent et renforcent les nouvelles valeurs
+1. (p. 644) :star: "L'une des choses que j'ai pu faire en tant qu'étrangère à
+   la société a été de la remettre en question." -Carly Fionira,
+   Hewlett-Packard
+1. (p. 645) :star: :star: Les sociétés maintiendront une culture forte s'ils
+   socialisent leurs nouvelles recrues pour communiquer les valeurs
+   dominantes de l'organisation.
+1. (p. 647) :star: L'origine culturelle explique mieux les valeurs et
+   les attitudes au travail de chacun que ne le font d'autres variables
+   comme le niveau hiérarchique, l'âge ou le sexe.
+1. (p. 648) **Cinq dimensions principales de la culture**:
+    - Individualisme et collectivisme
+    - Distance hiérarchique
+    - Élimination de l'incertitude
+    - Masculinité-Féminité
+    - La dimension temporelle
+1. (p. 648) Certaines personnes ou cultures favorisent à la fois
+   l'_individualisme_ & un haut degré de _collectivisme_ (e.g. au
+   Pérou). Ces deux valeurs peuvent coexister.
+1. (p. 650)
+    - Les cultures "masculines" privilégient le travail comme moyen de
+      s'affirmer.
+    - Dans les cultures "féminines", on voit le travail comme une
+      occasion de créer des relations de coopération et de cordialité
+      avec autrui. La préservation de son environnement et la qualité de
+      vie au travail dont d'autres caractéristiques.
+1. (p. 656) La **culture** est avant tout un processus de communication
+   qui opère à trois niveaux:
+    - technique (la communication verbale ou écrite)...
+    - formel (par les règlements)...
+    - informel (langage non verbal, par exemple)...
+        - ces trois éléments, dans un contexte défini.
+1. (p. 657) Chaque organisation a une culture temporelle, c'est-à-dire
+   sa façon de concevoir et d'organiser quelques éléments du temps,
+   comme:
+    - les échéances
+    - la ponctualité
+    - la planification (à court ou long terme)
+    - le temps personnel
+    - le temps de travail
+1. (p. 658) Chaque culture se distingue des autres par les solutions
+   spécifiques qu'elle apporte à certains problèmes:
+    - problèmes liés à nos relations avec les autres
+    - problèmes qui reviennent du temps
+    - problèmes en relation avec l'environnement
+1. (p. 659) La globalisation est quelque chose de bien et de souhaitable
+   par rapport à la territorialité et à l'isolement si elle
+   s'accompagne d'un fort respect des identités.
+1. (p. 659) :star: :star: :star: :star: :star: "Je changerai de
+   démarche, de culture, mais pas de convictions."
+1. (p. 672) Deux types de gestion de changement qui s'offrent aux
+   organisations et à leurs dirigeants:
+    - le changement graduel
+    - le changement radical
+1. (p. 672) :star: Les dangers du changement graduel:
+    - aveuglément face à la nouveauté
+    - culture difficile à changer
+    - arrogance
+1. (p. 672) Les dangers du changement radical:
+    - changer pour changer
+    - décisions à trop grands risques
+    - conflits
+1. (p. 676) :star: La résistance du personnel au changement est le
+   symptôme d'un problème et non sa cause 
+1. (p. 676) Si la démarche intellectuelle des personnes concernées
+   aboutit à une analyse et à des conclusions différentes de celles de
+   l'agent de changement, le leader peut composer avec cette
+   "résistance" grâce à:
+    - l'écoute active
+    - le débat
+    - des arguments rationnels et bien documentés
+    - en demandant l'avis de consultants externes
+    - en montrant l'urgence de changer
+1. (p. 678) **Six manières de surmonter la résistance au changement du
+   personnel**:
+   - en premier lieu:
+        - la communication
+        - la formation
+        - la participation du personnel
+    - nécessaires lorsque la résistance est politique et que la rapidité
+      de la mise en œuvre du changement est cruciale:
+        - la négociation
+        - la contrainte
+1. (p. 678) La **communication** est la stratégie la plus importantes
+   dans tout changement organisationnel:
+    - Elle informe les employés sur:
+        - ce qu'ils doivent attendre de l'effort de changement
+        - les progrès réalisés
+    - Elle réduit la peur de l'inconnu
+    - Elle permet de véhiculer la nouvelle vision de la direction à tous
+      les niveaux de l'entreprise
+1. (p. 680) La participation du personnel à la mise en œuvre du
+   changement réduit efficacement les problèmes liés à la peur de
+   l'inconnu et maintien l'estime de soi des individus
+1. (p. 680) Les **séminaires** (sessions de travail sur plusieurs jours
+   auxquelles participent tous les groupes de l'organisation pour
+   déterminer les tendances futures de l'environnement et établie des
+   stratégies pour l'entreprise) ne peuvent être efficaces que si les
+   participants sont créatifs et que les décideurs font un suivi des
+   idées émises.
+1. (p. 681) Les deux-tiers des grandes entreprises ayant introduit un
+   changement radical ont dû remplacer une partie ou l'ensemble de leurs
+   cadres supérieurs.
+1. (p. 681) :star: :star: Le remplacement d'employés est une forme radicale de
+   "désapprentissage" (puisqu'ils partent avec leur connaissance de
+   l'entreprise), mais elle facilite l'adoption de nouvelles pratiques.
+1. (p. 681) La contrainte est une stratégie risquée, car les employés
+   encore à l'emploi peuvent perdre confiance en la direction.
+1. (p. 681) De manière générale, les diverses formes de contrainte
+   suscitent la conformité, mais pas nécessairement l'adhésion au
+   changement.
+1. (p. 681) Le processus de changement doit commencer avec la
+   transmission de ce sentiment d'urgence, appuyé par la diffusion au
+   personnel de ces changements externes (actuels et à venir) et de la
+   situation de l'entreprise au regard de ceux-ci, par exemple:
+    - l'état de la concurrence
+    - les changements des goûts des clients
+    - les nouvelles réglementations gouvernementales
+1. (p. 682) "Durant une réunion avec les employés, Joel Kocher a lu la
+   lettre d'un client en colère. Certains employés ont eu une réaction
+   défensive. Alors, à la surprise de tous, Kocher fait entrer le client
+   qui a écrit la lettre. Il était très intéressant de remarquer la
+   métamorphose qui s'est produite dans ce groupe de plusieurs centaines
+   de personnes. Le client a pu expliquer comment les erreurs de notre
+   organisation avaient causé des problèmes à son entreprise et à
+   lui-même."
+1. (p. 682) Tout changement organisationnel nécessite des agents de
+   changement. Un **agent de changement** est toute personne possédant
+   assez de connaissances et de pouvoir pour mener à bien l'effort de
+   changement.
+1. (p. 683) :star: On peut changer tout ce qui est mesurable.
+1. (p. 687) **Les postulats et les valeurs qui sous-tendent le
+   développement organisationnel:**
+    - Le petit groupe de travail est la cellule de base du bon
+      fonctionnement de l'organisation
+    - Le consultant, à l'éthique irréprochable, doit responsabiliser le
+      groupe et l'outiller pour qu'il puisse travailler par la suite de
+      façon autonome et motivée
+    - La collaboration entre les divers groupes et différents niveaux
+      hiérarchiques est requise
+    - Le développement des individus n'est *pas* incompatible avec
+      l'efficacité (humaine/organisationnelle)
+1. (p. 689) Dans la **méthode de l'analyse positive**, l'accent est mis
+   sur les succès passés et futurs des groupes.
+1. (p. 689) :star: L'analyse positive est très utile lorsque les participants
+   sont conscients de leurs "problèmes" ou qu'ils ont déjà vécu suffisamment de sentiments négatifs dans leurs
+   relations.
+1. (p. 689) :star: **Processus d'analyse positive**:
+    1. **Découverte**: Redécouvrir les aspects positifs de son
+       organisation à travers les récits de divers acteurs (employés,
+       clients, fournisseurs)
+    1. **"Rêve"**: Imaginer à quoi ressemblerait une organisation idéale
+    1. **Conception**: Engager le dialogue pour concevoir une entreprise
+       renouvelée
+    1. **Concrétisation**: Établir des objectifs pour concrétiser le
+       projet imaginé
+1. (p. 690) Chrysler Canada a pratiqué une forme de méthode de l'analyse
+   positive en commençant chaque réunion avec le récit d'une réussite.
+1. (p. 692) Les organisations qui réussissent sont celles qui ont su
+   anticiper/provoquer le changement, et qui ont mis la gestion des
+   ressources humaines parmi les priorités.
+1. (p. 692) :star: :star: :star: :star: :star: Les organisations sont d'abord les gens qui en font
+   partie!
