@@ -1122,5 +1122,154 @@ subordonné.
    faire (ou pas) les choses. Elles donnent un aspect humain et réaliste
    aux attentes des entreprises et la manière dont les choses devraient
    fonctionner dans l'organisation.
+1. (p. 632) Les récits fournissent la réponse aux questions suivantes:
+    - Comment le patron réagit-il face aux erreurs?
+    - Quels événements justifient le renvoi d'un employé?
+    - Qui peut enfreindre les règlements?
+    - Comment fait-on pour grandir les échelons hiérarchiques?
+    - Quel degré de soutien les employés peuvent-ils atteindre de
+      l'organisation lors d'une fusion ou autre événement?
+    - Comment l'organisation fait-elle face aux crises?
+1. (p. 632) Les **rituels** sont les interactions sociales répétitives
+   qui mettent en évidence la culture de l'organisation.
+1. (p. 632) Les **cérémonies** sont des artéfacts plus formels que les
+   rituels.
+1. (p. 633) :star: La manière dont les employés s'adressent à leurs
+   collègues, décrivent les clients ou expriment leur colère est
+   hautement symbolique des valeurs de l'organisation.
+1. (p. 633) **"Culture de PowerPoint"**: Critique de la culture
+   hiérarchique où la communication est à sens unique (dirigeants ->
+   employés). Les employés se voient comme ce "public" qui a rarement la
+   possibilité d'exprimer ses opinions ou ses préoccupations à la haute
+   direction ("présentateurs")
+1. (p. 635) :star: Une culture organisationnelle est forte quand la
+   majorité des employés adoptent les valeurs dominantes de
+   l'organisation. Les cultures fortes sont durables.
+1. (p. 635) :star: :bulb: Des études ont révélé un lien positif *modeste*
+   entre une forte culture et le succès. Une raison pour ce faible lien
+   est qu'une culture forte améliore la performance de l'organisation
+   seulement si le contenu culturel est approprié à son environnement.
+1. (p. 636) Une culture très forte a tendance à étouffer les valeurs des
+   sous-cultures différentes dans l'organisation, qui pourraient
+   s'avérer pourtant utiles à mesure que l'environnement de
+   l'organisation se transforme.
+1. (p. 636) À court terme, une culture forte peut étouffer les conflits
+   constructifs.
+1. (p. 637) :star: Une organisation a plus de chances de réussir si sa
+   culture demeure souple.
+1. (p. 637) Une culture souple se concentre sur l'extérieur. Les
+   employés embrassent un modèle mental commun, selon lequel la réussite
+   de l'organisation dépend de sa capacité à changer. :star: Le
+   personnel croit que **le changement est à la fois nécessaire et
+   inévitable.**
+1. (p. 637) Dans une culture souple:
+    - les employés accordent autant d'attention au fonctionnement qu'aux objectifs de l'organisation
+    - ils améliorent sans cesse les processus internes
+    - ils se sentent responsables de la performance de l'entreprise.
+1. (p. 637) :star: **"C'est notre boulot"**, plutôt que *"ce n'est pas mon
+   boulot".*
+1. (p. 637) Les employés des cultures souples cherchent activement de
+   nouvelles possibilités au lieu d'attendre qu'elles viennent à eux.
+   Ils agissent rapidement afin d'apprendre par la découverte plutôt que
+   de céder à l'"analyse qui paralyse."
+1. (p. 638) La culture de l'entreprise doit être compatible avec les
+   valeurs éthiques de la société et ne pas être forte au point de
+   brimer la liberté individuelle.
+1. (p. 639) Les employés sont des *victimes* d'une culture d'entreprise
+   quand ils:
+    - travaillent de longues heures
+    - ont peu d'amis en dehors du milieu de travail
+    - manifestent une attitude émotive à l'égard de leur emploi
+    - n'arrivent plus à distinguer "qui je suis" de "ce que je fais"
+1. (p. 639) L'**audit biculturel** consiste à comparer les cultures de
+   deux entreprises avant une fusion afin de déterminer dans quelles
+   mesures ces cultures seront compatibles. Cette analyse culturelle
+   fait vraiment partie du devoir de diligence raisonnable.
+1. (p. 640) [The Canadian Workplace Culture Index](https://www.cultureindex.io) permet d'évaluer les cultures des entreprises prévoyant fusionner. Les dimensions comparées:
+    - l'innovation et la tradition
+    - la circulation de l'information (restreinte ou large)
+    - la prise de décision (par consensus ou autoritaire)
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
 1. (p. 
 1. (p. 
