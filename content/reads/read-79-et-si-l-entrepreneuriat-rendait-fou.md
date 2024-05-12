@@ -19,7 +19,7 @@ Release year: 2024
 
 Author: [Dominic Gagnon](https://www.linkedin.com/in/dominicgagnon/?originalSubdomain=ca) & [Isabelle Naessens](https://www.linkedin.com/in/isabelle-naessens-148bb9205/)
 
-{{< mesnotes link="" >}}
+{{< mesnotes link="https://drive.google.com/file/d/1WGvqR81n8hYYNtVT_Z-69Airjv0RR5R9/view?usp=sharing" >}}
 
 {{< buythisbook link="https://amzn.to/4btTj1X" >}}
 
