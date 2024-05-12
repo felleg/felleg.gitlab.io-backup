@@ -44,7 +44,7 @@ Author: [Dominic Gagnon](https://www.linkedin.com/in/dominicgagnon/?originalSubd
 1. (p. 22) L'imagine de l'"entrepreneur" crée un fardeau invisible mais
    écrasant: celui de devoir paraître fort même quand on est au bord de
    l'effondrement.
-1. (p. 28)La **neurodiversité** n'est pas une question de fragilité ou
+1. (p. 28) La **neurodiversité** n'est pas une question de fragilité ou
    de santé précaire: c'est le mode de pensée qui est *différent*.
 1. (p. 29) La santé globale de l'entrepreneur est le premier capital
    immatériel de la PME. Quand la santé est défaillante, celle de
@@ -104,7 +104,92 @@ Author: [Dominic Gagnon](https://www.linkedin.com/in/dominicgagnon/?originalSubd
    groupe qui l'a déjà fait. Ça va être plus facile.
 1. (p. 115) :star: :star: Boire et consommer excessivement c'est une
    chose, mais se cacher pour le faire, c'est dangereux.
-1. (p. 118)
+1. (p. 118) Une mauvaise santé mentale pousse à faire des choix
+   impulsifs, mal informés ou irréfléchis qui peuvent rapidement avoir
+   un impact sur les opérations, la stratégie et le positionnement de
+   l'entreprise.
+1. (p. 129) La procrastination demeure une faiblesse majeure des
+   personnes atteintes du TDAH. **La procrastination est due à**:
+    - des distractions
+    - de la volonté d'éviter la douleur ou les difficulté
+    - simplement un manque d'intérêt
+1. (p. 130) :star: Une stratégie pour dompter la procrastination
+   consister à alterner les activités que vous n'aimez pas et celles que
+   vous appréciez d'avantage.
+1. (p. 139) Un **psychologue d'affaire** peut vous épauler grâce à sa
+   connaissance de la business, son habilité à prendre du recul et
+   mesurer la pression et l'état de votre santé mentale.
+1. (p. 145) :star: La vocation, c'est d'avoir comme métier sa passion.
+1. (p. 147) **Caractéristiques majeures de la douance:**
+    - Fort potentiel intellectuel (+130 QI)
+    - Très forte sensibilité ou hypersensibilité
+    - Vitesse de traitement de l'information très rapide
+1. (p. 147) La sensibilité accrue des personnes douées peut être un
+   atout, surtout en ce qui concerne la gestion d'une équipe ou
+   l'interaction avec des clients.
+1. (p. 150) Le désir de perfection des doués peut être à double
+   tranchant. Bien qu'il puisse conduire à des normes de qualité
+   élevées, il peut également causer de l'anxiété et de l'épuisement.
+1. (p. 150) La sensibilité qui rend les personnes douées si empathiques
+   peut aussi les rendre plus vulnérables aux critiques. Apprendre à
+   gérer cette sensibilité s'avère parfois crucial pour obtenir un
+   succès entrepreneurial.
+1. (p. 161) "La liste des tâches à faire, quand c'est moi qui les écris,
+   ça change tout: je les termine!
+1. (p. 161) :star: La **douance** est la rapidité dans la tête.
+1. (p. 179) "If you *have* to fail, fail fast!"
+1. (p. 191) :star: Le meilleur moyen de trouver du soutien est de parler
+   de santé mentale avec son entourage.
+1. (p. 191) :star: Il est impératif de faire part à nos proches de notre
+   vulnérabilité et de leur permettre de nous accompagner dans nos
+   moments difficiles.
+1. (p. 192) Demander de l'aide doit être considéré comme un signe de
+   force et non de faiblesse.
+1. (p. 193) Vous avez embauché comptables, avocats et autres
+   professionnels pour accomplir des tâches que vous ne pouvez pas faire
+   vous-mêmes, alors, en quoi cela devrait-il être différent dans le
+   domaine de la santé mentale?
+1. (p. 195) Prenez soin de vous, et votre entreprise prendra soin
+   d'elle-même.
+1. (p. 195) 30% des start-ups échouent en raison de l'état émotionnel
+   des fondateurs.
+1. (p. 196) :star: L'insomnie et le manque de sommeil ne devraient
+   jamais être pris à la légère.
+1. (p. 197) En décidant de dormir moins pour travailler plus, les
+   entrepreneurs créent les conditions de leurs propres échecs.
+1. (p. 197) :star: Le sommeil est capital dans la maîtrise des émotions.
+1. (p. 198) :star: Assurez-vous, dans votre routine d'avant-sommeil,
+   d'éteindre votre téléphone et votre ordinateur au moins une heure
+   avant d'aller dormir au lit.
+1. (p. 200) Si vous êtes le plus grand atout de votre entreprise, il est
+   donc logique de prendre soin de votre bien-être et de votre santé.
+1. (p. 201) Manifester un style de vie positif aura un impact sur tous
+   les aspects de votre entreprise. Cela incitera les membres de votre
+   équipe et vos collègues à adopter la même approche.
+1. (p. 202) Si votre identité est votre entreprise, vous risquez de
+   souffrir lorsque vous la vendrez ou qu'elle ira mal.
+1. (p. 214) :star: :star: Demander, "qu'est-ce qui t'empêche de dormir
+   la nuit?" est la meilleure façon de savoir ce qui se passe dans la
+   vie de quelqu'un, ce qui ne tourne pas rond chez lui.
+1. (p. 217) Vous avez besoin de différents types de soutien dans votre
+   entourage. Vous avez besoin de parler à des personnes qui vivent ou
+   ont vécu ce que vous vivez et qui peuvent s'identifier à vous sur le
+   plan émotionnel.
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
 1. (p. 
 1. (p. 
 1. (p. 
