@@ -15,17 +15,86 @@ number: 79
 
 ---
 
-Release year: 2024
+Année de sortie: 2024
 
-Author: [Dominic Gagnon](https://www.linkedin.com/in/dominicgagnon/?originalSubdomain=ca) & [Isabelle Naessens](https://www.linkedin.com/in/isabelle-naessens-148bb9205/)
+Auteurs: [Dominic Gagnon](https://www.linkedin.com/in/dominicgagnon/?originalSubdomain=ca) & [Isabelle Naessens](https://www.linkedin.com/in/isabelle-naessens-148bb9205/)
 
 {{< mesnotes link="https://drive.google.com/file/d/1WGvqR81n8hYYNtVT_Z-69Airjv0RR5R9/view?usp=sharing" >}}
 
-{{< buythisbook link="https://amzn.to/4btTj1X" >}}
+{{< achetezcelivre link="https://amzn.to/4btTj1X" >}}
+
+Merci à Patrick pour cette recommendation. :heart:
 
 ---
 
 # Review
+
+Et si l'entrepreneuriat rendait fou? C'est une bonne question.
+
+Être un entrepreneur semble facile. Regardez les grands de ce monde:
+Elon Musk, Jeff Bezos, Bill Gates, Warren Buffet, Steve Jobs... Qui
+n'aurait pas envie d'échanger sa place avec n'importe lequel d'entre
+eux? Le succès, l'argent, le prestige, ça se prend bien, et il est
+parfois difficile de voir l'envers de la médaille, quand cette médaille
+est cachée au sommet d'une pyramide inaccessible. L'essentiel du travail
+d'un entrepreneur semble souvent d'avoir l'air fort peu importe la
+direction du vent; en un mot, être invincible. Or, la plupart des
+entrepreneurs semblent mal vivre leur rôle. Beaucoup finissent par
+craquer. Et c'est donc le sujet de ce livre: est-ce qu'on peut espérer
+être entrepreneur sans avoir à perdre la tête aussi? À vouloir être
+invincible, est-ce qu'on en devient fou?
+
+Le livre est structuré comme un documentaire où des invités viennent
+nous faire part de témoignages touchants sur leur expérience en tant
+qu'entrepreneur. Si vous habitez au Québec, vous risquez de reconnaître
+certains d'entre eux:
+
+- Dominic Gagnon
+- Isabelle Naessens
+- Nathaly Riverin (École d'entrepreneurship de Beauce, Think Tank, Rouge
+  Canari, projet Persévérance entrepreneuriale)
+- Louis-Félix Binette (Mouvement des accélérateurs d'innovation du
+  Québec (MAIN))
+- Caroline Bergeron (Aro)
+- Simon Litalien (Agence Kabane)
+- Jean-Philippe Sicard (Ton Équipier)
+- Marie-Christine Martel (Thaïzone)
+- Christian Genest (Sushi Taxi, Buddha-Station, FISH)
+- Edouard Reinach (Trampoline AI)
+- Luc Giguère
+- Martin Coutu (QuebecPunkScene.net, Lepointdevente.com)
+
+Qu'est-ce qu'un entrepreneur, au fond? Au fil de cette lecture, ce que
+j'ai trouvé intéressant est qu'on retrouve le fait que l'entrepreneur,
+avant tout, c'est un être humain comme vous et moi. Il n'est pas à
+l'abri des maladies qui courent, ni physiques, ni mentales. Si l'argent
+peut aider à guérir les maladies physiques tangibles et visibles, c'est
+un lien plus difficile à faire pour les maladies mentales. En fait, pour
+les raisons qu'on connait, les risques de vivre une maladie mentale sont
+multipliés quand on décide de suivre la voie de l'entrepreneuriat.
+
+Parler de santé mentale en 2024 n'est pas nouveau. Si vous remplacez le
+mot "entrepreneur" par "quelqu'un" dans les citations qui suivent ce
+review, la vérité ne sera pas affectée. Ce qui est nouveau dans cette lecture, c'est que de vrais entrepreneurs
+respectés prennent la parole à visage découvert pour nous dire qu'ils ont fait l'erreur
+de se négliger pour le bénéfice de leur entreprise. Cela a eu des
+impacts négatifs sur tous les plans de leur vie, incluant leur
+entreprise. Immanquablement, le manque de sommeil, la pression de
+performance et l'absence de filet social contribuent à pousser n'importe
+qui au fond du baril.
+
+Un fondateur d'entreprise, ce n'est pas un sommet de pyramide; c'est une
+racine d'arbre. S'il cesse de fonctionner, l'arbre au complet risque de
+mourir.
+
+Le message est bon, et il est vrai. Il est grand temps en effet de
+briser le tabou sur la santé mentale dans le domaine de
+l'entrepreneuriat. Toutefois, selon moi ce n'est qu'un
+tremplin vers un sujet qui nous concerne tous: *notre* santé mentale.
+
+Se sentir bien dans sa tête, c'est un besoin pour tout le monde. Je suis
+passé par là aussi. Si vous voulez qu'on s'en parle, il me fera plaisir
+de vous répondre (felix@felixleger.com).
 
 {{< myrating rating="👍" >}}
 
@@ -175,32 +244,82 @@ Author: [Dominic Gagnon](https://www.linkedin.com/in/dominicgagnon/?originalSubd
    entourage. Vous avez besoin de parler à des personnes qui vivent ou
    ont vécu ce que vous vivez et qui peuvent s'identifier à vous sur le
    plan émotionnel.
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
+1. (p. 218) La solitude professionnelle conduit à l'épuisement
+   professionnel.
+1. (p. 218) Les relations humaines sont un besoin, et bâtir une
+   communauté auprès de laquelle on peut demander du soutien est vital
+   dans toutes les facettes de la vie.
+1. (p. 223) Les investisseurs, dans leur processus d'intégration avec
+   les fondateurs, devraient explicitement mentionner leur soutien à la
+   recherche de services en santé mentale par les fondateurs quand
+   ceux-ci se sentent obligés de le faire.
+1. (p. 223) :star: Si vous souhaitez que les entrepreneurs parlent
+   aisément de leur santé mentale, vous devez vous aussi être
+   authentique et vulnérables devant eux.
+1. (p. 223) Arrêtez de publier des messages sur les réseaux sociaux qui
+   mettent en valeur le fait de travailler fort plutôt
+   qu'intelligemment.
+1. (p. 223) Vous avez dû investir massivement en vous-même pour survivre
+   au voyage. Sans tomber dans le sensationnalisme, faites en sorte que
+   ceux qui liront l'histoire de votre succès comprennent comment vous y
+   êtes réellement arrivé.
+1. (p. 224) Les budgets sont des documents moraux et ils fixent les
+   priorités de l'entreprise. S'il n'y a rien pour soutenir le bien-être
+   mental, physique et/ou émotionnel des fondateurs et des employés,
+   alors l'entreprise sera dépourvue des ressources nécessaires pour
+   fournir ce type de soutien.
+1. (p. 225) Encourager les fondateurs à se verser un salaire, même s'il
+   est modeste, est un premier pas essentiel. En offrant aux fondateurs
+   la sécurité financière nécessaire pour payer leurs factures et
+   protéger leur famille, vous éliminez une source majeure d'anxiété.
+1. (p. 228) Lorsque vous croyez que l'un de vos entrepreneurs fait face
+   à des défis de santé mentale, il est de *votre* responsabilité de
+   prendre des mesures:
+    - Faites-lui comprendre que votre préoccupation va au-delà de
+      l'impact sur l'entreprise, car vous êtes soucieux de son bien-être
+      personnel.
+    - Évitez de lui faire sentir que son "état" vous inquiète
+      uniquement en raison des répercussions financières possibles.
+1. (p. 233) Votre rôle n'est pas de jouer au thérapeute, mais d'être une
+   oreille attentive et un bon observateur vigilant. Si votre patron
+   prend des décisions impulsives qui affectent négativement
+   l'entreprise, une intervention discrète mais directe peut être
+   nécessaire.
+1. (p. 235)
+    - Il est impératif de reconnaître le courage d'un employé qui décide
+      de se confier sur ses problèmes de santé mentale. Cela l'expose
+      à une grande vulnérabilité et mérite d'être accueilli avec
+      respect et sensibilité.
+    - Bien que vous soyez peut-être tenté de partager ce qu'on vous a
+      confié avec d'autres membres de l'organisation, que ce soit pour
+      vous rassurer vous-mêmes ou pour solliciter un avis, il est de
+      votre responsabilité de protéger la vie privée de votre personnel
+      et d'éviter toute forme de stigmatisation ou de jugement.
+    - :star: Dans certains cas, l'employé peut vous donner la permission
+      ou même vous demander d'en informer les autres. Le cas échéant,
+      assurez-vous de l'expliquer clairement dans toutes vos
+      communications, pour que personne ne croie que vous parlez dans le
+      dos de cet employé.
+1. (p. 236) Il faut un courage énorme pour annoncer à son patron que
+   l'on a des soucis de santé mentale. N'oubliez pas de remercier
+   sincèrement cette personne de sa franchise tout en évitant de
+   dramatiser la situation.
+1. (p. 239) Il est naturel d'avoir envie de dire à un employé qui vient
+   de se confier à vous que vous ferez tout pour l'aider. Cependant,
+   vous devez rester attentif et mesuré. Il est possible que cette
+   personne vous fasse part de ses inquiétudes simplement pour vous en
+   informer, sans nécessairement s'attendre à des changements immédiats
+   dans sa charge de travail ou son emploi du temps.
+1. (p. 240) Lorsqu'un employé se confie sur ses problèmes de santé
+   mentale, résistez à la tentation de ramener la conversation à vos
+   propres expériences. Bien que vous ayez pu expérimenter des
+   situations similaires, chaque personne vit et ressent ses troubles
+   mentaux différemment. Il est donc important de ne pas supposer que
+   vous comprenez pleinement ce qu'éprouve autrui.
+1. (p. 242) :star: Si vous occupez un poste de haut niveau dans votre
+   organisation, vous devriez considérer l'impact positif que peut avoir
+   le partage de vos expériences personnelles en matière de santé
+   mentale.
+1. (p. 250) La santé mentale ne devrait pas être un sujet tabou. Chaque
+   entrepreneur, quel que soit son niveau de réussite, peut éprouver des
+   problèmes de santé mentale.
