@@ -7,6 +7,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-46-crucial-conversations', '/46']
 number: 46
 author: Joseph Grenny
+rating: 👍👍
 
 ---
 

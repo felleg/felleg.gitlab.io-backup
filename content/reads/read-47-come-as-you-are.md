@@ -7,6 +7,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-47-come-as-you-are', '/47']
 author: Emily Nagoski
 number: 47
+rating: 👍👍
 ---
 
 Release year: 2015

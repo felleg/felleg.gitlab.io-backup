@@ -8,6 +8,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-31-mastery', '/31']
 number: 31
 author: Robert Greene
+rating: 👍
 
 ---
 

@@ -8,6 +8,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/64']
 number: 64
 author: Gergely Orosz
+rating: 👍
 
 ---
 {{< partial "mathjax_support" >}}

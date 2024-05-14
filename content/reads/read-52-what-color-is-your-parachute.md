@@ -7,6 +7,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-52-what-color-is-your-parachute', '/52']
 number: 52
 author: Richard N. Bolles
+rating: 👍👍
 
 ---
 

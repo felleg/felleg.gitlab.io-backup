@@ -8,6 +8,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-37-reinventing-organizations', '/37']
 number: 37
 author: Frédéric Laloux
+rating: 👍
 
 ---
 

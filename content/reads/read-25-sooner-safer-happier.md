@@ -8,6 +8,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-25-sooner-safer-happier', '/25']
 number: 25
 author: Jonathan Smart et al.
+rating: 👍👍
 
 ---
 

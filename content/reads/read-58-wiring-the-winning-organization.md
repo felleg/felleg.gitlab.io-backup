@@ -7,6 +7,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-58-wiring-the-winning-organization', '/58']
 number: 58
 author: Kim & Spear
+rating: 👍👍
 
 ---
 

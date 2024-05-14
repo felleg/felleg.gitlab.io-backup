@@ -8,6 +8,7 @@ aliases:
   - '/68'
 number: 68
 author: Morgan Housel
+rating: 👍
 
 ---
 

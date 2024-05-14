@@ -8,6 +8,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-19-accelerate', '/19']
 number: 19
 author: Forsgren, Humble, Kim
+rating: 👍
 
 ---
 

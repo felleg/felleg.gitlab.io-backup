@@ -9,6 +9,7 @@ aliases: ['/books/book-18-building-successful-communities-of-practice',
 '/18']
 number: 18
 author: Emily Webber
+rating: 👍
 
 ---
 

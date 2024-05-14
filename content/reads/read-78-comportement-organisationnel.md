@@ -11,6 +11,7 @@ tags:
 aliases:
   - '/78'
 number: 78
+rating: 👍👍
 
 ---
 

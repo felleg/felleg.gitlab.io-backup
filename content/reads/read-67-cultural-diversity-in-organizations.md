@@ -8,6 +8,7 @@ aliases:
   - '/67'
 number: 67
 author: Taylor Cox, Jr.
+rating: 👍👍
 
 ---
 

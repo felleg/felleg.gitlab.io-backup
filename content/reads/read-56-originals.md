@@ -7,6 +7,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-56-originals', '/56']
 number: 56
 author: Adam Grant
+rating: 👍
 
 ---
 

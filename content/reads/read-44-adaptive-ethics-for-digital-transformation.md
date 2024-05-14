@@ -9,6 +9,7 @@ aliases: ['/books/book-44-adaptive-ethics-for-digital-transformation',
 '/44']
 number: 44
 author: Mark Schwartz
+rating: 👍
 
 ---
 

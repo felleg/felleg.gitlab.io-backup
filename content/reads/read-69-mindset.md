@@ -8,6 +8,7 @@ aliases:
   - '/69'
 number: 69
 author: Carol S. Dweck
+rating: 👍
 
 ---
 

@@ -8,6 +8,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-29-execution', '/29']
 number: 29
 author: Bossidy and Charran
+rating: 👎
 
 ---
 

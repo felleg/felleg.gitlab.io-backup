@@ -8,6 +8,7 @@ tags: ['reads', 'fiction']
 aliases: ['/books/book-41-1-the-phoenix-project', '/41']
 number: 41 
 author: Gene Kim
+rating: 👍👍
 
 ---
 

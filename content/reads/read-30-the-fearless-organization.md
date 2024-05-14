@@ -8,6 +8,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-30-the-fearless-organization', '/30']
 number: 30
 author: Amy C. Edmondson
+rating: 👍👍
 
 ---
 

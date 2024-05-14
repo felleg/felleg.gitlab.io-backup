@@ -8,6 +8,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-26-start-with-why', '/26']
 number: 26
 author: Simon Sinek
+rating: 👍
 
 ---
 

@@ -7,6 +7,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-63-drive', '/63']
 number: 63
 author: Daniel H. Pink
+rating: 👍
 
 ---
 

@@ -12,6 +12,7 @@ aliases:
   - '/73'
 number: 73
 author: Gaëtan Namouric
+rating: 👍👍
 
 ---
 

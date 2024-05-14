@@ -8,6 +8,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-40-atomic-habits', '/40']
 number: 40
 author: James Clear
+rating: 👍
 
 ---
 

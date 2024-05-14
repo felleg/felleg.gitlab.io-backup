@@ -7,6 +7,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/65']
 number: 65
 author: Henrik Kniberg
+rating: 👍
 
 ---
 

@@ -7,6 +7,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-54-why-has-nobody-told-me-this-before', '/54']
 number: 54
 author: Julie Smith
+rating: 👍👍
 
 ---
 

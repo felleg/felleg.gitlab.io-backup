@@ -8,6 +8,7 @@ tags: ['reads', 'nonfiction', 'lectures']
 aliases: ['/books/book-10-la-facture-amoureuse', '/10']
 number: 10
 author: Pierre-Yves McSween
+rating: 👍
 
 ---
 

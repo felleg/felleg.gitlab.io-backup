@@ -8,6 +8,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-05-millionaire-teacher', '/5']
 author: Andrew Hallam
 number: 5
+rating: 👍
 ---
 
 Release year: 2011

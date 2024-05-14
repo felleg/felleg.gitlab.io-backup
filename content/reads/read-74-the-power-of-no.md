@@ -11,6 +11,7 @@ aliases:
   - '/74'
 number: 74
 author: Abbie Headon
+rating: 👍
 
 ---
 

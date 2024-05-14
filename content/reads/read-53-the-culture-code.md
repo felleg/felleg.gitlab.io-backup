@@ -7,6 +7,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-53-the-culture-code', '/53']
 number: 53
 author: Daniel Coyle
+rating: 👍
 
 ---
 

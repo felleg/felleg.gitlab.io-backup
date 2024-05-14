@@ -7,6 +7,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-48-remote-not-distant', '/48']
 number: 48
 author: Gustavo Razzetti
+rating: 👍
 
 ---
 

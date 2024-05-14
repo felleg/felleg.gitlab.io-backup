@@ -8,6 +8,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-33-unlearn', '/33']
 number: 33
 author: Barry O' Reilly
+rating: 👍
 
 ---
 

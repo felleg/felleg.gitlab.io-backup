@@ -8,6 +8,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-43-when-they-win-you-win', '/43']
 number: 43
 author: Russ Laraway
+rating: 👍👍
 
 
 ---

@@ -11,6 +11,7 @@ aliases:
   - '/71'
 number: 71
 author: Peter Senge
+rating: 👍
 
 ---
 

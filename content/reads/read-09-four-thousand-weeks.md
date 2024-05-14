@@ -8,6 +8,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-09-four-thousand-weeks', '/9']
 author: Oliver Burkeman
 number: 9
+rating: 👍👍
 ---
 
 Release year: 2021

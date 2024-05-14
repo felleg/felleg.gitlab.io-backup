@@ -8,6 +8,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-35-the-fifth-discipline', '/35']
 number: 35
 author: Peter Senge
+rating: 👍👍
 
 ---
 

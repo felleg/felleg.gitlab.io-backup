@@ -8,6 +8,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-22-shape-up', '/22']
 number: 22
 author: Ryan Singer
+rating: 👍👍
 
 ---
 

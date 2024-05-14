@@ -11,6 +11,7 @@ tags:
 aliases:
   - '/75'
 number: 75
+rating: 👍👍
 
 ---
 

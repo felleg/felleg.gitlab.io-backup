@@ -7,6 +7,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-51-of-boys-and-men', '/51']
 number: 51
 author: Richard Reeves
+rating: 👍
 
 ---
 

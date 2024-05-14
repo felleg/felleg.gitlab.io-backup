@@ -8,6 +8,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-39-thinking-in-systems', '/39']
 number: 39
 author: Donella H. Meadows
+rating: 👍
 
 ---
 

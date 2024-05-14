@@ -8,6 +8,8 @@ tags: ['reads', 'fiction']
 aliases: ['/books/book-01-the-phoenix-project', '/1']
 author: Gene Kim
 number: 1
+rating: 👍👍
+
 ---
 
 Release year: 2014

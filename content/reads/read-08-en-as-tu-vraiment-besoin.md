@@ -8,6 +8,7 @@ tags: ['reads', 'nonfiction', 'lectures']
 aliases: ['/books/book-08-en-as-tu-vraiment-besoin', '/8']
 author: Pierre-Yves McSween
 number: 8
+rating: 👍
 ---
 
 Release year: 2018

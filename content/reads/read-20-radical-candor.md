@@ -8,6 +8,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-20-radical-candor', '/20']
 number: 20
 author: Kim Scott
+rating: 👍👍
 
 ---
 

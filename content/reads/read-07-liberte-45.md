@@ -8,6 +8,7 @@ tags: ['reads', 'nonfiction', 'lectures']
 aliases: ['/books/book-07-liberte-45', '/7']
 author: Pierre-Yves McSween
 number: 7
+rating: 👍
 ---
 
 Release year: 2020

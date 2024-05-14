@@ -7,6 +7,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-62-principles', '/62']
 number: 62
 author: Ray Dalio
+rating: 👍
 
 ---
 

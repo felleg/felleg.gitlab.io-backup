@@ -8,6 +8,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-11-team-topologies', '/11']
 number: 11
 author: Skelton & Pais
+rating: 👍
 
 ---
 

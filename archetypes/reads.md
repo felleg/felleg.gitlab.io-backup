@@ -12,6 +12,7 @@ aliases:
   - '/##'
 draft: true
 number: ##
+rating: 👍👍👎👎
 
 ---
 

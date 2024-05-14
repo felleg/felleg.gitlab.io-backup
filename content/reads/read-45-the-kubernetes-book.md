@@ -7,6 +7,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-45-the-kubernetes-book', '/45']
 number: 45
 author: Nigel Poulton
+rating: 👍
 
 ---
 

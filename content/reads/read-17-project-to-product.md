@@ -8,6 +8,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-17-project-to-product', '/17']
 number: 17
 author: Mik Kersten
+rating: 👍👍
 
 ---
 

@@ -8,6 +8,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-23-psycho-cybernetics', '/23']
 number: 23
 author: Maxwell Matlz
+rating: 👍
 
 ---
 

@@ -8,6 +8,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-42-a-simpler-way', '/42']
 number: 42
 author: Wheatley & Kellner-Rogers
+rating: 👍
 
 ---
 

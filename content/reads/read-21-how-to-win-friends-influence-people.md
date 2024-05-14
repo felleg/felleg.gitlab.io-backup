@@ -8,6 +8,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-21-how-to-win-friends-influence-people', '/21']
 number: 21
 author: Dale Carnegie
+rating: 👍👍
 
 ---
 
@@ -27,7 +28,7 @@ Groundbreaking for its time, and still relevant today. Good tips about
 how to listen to people and get them to think about your ideas. (Thanks
 Raymond for this recommendation!)
 
-{{< myrating rating="👍" >}}
+{{< myrating rating="👍👍" >}}
 
 
 ---

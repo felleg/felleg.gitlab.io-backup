@@ -8,6 +8,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-34-building-secure-reliable-systems', '/34']
 number: 34
 author: Header Adkins et al.
+rating: 👍
 
 ---
 

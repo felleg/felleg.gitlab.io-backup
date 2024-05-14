@@ -7,6 +7,7 @@ tags: ['reads', 'lectures', 'nonfiction']
 aliases: ['/books/book-60-par-amour-du-stress', '/60']
 number: 60
 author: Sonia Lupien
+rating: 👍
 
 ---
 

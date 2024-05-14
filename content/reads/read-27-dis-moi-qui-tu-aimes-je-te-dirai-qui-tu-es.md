@@ -9,6 +9,7 @@ aliases: ['/books/book-27-dis-moi-qui-tu-aimes-je-te-dirai-qui-tu-es',
 '/27']
 number: 27
 author: Marc Pistorio
+rating: 👍
 
 ---
 

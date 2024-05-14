@@ -8,6 +8,7 @@ aliases:
   - '/66'
 number: 66
 author: Jean-Jacques Pelletier
+rating: 👎
 
 ---
 

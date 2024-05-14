@@ -8,6 +8,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-28-the-hard-thing-about-hard-things', '/28']
 number: 28
 author: Ben Horowitz
+rating: 👍
 
 ---
 

@@ -8,6 +8,7 @@ tags: ['reads', 'fiction']
 aliases: ['/books/book-15-the-unicorn-project', '/15']
 number: 15
 author: Gene Kim
+rating: 👎
 
 ---
 

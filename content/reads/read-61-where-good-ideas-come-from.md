@@ -7,6 +7,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-61-where-good-ideas-come-from', '/61']
 number: 61
 author: Steven Johnson
+rating: 👍
 
 ---
 

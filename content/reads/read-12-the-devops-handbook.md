@@ -8,6 +8,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-12-the-devops-handbook', '/12']
 number: 12
 author: Gene Kim et al.
+rating: 👍👍
 
 ---
 

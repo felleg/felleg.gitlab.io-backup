@@ -8,6 +8,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-16-making-work-visible', '/16']
 number: 16
 author: Dominica DeGrande
+rating: 👍
 
 ---
 

@@ -11,6 +11,7 @@ tags:
 aliases:
   - '/76'
 number: 76
+rating: 👍
 
 ---
 

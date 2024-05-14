@@ -7,6 +7,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-55-the-48-laws-of-power', '/55']
 number: 55
 author: Robert Greene
+rating: 👍👍
 
 ---
 

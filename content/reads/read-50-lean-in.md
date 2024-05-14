@@ -7,6 +7,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-50-lean-in', '/50']
 number: 50
 author: Sheryl Sandberg
+rating: 👍
 
 ---
 

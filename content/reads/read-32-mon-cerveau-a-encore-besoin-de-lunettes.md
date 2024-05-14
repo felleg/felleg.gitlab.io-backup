@@ -9,6 +9,7 @@ aliases: ['/books/book-32-mon-cerveau-a-encore-besoin-de-lunettes',
 '/32']
 number: 32
 author: Annick Vincent
+rating: 👍
 
 ---
 

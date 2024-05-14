@@ -7,6 +7,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-49-ansible-for-devops', '/49']
 number: 49
 author: Jeff Geerling
+rating: 👍
 
 ---
 

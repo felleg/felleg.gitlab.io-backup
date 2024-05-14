@@ -8,6 +8,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-38-so-good-they-can-t-ignore-you', '/38']
 number: 38
 author: Cal Newport
+rating: 👍
 
 ---
 

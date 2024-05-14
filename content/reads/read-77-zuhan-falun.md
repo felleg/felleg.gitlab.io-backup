@@ -8,6 +8,7 @@ tags:
   - 'reads'
 aliases:
   - '/77'
+rating: 👎👎
 number: 77
 
 ---

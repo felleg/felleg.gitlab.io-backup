@@ -11,6 +11,7 @@ aliases:
   - '/70'
 number: 70
 author: Martin Seligman
+rating: 👍👍
 
 ---
 
