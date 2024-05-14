@@ -10,7 +10,6 @@ tags:
   #- 'fiction'
 aliases:
   - '/79'
-draft: true
 number: 79
 
 ---
@@ -23,7 +22,7 @@ Auteurs: [Dominic Gagnon](https://www.linkedin.com/in/dominicgagnon/?originalSub
 
 {{< achetezcelivre link="https://amzn.to/4btTj1X" >}}
 
-Merci à Patrick pour cette recommendation. :heart:
+Merci à Patrick pour cette recommandation. :heart:
 
 ---
 
@@ -35,7 +34,7 @@ Et si l'entrepreneuriat rendait fou? C'est une bonne question.
 Elon Musk, Jeff Bezos, Bill Gates, Warren Buffet, Steve Jobs... Qui
 n'aurait pas envie d'échanger sa place avec n'importe lequel d'entre
 eux? Le succès, l'argent, le prestige, ça se prend bien, et il est
-parfois difficile de voir l'envers de la médaille, quand cette médaille
+parfois difficile de voir l'envers de la médaille, quand celle-ci
 est cachée au sommet d'une pyramide inaccessible. L'essentiel du travail
 d'un entrepreneur semble souvent d'avoir l'air fort peu importe la
 direction du vent; en un mot, être invincible. Or, la plupart des
@@ -46,7 +45,7 @@ invincible, est-ce qu'on en devient fou?
 
 Le livre est structuré comme un documentaire où des invités viennent
 nous faire part de témoignages touchants sur leur expérience en tant
-qu'entrepreneur. Si vous habitez au Québec, vous risquez de reconnaître
+qu'entrepreneur(e). Si vous habitez au Québec, vous risquez de reconnaître
 certains d'entre eux:
 
 - Dominic Gagnon
@@ -65,29 +64,35 @@ certains d'entre eux:
 - Martin Coutu (QuebecPunkScene.net, Lepointdevente.com)
 
 Qu'est-ce qu'un entrepreneur, au fond? Au fil de cette lecture, ce que
-j'ai trouvé intéressant est qu'on retrouve le fait que l'entrepreneur,
+j'ai trouvé intéressant est qu'on apprivoise le fait que l'entrepreneur,
 avant tout, c'est un être humain comme vous et moi. Il n'est pas à
 l'abri des maladies qui courent, ni physiques, ni mentales. Si l'argent
 peut aider à guérir les maladies physiques tangibles et visibles, c'est
 un lien plus difficile à faire pour les maladies mentales. En fait, pour
 les raisons qu'on connait, les risques de vivre une maladie mentale sont
-multipliés quand on décide de suivre la voie de l'entrepreneuriat.
+multipliés quand on décide de suivre la voie de l'entrepreneuriat. Le
+manque de sommeil, le sentiment de soutenir le monde sur ses épaules, la
+consommation de substances souvent poussée par un TDAH incompris, tout
+cela peut mener à un profond épuisement.
 
 Parler de santé mentale en 2024 n'est pas nouveau. Si vous remplacez le
 mot "entrepreneur" par "quelqu'un" dans les citations qui suivent ce
-review, la vérité ne sera pas affectée. Ce qui est nouveau dans cette lecture, c'est que de vrais entrepreneurs
-respectés prennent la parole à visage découvert pour nous dire qu'ils ont fait l'erreur
-de se négliger pour le bénéfice de leur entreprise. Cela a eu des
+review, la vérité ne sera pas affectée. Ce qui est nouveau dans cette lecture, c'est que des entrepreneurs
+connus et respectés prennent la parole à visage découvert pour nous dire qu'ils ont fait l'erreur
+de se négliger pour le bénéfice de leur compagnie. Ils font preuve de
+grande vulnérabilité en racontant leur histoire afin de permettre à la
+prochaine génération d'entrepreneurs d'apprendre de leurs erreurs. En effet, leur mauvaise gestion d'eux-même a eu des
 impacts négatifs sur tous les plans de leur vie, incluant leur
-entreprise. Immanquablement, le manque de sommeil, la pression de
-performance et l'absence de filet social contribuent à pousser n'importe
-qui au fond du baril.
+entreprise. Certains ont failli y laisser leur peau. Comme on le dit en
+anglais, il s'agit ici de *humbling experiences* qui donnent une bonne
+dose de réalité et qui nous rappellent que l'invincibilité, ça n'existe
+pas, surtout pas dans l'isolement.
 
-Un fondateur d'entreprise, ce n'est pas un sommet de pyramide; c'est une
+À mes yeux, un fondateur d'entreprise, ce n'est pas un sommet de pyramide; c'est une
 racine d'arbre. S'il cesse de fonctionner, l'arbre au complet risque de
-mourir.
+mourir. Prendre soin de ses racines, c'est important.
 
-Le message est bon, et il est vrai. Il est grand temps en effet de
+Le message du livre est pertinent. Il est grand temps en effet de
 briser le tabou sur la santé mentale dans le domaine de
 l'entrepreneuriat. Toutefois, selon moi ce n'est qu'un
 tremplin vers un sujet qui nous concerne tous: *notre* santé mentale.
@@ -100,7 +105,7 @@ de vous répondre (felix@felixleger.com).
 
 ---
 
-# :star: Star quotes:
+# :star: Citations étoiles:
 
 1. (p. 6) On peut bien avoir des projets ambitieux et audacieux, le
    courage ne se manifestera que le jour où l'on passera à l'action.
