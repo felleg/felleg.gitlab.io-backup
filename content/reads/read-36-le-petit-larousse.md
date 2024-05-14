@@ -7,6 +7,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-36-le-petit-larousse', '/36']
 number: 36
 author: ""
+rating: 👍👍
 
 ---
 
@@ -19,4 +20,6 @@ Je compte le garder dans ma bibliothèque très longtemps.
 P.S. Oui, le "inverse fold" s'applique à ce livre aussi!
 
 {{< figure src="/img/larousse-fold.jpg" position="center" caption="" >}}
+
+{{< myrating rating="👍👍" >}}
 
