@@ -1,6 +1,6 @@
 ---
 date: 2024-05-12T11:32:10-04:00
-title: "(Lecture 79) Et Si l'entrepreneuriat rendait fou?"
+title: "(Lecture 79) Et si l'entrepreneuriat rendait fou?"
 cover: img/reads/et-si-l-entrepreneuriat-rendait-fou.png
 amzcover: https://m.media-amazon.com/images/I/71ppXWukVBL._SL400_.jpg
 author: Dominic Gagnon et Isabelle Naessens
