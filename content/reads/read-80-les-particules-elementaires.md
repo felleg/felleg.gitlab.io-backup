@@ -37,16 +37,16 @@ niveau différent. Il met le doigt sur l'absurdité de nos vies, sans se presser
 appuyer nos espoirs. Au fil de la lecture, l'humour vient de notre
 intérieur, les situations étant
 parfois si mornes, froides et tristes qu'on ne peut s'empêcher d'en rire, mal à
-l'aise, comme pour donner aux personnages un peu de notre chaleur. Si le bonheur arrive parfois dans *Les Particules élémentaires*,
+l'aise, comme pour redonner aux personnages un peu de notre chaleur. Si le bonheur arrive parfois dans *Les Particules élémentaires*,
 il ne dure hélas jamais longtemps. Et c'est bien dommage.
 
 C'est un livre sombre, où l'on a souvent envie de poser la question: À
-quoi bon? Les événements que vivent Bruno et Michel, les personnages principaux du livre, reflètent bien l'absurdité de nos vies.
+quoi bon? Les événements que vivent Bruno et Michel, les personnages principaux du livre, nous mènent souvent à questionner le sens de notre propre vie.
 Malgré les extrêmes auxquels ils font face tout au long de leur vie (le sexe et la violence pour l'un,
 le savoir et l'isolement pour l'autre), les émotions sourdes qu'ils
 traversent crèvent les pages et venaient
 souvent me rejoindre directement au cœur. J'avais l'impression de les
-comprendre, de souffrir avec eux. Chacun personnage vit sa
+comprendre, de souffrir avec eux. Chaque personnage vit sa
 spirale aux enfers, sans savoir s'il est mieux de l'accepter et
 "profiter" du temps qu'il lui reste (comment?), ou s'il a encore une
 chance de s'en sortir et de trouver un sens à sa vie.
