@@ -81,6 +81,12 @@ Revolutionary. The author gives a true recipe for connecting IT with the busines
 1. (p. 122) The goal of the Flow Framework is to ensure that there is at
    least one metric supporting each of the business results and that
    each metric is tracked across the org for each value stream.
+1. (p. 159) Software productivity declines as software scales, due to
+   disconnects between the architecture and the value stream. This is
+   the force DevOps fights against.
+1. (p. 161) :star: Disconnected software value streams are the
+   bottlenecks to softweare productivity at scale. The disconnects are
+   caused by the misapplication of the project-management model.
 1. (p. 183) The structure of value streams is much more similar to an
    airline network than a manufacturing line. The airline network is a
    better metaphor.
