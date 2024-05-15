@@ -19,7 +19,7 @@ Release year: 1998
 
 Author: [Michel Houellebecq](https://en.wikipedia.org/wiki/Michel_Houellebecq)
 
-{{< mynotes link="" >}}
+{{< mynotes link="https://drive.google.com/file/d/1d5u2fWsmWXzgsqy55HYYzpYvZmI1i6q-/view?usp=sharing" >}}
 
 {{< buythisbook link="https://amzn.to/3WBQg2Z" >}}
 
