@@ -117,7 +117,7 @@ pour nous-mêmes.
 1. (p. 161) :star: En soi le désir -- contrairement au plaisir -- est
    source de souffrance, de haine et de malheur.
 1. (p. 162) "Comment une société pourrait-elle subsister sans religion?
-   Déjà, dans le cas d'un individu, ça paraissait difficile.
+   Déjà, dans le cas d'un individu, ça paraissait difficile."
 1. (p. 169) Un mensonge est utile quand il permet de transformer la
    réalité; mais quand la transformation échoue, il ne reste plus que le
    mensonge, l'amertume et la conscience du mensonge.
