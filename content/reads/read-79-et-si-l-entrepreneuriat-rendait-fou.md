@@ -23,7 +23,7 @@ Auteurs: [Dominic Gagnon](https://www.linkedin.com/in/dominicgagnon/?originalSub
 
 {{< achetezcelivre link="https://amzn.to/4btTj1X" >}}
 
-Merci à Patrick pour cette recommandation. :heart:
+Merci à Patrick D pour cette recommandation. :heart:
 
 ---
 
