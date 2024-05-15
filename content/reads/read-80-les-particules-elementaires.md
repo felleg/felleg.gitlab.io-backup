@@ -1,7 +1,7 @@
 ---
 date: 2024-05-14T15:53:42-04:00
 title: "(Lecture 80) Les Particules Elementaires"
-cover: img/reads/les-particules-elementaires
+cover: img/reads/les-particules-elementaires.png
 amzcover: https://m.media-amazon.com/images/I/517HaoauqdL.jpg
 author: Michel Houellebecq
 tags:
