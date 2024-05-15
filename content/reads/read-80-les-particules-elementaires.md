@@ -34,7 +34,7 @@ Parfois un peu emmerdant, souvent choquant, constamment surprenant, ce
 livre est l'exemple parfait pour moi de ce qu'est l'humour noir. Je
 n'ai jamais lu un livre tout à fait comme celui-ci auparavant. J'ai
 parcouru
-mon lot de roman violents par le passé (*Le Vide* et *Hell.com* de
+mon lot de romans violents par le passé (*Le Vide* et *Hell.com* de
 Patrick Sénécal ont longtemps été mes deux livres préférés), mais il y a
 quelque chose dans la prose de Houellebecq qui vient me chercher à un
 niveau différent. Il met le doigt sur l'absurdité de nos vies, sans se presser de nous offrir une solution sur laquelle
