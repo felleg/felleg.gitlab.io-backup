@@ -107,7 +107,7 @@ pour nous-mêmes.
    s'estompent.
 1. (p. 107) Une génération est une communauté de destins.
 1. (p. 112) Dans un monde qui ne respecte que la jeunesse, les êtres
-   sont peu à peu dévorés
+   sont peu à peu dévorés.
 1. (p. 120) En regardant les gens mourir du sida à la télévision, Michel
    croyait que la souffrance donnait à l'homme une dignité
    supplémentaire. Il s'était trompé. Ce qui donnait à l'homme une
