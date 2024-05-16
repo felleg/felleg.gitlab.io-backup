@@ -184,6 +184,11 @@ love for the human race.
 
 # There is no knowledge that is not power.
 
+This is a phrase I learned while playing Mortal Kombat 3 at the young
+age of 3 years old. That introduction screen is one of my earliest
+memories. Although I didn't know it at the time, and although it
+possibly referred to a cheat code or secret move, I believe it is true.
+
 # Safety is an addicting feeling.
 
 # Don't be a stranger.
