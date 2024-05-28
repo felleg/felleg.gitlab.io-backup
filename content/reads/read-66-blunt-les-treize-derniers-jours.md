@@ -27,7 +27,8 @@ Ah comme j'aurais voulu adorer ce livre! :sweat_smile:
 Je trouve le concept derrière ce roman fascinant. L'intrigue en est une
 d'espionnage comme j'ai l'impression d'en avoir souvent vues, mais avec
 la différence que le personnage principal réfléchit à toutes ses
-décisions comme un joueur de Go. Non seulement il crée souvent des
+décisions comme un joueur de
+[Go](https://felixleger.com/posts/2022/02/les-r%C3%A8gles-du-go-en-5-minutes/). Non seulement il crée souvent des
 métaphores qui utilisent le Go pour expliquer ses raisonnements, mais
 chaque chapitre commence avec l'image d'une partie de Go en progrès,
 celle qui, selon mes attentes infondées, illustrerait l'intrigue
