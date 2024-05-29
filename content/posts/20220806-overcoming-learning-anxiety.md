@@ -102,7 +102,7 @@ down these words:
 
 {{< figure src="/img/learning-anxiety-lightbulb.jpg" position="center" caption="'In the team, we want to encourage learning and help overcome learning anxiety.'" >}}
 
-Well, here it is. This is the moment when my mind clicked and realized **I** had learning
+Well, here it is. This is the moment when my mind clicked and realized *I* had learning
 anxiety. Before writing it down and seeing it with my own eyes for the first time --- "learning
 anxiety" --- this is a concept that felt somewhat alien to me. Like, it
 made sense, but then how could I claim to have learning anxiety if I had
