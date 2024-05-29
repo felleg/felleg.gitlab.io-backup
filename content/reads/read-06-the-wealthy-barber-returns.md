@@ -8,7 +8,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-06-the-wealthy-barber-returns', '/6']
 author: David Chilton
 number: 6
-rating: 🤔
+rating: 👎
 ---
 
 Release year: 2011
@@ -21,5 +21,5 @@ Author: David Chilton
 
 # Review
 
-{{< myrating rating="🤔" >}}
+{{< myrating rating="👎" >}}
 
