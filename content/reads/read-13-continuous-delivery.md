@@ -8,7 +8,7 @@ tags: ['reads', 'nonfiction']
 aliases: ['/books/book-13-continuous-delivery', '/13']
 number: 13
 author: Humble & Farley
-rating: 🤔
+rating: 👎
 ---
 
 Release year: 2010
@@ -23,7 +23,7 @@ Authors: Jez Humble and David Farley
 
 # Review
 
-{{< myrating rating="🤔" >}}
+{{< myrating rating="👎" >}}
 
 ---
 
