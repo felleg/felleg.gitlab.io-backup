@@ -208,7 +208,7 @@ away made a key difference. Finally, and this is key, I enjoyed this
 book because I read it in its entirety, and this is something I will
 come back to in this post.
 
-In 1 week, I had finished reading my first DevOps book. Woohoo! I felt like I
+In a single week, I had finished reading my first DevOps book. Woohoo! I felt like I
 was ready to conquer the world. My mind was now filled with ideas I was
 excited to try. *The Phoenix Project* subtly advertised
 for another book from the same author, *The DevOps Handbook*, which
