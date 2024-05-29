@@ -160,7 +160,7 @@ much so that my boss recommended another career change, this time into a
 field I knew absolutely nothing about. I was rightfully terrified.
 
 Not wanting to waste any time, I feverishly started Googling the most
-basic things, like "How to DevOps?" and "What is DevOps?". To give you an idea of the steepness of
+basic things, like "How to DevOps?" and "What is DevOps?". To give you an idea of the steepness of the
 learning curve I was faced with, check out this great video from [TechWorld
 with Nina](https://www.youtube.com/c/TechWorldwithNana) and count how
 many times something along the lines of "you need to learn / know /
