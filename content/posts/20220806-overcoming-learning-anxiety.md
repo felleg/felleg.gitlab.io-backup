@@ -261,7 +261,7 @@ In mid-June 2022, three months after joining the nesto DevOps team, I
 received unfortunate news: I was
 getting a probation extension. I wasn't quite cutting it in the
 workplace. I had trouble learning the new tools and processes required
-to become a productive teammate. New concepts and important details eluded me. I had 2 months to course-correct, otherwise I could kiss my
+to become a productive teammate. New concepts and important details eluded me. I had two months to course-correct, otherwise I could kiss my
 job goodbye.
 
 This is what put me into **survival mode**.
