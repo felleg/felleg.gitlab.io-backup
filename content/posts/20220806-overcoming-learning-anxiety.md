@@ -191,8 +191,9 @@ mindset that drives the DevOps philosophy: Do everything you can to
 maximize the value your peers can deliver. However, I was simply too discouraged
 at the time to realize this...
 
-In 2019, as I was going on vacation, I stumbled upon a book called *The
-Phoenix Project*, which seemed really popular in the DevOps space as an
+In 2019, as I was going on vacation, I stumbled upon a book called [*The
+Phoenix
+Project*](/reads/read-41-1-the-phoenix-project/), which seemed really popular in the DevOps space as an
 entry point into the subject matter. Being written as a novel, I thought:
 "Ah! This is perfect material to read on the beach, without any pressure
 to learn. This is going to be great fun."
