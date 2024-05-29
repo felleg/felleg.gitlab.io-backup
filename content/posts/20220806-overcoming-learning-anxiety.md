@@ -127,7 +127,7 @@ through the steps taken to untangle this mental knot.
 # The anxiety begins
 
 In 2017, fresh out of University and ready to tackle the world, I
-started working for a newly-formed startup then called Proximity HCI
+started working for a newly-formed startup then-called Proximity HCI
 (now known as [Contxtful](https://contxtful.com)). I had just finished
 my Masters thesis in particle Physics and was ready to jump into the
 software world ([this is something I already discussed on this blog in
