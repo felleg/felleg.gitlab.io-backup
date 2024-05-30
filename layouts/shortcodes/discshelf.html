@@ -15,7 +15,7 @@
     <div class="side top"></div>
     <div class="side cover"
          style="background-image: url({{ .cover_img }}); cursor:pointer;"
-         onclick="location.href='{{ .cover_link | safeURL }}'">
+         onclick="window.open('{{ .cover_link | safeURL }}', '_blank')">
     </div>
   </div>
   {{ end }}
