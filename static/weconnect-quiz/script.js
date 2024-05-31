@@ -113,7 +113,7 @@ function loadQuestion() {
   feedbackContainer.classList = "";
   const currentQuestion = answers[currentQuestionIndex];
   feedbackContainer.textContent = "";
-  progressContainer.textContent = "Question " + (currentQuestionIndex + 1).toString() + " / " + answers.length.toString();
+  progressContainer.textContent = "Question " + (currentQuestionIndex + 1).toString() + " / " + quizLength.toString();
   questionContainer.textContent = currentQuestion.question;
   answerContainer.textContent = currentQuestion.user_answer;
   nextButton.style.display = "block";
@@ -154,7 +154,7 @@ function showNextQuestion() {
     setTimeout(() => {
       currentQuestionIndex++;
       selectedAnswer = null;
-      if (currentQuestionIndex < answers.length) {
+      if (currentQuestionIndex < quizLength) {
         loadQuestion();
       } else {
         showResults();
@@ -185,15 +185,15 @@ function showNextQuestion() {
 function showResults() {
   quizContainer.style.display = 'none';
   resultsContainer.style.display = 'block';
-  document.getElementById("score").textContent = correctAnswers + " / " + answers.length;
-  document.getElementById("score_p").textContent = (correctAnswers / answers.length * 100).toFixed(0) + "%"
+  document.getElementById("score").textContent = correctAnswers + " / " + quizLength;
+  document.getElementById("score_p").textContent = (correctAnswers / quizLength * 100).toFixed(0) + "%"
 }
 
 nextButton.addEventListener('click', showNextQuestion);
 continueButton.addEventListener('click', () => {
   currentQuestionIndex++;
   selectedAnswer = null;
-  if (currentQuestionIndex < answers.length) {
+  if (currentQuestionIndex < quizLength) {
     loadQuestion();
     questionContainer.classList.remove('incorrect');
   } else {
