@@ -3,10 +3,12 @@ console.log("Please don't cheat before doing a first attempt. I'm still trying t
 console.log("================================================================================================================")
 // Define the endpoint URL
 const endpoint = 'https://us-central1-weconnect-quiz.cloudfunctions.net/get-questions';
-var names="";
+var names;
 // This array contains the mapping of question-answer-name for all
 // non-empty answers. No cheating, please!
-var answers="";
+var answers;
+var quizLength;
+var MAX_QUIZ_LENGTH = 30;
 
 // Function to get random items from an array
 function getRandomItems(array, count) {
@@ -62,6 +64,7 @@ fetch(endpoint)
         }
       })
     })
+    quizLength = Math.min(answers.length, MAX_QUIZ_LENGTH);
     document.getElementById("loading").style.display = "none";
     quizContainer.style.display = "block";
     // Load the first question
