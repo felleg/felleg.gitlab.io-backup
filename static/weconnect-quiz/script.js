@@ -8,7 +8,7 @@ var names;
 // non-empty answers. No cheating, please!
 var answers;
 var quizLength;
-var MAX_QUIZ_LENGTH = 30;
+var MAX_QUIZ_LENGTH = 20;
 
 // Function to get random items from an array
 function getRandomItems(array, count) {
