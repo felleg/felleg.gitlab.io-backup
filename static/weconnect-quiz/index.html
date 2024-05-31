@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+    .button-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .button {
+      padding: 20px;
+      font-size: 24px;
+      margin: 10px;
+      border: none;
+      border-radius: 8px;
+      background-color: #007bff;
+      color: white;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+    .button:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+<center>
+   <h1>We Connect Quiz!</h1>
+   <p>Inspired by https://weconnectcards.com/</p>
+  <div class="button-container">
+    <button class="button" onclick="buttonClicked('button1')">Step 1) Fill the form</button>
+    <button class="button" onclick="buttonClicked('button2')">Step 2) Take the quiz</button>
+  </div>
+</center>
+
+  <script>
+    function buttonClicked(buttonId) {
+      if (buttonId === 'button1') {
+        window.open("https://forms.gle/btuEHb7WJ1VskQz58", "_blank");
+
+      } else if (buttonId === 'button2') {
+        window.open("quiz.html", "_blank");
+      }
+    }
+  </script>
+</body>
+</html>
+
+
+

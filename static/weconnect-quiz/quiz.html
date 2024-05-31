@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <span id="loading">Now loading...</span>
+  <div id="quiz-container" style="display: none">
+    <p id="progress"></p>
+    <p>To the question:</p>
+    <div id="question-container"></div>
+    <p>Who answered:</p>
+    <div id="answer-container"></div>
+    <div id="choices-container"></div>
+    <center><button id="next-button">Next</button></center>
+    <center><button id="continue-button" style="display: none">Continue</button></center>
+    <p id="feedback"></p>
+  </div>
+  <div id="results-container" style="display: none">
+     <h1>Score</h1>
+     <p id="score"></p>
+     <p id="score_p"></p>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
+
