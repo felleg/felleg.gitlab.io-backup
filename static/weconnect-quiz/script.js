@@ -165,7 +165,7 @@ function showResults() {
   quizContainer.style.display = 'none';
   resultsContainer.style.display = 'block';
   document.getElementById("score").textContent = correctAnswers + " / " + answers.length;
-  document.getElementById("score_p").textContent = correctAnswers / answers.length * 100 + "%"
+  document.getElementById("score_p").textContent = (correctAnswers / answers.length * 100).toFixed(0) + "%"
 }
 
 nextButton.addEventListener('click', showNextQuestion);
