@@ -34,15 +34,18 @@ spines.map(function (s, i) {
   let randomHeight = getRandomInt(260, 290);
   s.style.height = `${randomHeight}px`;
   s.style.top = `${280 - randomHeight}px`;
-  
-  let randomPattern = randomChoice(availablePatterns);
+
+  let date = s.dataset.customParam;
+  let year = parseInt(date.substr(0,4));
+  let month = parseInt(date.substr(5,2));
+  let randomPattern = availablePatterns[ year % availablePatterns.length ];
   s.style.backgroundImage = `var(${randomPattern})`;
-  
-  let randomColor = randomChoice(availableColors);
+
+  let randomColor = availableColors[ month % availableColors.length ] ;
   s.style.backgroundColor = randomColor;
-  
+
   covers[i].style.height = `${randomHeight}px`;
   covers[i].style.top = `${280 - randomHeight}px`;
-  
+
   tops[i].style.top = `${280 - randomHeight}px`;
 });

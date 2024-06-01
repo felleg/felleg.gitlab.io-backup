@@ -6,7 +6,7 @@
 <div class="bookshelf">
   {{ range.Page.Params.bookshelf_item }}
   <div class="book">
-    <div class="side spine" style="background-color:{{ .color }};">
+     <div class="side spine" data-custom-param="{{.date}}">
        <span class="spine-title">{{.title }}</span>
          <span class="spine-author">
            {{ .rating }} <br>
