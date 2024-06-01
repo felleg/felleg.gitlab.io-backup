@@ -20,13 +20,29 @@ let availablePatterns = [
 ];
 
 let availableColors = [
-  "maroon",
-  "darkgreen",
-  "darkolivegreen",
-  "brown",
-  "saddlebrown",
-  "sienna",
-  "midnightblue"
+  //"maroon",
+  //"darkgreen",
+  //"firebrick",
+  //"purple",
+  //"palevioletred",
+  //"orangered",
+  //"sienna",
+  //"darkkhaki",
+  //"brown",
+  //"midnightblue"
+  "#696969", // (Dim Gray)
+  "#000000", // (Black)
+  "#8B0000", // (Dark Red)
+  "#D2691E", // (Chocolate)
+  "#8B4513", // (Saddle Brown)
+  "#556B2F", // (Dark Olive Green)
+  "#008080", // (Teal)
+  "#5F9EA0", // (Cadet Blue)
+  "#2F4F4F", // (Dark Slate Gray)
+  "#000080", // (Navy)
+  "#4B0082", // (Indigo)
+  "#8B008B", // (Dark Magenta)
+
 ];
 
 // assign a random height, pattern and colour to each book
