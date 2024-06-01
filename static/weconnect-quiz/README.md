@@ -2,6 +2,10 @@ Created for Portage dev-a-hack-a-thon-a-day 2024-05-31
 
 Video demo: https://notarius.hubs.vidyard.com/watch/H4b7aE4qd6ER3Rk2GeWEd9?
 
+Features worth adding:
+- Let user specify how many questions they would like to answer
+  (slider?)
+
 Problems solved to make this app work:
 - Choosing a data storing mechanism that could be accessed via code
 - Deploying a Google Cloud Function (it didn't work with my
