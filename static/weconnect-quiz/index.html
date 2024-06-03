@@ -35,12 +35,13 @@
 </head>
 <body>
 <center>
-   <img src="weconnect-quiz.png" style="width: 75%;"></img>
+   <img src="weconnect-quiz.png" style="width: 50%;"></img>
    <p>In this game, you try to guess who gave what answer to which
-   question. Click "Fill the form" to contribute to our database!</p>
+   question.<br> Click "Fill the form" to contribute to our database!</p>
   <div class="button-container">
     <button class="button" onclick="buttonClicked('button2')">Take the quiz</button>
     <button class="button" onclick="buttonClicked('button1')">Fill the form</button>
+    <button class="button" onclick="buttonClicked('button3')">Version française (beta)</button>
   </div>
    <p>Created for Portage Cybertech's first Dev-a-Hack-a-Thon-a-Day, May
    31 2024.
@@ -58,6 +59,8 @@
 
       } else if (buttonId === 'button2') {
         window.open("quiz.html", "_blank");
+      } else if (buttonId === 'button3') {
+         window.open("https://felixleger-com.translate.goog/weconnect-quiz/quiz.html?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=en-US&_x_tr_pto=wapp", "_blank");
       }
     }
   </script>

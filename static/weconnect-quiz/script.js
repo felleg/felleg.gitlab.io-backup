@@ -8,7 +8,20 @@ var names;
 // non-empty answers. No cheating, please!
 var answers;
 var quizLength;
-var MAX_QUIZ_LENGTH = 20;
+
+document.addEventListener('DOMContentLoaded', function() {
+    const slider = document.getElementById('mySlider');
+    const sliderValueDisplay = document.getElementById('sliderValue');
+
+    // Initialize the variable
+    let sliderValue = slider.value;
+
+    // Update the variable and display whenever the slider value changes
+    slider.addEventListener('input', function() {
+        sliderValue = slider.value;
+        sliderValueDisplay.textContent = sliderValue;
+    });
+});
 
 // Function to get random items from an array
 function getRandomItems(array, count) {
@@ -82,18 +95,29 @@ fetch(endpoint)
       })
     })
     shuffle(answers)
-    quizLength = Math.min(answers.length, MAX_QUIZ_LENGTH);
     document.getElementById("loading").style.display = "none";
-    quizContainer.style.display = "block";
-    // Load the first question
-    loadQuestion();
+    document.getElementById("slider-container").style.display = "block";
+    const sliderValue= Math.ceil(answers.length / 2) ;
+    const slider = document.getElementById('mySlider');
+    slider.min = 1;
+    slider.max = answers.length;
+    slider.value = sliderValue;
+    document.getElementById("sliderValue").textContent = sliderValue;
   })
-
-
   .catch(error => {
     // Handle any errors that occurred during the fetch
     console.error('There was a problem with the fetch operation:', error);
   });
+// End fetch
+
+function startQuiz () {
+  const sliderValueDisplay = document.getElementById('sliderValue').textContent;
+  quizLength = sliderValueDisplay;
+  document.getElementById("slider-container").style.display = "none";
+  quizContainer.style.display = "block";
+  // Load the first question
+  loadQuestion();
+}
 
 let currentQuestionIndex = 0;
 let correctAnswers = 0;
@@ -106,6 +130,7 @@ const questionContainer = document.getElementById('question-container');
 const answerContainer = document.getElementById('answer-container');
 const choicesContainer = document.getElementById('choices-container');
 const nextButton = document.getElementById('next-button');
+const startButton = document.getElementById('start-button');
 const continueButton = document.getElementById('continue-button');
 const feedbackContainer = document.getElementById('feedback');
 
@@ -188,6 +213,8 @@ function showResults() {
   document.getElementById("score").textContent = correctAnswers + " / " + quizLength;
   document.getElementById("score_p").textContent = (correctAnswers / quizLength * 100).toFixed(0) + "%"
 }
+
+startButton.addEventListener('click', startQuiz);
 
 nextButton.addEventListener('click', showNextQuestion);
 continueButton.addEventListener('click', () => {

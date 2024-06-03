@@ -47,6 +47,18 @@ body {
   background-color: #d1e7dd;
   border-color: #0d6efd;
 }
+#start-button {
+  padding: 10px 20px;
+  border: none;
+  background-color: #0d6efd;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+#start-button:hover {
+  background-color: #0b5ed7;
+}
 
 #next-button {
   padding: 10px 20px;
