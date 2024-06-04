@@ -36,10 +36,10 @@ let availableColors = [
   "#D2691E", // (Chocolate)
   "#8B4513", // (Saddle Brown)
   "#556B2F", // (Dark Olive Green)
-  "#008080", // (Teal)
+  "#44AAFF", // (Teal)
   "#5F9EA0", // (Cadet Blue)
   "#2F4F4F", // (Dark Slate Gray)
-  "#000080", // (Navy)
+  "#0000FF", // (Navy)
   "#4B0082", // (Indigo)
   "#8B008B", // (Dark Magenta)
 
