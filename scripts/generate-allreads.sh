@@ -4,16 +4,13 @@
 mkdir -p static/bookmosaic
 output_file="static/bookmosaic/index.html"
 
-# Create the HTML file with a basic structure
-echo "<html><head><title>All Reads</title></head><body>" > "$output_file"
-
 cat > "$output_file" << EOF
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>All Reads</title>
+    <title>Book Mosaic</title>
     <style>
         /* Add some basic styling to center the loading spinner */
         #loading-spinner {
