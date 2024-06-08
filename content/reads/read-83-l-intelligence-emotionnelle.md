@@ -227,38 +227,114 @@ Peut-être que j'y jetterai un coup d'œil un jour...
    l'harmonie sociale sont non seulement incapables de la moindre
    subtilité sociale, mais aussi de bien réagir aux émotions des autres.
    Ils sèment le trouble dans leur sillage.
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
+1. (p. 161) Vous ne pouvez empêcher votre visage ou vos gestes
+   d'exprimer vos sentiments, ni dissimuler le ton de votre voix.
+1. (p. 163) **Les péchés cardinaux menant à un rejet** (c'est ce que
+   tentent de faire les enfants impopulaires dans le but d'attirer
+   l'attention):
+    - Le fait de vouloir prendre trop tôt la direction du jeu (ou de
+      l'activité)
+    - Le fait de sortir du cadre de référence
+1. (p. 172) Les **garçons** se sentent menacés par tout ce qui risque de
+   mettre en péril leur indépendance. Les **filles** craignent davantage
+   une rupture de leurs liens.
+1. (p. 173) Pour les femmes, l'élément essentiel pour qu'une relation
+   soit satisfaisante est qu'il y ait une "bonne communication" au sein
+   du couple. Pour les épouses, "intimité" signifier discuter, surtout
+   du couple lui-même.
+1. (p. 174) Les femmes sont plus sensibles à une expression de tristesse
+   sur le visage d'un homme que ne le sont les hommes sur celui d'une
+   femme. Il faut donc qu'une femme soit très triste pour qu'un homme y
+   prête simplement attention et plus encore pour qu'il l'interroge sur
+   la cause de son chagrin.
+1. (p. 174) :star:
+    - Ce ne sont pas des questions spécifiques comme:
+        - la fréquence des rapports sexuels
+        - l'éducation des enfants
+        - les finances du ménage
+    - qui font qu'un mariage marche ou non. C'est plutôt la *manière*
+      dont les époux débattent de ces questions sensibles qui est
+      déterminante pour le destin d'un mariage.
+1. (p. 174) :star: :star: Le seul fait de se mettre d'accord sur la
+   façon de gérer les désaccords est essentiel à la survie conjugale.
+1. (p. 176) Les critiques acerbes sont l'un des premiers signes que le
+   couple est en danger.
+1. (p. 176) :star: Énonce spécifiquement ce qui te contrarie et mets en
+   cause l'action de l'autre (et non sa personnalité) en exprimant les
+   sentiments que cette action a suscités chez toi.
+1. (p. 177) Quand un mari manifeste régulièrement du mépris envers son
+   épouse, celle-ci est davantage prédisposée à divers problèmes de
+   santé.
+1. (p. 177) Lorsque le visage d'une femme exprime le dégoût au moins
+   quatre
+   fois durant une conversation de 15 minutes, c'est le signe que le
+   couple risque fort de se séparer dans les quatre prochaines années.
+1. (p. 178) Le mur du silence est la défense ultime. Quand elle devient
+   habituelle, cette attitude est dévastatrice pour le couple; elle
+   supprime toute possibilité de régler les accords.
+1. (p. 185) Colère et mécontentement ne sont pas synonymes de critiques
+   personnelles.
+1. (p. 185) :star: Les maris capables de rester avec leur femme quand
+   elle est furieuse au lieu d'ignorer ses récriminations lui permettent
+   de sentir écoutée et respectée. Une épouse veut que ses sentiments
+   soient reconnus et respectés, même si son mari n'est pas de son avis.
+1. (p. 185) Les femmes ne doivent pas s'en prendre au caractère du mari,
+   mais expliquer clairement en quoi telle ou telle action les
+   contrarie.
+1. (p. 186) Le sentiment d'être entendu est précisément ce que cherche
+   le conjoint contrarié, et un tel acte d'empathie est de nature à
+   réduire la tension.
+1. (p. 187) Il n'y a pas d'intelligence émotionnelle sans une bonne
+   gestion de ses pulsions.
+1. (p. 188) Si vous détectez durant une discussion que votre pouls est
+   une dizaine de pulsations au-dessus de la normale, il est recommandé
+   de s'isoler pendant une vingtaine de minutes pour se calmer avant de
+   reprendre la discussion.
+1. (p. 188) :star: Convenir que l'un ou l'autre des conjoints pourra
+   demander une "suspension de séance" dès que les premiers signes
+   d'ébullition (submersion) font leur apparition est une bonne idée.
+1. (p. 188) Des pensées comme "Je n'en peux plus" ou "Je ne mérite pas
+   qu'on me traite ainsi" sont caractéristiques de celui qui s'estime
+   injustement accusé, se prend
+   ("victime innocente" ou en proie à une "indignation
+   légitime"). En s'emparant de ces pensées et en les mettant en question
+   (au lieu de se sentir blessé par elles ou de s'emporter), l'individu
+   commence à s'en libérer.
+1. (p. 190) L'idéal est d'écouter sans se tenir sur la défensive en
+   étant attentif aux sentiments cachés *derrière* les paroles de
+   l'autre.
+1. (p. 190) **Méthode du miroir**: Lorsque l'un des conjoints émet une
+   doléance (plainte), l'autre la reformule en ses propres termes, en essayant de
+   saisir non seulement la pensée, mais aussi les sentiments qui lui
+   sont associés. Le fait d'être "reflété" avec exactitude procure non
+   seulement le sentiment d'être compris, mais encore celui d'être en
+   harmonie.
+1. (p. 190) **L'explication en XYZ**: "Quand tu as fait X, j'ai ressenti
+   Y, et j'aurais préféré que tu fasses Z."
+1. (p. 191) Au minimum, légitimer le point de vue de l'autre exige de
+   montrer qu'on écoute et qu'on n'ignore pas les sentiments exprimés
+   par l'autre, même si l'on n'est pas d'accord.
+1. (p. 193) Le manque d'intelligence émotionnelle dans le travail a un
+   coût qui peut finir par compromettre l'existence de l'entreprise.
+1. (p. 194) Le stress rend les gens idiots.
+1. (p. 194) Diriger, ce n'est pas dominer, c'est savoir persuader les
+   autres de travailler pour atteindre un but commun.
+1. (p. 194) Rien n'est plus important que le fait de savoir quels sont
+   nos sentiments profonds quant à notre travail et quels changements
+   pourraient le rendre plus satisfaisant.
+1. (p. 195) :star: La critique est l'une des tâches les plus importantes
+   des dirigeants. Sans feed-back, l'individu ne sait pas ce que pensent
+   ses supérieurs ou ses collègues, il ignore ce qu'on attend de lui, et
+   les problèmes ne peuvent que s'aggraver avec le temps.
+1. (p. 196) La manière dont les critiques sont formulées et perçues par
+   les gens est en grande partie ce qui fait qu'ils se sentent
+   satisfaits ou non de leur travail.
+1. (p. 196) :star: Pour motiver quelqu'un, présentez les critiques comme
+   des problèmes à résoudre.
+1. (p. 198) Si le patron ne dit pas ce qu'il pense rapidement, sa
+   frustration s'accumule lentement. Un jour il finit par exploser. S'il
+   avait formulé ses critiques plus tôt, l'employé aurait été en mesure
+   de remédier au problème.
 1. (p. 
 1. (p. 
 1. (p. 
