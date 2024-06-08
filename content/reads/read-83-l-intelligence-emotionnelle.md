@@ -28,6 +28,30 @@ Auteur: [Daniel Goleman](https://www.danielgoleman.info/)
 
 # Review
 
+Voici un livre qui a figuré sur ma liste de lecture depuis plus d'un an.
+Selon mes recherches, il s'agit d'un véritable classique parmi les
+livres de psychologie populaire. J'avais très hâte de voir comment le
+livre allait être construit et de quoi il allait parler, compte tenu sa
+date de parution relativement lointaine (la psychologie est un domaine
+qui a avancé à toute vitesse depuis l'apparition de l'internet).
+
+De manière générale, je dirais que mes attentes ont été atteintes. Bien
+que je trouvais cette lecture parfois un peu aride, je dois souligner
+que la portée du sujet que Daniel Goleman a choisi pour son livre est
+extrêmement vaste. Le livre ouvre d'abord avec une explication
+mécanique, presque anatomique de comment se manifeste l'intelligence
+émotionnelle (ou son absence) dans le cerveau. On apprend comment le
+néocortex, l'amygdale et l'hippocampe du cerveau intéragissent ensemble
+lors d'expériences à haute teneur émotionnelle. Le reste du livre visite
+différents milieux de vie où l'intelligence nous fait parfois défaut: le
+travail, l'école, le mariage, l'enfance, etc. Je considère l'œuvre très
+complète, considérant l'année de sa sortie. J'ai été particulièrement
+surpris en apprenant que ce livre n'est que la première partie d'une
+œuvre encore plus large sur l'intelligence émotionnelle. En effet,
+Goleman a publié un [deuxième tome sur l\'intelligence
+émotionnelle](https://amzn.to/3X9KRQZ) aussi volumineux que le premier.
+Peut-être que j'y jetterai un coup d'œil un jour...
+
 {{< myrating rating="👍" >}}
 
 ---
