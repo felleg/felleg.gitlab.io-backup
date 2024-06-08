@@ -122,6 +122,159 @@ Peut-être que j'y jetterai un coup d'œil un jour...
    une distraction risquant de plomber leur moral, comme un roman
    tragique ou un film triste. Les distractions brisent la chaîne des
    pensées qui alimentent la tristesse.
+1. (p. 101) Se gratifier d'un petit succès facile est une façon efficace
+   de se remonter le moral, par exemple en s'acquittant d'une tâche que
+   l'on remettait depuis longtemps.
+1. (p. 102) La dépression se nourrit de ruminations et de préoccupations
+   centrées sur soi-même. Aider les autres et partager leur peine sont
+   des moyens de s'en débarrasser. Ainsi, le **bénévolat** serait l'un
+   des remèdes les plus efficaces contre la mélancolie.
+1. (p. 111) La capacité de retarder la satisfaction de ses pulsions
+   détermine le succès de ce que l'on entreprend.
+1. (p. 112) L'intelligence émotionnelle est une métafaculté qui
+   détermine dans quelle mesure l'individu saura tirer parti de ses
+   capacités.
+1. (p. 113) Plus un individu est enclin à se faire du souci, moins il
+   réussit dans ses études.
+1. (p. 114) Quand nous sommes préoccupés par la crainte de l'échec,
+   notre attention est d'autant moins disponible pour rechercher les
+   bonnes réponses.
+1. (p. 115) Lorsque nous sommes de bonne humeur, nous nous souvenons
+   mieux des événements positifs. Cela nous incite davantage à nous
+   lancer dans une entreprise légèrement risquée ou aventureuse.
+1. (p. 115) La mauvaise humeur donne à notre mémoire un tour négatif et
+   nous incite ainsi à prendre des décisions timides, trop prudentes.
+1. (p. 115) L'**espérance**, c'est le fait de croire que l'on possède à
+   la fois l'envie et les moyens d'atteindre les objectifs que l'on se
+   fixe, quels qu'ils soient.
+1. (p. 115) Espérer, c'est refuser de céder à l'anxiété, de baisser les
+   bras ou de déprimer quand on est confronté à des difficultés ou à des
+   découvertes.
+1. (p. 118) L'**optimisme**, c'est la ferme conviction que, de façon
+   générale et en dépit des revers et des déconvenues, les choses
+   finissent par s'arranger.
+1. (p. 118) L'optimisme est payant pourvu qu'il reste réaliste. Un
+   optimisme naïf peut être désastreux.
+1. (p. 118) L'**optimiste** considère qu'un échec est toujours dû à
+   quelque chose qui peut être modifié de sorte à réussir le coup
+   suivant. Les **pessimistes** se reprochent leur échec et l'attribuent
+   à un trait de caractère non modifiable.
+1. (p. 119) :star: C'est la combinaison d'un talent raisonnable et de la
+   ténacité qui est la clé du succès.
+1. (p. 123) La fluidité ("flow state") apparaît dans une zone délicate
+   délimitée par l'ennui et l'anxiété.
+1. (p. 126) Les élèves qui réussissent à l'école sont plus souvent
+   attirés par l'étude parce que celle-ci leur permet d'atteindre l'état
+   de fluidité ("flow state").
+1. (p. 128) L'empathie repose sur la conscience de soi; plus nous sommes
+   sensibles à nous propres émotions, mieux nous réussissons à
+   déchiffrer celle des autres.
+1. (p. 133) Ce qui détermine comment les enfants, devenus adultes,
+   envisagent les relations affectives avec leurs proches est la
+   répétition d'innombrables instants d'harmonie ou de déphasage avec
+   leurs parents.
+1. (p. 134) :star: Si l'on se contente d'imiter un bébé, cela veut
+   simplement dire que l'on sait ce qu'il a fait, pas ce qu'il éprouve.
+   Pour lui faire comprendre que l'on sait ce qu'il ressent, il faut
+   exprimer soi-même d'une autre manière les sentiments de l'enfant.
+   Celui-ci sait alors qu'il a été compris.
+1. (p. 149) Pour être réceptif aux autres il faut un minimum de calme
+   intérieur.
+1. (p. 150) En matière d'éducation des sentiments, les émotions sont à
+   la fois le moyen et le message.
+1. (p. 150) Si le parent se montre sévère, exigeant et froid lorsqu'il
+   dit à son enfant de "sourire et de dire merci", l'enfant risque d'en
+   tirer une toute autre leçon.
+1. (p. 152) Les personnes capables d'aider les autres à apaiser leurs
+   soucis possèdent une marchandise sociale très prisée: c'est vers
+   elles que l'on se tourne dans les moments difficiles.
+1. (p. 153) Lors d'une interaction entre deux personnes, le transfert de
+   l'humeur va de l'individu le plus expressif vers l'individu le plus
+   passif.
+1. (p. 154) Que les gens se sentent optimistes ou abattus, plus leur
+   interaction est physiquement synchronisée, plus leurs humeurs
+   deviendront similaires.
+1. (p. 154) Un niveau élevé de synchronie signifie que les personnes
+   concernées s'apprécient.
+1. (p. 154) :star: :star: L'efficacité des rapports interpersonnels tient en
+   partie à l'adresse dont les gens font preuve pour établir une
+   synchronie émotionnelle.
+1. (p. 154, 155) :star: Donner le *la* émotionnel d'une interaction est un
+   signe de domination à un niveau profond, intime: c'est être capable
+   de gouverner l'état émotionnel de l'autre. La domination émotionnelle
+   est au cœur de l'influence.
+1. (p. 156) **Les composants de l'intelligence interpersonnelle:**
+    - L'aptitude à organiser des groupes
+    - La capacité à négocier des solutions (permet de prévenir les
+      conflits ou de les résoudre)
+    - La capacité à établir des relations personnelles: éporouver de
+      l'empathie et communiquer
+    - La capacité d'analyse sociale: percevoir les sentiments, les
+      motivations et les préoccupations des autres
+1. (p. 159) :star: **Les bases de la civilité:**
+    - Parler de manière directe aux autres quand ils s'adressent à nous
+    - Aller vers les autres et ne pas toujours attendre qu'on vienne à
+      soi
+    - Entretenir une conversation et ne pas se contenter de répondre par
+      oui ou par non
+    - Exprimer de la gratitude
+    - Céder aimablement le passage
+    - Attendre que les autres se soient servis avant de se servir
+      soi-même
+    - Remercier
+    - Dire "s'il vous plaît"
+    - Partager
+1. (p. 160) Les gens qui ne connaissent pas les règles tacites de
+   l'harmonie sociale sont non seulement incapables de la moindre
+   subtilité sociale, mais aussi de bien réagir aux émotions des autres.
+   Ils sèment le trouble dans leur sillage.
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
 1. (p. 
 1. (p. 
 1. (p. 
