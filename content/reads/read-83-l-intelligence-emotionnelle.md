@@ -48,8 +48,7 @@ travail, l'école, le mariage, l'enfance, etc. Je considère l'œuvre très
 complète, considérant l'année de sa sortie. J'ai été particulièrement
 surpris en apprenant que ce livre n'est que la première partie d'une
 œuvre encore plus large sur l'intelligence émotionnelle. En effet,
-Goleman a publié un [deuxième tome sur l\'intelligence
-émotionnelle](https://amzn.to/3X9KRQZ) aussi volumineux que le premier.
+Goleman a publié un [deuxième tome sur le sujet](https://amzn.to/3X9KRQZ) aussi volumineux que le premier.
 Peut-être que j'y jetterai un coup d'œil un jour...
 
 {{< myrating rating="👍" >}}
