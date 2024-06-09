@@ -8,6 +8,7 @@ aliases = [
 
 | Name                      | Thumbnail                                                                                | Date       |
 |---------------------------|------------------------------------------------------------------------------------------|------------|
+| Maman | {{< thumbnail src="img/art/maman.png" position="center" >}}                      | 2024-05-11 |
 | Survivor | {{< thumbnail src="img/art/survivor.png" position="center" >}}                      | 2024-02-29 |
 | You Fall to the Level of your Systems             | {{< thumbnail src="img/art/you-fall-to-the-level-of-your-systems.png" position="center" >}}                      | 2024-02-20   |
 | Friend.             | {{< thumbnail src="img/art/friend.PNG" position="center" >}}                      | 2023-12-30   |
