@@ -335,6 +335,134 @@ Peut-être que j'y jetterai un coup d'œil un jour...
    frustration s'accumule lentement. Un jour il finit par exploser. S'il
    avait formulé ses critiques plus tôt, l'employé aurait été en mesure
    de remédier au problème.
+1. (p. 198) Une critique habile est un des messages les plus utiles
+   qu'un supérieur puisse émettre. Une **bonne critique** insiste sur ce
+   que la personne a accompli et sur ce qu'elle peut encore accomplir.
+   Elle doit indiquer un moyen de régler le problème, sinon le
+   destinataire se sentira frustré, démoralisé et démotivé.
+1. (p. 199) :star: La croyance de base qui conduit à l'optimisme est que
+   les revers ou les échecs résultent de circonstances que nous pouvons
+   modifier.
+1. (p. 200) Quand vous recevez une critique, considérez-la comme une
+   information précieuse qui vous permettra de vous améliorer, et non
+   comme une attaque personnelle. Si l'expérience est trop éprouvante,
+   il vaut mieux demander le report de la discussion, le temps de
+   "digérer" les remarques et de se calmer un peu.
+1. (p. 202) Psychologiquement, le prix de la fidélité à un groupe est
+   l'antipathie vouée à un autre.
+1. (p. 203) Les gens se souviennent plus aisément de ce qui renforce un
+   stéréotype et ne tiennent pas compte de ce qui le met en question.
+1. (p. 205) Les stéréotypes s'effritent lorsque les gens œuvrent en
+   commun sur un pied d'égalité pour réaliser un objectif commun.
+1. (p. 206) Avec la spécialisation de la connaissance, l'unité de
+   travail passe de l'individu à l'équipe.
+1. (p. 207) :star: La clé d'un QI collectif élevé est l'harmonie
+   sociale.
+1. (p. 209) Les meilleurs travaillent avec plus de facilité parce qu'ils
+   consacrent du temps à cultiver de bonnes relations avec des gens dont
+   ils pourront avoir besoin dans des moments critiques. Ils se donnent
+   ainsi les moyens de créer instantanément une équipe ad hoc pour
+   résoudre un problème ou surmonter un crise.
+1. (p. 209) L'organisation officielle du travail est conçue pour venir à
+   bout des problèmes aisément prévisibles. Les réseaux informels de
+   l'organisation opèrent en diagonale et en ellipse, enjambant les
+   barrières pour que le travail s'accomplisse.
+1. (p. 210) :star: Les meilleurs éléments d'une organisation sont bien
+   souvent ceux qui sont étroitement connectés à tous les réseaux,
+   qu'ils soient:
+    - réseau de communication
+    - réseau d'expertise
+    - réseau de confiance
+1. (p. 212) Notre bien-être mental est en partie fondé sur l'illusion de
+   notre invulnérabilité.
+1. (p. 216) Le stress supprime la résistance immunitaire dans le but
+   d'économiser l'énergie afin d'affronter en priorité la situation
+   d'urgence immédiate. Si le stress est intense et constant, la
+   suppression peut devenir durable.
+1. (p. 218) La colère semble être l'émotion qui endommage le plus le
+   cœur.
+1. (p. 221) L'empathie est un bon remède pour la colère.
+1. (p. 221) :star: La confiance est l'antidote de l'agressivité.
+1. (p. 230) :star: La relation qui tient le plus de place dans votre
+   vie, celle avec les gens que vous voyez du matin au soir, est aussi
+   la plus importante pour votre santé.
+1. (p. 232) Tous les cancéreux devraient participer à des groupes de
+   discussion pour s'épancher auprès de gens qui comprennent leur peur,
+   leur douleur et leur colère.
+1. (p. 236) :star: La compassion, c'est plus que du réconfort. C'est un
+   bon médicament.
+1. (p. 244) :star: **Les 7 composants liés à l'intelligence émotionnelle
+   qui sont à la base de la capacité d'apprendre:**
+    - **Confiance**: Croire qu'on a plus de chances de réussir que d'échouer dans
+      ce que l'on entreprend et les adultes/supérieurs vous aideront
+      et vous conseilleront
+    - **Intentionnalité**: Croire qu'on a la capacité de produire un
+      effet désiré
+    - **Maîtrise de soi**: Sentiment de contrôle intérieur
+    - **Capacité d'entretenir des relations**: Sentiment d'être compris
+      et de comprendre les autres
+    - **Aptitude à communiquer**: Sentiment de confiance dans les autres
+      et plaisir d'être lié aux autres, y compris les adultes/supérieurs
+    - **Coopérativité**: Trouver un juste équilibre entre ses besoins et
+      ceux des autres dans les activités de groupe
+1. (p. 247) Le manque d'attention de la part des autres peut être plus
+   dévastateur qu'un mauvais traitement.
+1. (p. 254) Les actes de violence sont plus pernicieux que les
+   catastrophes naturelles. Les victimes de violence ont l'impression
+   d'avoir été intentionnellement choisies comme cibles. Ce sentiment
+   anéantit leur confiance dans les autres.
+1. (p. 256) Le PTSD entraîne un abaissement dangereux du seuil neuronal
+   de déclenchement de l'alarme, qui conduit l'individu à réagir dans
+   des circonstances ordinaires comme s'il s'agissait de situations
+   critiques.
+1. (p. 257) C'est au moment où l'on a l'impression que sa vie est en
+   danger et que *l'on ne peut rien faire pour y échapper* que commence
+   la modification problématique du cerveau (PTSD).
+1. (p. 262) On peut guérir des traumatismes graves comme ceux à
+   l'origine du PTSD. Le chemin de cette guérison passe par un
+   réapprentissage.
+1. (p. 263) L'art, qui est un moyen d'expression de l'inconscient,
+   permet d'accéder à l'image figée dans l'amygdale.
+1. (p. 264) L'expression artistique permet parfois aux enfants d'évoquer
+   un moment d'horreur dont ils sont incapables de parler. Le simple
+   fait de dessiner a une valeur thérapeutique; il amorce le processus
+   de maîtrise du traumatisme.
+1. (p. 267) Les patients ont besoin de faire le deuil de la perte
+   provoquée par le trauma, qu'il s'agisse de:
+    - une blessure
+    - la mort d'un proche
+    - la fin d'une relation
+    - le regret de ne pas avoir fait le nécessaire pour sauver quelqu'un
+    - la confiance perdue en autrui
+1. (p. 280) En protégeant son petit enfant hypersensible contre tout ce
+   qui pourrait le frustrer et le contrarier, la mère aggrave
+   apparemment son manque d'assurance et aboutit à un résultat  opposé à
+   celui recherché.
+1. (p. 283) La psychothérapie est un réapprentissage émotionnel
+   systématique.
+1. (p. 284) :star: Dans le domaine des émotions, une des choses les plus
+   importantes c'est de savoir se consoler soi-même lorsqu'on a du
+   chagrin.
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
 1. (p. 
 1. (p. 
 1. (p. 
