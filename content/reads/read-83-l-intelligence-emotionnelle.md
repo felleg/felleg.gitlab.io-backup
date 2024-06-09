@@ -10,7 +10,6 @@ tags:
   #- 'fiction'
 aliases:
   - '/83'
-draft: true
 number: 83
 rating: 👍
 
@@ -33,7 +32,7 @@ Selon mes recherches, il s'agit d'un véritable classique parmi les
 livres de psychologie populaire. J'avais très hâte de voir comment le
 livre allait être construit et de quoi il allait parler, compte tenu sa
 date de parution relativement lointaine (la psychologie est un domaine
-qui a avancé à toute vitesse depuis l'apparition de l'internet).
+qui a avancé à toute vitesse depuis l'apparition de l'Internet).
 
 De manière générale, je dirais que mes attentes ont été atteintes. Bien
 que je trouvais cette lecture parfois un peu aride, je dois souligner
@@ -41,15 +40,21 @@ que la portée du sujet que Daniel Goleman a choisi pour son livre est
 extrêmement vaste. Le livre ouvre d'abord avec une explication
 mécanique, presque anatomique de comment se manifeste l'intelligence
 émotionnelle (ou son absence) dans le cerveau. On apprend comment le
-néocortex, l'amygdale et l'hippocampe du cerveau intéragissent ensemble
+néocortex, l'amygdale et l'hippocampe du cerveau interagissent ensemble
 lors d'expériences à haute teneur émotionnelle. Le reste du livre visite
 différents milieux de vie où l'intelligence nous fait parfois défaut: le
 travail, l'école, le mariage, l'enfance, etc. Je considère l'œuvre très
 complète, considérant l'année de sa sortie. J'ai été particulièrement
 surpris en apprenant que ce livre n'est que la première partie d'une
 œuvre encore plus large sur l'intelligence émotionnelle. En effet,
-Goleman a publié un [deuxième tome sur le sujet](https://amzn.to/3X9KRQZ) aussi volumineux que le premier.
+Goleman a publié un [deuxième tome sur le sujet](https://amzn.to/3X9KRQZ) aussi volumineux que le premier portant plus spécifiquement sur les compétences personnelles et sociales..
 Peut-être que j'y jetterai un coup d'œil un jour...
+
+Bien que dans ce premier tome la majorité des sections portant sur l'intelligence
+émotionnelle appliquée traite de la relation entre un parent et son
+enfant, je trouve que les leçons du livre s'appliquent aussi bien pour
+une relation patron-employé. En effet, il y a un enfant à l'intérieur de
+chacun de nous!
 
 {{< myrating rating="👍" >}}
 
@@ -206,7 +211,7 @@ Peut-être que j'y jetterai un coup d'œil un jour...
     - L'aptitude à organiser des groupes
     - La capacité à négocier des solutions (permet de prévenir les
       conflits ou de les résoudre)
-    - La capacité à établir des relations personnelles: éporouver de
+    - La capacité à établir des relations personnelles: éprouver de
       l'empathie et communiquer
     - La capacité d'analyse sociale: percevoir les sentiments, les
       motivations et les préoccupations des autres
@@ -443,51 +448,78 @@ Peut-être que j'y jetterai un coup d'œil un jour...
 1. (p. 284) :star: Dans le domaine des émotions, une des choses les plus
    importantes c'est de savoir se consoler soi-même lorsqu'on a du
    chagrin.
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
+1. (p. 285) Les enfants sont plus à même de supprimer l'activité
+   stimulant l'amygdale (menant à une amélioration du comportement)
+   lorsque leurs parents:
+    - éduquent leurs émotions
+    - parlent de leurs sentiments en expliquant comment les comprendre
+    - ne s'érigent pas en juges et ne se montrent pas critiques
+    - les aident à résoudre leurs problèmes psychologiques
+    - :star: leur expliquent qu'il existe d'autres réactions possibles
+      que la violence ou le repli sur soi
+1. (p. 297) Contrairement aux garçons, les adolescentes rebelles ne
+   deviennent pas violentes; elles tombent enceintes.
+1. (p. 297) Les actes antisociaux d'un enfant de cinq ans pourraient
+   bien être les prototypes de ceux que commettra l'adolescent
+   délinquant.
+1. (p. 300) Chez les jeunes, les problèmes relationnels sont souvent à
+   l'origine de la dépression.
+1. (p. 310) Certains obèses sont incapables de faire la différence entre
+   un sentiment de frayeur, la colère et la faim, et les considèrent en
+   bloc comme révélateurs du besoin de manger, ce qui les conduit à se
+   suralimenter chaque fois qu'ils se sentent contrariés.
+1. (p. 314) C'est avec nos premiers amis que nous apprenons à gérer nos
+   relations intimes. Un seul ami peut tout changer, même si les autres
+   vous tournent le dos (et même si cette amitié n'est pas des plus
+   solides).
+1. (p. 318) Le désir impérieux de trouver le calme semble être un
+   indicateur psychologique d'une prédisposition à l'**alcoolisme**.
+   L'autre voie conduisant à l'alcoolisme a pour point de départ
+   l'agitation, l'impulsivité et l'ennui.
+1. (p. 319) Ceux qui se tournent vers l'alcool le font plus souvent pour
+   calmer leur anxiété que pour lutter contre la dépression. Les
+   déprimés recourent plus volontiers à des stimulants comme la cocaïne.
+1. (p. 324) L'enfant apprend à prendre des décisions appropriées en
+   commençant par contrôler la pulsion qui le pousse à agir, puis en
+   inventoriant les actions possibles et leurs conséquences avant de
+   passer à l'acte.
+1. (p. 325) **Une manière intéressante de prendre les présence**: Au
+   lieu de répondre "présent", les gens annoncent un chiffre selon leur
+   humeur de un à dix (représentant la hauteur de leur moral). Lorsque
+   l'un d'eux annonce une note très basses (1, 2, 3, ...) on lui demande
+   s'il souhaite dire ce qui ne va pas, mais on ne le force jamais à en
+   parler s'il n'a pas envie. Il peut alors raconter ses soucis et
+   peut-être trouver le moyen de s'en débarrasser.
+1. (p. 333) La colère est presque toujours une réaction secondaire et il
+   faut rechercher ce qui se cache derrière: Es-tu froissé? Jaloux?
+1. (p. 333) Nous avons toujours le choix entre diverses manières de
+   réagir à une émotion, et plus que nous en connaissons de différentes,
+   plus notre vie s'enrichit.
+1. (p. 337) Les enfants agressifs se mettent en colère et deviennent
+   violents parce qu'ils prennent à tort des signes et des expressions
+   neutres pour des marques d'hostilité.
+1. (p. 337) Les filles souffrant de **troubles alimentaires** sont
+   incapables de distinguer la colère, l'anxiété et la faim.
+1. (p. 345) La colère est une émotion normale, mais certains réactions
+   sont anormales.
+1. (p. 353) Un autre mot pour désigner l'intelligence émotionnelle est
+   le **caractère**. Le caractère est le muscle psychologique nécessaire
+   à une conduite morale. :star: L'affermissement du caractère
+   conditionne l'existence des sociétés démocratiques.
+1. (p. 357) [Classification des émotions](https://felx.cc/bcm)
+1. (p. 361) Les actions déclenchées par l'esprit émotionnel
+   s'accompagnent d'un sentiment de certitude particulièrement fort,
+   sous-produit d'une perception simplifiée, économique, qui est parfois
+   absolument déconcertante pour l'esprit rationnel.
+1. (p. 364) Les grands maîtres spirituels, comme Bouddha et Jésus, ont
+   touché le cœur de leurs disciples en parlant le langage des
+   émotions, en enseignant par paraboles, en racontant des fables et des
+   histoires.
+1. (p. 364) Les rêves sont mythes personnels. Les mythes sont des rêves
+   partagés.
+1. (p. 365) :star: Ce que nous rappelle une chose peut être beaucoup
+   plus important que ce qu'elle "est."
+1. (p. 365) L'esprit émotionnel tient ses convictions pour des vérités
+   absolues et ignore tout ce qui pourrait démontrer le contraire.
+1. (p. 365) Les sentiments s'autojustifient par un ensemble de
+   perceptions et de "preuves" qui leur sont propres.
