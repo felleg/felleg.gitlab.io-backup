@@ -51,7 +51,7 @@ Goleman a publié un [deuxième tome sur le sujet](https://amzn.to/3X9KRQZ) auss
 Peut-être que j'y jetterai un coup d'œil un jour...
 
 Bien que dans ce premier tome la majorité des sections portant sur l'intelligence
-émotionnelle appliquée traite de la relation entre un parent et son
+émotionnelle appliquée traitent de la relation entre un parent et son
 enfant, je trouve que les leçons du livre s'appliquent aussi bien pour
 une relation patron-employé. En effet, il y a un enfant à l'intérieur de
 chacun de nous!
