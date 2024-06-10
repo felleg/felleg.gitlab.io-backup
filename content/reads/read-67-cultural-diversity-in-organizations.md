@@ -164,7 +164,7 @@ Amen.
     - internal focus -- external focus
     - order -- flexibility
     - long-term focus -- short-term focus
-1. (p. 165) :star: Intimidate knowledge about getting along in an organization (the
+1. (p. 165) :star: Intimate knowledge about getting along in an organization (the
    unspoken, unwritten and sometimes most critical information) is
    transmitted in ongoing small-scale socialization, particularly when
    the newcomer:
