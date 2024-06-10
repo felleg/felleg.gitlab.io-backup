@@ -52,9 +52,9 @@ cat >> "$output_file" << EOF
 
 {{< bookshelf >}}
 
-Thanks to [@bhdicaire](https://bhdicaire.com),
-[@kjrstory](https://github.com/kjrstory/hugo-shortcode-bookshelf) and
-[@petargyurov](https://github.com/petargyurov/virtual-bookshelf) for
+Thanks to [@petargyurov](https://github.com/petargyurov/virtual-bookshelf),
+[@kjrstory](https://github.com/kjrstory/hugo-shortcode-bookshelf) and [@bhdicaire](https://bhdicaire.com)
+ for
 making this display possible. :heart:
 EOF
 
