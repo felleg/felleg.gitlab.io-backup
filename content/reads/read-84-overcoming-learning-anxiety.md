@@ -3,7 +3,7 @@ date: 2024-06-11T15:13:54-04:00
 title: "(Read 84) Overcoming Learning Anxiety"
 cover: img/reads/overcoming-learning-anxiety.png
 amzcover: /img/reads/overcoming-learning-anxiety.png
-author: 
+author: Félix Léger
 tags:
   - 'reads'
   - 'nonfiction'
@@ -27,54 +27,12 @@ Author: [Félix Léger](https://felixleger.com)
 
 # Review
 
-This isn't a real book, but I wrote it and I am strongly attached to
+This isn't a real book (yet!), but I wrote it and I am strongly attached to
 this text, enough to want to publish it as a real book. This is probably
-as close as I can get. Fake it 'till you make it!
+as close as I can get. Fake it 'till you make it! Click on the link
+below to access the full text:
 
-{{< myrating rating="👍👍👎👎" >}}
+# [Overcoming Learning Anxiety, by Félix Léger](/overcoming-learning-anxiety)
 
----
+{{< myrating rating="🙋🏻‍♂️" >}}
 
-# :star: Star quotes:
-
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
