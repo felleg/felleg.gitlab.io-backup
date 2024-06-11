@@ -32,6 +32,8 @@ reviews:
 
 - **Still thinking about it** (:thinking:), for some reason I didn't feel comfortable
   giving a rating. That usually isn't a good sign, though. 😅
+- **I wrote this** (🙋🏻‍♂️), in case I ever realize my dream of
+  publishing a book.
 
 I hope that clears things up!
 
