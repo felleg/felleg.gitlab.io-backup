@@ -1,6 +1,6 @@
 ---
 date: 2024-06-11T15:13:54-04:00
-title: "(Publication 1) Overcoming Learning Anxiety"
+title: "(85) Overcoming Learning Anxiety"
 cover: img/reads/overcoming-learning-anxiety.png
 amzcover: /img/reads/overcoming-learning-anxiety.png
 author: 

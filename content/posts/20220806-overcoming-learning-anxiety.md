@@ -15,11 +15,15 @@ description: "In this post, I discuss how I overcame learning anxiety by creatin
 
 
 *My mission is to share my progression towards dealing
-with my own learning anxiety. I realize that writing a 7,500+ words essay on the subject is probably not the best way to grab the attention
+with my own learning anxiety. I realize that writing a 6,400+ words essay on the subject is probably not the best way to grab the attention
 of people who share that anxiety, but I did my best to make this text as
 entertaining and light as possible, in
 the hope that, if you are also dealing with learning anxiety, you will
-be inspired to take steps towards overcoming this wall.*
+be inspired to take steps towards overcoming this wall. Feel free to
+use add-ons like Read Aloud
+([Firefox](https://addons.mozilla.org/en-US/firefox/addon/read-aloud/),
+[Chrome](https://chromewebstore.google.com/detail/hdhinadidafjejdhmfkjgnolgimiaplp))
+to convert this text to audio if you wish.* :smile:
 
 *If there's only one thing I'd want you to remember from this post, it's
 that **anyone can experience learning anxiety and solving it requires a
@@ -41,15 +45,14 @@ Thanks to Mathieu Frenette for teaching me the fold.
 
 Thanks to Gene Kim for writing the books that gave me my *Aha!* moment.
 
-Thanks to Matt Morris for walking me through what would become my learning system.
+Thanks to Matt Morris for making a video that became the foundation my learning system.
 
 And **thank you** for giving this text a chance.
 
 ---
 
-# What even is learning anxiety?
 
-I think this sums it up nicely:
+# Introduction: Discovering I had learning anxiety
 
 > *There are two kinds of anxiety associated with learning: “learning
 > anxiety” and “survival anxiety.” Learning anxiety comes from being
@@ -76,8 +79,6 @@ I think this sums it up nicely:
 > (Diane Coutu, [The Anxiety of
 Learning](https://hbr.org/2002/03/the-anxiety-of-learning))
 
-# Discovering I had learning anxiety
-
 I wasn't always aware of how bad my learning anxiety was, and I'm
 convinced that most people who suffer that condition don't realize it
 either.
@@ -90,7 +91,7 @@ out. However, I also felt like I wasn't accomplishing as much as I should
 have, considering the amount of energy I was pouring daily in my work. From
 the outside, it might have looked like this:
 
-{{< figure src="/img/too-busy.jpeg" position="center" caption="" >}}
+{{< figure src="/img/too-busy.jpeg" position="center" caption="A person on a bicycle with square wheels claims they can't stop to switch to round wheels because they are too busy." >}}
 
 A series of events eventually put me in
 survival mode, where I had two possible outcomes:
@@ -101,7 +102,7 @@ survival mode, where I had two possible outcomes:
 This led me to read a certain DevOps  handbook, which led me to write
 down these words:
 
-{{< figure src="/img/learning-anxiety-lightbulb.jpg" position="center" caption="'In the team, we want to encourage learning and help overcome learning anxiety.'" >}}
+{{< figure src="/img/learning-anxiety-lightbulb.jpg" position="center" caption="A photo of my notes: 'In the team, we want to help overcome learning anxiety.'" >}}
 
 Well, here it is. This is the moment when my mind clicked and realized *I* had learning
 anxiety. Before writing it down and seeing it with my own eyes for the first time --- "learning
@@ -122,10 +123,9 @@ other words, as I was writing *"learning anxiety (<- **I
 have that!**)"*, I hadn't realized that, precisely at that moment, I was
 beginning to heal. Very meta...
 
-Let's back up a bit to give you better context and hopefully walk you
-through the steps taken to untangle this mental knot.
+Let's start this story by going back in time. Let's untangle this mental knot.
 
-# The anxiety begins
+# Chapter 1: The anxiety begins
 
 In 2017, fresh out of University and ready to tackle the world, I
 started working for a newly-formed startup then-called Proximity HCI
@@ -192,9 +192,9 @@ mindset that drives the DevOps philosophy: Do everything you can to
 maximize the value your peers can deliver. However, I was simply too discouraged
 at the time to realize this...
 
-In 2019, as I was going on vacation, I stumbled upon a book called [*The
+In 2019, as I was going on vacation, I stumbled upon a book called *[The
 Phoenix
-Project*](/reads/read-41-1-the-phoenix-project/), which seemed really popular in the DevOps space as an
+Project](/reads/read-41-1-the-phoenix-project/)*, which seemed really popular in the DevOps space as an
 entry point into the subject matter. Being written as a novel, I thought:
 "Ah! This is perfect material to read on the beach, without any pressure
 to learn. This is going to be great fun."
@@ -212,15 +212,16 @@ come back to in this post.
 In a single week, I had finished reading my first DevOps book. Woohoo! I felt like I
 was ready to conquer the world. My mind was now filled with ideas I was
 excited to try. *The Phoenix Project* subtly advertised
-for another book from the same author, *The DevOps Handbook*, which
+for another book from the same author, *[The DevOps
+Handbook](https://amzn.to/4clZUMF)*, which
 supposedly contained everything you needed to know to propel your
 business forward like the protagonist of *The Phoenix
 Project*. I felt ready for it. Bring it on!
 
 
-# Conquering *The DevOps Handbook*
+# Chapter 2: *The DevOps Handbook*
 
-I ordered my copy of the handbook in 2019. I finished it on August 6, 2022. For those keeping count, that means three years of lead time. What happened?
+I ordered my copy of *[The DevOps Handbook](https://amzn.to/4clZUMF)* in 2019. I finished it on August 6, 2022. For those keeping count, that means three years of lead time. What happened?
 
 Simply put, after a few chapters, I began to feel intimidated. This
 didn't feel like the Phoenix Project. It was a real book, one that
@@ -236,7 +237,9 @@ managed to organically sneak in   a reasonable amount of information within the 
 
 Very early on, I could feel my reading velocity diminish as I was
 reading my physical copy. I started
-reading the digital version on my Kobo to see if that could help, but I
+reading the digital version on my Kobo to see if that could help (I was
+very big on e-readers at the time, see [I Love
+E-readers](https://felixleger.com/posts/2020/10/i-love-e-readers/)), but I
 got the same result; Initial progress
 was quick, and then everything ground to a halt.
 
@@ -256,7 +259,7 @@ potential.
 I just didn't expect that key to be the threat  of getting the old boot!
 
 
-# Bad news
+# Chapter 3: Good fold, Bad fold
 
 In mid-June 2022, three months after joining the nesto DevOps team, I
 received unfortunate news: I was
@@ -271,8 +274,6 @@ I had never been put in that kind of situation  before, where a manager
 told me I was not pulling my own weight. I wasn't going to waste this
 opportunity  to show the world what I could do when given proper
 motivation.
-
-## Good fold, Bad fold
 
 So I got to work, big time. My focus in mid-June was higher than ever,
 thanks to survival instincts that kicked into high gear. One of my first
@@ -309,8 +310,6 @@ this say about your learning habits?
 
 {{< figure src="/img/punching-bags.png" position="center" caption="" >}}
 
-## Opening Pandora's Box
-
 It was my then manager (and mentor!)
 Mathieu Frenette who showed me a "tool" that I
 would be using for the rest of my life. It is a
@@ -320,7 +319,7 @@ way of holding books that reminds us that **our goal is to learn**. I call it th
 
 Some people might cringe when seeing this. Are you one of those? :wink:
 
-Yet, those who know, know.
+Yet, those who know, know. For me, this opened Pandora's box.
 Now, you might be asking: What difference does it make to hold a book
 bent over backwards?
 
@@ -365,7 +364,7 @@ sharing with others.
 Is it really a coincidence that a curved book spine looks like a smile?
 :smiley:
 
-# Creating a system of learning
+# Chapter 4: Creating a system of learning
 
 So, I knew how to hold a book. Big whoop. This didn't
 change the fact that after reading 10 pages, I
@@ -389,6 +388,7 @@ idea](https://www.youtube.com/watch?v=_WCfaGarc4U).  In short, the strategy is t
 > - Notebook to write
 > - Pen
 > - Highlighter
+> - Ruler
 >
 > While reading:
 > - Look for the golden nuggets of information *you* find interesting
@@ -413,35 +413,60 @@ also call for your attention. No time to go down memory lane. Give a
 book the time it needs, then be done with it. For real.
 
 Following this basic method already sent me down an excellent path. My own learning system
-naturally evolved from there.
+naturally evolved from there. This is what learning to learn looks like.
 
-# My current learning system
+# Chapter 5: My current learning system
 
 {{< figure src="/img/rewriting.png" position="center" caption="" >}}
 
 The core idea stays roughly the same as Matt Morris' strategy outlined
 above. However, after doing this for a few years, I picked up some
-additional tricks that I find worth sharing:
+additional tricks that I find worth sharing. Let's first summarize the
+core method:
 
-## Make a clear distinction between "books" and "novels"
+1. Get a physical book, a notebook, a short ruler, a pen and a highlighter. Make sure
+   these are objects you enjoy using.
+1. Find a way to keep your book, as well as a pen and highlighter, on
+   your person. Personally, I keep my pens in my pocket and my book in
+   my backpack.
+1. When reading the book, look for *interesting information* and
+   highlight it. Don't
+   worry if you *get* the author's message. Don't worry if you forgot
+   what the previous chapter is about. Just read and highlight the
+   things you resonate with.
+1. When you're done reading your book, or when you need a change of
+   pace, open your notebook and transcribe the quotes you highlighted
+   in the book that you wish to keep. You don't have to keep everything.
+   Also, feel free to reword quotes if you find a way to make them
+   clearer for yourself (sometimes authors overcomplicate things, oops!)
+1. When you're done transcribing your notes, open your computer and,
+   once again, transcribe the quotes from your notes that you really
+   want to keep. Once again, you don't have to keep everything, and you
+   can reword/merge/adapt the quotes as needed. Choose a format of your
+   liking that you'll be able to search through later.
 
-My system only applies to books, which contain material from which I aim
-to learn. By my definition, books are not designed around entertainment, unlike novels.
+That's it, really! However, since I am very passionate about this
+subject, I can't resist sharing some additional tricks. You may consider
+the following tips, or skip ahead to [Chapter 6: Conclusion](#chapter-6-conclusion)
 
-*The Phoenix Project* skirted that line brilliantly and I think that can
-partly explain its incredible success. However, in most cases, before
-you start reading, you should already know what system of rules will
-apply by answering questions such as:
+## Tip 1: Grab your book before grabbing your phone
 
-- Do you allow yourself to quit that particular book before finishing?
-- Do you consider reading this book a personal project, or
-  entertainment?
-- Will you search for knowledge nuggets while reading?
+**This tip is so important that it could be its own blog post**.
 
-Personally, I read books in physical form, and novels in digital form,
-using my Kobo.
+The best way to progress through a book is not to allocate
+long periods of time for reading, but rather to keep your book handy at
+all times and to read a paragraph or two (or more, if you're lucky!)
+whenever you're between tasks.
 
-## Read a single book at a time
+Basically, any time you feel like picking up your phone to browse, pick
+your book first, and see if you can squeeze a quick paragraph or two.
+You'll be amazed by the results. Change your phone's wallpaper to remind
+you to read if you need to. It's worth it.
+
+Caveat: This does require you to keep your book within reach and visible as often as
+possible.
+
+## Tip 2: Start by reading a single book at a time
 
 As you start learning, you get excited when you see all the
 possibilities within your grasp. Never forget, "Stop starting, start
@@ -465,114 +490,8 @@ next one. You don't want to make commitments that you might not be able
 to complete! I strongly advise to order only a single book at a time, especially at the start of your learning journey -
 don't get carried away!
 
-## Grab your book before grabbing your phone
 
-**This tip is so important that it could be its own blog post**.
-
-The best way to progress through a book is not to allocate
-long periods of time for reading, but rather to keep your book handy at
-all times and to read a paragraph or two (or more, if you're lucky!)
-whenever you're between tasks.
-
-Basically, any time you feel like picking up your phone to browse, pick
-your book first, and see if you can squeeze a quick paragraph or two.
-You'll be amazed by the results.
-This does require you to keep your book within reach and visible as often as
-possible.
-
-# Hardware
-
-
-Alright, we are now getting into the tips you were probably looking for. For most of us, making a purchase is the fun, exciting part. My dopamine-hungry brain loves it when I buy stuff.
-
-So, what hardware do I recommend?
-
-## Bound journal
-
-First off, this is probably basic common-sense, but I'll make it explicit, just in
-case: Don't use a spiral-bound Hilroy notebook
-or, worse, a stitched exercise book. These won't do much good here if pages
-keep tearing and falling out of your journal after a few years.
-
-The bound journal I've been using is the [TRU RED Medium Flexible Cover
-Dotted Journal](https://www.staples.ca/products/2934243-en-tru-red-medium-flexible-cover-dotted-journal-black)
-from Staples.
-
-{{< figure src="/img/use-bound-journals.png" position="center" caption="" >}}
-
-Note: Some people enjoy spiral-bound notebooks because they allow to
-easily fold back the notebook and stay opened flat on a table. If you do
-invest in a spiral-notebook, at least make sure it is high quality.
-
-
-### Use a grid or dotted journal
-
-This allows better horizontal alignment of information for writing
-lists. It makes my messy handwriting look less messy. Personally, I am
-now very fond of dotted journals, because they provide the benefits of a
-grid without being as visually distracting.
-
-{{< figure src="/img/dotted-journal-2.png" position="center" caption="" >}}
-
-### Number your pages
-
-If your notebook doesn't have page numbers already (most don't), I
-strongly recommend that you number your pages yourself. This is
-invaluable to allow you to reference your notes later on. It is such an
-integral part of my system that I initially forgot to list it here! This
-is a quality of life upgrade that is too obvious to live without.
-
-### Make your own margins!
-
-For most of my life, I assumed the margin was meant for graders to
-review your work and comment on their corrections. Well, news flash: the
-margin is for everybody!
-
-It's a shame that most quality notebooks that I know of don't have
-margins. Use this to your advantage: make your margins as wide or as
-thin as you need.
-
-{{< figure src="/img/margins.jpg" position="center" caption="" >}}
-
-In my notes, sometimes I write questions or things that will need
-further updates. The margins is the perfect place to put such updates.
-Of course, not all of your notes will require a margin note, but that's
-a good thing: it leaves you with more room for the notes that truly need
-commenting later on.
-
-
-## Pens and highlighters
-
-Take the time to really search for a pen that makes writing a joyful
-experience for *you*.
-
-If you're looking for recommendations, mine are:
-- Pen: Bic Cristal (black or blue)
-- Highlighter: Something basic and colorful, like [those sold at Staples](https://www.staples.ca/products/496808-en-chisel-tip-tank-style-highlighters-yellow-20-pack)
-
-Why?
-
-- They are cheap, easy to find and reliable
-- The Bic Cristal does not smear (I'm left handed)
-- The highlighter has lots of ink and lasts a long time
-
-{{< figure scale="400px" src="/img/bic-cristal-and-highlighter.jpg" position="center" caption="So, am I a good [pen seller](https://www.youtube.com/watch?v=9UspZGJ-TrI)? ;)" >}}
-
-
-## Ruler
-
-This allows you to make nice lines, for tables or underlines. Any cheap
-15 cm ruler will do. It makes your journal more pleasing to read, which
-is important. After all, the whole point of keeping a journal is so you
-can easily refer to your knowledge.
-
-The best storage place I found for my ruler is directly in my notebook. The book's elastic band keeps it securely shut.
-
-{{< figure src="/img/ruler.jpg" position="center" caption="" >}}
-
-# Tricks
-
-## Track your progress by folding the corners
+## Tip 3: Track your progress by folding the corners
 
 This is a big part of my system.
 
@@ -603,7 +522,7 @@ I write. I feel like I am free to choose what activity is right for what
 time. And, most importantly, whatever I end up choosing, I am constantly
 learning.
 
-## Use the body of your highlighter as a visual aid
+## Tip 4: Use the body of your highlighter as a visual aid
 
 When I picture someone reading, I often see them using their finger to
 track their progress, like this:
@@ -642,7 +561,7 @@ This has many benefits:
    - wide enough to hide the sentences below what I am reading, which
      ensures I am not reading "in diagonal".
 
-## Identify elements of an enumeration
+## Tip 5: Identify elements of an enumeration in the text
 
 I noticed that some authors like to create enumerations in prose instead
 of in a list form. In order to help my future note-taking self, I use my
@@ -651,9 +570,9 @@ paragraph. It makes the information much easier to parse later on.
 
 {{< figure src="/img/enumeration.jpg" position="center" caption="" >}}
 
-## Use your book's margins to write ideas
+## Tip 6: Use your book's margins to write ideas
 
-If reading a certain paragraph triggers a lightbulb in your mind or
+If reading a certain paragraph triggers a light bulb in your mind or
 makes you pause and wonder about a specific question, I recommend that
 you write that thought in the margins next to the paragraph that
 inspired it. That way, when writing your notes, you will also be able to
@@ -663,12 +582,42 @@ Don't let a good idea go to waste!
 
 {{< figure src="/img/good-margin-notes.jpg" position="center" caption="" >}}
 
+## Tip 7: Number your notebook's pages
 
-## Write the source of your knowledge nuggets
+If your notebook doesn't have page numbers already (most don't), I
+strongly recommend that you number your pages yourself. This is
+invaluable to allow you to reference your notes later on. It is such an
+integral part of my system that I initially forgot to list it here! This
+is a quality of life upgrade that is too obvious to live without.
 
-{{< figure src="/img/notes.jpg" position="center" caption="" >}}
+If you have to number your notebook's pages, take this opportunity to
+use a different ink (e.g. red) than what you would use for your note
+taking. Things will look much clearer when you reach the bottom right
+corner of odd-numbered pages. :wink:
 
-Notice in the photo above that most "knowledge nuggets" end with a
+## Tip 8: If you notebook doesn't have margins, make some!
+
+For most of my life, I assumed the margin was meant for graders to
+review your work and comment on their corrections. Well, news flash: the
+margin is for everybody!
+
+It's a shame that most quality notebooks that I know of don't have
+margins. Use this to your advantage: make your margins as wide or as
+thin as you need.
+
+{{< figure src="/img/margins.jpg" position="center" caption="" >}}
+
+In my notes, sometimes I write questions or things that will need
+further updates. The margins is the perfect place to put such updates.
+Of course, not all of your notes will require a margin note, but that's
+a good thing: it leaves you with more room for the notes that truly need
+commenting later on.
+
+## Tip 9: Write the source of your knowledge nuggets
+
+{{< figure src="/img/notes-source.png" position="center" caption="" >}}
+
+Notice in the photo above that most "knowledge nuggets" are paired with a
 reference to the source material. This helps finding context or
 correcting notes in the rare cases where your notes are unclear and you
 must refer to the book. Trust me, it can save you a lot
@@ -678,44 +627,46 @@ of daily work is even more important than daily work!").
 
 Side effects may include people calling you a bookworm.
 
-## Use a URL shortener to encode web links in your notebook
+## Tip 10: Use a URL shortener to encode web links in your notebook
 
-( This section will be written eventually, but I'm sure you can figure that part out by yourself until I write about it :smiley: Bit.ly is an app and browser add-on you can use to shorten links. )
+This is very nerdy, but also very cool *and* useful. See an example in
+the image below:
 
-## Have a book reference at the beginning of your journal
+{{< figure src="/img/note-short-url.png" position="center" caption="" >}} 
 
-As you add more and more knowledge nuggets and references in your
-journal, it is going to be helpful to know at a glance from which books
-your nuggets were captured. I solve this by providing a list of books I
-read at the beginning of my journals. This is also useful to remember
-what the acronyms I use to reference a knowledge nugget stand for.
+The `F/bcm`, with the circled F being a shorthand for https://felx.cc/,
+is my short URL. To be clear, if you visit https://felx.cc/bcm, you'll
+be taken to this link instead: https://photos.google.com/share/AF1QipNkyXbkGnqpbp38J_f57sodGkG801H4lzJiwqTcInRbMmU38EKrqHbP28fZ9afKpw?key=WVB3UWdrUHNxS3duR0loTXY4ZEU5d084X29iSGp3, which is a photo I took of a page in a book for convenience.
 
-{{< figure src="/img/book-reference.jpg" position="center" caption="" >}}
+Thus, a URL shortening is a service that allows you to create a small
+link that can redirect to a link of any length. This is invaluable: it
+allows me to save important, complicated links directly alongside my
+reading notes, where I know they will be most useful.
 
-## Have an index at the end of your journal
+If you are interested in trying a URL shortening service, many services
+already offer free tiers:
 
-Eventually, reading your journal will take as long as reading a real
-book. You will quickly begin to face the same problems that real books
-had to solve ages ago. For example, in my journal, I give information
-about blameless postmortems in 3 different places. That was unavoidable:
-how could I plan that the book would have nuggets about postmortems in
-different sections and chapters?
+- https://bitly.com/
+- https://www.shorturl.at/
+- https://tinyurl.com/app
+- https://cutt.ly/fr
+- https://free-url-shortener.rb.gy/
+- https://t.ly/
+- ...
 
-Having an index allows me to easily retrieve information in my journal.
-Of course, this requires that you number your pages, but it's a
-trade-off I could not imagine myself living without.
+However, if you're a computer nerd and would like to possess your *own*
+URL shortening service (like I do with https://felx.cc/, that is fully
+owned by me!), I recommend you check out [a video I made on how to
+get started with
+VanityURL](/posts/2024/01/vanityurls-a-convenient-diy-url-shortener-service/).
 
-It just makes sense, you know?
-
-{{< figure src="/img/notebook-index.jpg" position="center" caption="" >}}
-
-## Share  the learning material
+## Tip 11: Give your book away
 
 This is the fun part. When you finished reading a book and collecting
 all its nuggets in your journal, you are free to share it with the
 world. In fact, I think it's better to bring the book out of your home
 and find it a new library where it will be happy. In my case, since my
-employer provides me a personal wellness account that funds my book
+employer sometimes provides me a personal wellness account that funds my book
 purchases, I think it's a no-brainer to bring these books back to the
 office, where I know they will benefit my colleagues.
 
@@ -725,11 +676,13 @@ library is the victory lap.
 {{< figure src="/img/book-sharing.png" position="center" caption="" >}}
 
 For the *DevOps Handbook*, since this book meant a lot for me during my
-personal development, I added a little note on the title page:
+personal development, I added a little note on the title page. Who
+knows, maybe this little encouragement will make a difference for the
+next person who will start this book!
 
 {{< figure src="/img/encouraging-others.jpg" position="center" caption="" >}}
 
-## Scanning, reviewing and quoting one last time!
+## Tip 12: Share your notes online
 
 I developed the habit to scan my notes once they
 are complete for a given book and putting them on my Google Drive. This has many advantages:
@@ -755,8 +708,9 @@ cements it in my brain. A bonus side effect of that is that it creates a
 nice [virtual bookshelf](/bookshelf) that I can use to retrieve my notes
 and even share them with interested parties.
 
+{{< figure src="/img/virtual-bookshelf.png" position="center" caption="[My virtual bookshelf](/bookshelf)" >}} 
 
-# Remember: Reading a book twice is inefficient
+## Tip 13: Remember: Reading a book twice is inefficient
 
 I've hinted at it before, but I'll say it clearly once more: If you are
 reading a book a second time, what does this say about the first time
@@ -765,7 +719,70 @@ Instead, rely on your notes to quickly get the essence of the book.
 That's your reward for putting in this work: you can get the same info
 as reading the full book in a fraction of the time.
 
-# Conclusion
+## Additional tips on Hardware
+
+Alright, we are now getting into the nitty-gritty. For most of us, making a purchase is the fun, exciting part. My dopamine-hungry brain loves it when I buy stuff.
+
+So, what hardware do I recommend, precisely?
+
+### Notebook
+
+First off, this is probably basic common-sense, but I'll make it explicit, just in
+case: Don't use a spiral-bound Hilroy notebook
+or, worse, a stitched exercise book. These won't do much good here if pages
+keep tearing and falling out of your journal after a few years.
+
+The bound journal I've been using is the [TRU RED Medium Flexible Cover
+Dotted Journal](https://www.staples.ca/products/2934243-en-tru-red-medium-flexible-cover-dotted-journal-black)
+from Staples.
+
+{{< figure src="/img/use-bound-journals.png" position="center" caption="" >}}
+
+Note: Some people enjoy spiral-bound notebooks because they allow to
+easily fold back the notebook and stay opened flat on a table. If you do
+invest in a spiral-notebook, at least make sure it is high quality.
+
+
+Also, I strongly recommend to use a grid or dotted journal.  This allows
+better horizontal alignment of information for writing lists. It makes
+my messy handwriting look less messy. Personally, I am
+now very fond of dotted journals, because they provide the benefits of a
+grid without being as visually distracting.
+
+{{< figure src="/img/dotted-journal-2.png" position="center" caption="" >}}
+
+
+### Pens and highlighters
+
+Take the time to really search for a pen that makes writing a joyful
+experience for *you*.
+
+If you're looking for recommendations, mine are:
+- Pen: Bic Cristal (black or blue)
+- Highlighter: Something basic and colorful, like [those sold at Staples](https://www.staples.ca/products/496808-en-chisel-tip-tank-style-highlighters-yellow-20-pack)
+
+Why?
+
+- They are cheap, easy to find and reliable
+- The Bic Cristal does not smear (I'm left handed)
+- The highlighter has lots of ink and lasts a long time
+
+{{< figure scale="400px" src="/img/bic-cristal-and-highlighter.jpg" position="center" caption="So, am I a good [pen seller](https://www.youtube.com/watch?v=9UspZGJ-TrI)? ;)" >}}
+
+
+### Ruler
+
+This allows you to make nice lines, for tables or underlines. Any cheap
+15 cm ruler will do. It makes your journal more pleasing to read, which
+is important. After all, the whole point of keeping a journal is so you
+can easily refer to your knowledge.
+
+The best storage place I found for my ruler is directly in my notebook. The book's elastic band keeps it securely shut.
+
+{{< figure src="/img/ruler.jpg" position="center" caption="" >}}
+
+
+# Chapter 6: Conclusion
 
 I find this image very telling. My learning system allowed me to
 compress a 421-page book down to its essential learning nuggets, which
@@ -830,4 +847,4 @@ If you want to follow my "learning journey" progress, head over to my [reading l
 [^1]: 2022/08/22 Update: I believe I have found tools that can help
   learning from browser pages!
   [Highlight by
-  Weave-Trix](https://addons.mozilla.org/en-CA/firefox/addon/highlight-by-trix/) and [Reader Ruler](https://addons.mozilla.org/en-US/firefox/addon/readingruler/) for Firefox.
+  Weave-Trix](https://addons.mozilla.org/en-CA/firefox/addon/highlight-by-trix/), [Read Aloud](https://addons.mozilla.org/en-US/firefox/addon/read-aloud/) and [Reader Ruler](https://addons.mozilla.org/en-US/firefox/addon/readingruler/) for Firefox.
