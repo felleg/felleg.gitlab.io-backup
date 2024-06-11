@@ -189,8 +189,6 @@ Where good ideas come from
 
 {{< figure src="/img/spin-the-wheel.png" position="center" caption="We spin the wheel every month to determine which game we'll play (should I like to my repo?)" >}}
 
-{{< youtube lVyckz5FVSk >}}
-
 # Legality
 
 Arcade Archives
