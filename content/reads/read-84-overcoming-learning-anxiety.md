@@ -28,9 +28,12 @@ Author: [Félix Léger](https://felixleger.com)
 # Review
 
 This isn't a real book (yet!), but I wrote it and I am strongly attached to
-this text, enough to want to publish it as a real book. This is probably
-as close as I can get. Fake it 'till you make it! Click on the link
-below to access the full text:
+this text, enough to want to publish it as a real book. It tells the
+story of how I overcame my own learning anxiety, the impact it had on my
+life, and how I believe you can overcome yours if you suffer from the
+same condition.
+
+Click on the link below to access the full text:
 
 # [Overcoming Learning Anxiety, by Félix Léger](/overcoming-learning-anxiety)
 
