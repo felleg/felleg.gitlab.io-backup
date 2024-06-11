@@ -1,6 +1,6 @@
 ---
 date: 2024-06-11T15:13:54-04:00
-title: "(85) Overcoming Learning Anxiety"
+title: "(Read 84) Overcoming Learning Anxiety"
 cover: img/reads/overcoming-learning-anxiety.png
 amzcover: /img/reads/overcoming-learning-anxiety.png
 author: 
@@ -9,16 +9,15 @@ tags:
   - 'nonfiction'
   #- 'fiction'
 aliases:
-  - '/##'
-draft: true
+  - '/84'
 number: 84
 rating: 🙋🏻‍♂️
 
 ---
 
-Release year: ####
+Release year: 2024
 
-Author: [NAME]()
+Author: [Félix Léger](https://felixleger.com)
 
 {{< mynotes link="" >}}
 
