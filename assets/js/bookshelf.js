@@ -57,8 +57,10 @@ spines.map(function (s, i) {
   let randomPattern = availablePatterns[ year % availablePatterns.length ];
   s.style.backgroundImage = `var(${randomPattern})`;
 
-  let randomColor = availableColors[ month % availableColors.length ] ;
-  s.style.backgroundColor = randomColor;
+  if ( s.style.backgroundColor !== "rgb(255, 232, 1)" ) {
+    let randomColor = availableColors[ month % availableColors.length ] ;
+    s.style.backgroundColor = randomColor;
+  }
 
   covers[i].style.height = `${randomHeight}px`;
   covers[i].style.top = `${280 - randomHeight}px`;

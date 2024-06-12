@@ -6,13 +6,23 @@
 <div class="bookshelf">
   {{ range.Page.Params.bookshelf_item }}
   <div class="book">
-     <div class="side spine" data-custom-param="{{.date}}">
+   {{ if eq .author "Félix Léger" }}
+   <div class="side spine" data-custom-param="{{.date}}" style="background-color: #ffe801">
+       <span class="spine-title" style="color: black">{{.title }}</span>
+         <span class="spine-author" style="color: black">
+           {{ .rating }} <br>
+           {{ .number }}
+         </span>
+   </div>
+   {{ else }}
+   <div class="side spine" data-custom-param="{{.date}}">
        <span class="spine-title">{{.title }}</span>
          <span class="spine-author">
            {{ .rating }} <br>
            {{ .number }}
          </span>
-    </div>
+   </div>
+   {{ end }}
     <div class="side top"></div>
     <div class="side cover"
          style="background-image: url({{ .cover_img }}); cursor:pointer;"

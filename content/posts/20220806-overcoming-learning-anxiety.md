@@ -3,12 +3,11 @@ title: "Overcoming Learning Anxiety"
 date: 2022-08-07T15:24:25-04:00
 frontpage: "true"
 toc: true
-cover: img/finished-devops-handbook.jpg
+cover: img/overcoming-learning-anxiety-cover-thumbnail.png
 tags:
   - featured
 aliases: [
    "/overcoming-learning-anxiety/",
-   "/reads/read-84-overcoming-learning-anxiety/"
 ]
 description: "In this post, I discuss how I overcame learning anxiety by creating a system that motivated me to read reference material and allowed me to keep these learnings alive."
 ---
