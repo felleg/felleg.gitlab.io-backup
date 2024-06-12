@@ -3,7 +3,7 @@ title: "Overcoming Learning Anxiety"
 date: 2022-08-07T15:24:25-04:00
 frontpage: "true"
 toc: true
-cover: img/overcoming-learning-anxiety-cover-thumbnail.png
+cover: img/reads/overcoming-learning-anxiety.png
 tags:
   - featured
 aliases: [
