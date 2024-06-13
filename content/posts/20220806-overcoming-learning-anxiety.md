@@ -57,7 +57,10 @@ Thanks to Mathieu Frenette for teaching me the fold.
 
 Thanks to Gene Kim for writing the books that gave me my *Aha!* moment.
 
-Thanks to Matt Morris for making a video that became the foundation my learning system.
+Thanks to Gabrielle for teaching me that reading a book twice is
+inefficient. :heart:
+
+Thanks to Matt Morris for making a [video](https://www.youtube.com/watch?v=_WCfaGarc4U) that became the foundation my learning system.
 
 And **thank you** for giving this text a chance.
 
@@ -103,7 +106,7 @@ out. However, I also felt like I wasn't accomplishing as much as I should
 have, considering the amount of energy I was pouring daily in my work. From
 the outside, it might have looked like this:
 
-{{< figure src="/img/too-busy.jpeg" position="center" caption="A person on a bicycle with square wheels claims they can't stop to switch to round wheels because they are too busy." >}}
+{{< figure src="/img/too-busy.jpeg" position="center" caption="''Just get off your bike for a second!''" >}}
 
 A series of events eventually put me in
 survival mode, where I had two possible outcomes:
@@ -114,7 +117,7 @@ survival mode, where I had two possible outcomes:
 This led me to read a certain DevOps  handbook, which led me to write
 down these words:
 
-{{< figure src="/img/learning-anxiety-lightbulb.jpg" position="center" caption="A photo of my notes: 'In the team, we want to help overcome learning anxiety.'" >}}
+{{< figure src="/img/learning-anxiety-lightbulb.jpg" position="center" caption="A photo of my notes: ''In the team, we want to help overcome learning anxiety.''" >}}
 
 Well, here it is. This is the moment when my mind clicked and realized *I* had learning
 anxiety. Before writing it down and seeing it with my own eyes for the first time --- "learning
@@ -211,7 +214,7 @@ entry point into the subject matter. Being written as a novel, I thought:
 "Ah! This is perfect material to read on the beach, without any pressure
 to learn. This is going to be great fun."
 
-{{< figure src="/img/phoenix-project.png" position="center" caption="Buying a book always gives me a little dopamine rush." >}}
+{{< figure src="/img/phoenix-project.png" position="center" caption="Buy buy buy! That's the easy part." >}}
 
 Turns out, it was great fun indeed! There are many reasons for this, I believe. Firstly, the book
 is, of course, very well written. It wouldn't sell over 500,000 copies
@@ -320,7 +323,7 @@ bag in their gym.
 Now look at the books in your library (if you have some!). What does
 this say about your learning habits?
 
-{{< figure src="/img/punching-bags.png" position="center" caption="" >}}
+{{< figure src="/img/punching-bags.png" position="center" caption="I don't know about you, but I'd spar with the person who practiced with the bag on the left." >}}
 
 It was my then manager (and mentor!)
 Mathieu Frenette who showed me a "tool" that I
@@ -390,26 +393,106 @@ Pandora's box. Now that I was unafraid to hurt the resell value of my book,
 a world of possibilities became accessible.
 
 Many attempts were made before stumbling upon my learning system. We
-learn by doing. I'll
-spare you the details and leave you with the good stuff. [This video from
-Matt Morris gives you the main
-idea](https://www.youtube.com/watch?v=_WCfaGarc4U).  In short, the strategy is the following:
+learn by doing. At first, I tried to take notes in the book using a pen.
+While it felt great to do in the moment, it didn't have any lasting
+effect. I then tried to do the same thing with a yellow highlighter, as
+I had heard in primary school that the color yellow makes it easier to
+remember things. That was baloney. The problem in both cases is that
+having to flip through tens of pages just to view my notes was
+inconvenient. While it felt good to interact with the words on the
+pages, it didn't help me remember anything! It was at that moment that
+my partner Gabrielle said something very wise:
 
-> Material needed:
-> - Book to read
-> - Notebook to write
-> - Pen
-> - Highlighter
-> - Ruler
->
-> While reading:
-> - Look for the golden nuggets of information *you* find interesting
-> - Highlight these golden nuggets and nothing else
->
-> After:
-> - Read your highlights and rewrite them into your notebook
-> - Now read your notebook. Highlight important bits in it.
-> - Rinse and repeat...
+> You should do everything in your power to avoid reading a book more
+> than once. Once you finished a book, consider yourself done with it.
+
+She was so right about that. This gave me a new motivation: whatever
+system I'd use for learning, it would be a system that doesn't depend on
+maintaining access to the source material. In fact, after she told me
+this, I realized the best course of action was to give the book away
+once I am done reading it. It is the simplest, cleanest and safest
+criteria to ensure my learning system could sustain it.
+
+I didn't have to search very long after that insight to have my eureka
+moment. Armed with the rule of giving my book once I'm done reading it,
+I started searching for ideas online that would cement my learning
+system. [This video from
+Matt Morris titled How to Read a Book for Maximum Learning](https://www.youtube.com/watch?v=_WCfaGarc4U) hit the spot.
+
+What I want you to remember from this chapter is that my learning system
+didn't just fall on me from the heavens. I failed a bunch of times
+before stumbling upon a process that worked! I asked my partner for help
+and suggestions when I realized I was out of ideas. I searched on
+YouTube for insight. I was at my most vulnerable then, because I was
+basically admitting that I needed help. I had overcome the
+learning anxiety on the topic of learning itself. It might not look like
+much, just asking someone or a search engine for help, but this is huge!
+It requires tremendous courage to try new things,
+fall on your face, and ask for help. I tip my hat to anyone who
+experiences learning anxiety and makes it this far in their own journey.
+This is the stuff psychological breakthroughs are made of.
+
+I can't say if your learning system will look like mine. But however
+your brain learns, you'll have to fail before you get good. So remember
+that **each humbling failure is a step closer to mastery, and rejoice that you are
+making real progress.**
+
+# Chapter 5: My current learning system
+
+Here's how the sausage is made. You will need:
+
+- Notebook to write
+- Pen
+- Highlighter
+- Ruler
+
+Make sure that each of these items are objects that you personally enjoy
+using. I'll nerd out [in a later section about the hardware I
+use](#additional-tips-on-hardware), but for just focus on making sure
+that whatever gear you end up choosing makes you want to read/write
+more, not less!
+
+## Step 1: Read and highlight
+
+Crack open the book with a highlighter in hand and highlight whatever
+golden nuggets of information *you* find interesting. Whenever I
+highlight something, I don't care if this is something the author
+expected me to memorize or not, resonate with or not. Often times I even take
+pride in highlighting a little detail that feels irrelevant in the
+scope of the whole book but that I connect with. Do not be scared by
+this freedom: follow your heart.
+
+As you read, don't bother trying to remember everything. When I turn a
+page, I feel completely OK not remembering what I just read about. Read
+your book like you're watching a TV show or listening to a podcast.
+Highlight as you go, and know that we will come back to collect all
+these little knowledge nuggets later.
+
+{{< figure src="/img/mining-for-golden-nuggets.jpg" position="center" caption="Highlighting = identifying the gold nuggets." >}} 
+
+## Step 2: Write down your highlights
+
+When you're done with the book (or whenever you feel like it, really!),
+get your notebook out. We are now going to go back to page one from the
+book and turn page by page looking for any highlight you identified
+earlier. Feel free to not even look at the pages without highlights,
+because you already read them and clearly haven't identified anything of
+value there. Sometimes, you get to skip a few pages like that, wee!
+
+{{< figure src="/img/lecture-notes-cas.jpg" position="center" caption="" >}}
+
+As you can see in the picture above, I don't really bother rephrasing
+the quotes from the book. The only time I'll rephrase something is if I
+can make it shorter, or if I find the original sentence hard to
+understand.
+
+Personally, I love this step. I often do this while listening to music,
+or while watching a video in the background. It's very relaxing. Just go
+at your own pace and stop when you've had your fill.
+
+## Step 3: Review the book
+
+(this section is a work in progress, oops! :smile: Come back later.)
 
 The idea behind this system is simple and forces you to work  smart.
 Books do contain answers to our questions - that is why we choose to read
@@ -426,8 +509,6 @@ book the time it needs, then be done with it. For real.
 
 Following this basic method already sent me down an excellent path. My own learning system
 naturally evolved from there. This is what learning to learn looks like.
-
-# Chapter 5: My current learning system
 
 {{< figure src="/img/rewriting.png" position="center" caption="" >}}
 
@@ -838,13 +919,17 @@ challenge head-on.
 
 I don't want to give you the wrong impression: I am definitely not
 immune to learning anxiety, even after reading 83 books and writing all
-about my experience. [Nobody gets used to feeling dumb](/69), and the
-more you learn, the more you realize how little you know about
+about my experience. [Nobody gets used to feeling dumb](/69), and
+unfortunately the
+more you learn, the more you realize how little you actually know about
 everything. The good news is that I now feel equipped to tackle this
 journey. I'll never be done learning, and true learning is always an
 uncomfortable, if not painful process. Nevertheless, my learning system
 allowed me to come across pieces of wisdom that radically changed my
-relationships and my life. I am *overcoming* learning anxiety.
+relationships and my life. I am *overcoming* learning anxiety. I am
+*learning* that pain can be leveraged. I now *believe* that the only
+real failure is not to learn from failure. I use fear as a compass to
+guide me towards the path that will help me grow.
 
 If you personally suffer with learning anxiety and made it this far in
 this blog post, I'm confident that you are already on the right path. I
