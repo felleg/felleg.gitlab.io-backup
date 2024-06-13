@@ -439,7 +439,7 @@ making real progress.**
 
 # Chapter 5: My current learning system
 
-Here's how the sausage is made. You will need:
+Here's how the sausage is made, in three easy steps. You will need:
 
 - Notebook to write
 - Pen
@@ -452,7 +452,7 @@ use](#additional-tips-on-hardware), but for just focus on making sure
 that whatever gear you end up choosing makes you want to read/write
 more, not less!
 
-## Step 1: Read and highlight
+## Step 1: Read and highlight the golden nuggets
 
 Crack open the book with a highlighter in hand and highlight whatever
 golden nuggets of information *you* find interesting. Whenever I
@@ -466,18 +466,47 @@ As you read, don't bother trying to remember everything. When I turn a
 page, I feel completely OK not remembering what I just read about. Read
 your book like you're watching a TV show or listening to a podcast.
 Highlight as you go, and know that we will come back to collect all
-these little knowledge nuggets later.
+these little knowledge nuggets later. :wink:
 
-{{< figure src="/img/mining-for-golden-nuggets.jpg" position="center" caption="Highlighting = identifying the gold nuggets." >}} 
+{{< figure src="/img/mining-for-golden-nuggets.jpg" position="center" caption="Highlighting = identifying the gold nuggets." >}}
 
 ## Step 2: Write down your highlights
 
 When you're done with the book (or whenever you feel like it, really!),
 get your notebook out. We are now going to go back to page one from the
-book and turn page by page looking for any highlight you identified
-earlier. Feel free to not even look at the pages without highlights,
-because you already read them and clearly haven't identified anything of
-value there. Sometimes, you get to skip a few pages like that, wee!
+book and turn page by page looking for any nugget you identified
+earlier.
+
+Why take the time to write by hand all of these nuggets? I'm glad you
+asked.
+
+Firstly,
+this will make it much easier for you to focus on the *useful* content
+of the book whenever you want to revisit its ideas later. Think about
+it: your notes will be all the *good stuff*. No distractions. Pure gold,
+selected by you!
+
+Secondly, and in my opinion most importantly, it is
+impossible to write down something without forcing it through your
+brain. Any sentence that goes into your notebook was seen by your eye,
+decoded by your brain, and felt by your hand and arm's muscles. For your
+memory, this
+process is a lot more involved than just reading a book, which only
+involves the eye and the brain. By writing your highlights, you are
+immersing yourself in the book. It's a hard experience to describe, as
+it is both incredibly simple and profoundly powerful. Give it a shot!
+
+Thirdly, as I wrote earlier in [Chapter
+4](#chapter-4-creating-a-system-of-learning), you want to do everything
+you can not to depend on having access to the book once you're done with
+it. The goal of producing complete notes is to allow you to unshackle
+from the book and claim this knowledge as your own.
+
+In this process of going through the book another time to collect your
+nuggets, feel free to not even look at the pages without highlights. I
+mean, why would you? You already read them and clearly haven't identified anything of
+value there. Trust your instinct: move on! It feels good when you can
+skip over ten pages like that.
 
 {{< figure src="/img/lecture-notes-cas.jpg" position="center" caption="" >}}
 
@@ -492,51 +521,39 @@ at your own pace and stop when you've had your fill.
 
 ## Step 3: Review the book
 
-(this section is a work in progress, oops! :smile: Come back later.)
+This might seem like overkill to most, but I wouldn't even think of
+skipping this step. Once I'm done with a book, I want to formulate my
+own opinion about what I just read. This is what cements it in my brain.
 
-The idea behind this system is simple and forces you to work  smart.
-Books do contain answers to our questions - that is why we choose to read
-them after all! However, they also contain a lot of context to explain why
-certain knowledge nuggets have meaning. What if we simply recorded the
-nuggets that we want to remember, and ignored the rest? Forget the fluff, literally!
+Since I use my website as a platform for reviewing the books I read,
+sometimes I get stage fright. "What will people think of me if I write
+this and that in my review?" In a way, reviewing books also forces me to
+face my fear of rejection.
 
-Indeed, grinding through a book takes a lot of time, so we do everything we can
-to avoid doing it more than once. We want to capture information in a
-concise way that will empower *us*. A book might be a best-seller or a
-classic, you probably already have other books on your bucket list that
-also call for your attention. No time to go down memory lane. Give a
-book the time it needs, then be done with it. For real.
+In my reviews, I give myself the freedom to be as detailed or as brief
+as I want. In a way, I treat a review like an artist would treat a
+canvas: whatever ends up there is simply a reflection of how I felt.
+Sure, I try to put a minimum of effort in my reviews, but I also try not
+to overdo it.
 
-Following this basic method already sent me down an excellent path. My own learning system
-naturally evolved from there. This is what learning to learn looks like.
+Finally, I use my review as a final opportunity to write my *favorite*
+highlights from the book one more time. Sometimes I just go overboard
+and write all my highlights into the review[^2], since it allows me to
+easily use the Ctrl-F combo on my keyboard to find relevant quotes.
+Whatever floats your boat, really!
 
-{{< figure src="/img/rewriting.png" position="center" caption="" >}}
+[Here is an example of the latest review I wrote](/83). Feel free to
+copy my format if you want, or create your own. In the end, what matters
+is that you force your brain to think about these ideas and have them
+make sense for you. You get bonus points if you make this review public:
+not only are you sharing your knowledge, but you also encourage people
+to participate in your journey and share knowledge with you.
 
-The core idea stays roughly the same as Matt Morris' strategy outlined
-above. However, after doing this for a few years, I picked up some
-additional tricks that I find worth sharing. Let's first summarize the
-core method:
-
-1. Get a physical book, a notebook, a short ruler, a pen and a highlighter. Make sure
-   these are objects you enjoy using.
-1. Find a way to keep your book, as well as a pen and highlighter, on
-   your person. Personally, I keep my pens in my pocket and my book in
-   my backpack.
-1. When reading the book, look for *interesting information* and
-   highlight it. Don't
-   worry if you *get* the author's message. Don't worry if you forgot
-   what the previous chapter is about. Just read and highlight the
-   things you resonate with.
-1. When you're done reading your book, or when you need a change of
-   pace, open your notebook and transcribe the quotes you highlighted
-   in the book that you wish to keep. You don't have to keep everything.
-   Also, feel free to reword quotes if you find a way to make them
-   clearer for yourself (sometimes authors overcomplicate things, oops!)
-1. When you're done transcribing your notes, open your computer and,
-   once again, transcribe the quotes from your notes that you really
-   want to keep. Once again, you don't have to keep everything, and you
-   can reword/merge/adapt the quotes as needed. Choose a format of your
-   liking that you'll be able to search through later.
+The format you use to review your books doesn't matter. It can be a
+website like me, a page in your notebook, a Word document, etc. As long
+as you use your words to write about the subject you read about, you
+will do fine. The easiest it is for you to access that information once
+you're done, the better.
 
 That's it, really! However, since I am very passionate about this
 subject, I can't resist sharing some additional tricks. You may consider
@@ -725,7 +742,7 @@ Side effects may include people calling you a bookworm.
 This is very nerdy, but also very cool *and* useful. See an example in
 the image below:
 
-{{< figure src="/img/note-short-url.png" position="center" caption="" >}} 
+{{< figure src="/img/note-short-url.png" position="center" caption="" >}}
 
 The `F/bcm`, with the circled F being a shorthand for https://felx.cc/,
 is my short URL. To be clear, if you visit https://felx.cc/bcm, you'll
@@ -801,7 +818,7 @@ cements it in my brain. A bonus side effect of that is that it creates a
 nice [virtual bookshelf](/bookshelf) that I can use to retrieve my notes
 and even share them with interested parties.
 
-{{< figure src="/img/virtual-bookshelf.png" position="center" caption="[My virtual bookshelf](/bookshelf)" >}} 
+{{< figure src="/img/virtual-bookshelf.png" position="center" caption="[My virtual bookshelf](/bookshelf)" >}}
 
 ## Tip 13: Remember: Reading a book twice is inefficient
 
@@ -945,7 +962,8 @@ After all, that's what learning is all about! :wink:
 
 If you want to follow my "learning journey" progress, head over to my [reading list](/reads).
 
-[^1]: 2022/08/22 Update: I believe I have found tools that can help
-  learning from browser pages!
+[^1]: My current learning system for reading web pages uses
   [Highlight by
   Weave-Trix](https://addons.mozilla.org/en-CA/firefox/addon/highlight-by-trix/), [Read Aloud](https://addons.mozilla.org/en-US/firefox/addon/read-aloud/) and [Reader Ruler](https://addons.mozilla.org/en-US/firefox/addon/readingruler/) for Firefox.
+[^2]: See my review [Comportement Organisationnel](/78)
+
