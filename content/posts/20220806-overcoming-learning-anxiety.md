@@ -9,17 +9,30 @@ tags:
 aliases: [
    "/overcoming-learning-anxiety/",
 ]
-description: "In this post, I discuss how I overcame learning anxiety by creating a system that motivated me to read reference material and allowed me to keep these learnings alive."
 ---
 
+**About the cover image**
 
-*My mission is to share my progression towards dealing
-with my own learning anxiety. I realize that writing a 6,400+ words essay on the subject is probably not the best way to grab the attention
-of people who share that anxiety, but I did my best to make this text as
-entertaining and light as possible, in
-the hope that, if you are also dealing with learning anxiety, you will
-be inspired to take steps towards overcoming this wall. Feel free to
-use add-ons like Read Aloud
+- Image generated using
+  [Perchance AI Photo Generator](https://perchance.org/ai-photo-generator)
+- Assembled in [GIMP](https://gimp.org)
+- Color: `#ffea00`
+- Font: Helvetica
+
+---
+
+# Preface
+
+*My mission with this text is to share my progression towards dealing
+with my own learning anxiety. I believe I there is value in discussing
+how I overcame learning anxiety by creating a system that motivated me
+to read reference material and allowed me to keep these learnings alive.
+I realize that writing a 6,400+ words essay on the subject is probably
+not the best way to grab the attention of people who share that anxiety,
+but I did my best to make this read as entertaining and light as
+possible, in the hope that, if you are also dealing with learning
+anxiety, you will be inspired to take steps towards overcoming this
+wall. Feel free to use add-ons like Read Aloud
 ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/read-aloud/),
 [Chrome](https://chromewebstore.google.com/detail/hdhinadidafjejdhmfkjgnolgimiaplp))
 to convert this text to audio if you wish.* :smile:
@@ -823,11 +836,15 @@ realize this, I had to create my own system of learning. Now that this
 is done, I feel more empowered than ever and ready to take this
 challenge head-on.
 
-As a child who wanted to become a teacher for most of his life, I can't
-be more satisfied with my current career choice: teaching businesses how
-to learn. I have no idea what I did to land on this path, even
-though it was far from a painless experience to get here. I finally feel
-like I'm on my X.
+I don't want to give you the wrong impression: I am definitely not
+immune to learning anxiety, even after reading 83 books and writing all
+about my experience. [Nobody gets used to feeling dumb](/69), and the
+more you learn, the more you realize how little you know about
+everything. The good news is that I now feel equipped to tackle this
+journey. I'll never be done learning, and true learning is always an
+uncomfortable, if not painful process. Nevertheless, my learning system
+allowed me to come across pieces of wisdom that radically changed my
+relationships and my life. I am *overcoming* learning anxiety.
 
 If you personally suffer with learning anxiety and made it this far in
 this blog post, I'm confident that you are already on the right path. I
