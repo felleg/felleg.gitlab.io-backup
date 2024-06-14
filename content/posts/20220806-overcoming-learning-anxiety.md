@@ -954,5 +954,7 @@ and rediscover the simple, sacred joy of learning. If this changes your life eve
 
 We truly can do anything we set our mind to. That is what learning is all about.
 
+{{< figure src="static/img/nesto-library-visionary-look.jpg" >}}
+
 [^2]: See my review [Comportement Organisationnel](/78)
 
