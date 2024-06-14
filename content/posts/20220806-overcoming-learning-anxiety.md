@@ -23,27 +23,17 @@ aliases: [
 
 # Preface
 
-My mission with this text is to share my progression towards dealing
-with my own learning anxiety. I believe I there is value in discussing
-how I overcame learning anxiety by creating a system that motivated me
-to read reference material and allowed me to keep these learnings alive.
-I realize that writing a 6,400+ words essay on the subject is probably
-not the best way to grab the attention of people who share that anxiety,
-but I did my best to make this read as entertaining and light as
-possible, in the hope that, if you are also dealing with learning
-anxiety, you will be inspired to take steps towards overcoming this
-wall. 
+We who suffer from learning anxiety suffer in silence, without realizing it. We know where to get information, but we do not feel capable of using it effectively. We feel powerless, stupid, and out of place. What is wrong with us? Why are we so *broken*?
 
-Feel free to use add-ons like Read Aloud
-([Firefox](https://addons.mozilla.org/en-US/firefox/addon/read-aloud/),
-[Chrome](https://chromewebstore.google.com/detail/hdhinadidafjejdhmfkjgnolgimiaplp))
-to convert this text to audio if you wish. :smile:
+I have suffered from learning anxiety for the majority of my life and I was oblivious to it. Being anxious about learning made me afraid of failure, which in turn hindered my natural development. Luckily, I have made significant strides in my journey towards healing this condition when I turned 28. Now in my thirties, I confidently say that overcoming my learning anxiety gave me a second chance at life. I believe it is my duty to share my story and what I *learned* from it, in the hope that this text reaches someone in need (you?).
 
-If there's only one thing I'd want you to remember from this post, it's
+We don't hear many people talk about learning anxiety, and I believe therein lies the problem. Mental healing requires acknowledgement, and acknowledgement requires knowledge of the problem. The anxious learner is less likely to learn about their condition, because the idea of learning feels unsafe to them in the first place. It is a sadly ironic condition.
+
+If there's only one thing I'd want you to remember from this text, it's
 that **anyone can experience learning anxiety and solving it requires a
 system of your own creation that will make learning a joyful experience
-to you**. If you experience learning anxiety, my hope is that this post
-will make you realize that you are not alone. With a little
+to you**. In this text, I will tell you my story: how I discovered I had learning anxiety, what impact it had on my life, and the techniques I discovered to work through it. If you experience learning anxiety, my hope is that this post
+will make you realize that you are not alone and that there is a way out. With a little
 bit of creativity, you can get through any obstacle that stands in your
 way.
 
@@ -62,7 +52,7 @@ Thanks to Gene Kim for writing the books that gave me my *Aha!* moment.
 Thanks to Gabrielle for teaching me that reading a book twice is
 inefficient. :heart:
 
-Thanks to Matt Morris for making a [video](https://www.youtube.com/watch?v=_WCfaGarc4U) that became the foundation my learning system.
+Thanks to Matt Morris for making a [video](https://www.youtube.com/watch?v=_WCfaGarc4U) that became the foundation of my learning system.
 
 And **thank you** for giving this text a chance.
 
