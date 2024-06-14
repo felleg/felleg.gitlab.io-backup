@@ -51,7 +51,7 @@ system of your own creation that will make learning a joyful experience
 to you**. In this text, I will tell you my story: how I discovered I had
 learning anxiety, what impact it had on my life, and the techniques I
 developed to work through it. If you experience learning anxiety, my
-hope is that this post will make you realize that you are not alone and
+hope is that this text will make you realize that you are not alone and
 that there is a way out. You can get
 through any obstacle that stands in your way, and you can even have fun
 while doing it. All it takes is the willingness to fail and learn from
