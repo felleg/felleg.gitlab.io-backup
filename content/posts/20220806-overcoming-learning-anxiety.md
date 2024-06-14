@@ -578,7 +578,9 @@ That's it, really! However, since I am very passionate about this
 subject, I can't resist sharing some additional tricks. You may consider
 the following tips, or skip ahead to [Chapter 6: Conclusion](#chapter-6-conclusion)
 
-## Tip 1: Grab your book before grabbing your phone
+## Additional tips
+
+### Tip 1: Grab your book before grabbing your phone
 
 The best way to progress through a book is not to allocate
 long periods of time for reading, but rather to keep your book handy at
@@ -593,7 +595,7 @@ you to read if you need to. It's worth it.
 Caveat: This does require you to keep your book within reach and visible as often as
 possible. Plan ahead!
 
-## Tip 2: Start by reading a single book at a time
+### Tip 2: Start by reading a single book at a time
 
 As you start learning, you get excited when you see all the
 possibilities within your grasp. Never forget, "Stop starting, start
@@ -618,7 +620,7 @@ to complete! I strongly advise to order only a single book at a time, especially
 don't get carried away!
 
 
-## Tip 3: Track your progress by folding the corners
+### Tip 3: Track your progress by folding the corners
 
 This is a big part of my system.
 
@@ -649,7 +651,7 @@ I write. I feel like I am free to choose what activity is right for what
 time. And, most importantly, whatever I end up choosing, I am constantly
 learning.
 
-## Tip 4: Use the body of your highlighter as a visual aid
+### Tip 4: Use the body of your highlighter as a visual aid
 
 When I picture someone reading, I often see them using their finger to
 track their progress, like this:
@@ -688,7 +690,7 @@ This has many benefits:
    - wide enough to hide the sentences below what I am reading, which
      ensures I am not reading "in diagonal".
 
-## Tip 5: Identify elements of an enumeration in the text
+### Tip 5: Identify elements of an enumeration in the text
 
 I noticed that some authors like to create enumerations in prose instead
 of in a list form. In order to help my future note-taking self, I use my
@@ -701,7 +703,7 @@ paragraph. It makes the information much easier to parse later on. It also signa
 
 {{< figure src="/img/enumeration.jpg" position="center" caption="" >}}
 
-## Tip 6: Use your book's margins to write ideas
+### Tip 6: Use your book's margins to write ideas
 
 If reading a certain paragraph triggers a light bulb in your mind or
 makes you pause and wonder about a specific question, I recommend that
@@ -713,7 +715,7 @@ Don't let a good idea go to waste!
 
 {{< figure src="/img/good-margin-notes.jpg" position="center" caption="" >}}
 
-## Tip 7: Number your notebook's pages
+### Tip 7: Number your notebook's pages
 
 If your notebook doesn't have page numbers already (most don't), I
 strongly recommend that you number your pages yourself. This is
@@ -725,7 +727,7 @@ use a different ink (e.g. red) than what you would use for your note
 taking. Things will look much clearer when you reach the bottom right
 corner of odd-numbered pages. :wink:
 
-## Tip 8: If you notebook doesn't have margins, make some!
+### Tip 8: If you notebook doesn't have margins, make some!
 
 For most of my life, I assumed the margin was meant for graders to
 review your work and comment on their corrections. Well, news flash: the
@@ -743,7 +745,7 @@ Of course, not all of your notes will require a margin note, but that's
 a good thing: it leaves you with more room for the notes that truly need
 commenting later on.
 
-## Tip 9: Write the source of your knowledge nuggets
+### Tip 9: Write the source of your knowledge nuggets
 
 {{< figure src="/img/notes-source.png" position="center" caption="" >}}
 
@@ -757,7 +759,7 @@ of daily work is even more important than daily work!").
 
 Side effects may include people calling you a bookworm.
 
-## Tip 10: Use a URL shortener to encode web links in your notebook
+### Tip 10: Use a URL shortener to encode web links in your notebook
 
 This is very nerdy, but also very cool *and* useful. See an example in
 the image below:
@@ -789,7 +791,7 @@ owned by me!), I recommend you check out [a video I made on how to
 get started with
 VanityURL](/posts/2024/01/vanityurls-a-convenient-diy-url-shortener-service/).
 
-## Tip 11: Give your book away
+### Tip 11: Give your book away
 
 This is the fun part. When you finished reading a book and collecting
 all its nuggets in your journal, you are free to share it with the
@@ -811,7 +813,7 @@ next person who will start this book!
 
 {{< figure src="/img/encouraging-others.jpg" position="center" caption="" >}}
 
-## Tip 12: Share your notes online
+### Tip 12: Share your notes online
 
 I developed the habit to scan my notes once they
 are complete for a given book and putting them on my Google Drive. This has many advantages:
@@ -839,7 +841,7 @@ and even share them with interested parties.
 
 {{< figure src="/img/virtual-bookshelf.png" position="center" caption="[My virtual bookshelf](/bookshelf)" >}}
 
-## Tip 13: Remember: Reading a book twice is inefficient
+### Tip 13: Remember: Reading a book twice is inefficient
 
 I've hinted at it before, but I'll say it clearly once more: If you are
 reading a book a second time, what does this say about the first time
@@ -848,7 +850,7 @@ Instead, rely on your notes to quickly get the essence of the book.
 That's your reward for putting in this work: you can get the same info
 as reading the full book in a fraction of the time.
 
-## Additional tips on hardware
+### Additional tips on hardware
 
 Alright, we are now getting into the nitty-gritty. For most of us, making a purchase is the fun, exciting part. My dopamine-hungry brain loves it when I buy stuff.
 
