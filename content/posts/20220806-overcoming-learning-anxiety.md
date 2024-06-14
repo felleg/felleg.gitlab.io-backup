@@ -30,7 +30,7 @@ using it effectively. We feel powerless, stupid, and out of place. What
 is wrong with us? Why are we so *broken*?
 
 We don't hear many people talk about learning anxiety, and I believe
-therein lies the problem. Mental healing requires acknowledgement, and
+therein lies the issue. Mental healing requires acknowledgement, and
 acknowledgement requires knowledge of the problem. The anxious learner
 is less likely to learn about their condition, because the idea of
 learning feels unsafe to them in the first place. It is a sadly ironic
