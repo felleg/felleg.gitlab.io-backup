@@ -29,9 +29,7 @@
       {{ if .Params.Cover }}
         <figure class="post-cover">
 
-           <center><img src="{{ .Params.Cover | absURL }}" alt="{{
-                             .Title }}" style="max-height: 600px; width:
-                                       auto; height: auto;"/></center>
+           <center><img src="{{ .Params.Cover | absURL }}" alt="{{ .Title }}" style="max-height: 600px; width: auto; height: auto;"/></center>
 
           {{ if .Params.CoverCaption }}
             <figcaption class="center">{{ .Params.CoverCaption | markdownify }}</figcaption>
