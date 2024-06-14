@@ -9,7 +9,7 @@ tags:
 aliases: [
    "/overcoming-learning-anxiety/",
 ]
-description: "In this text, I will tell you my story: how I discovered I had learning anxiety, what impact it had on my life, and the techniques I discovered to work through it."
+description: "In this text, I will tell you my story: how I discovered I had learning anxiety, what impact it had on my life, and the techniques I developed to work through it."
 ---
 
 **About the cover image**
@@ -50,7 +50,7 @@ that **anyone can experience learning anxiety and solving it requires a
 system of your own creation that will make learning a joyful experience
 to you**. In this text, I will tell you my story: how I discovered I had
 learning anxiety, what impact it had on my life, and the techniques I
-discovered to work through it. If you experience learning anxiety, my
+developed to work through it. If you experience learning anxiety, my
 hope is that this post will make you realize that you are not alone and
 that there is a way out. You can get
 through any obstacle that stands in your way, and you can even have fun
