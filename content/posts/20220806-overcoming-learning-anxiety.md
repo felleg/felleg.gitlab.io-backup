@@ -538,9 +538,9 @@ to overdo it.
 
 Finally, I use my review as a final opportunity to write my *favorite*
 highlights from the book one more time. Sometimes I just go overboard
-and write all my highlights into the review[^2], since it allows me to
+and write all my highlights into the review (see my review of [Comportment Organisationnel](/78), it's a doozy!). Doing this allows me to
 easily use the Ctrl-F combo on my keyboard to find relevant quotes.
-Whatever floats your boat, really!
+At this point, whatever floats your boat is what you need, really.
 
 [Here is an example of the latest English review I wrote](/82). Feel free to
 copy my format if you want, or create your own. In the end, what matters
