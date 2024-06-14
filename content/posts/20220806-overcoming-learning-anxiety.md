@@ -54,7 +54,7 @@ hope is that this post will make you realize that you are not alone and
 that there is a way out. You can get
 through any obstacle that stands in your way, and you can even have fun
 while doing it. All it takes is the willingness to fail and learn from
-our mistakes. And, perhaps, the urge to read a book or two. Or 83.
+our mistakes. And, perhaps, the urge to read a book or two. Or {{< n_books >}}.
 
 I hope this text will bring value to your life.
 
@@ -139,12 +139,13 @@ down these words:
 
 Well, here it is. This is the moment when my mind clicked and realized *I* had learning
 anxiety. Before writing it down and seeing it with my own eyes for the first time --- "learning
-anxiety" --- this is a concept that felt somewhat alien to me. Like, it
-made sense, but then how could I claim to have learning anxiety if I had
-a Masters in Physics? I felt like I had no excuse to feel the way I was
-feeling.
+anxiety" --- this is a concept that felt somewhat alien to me. On one
+hand, it
+made sense and described accurately how I felt. On the other hand, how could I claim to have learning anxiety if I had
+a Masters in Physics? Clearly, I had above average learning abilities,
+right? I felt like I had no excuse to feel the way I was feeling.
 
-But it was true. I simply had plain old learning anxiety.
+But it was true. Regardless of my past achievements, I simply had plain old learning anxiety.
 
 I certainly knew how I felt when it
 came to learning: to put it mildly, I felt my learning performance was
@@ -156,7 +157,7 @@ other words, as I was writing *"learning anxiety (<- **I
 have that!**)"*, I hadn't realized that, precisely at that moment, I was
 beginning to heal. Very meta...
 
-Let's start this story by going back in time. Let's untangle this mental knot.
+Let's start untangling this mental knot by going back in time.
 
 # Chapter 1: The anxiety begins
 
@@ -232,7 +233,7 @@ entry point into the subject matter. Being written as a novel, I thought:
 "Ah! This is perfect material to read on the beach, without any pressure
 to learn. This is going to be great fun."
 
-{{< figure src="/img/phoenix-project.png" position="center" caption="Buy buy buy! That's the easy part." >}}
+{{< figure src="/img/phoenix-project.png" position="center" caption="Buy, buy, buy! That's the easy part." >}}
 
 Turns out, it was great fun indeed! There are many reasons for this, I believe. Firstly, the book
 is, of course, very well written. It wouldn't sell over 500,000 copies
@@ -324,12 +325,13 @@ Look at the spine. Do you notice how curved it is? Isn't that simply wonderful? 
 
 I guess I must explain. See, I have developed a very recent fondness for
 curved spines (at least, on books). I used to think having a book with a
-curved spine meant you weren't taking care of your stuff. I saw curved spines as if it was folded due to negligence, from   being
-dropped and thrown around regularly.  Today, I realize there are good folds, and there
+curved spine meant you weren't taking care of your stuff. I equated curved spines to negligence.
+Today, I realize there are good folds, and there
 are bad folds. A bad fold is the kind of fold I described above:
 actual damage. The picture above is an example of a good fold: it is
 evidence left by someone who really put their energy into
-extracting everything there was to learn from a specific book. It's a
+extracting everything there was to learn from a specific book, page
+after page. It's a
 subtle difference, but it means a lot!
 
 For example, if someone was standing in a gym next to their punching
@@ -338,10 +340,10 @@ went directly into making that person stronger. If you had to win a
 fight, you'd probably pick the boxer who has a seemingly unused punching
 bag in their gym.
 
-Now look at the books in your library (if you have some!). What does
+Now look at the books in your library (if you have some). What does
 this say about your learning habits?
 
-{{< figure src="/img/punching-bags.png" position="center" caption="I don't know about you, but I'd spar with the person who practiced with the bag on the left." >}}
+{{< figure src="/img/punching-bags.png" position="center" caption="I don't know about you, but I'd rather spar with the person who practiced with the bag on the left." >}}
 
 It was my then manager (and mentor!)
 Mathieu Frenette who showed me a "tool" that I
@@ -466,7 +468,7 @@ Here's how the sausage is made, in three easy steps. You will need:
 
 Make sure that each of these items are objects that you personally enjoy
 using. I'll nerd out [in a later section about the hardware I
-use](#additional-tips-on-hardware), but for just focus on making sure
+use](#additional-tips-on-hardware), but for now just focus on making sure
 that whatever gear you end up choosing makes you want to read/write
 more, not less!
 
@@ -491,8 +493,8 @@ these little knowledge nuggets later. :wink:
 ## Step 2: Write down your highlights
 
 When you're done with the book (or whenever you feel like it, really!),
-get your notebook out. We are now going to go back to page one from the
-book and go page by page looking for any nugget you identified
+get your notebook out. We will now go back to the beginning of the
+book and flip page by page looking for any nugget you identified
 earlier.
 
 Why take the time to write by hand all of these nuggets? I'm glad you
@@ -505,7 +507,7 @@ it: your notes will be all the *good stuff*. No distractions. Pure gold,
 selected by you!
 
 Secondly, and in my opinion most importantly, writing a nugget forces it to get into your brain, even if only briefly. Indeed, any sentence that goes into your notebook was seen by your eye,
-decoded by your brain, and felt by your hand and arm's muscles. For your
+decoded by your brain, and crafted by your hand and arm's muscles. For your
 memory, this
 process is much richer than just reading words, which only
 involves the eye and the brain. By writing your highlights, you are
@@ -522,7 +524,7 @@ In this process of going through the book a second time to collect your
 nuggets, feel free to not even look at the pages without highlights. I
 mean, why would you? You already read them and clearly haven't identified anything of
 value there. Trust your instinct: move on! It feels good when you can
-skip over ten pages like that.
+skip over a bunch of pages empty of nuggets.
 
 {{< figure src="/img/lecture-notes-cas.jpg" position="center" caption="" >}}
 
@@ -566,7 +568,7 @@ not only are you sharing your knowledge, but you also encourage people
 to participate in your journey and share knowledge with you.
 
 The format you use to review your books doesn't matter. It can be a
-website like me, a page in your notebook, a Word document, etc. As long
+website like me, a page in your notebook, a Word document, an email, a spreadsheet, etc. As long
 as you use your words to write about the subject you read about, you
 will do fine. The easiest it is for you to access that information once
 you're done, the better.
@@ -690,7 +692,7 @@ This has many benefits:
 I noticed that some authors like to create enumerations in prose instead
 of in a list form. In order to help my future note-taking self, I use my
 pen to circle where each element of an enumeration begins in a
-paragraph. It makes the information much easier to parse later on. It also signals that this information would be more visually striking if writen as a list: 
+paragraph. It makes the information much easier to parse later on. It also signals that this information would be more visually striking if written as a list: 
 
 - First, ...
 - Second, ...
@@ -845,7 +847,7 @@ Instead, rely on your notes to quickly get the essence of the book.
 That's your reward for putting in this work: you can get the same info
 as reading the full book in a fraction of the time.
 
-## Additional tips on Hardware
+## Additional tips on hardware
 
 Alright, we are now getting into the nitty-gritty. For most of us, making a purchase is the fun, exciting part. My dopamine-hungry brain loves it when I buy stuff.
 
@@ -901,7 +903,7 @@ Why?
 This allows you to make nice lines, for tables or underlines. Any cheap
 15 cm ruler will do. It makes your journal more pleasing to read, which
 is important. After all, the whole point of keeping a journal is so you
-can easily refer to your knowledge.
+can comfortably refer to your knowledge.
 
 The best storage place I found for my ruler is directly in my notebook. The notebook I recommend above has an elastic band that ensures your ruler would never slip and fall once shut.
 
@@ -950,7 +952,7 @@ is done, I feel more empowered than ever and ready to take this
 challenge head-on.
 
 I don't want to give you the wrong impression: I am definitely not
-immune to learning anxiety, even after reading 83 books and writing all
+immune to learning anxiety, even after reading {{< n_books >}} books and writing all
 about my experience. [Nobody gets used to feeling dumb](/69), and
 unfortunately the
 more you learn, the more you realize how little you actually know about
@@ -960,7 +962,7 @@ uncomfortable, if not painful process. Nevertheless, my learning system
 allowed me to come across pieces of wisdom that radically changed my
 relationships and my life for the better.  I cannot even begin to express the sheer magnitude that the ability to read non-fiction books had on my life. Yet, I am *overcoming* learning anxiety. I am not done, and probably never will be. I am
 *learning* that pain can be leveraged. I am *starting* to believe that the only
-real failure is not to learn from failure. I am *starting* to see fear as a compass that
+real failure is not to learn from failure. I am *beginning* to see fear as a compass that
 guides us toward the path that will make us grow.
 
 If you personally suffer with learning anxiety and made it this far in
