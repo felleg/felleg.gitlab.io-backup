@@ -9,7 +9,7 @@ tags:
 aliases: [
    "/overcoming-learning-anxiety/",
 ]
-description: ""
+description: "In this text, I will tell you my story: how I discovered I had learning anxiety, what impact it had on my life, and the techniques I discovered to work through it."
 ---
 
 **About the cover image**
