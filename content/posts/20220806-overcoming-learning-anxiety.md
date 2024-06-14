@@ -856,7 +856,7 @@ Alright, we are now getting into the nitty-gritty. For most of us, making a purc
 
 So, what hardware do I recommend, precisely?
 
-### Notebook
+#### Notebook
 
 First off, this is probably basic common-sense, but I'll make it explicit, just in
 case: Don't use a spiral-bound Hilroy notebook
@@ -883,7 +883,7 @@ grid without being as visually distracting.
 {{< figure src="/img/dotted-journal-2.png" position="center" caption="" >}}
 
 
-### Pens and highlighters
+#### Pens and highlighters
 
 Take the time to really search for a pen that makes writing a joyful
 experience for *you*.
@@ -901,7 +901,7 @@ Why?
 {{< figure scale="400px" src="/img/bic-cristal-and-highlighter.jpg" position="center" caption="So, am I a good [pen seller](https://www.youtube.com/watch?v=9UspZGJ-TrI)? ;)" >}}
 
 
-### Ruler
+#### Ruler
 
 This allows you to make nice lines, for tables or underlines. Any cheap
 15 cm ruler will do. It makes your journal more pleasing to read, which
