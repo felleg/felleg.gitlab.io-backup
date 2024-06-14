@@ -23,7 +23,7 @@ aliases: [
 
 # Preface
 
-*My mission with this text is to share my progression towards dealing
+My mission with this text is to share my progression towards dealing
 with my own learning anxiety. I believe I there is value in discussing
 how I overcame learning anxiety by creating a system that motivated me
 to read reference material and allowed me to keep these learnings alive.
@@ -37,15 +37,15 @@ wall.
 Feel free to use add-ons like Read Aloud
 ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/read-aloud/),
 [Chrome](https://chromewebstore.google.com/detail/hdhinadidafjejdhmfkjgnolgimiaplp))
-to convert this text to audio if you wish.* :smile:
+to convert this text to audio if you wish. :smile:
 
-*If there's only one thing I'd want you to remember from this post, it's
+If there's only one thing I'd want you to remember from this post, it's
 that **anyone can experience learning anxiety and solving it requires a
 system of your own creation that will make learning a joyful experience
 to you**. If you experience learning anxiety, my hope is that this post
 will make you realize that you are not alone. With a little
 bit of creativity, you can get through any obstacle that stands in your
-way.*
+way.
 
 =L
 
