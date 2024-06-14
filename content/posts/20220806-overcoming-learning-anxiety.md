@@ -575,10 +575,74 @@ will do fine. The easiest it is for you to access that information once
 you're done, the better.
 
 That's it, really! However, since I am very passionate about this
-subject, I can't resist sharing some additional tricks. You may consider
-the following tips, or skip ahead to [Chapter 6: Conclusion](#chapter-6-conclusion)
+subject, I can't resist sharing some additional tricks. Header over to
+the [Appendix](#appendix) for more precise tricks.
 
-## Additional tips
+# Chapter 6: Conclusion
+
+I find this image below very telling. My learning system allowed me to
+compress a 421-page book down to its essential learning nuggets, which
+take only 50 pages in my A5-sized journal. This means I will get as much
+information from reading these 50 pages than from reading 421 pages.
+
+{{< figure src="/img/compressed-book.jpg" position="center" caption="50 pages of pure nuggets!" >}}
+
+Instead of taking weeks to review that information, it will take me 1 hour. This feels
+almost like cheating, except it isn't! I worked hard for this outcome,
+and now I get to savour it.
+
+Books are not something to be afraid of. Not anymore. I realized I now
+get to decide which book I read. As a professional, I am the master of my own
+learning. As the DevOps Handbook rightfully puts it on page 320 of its
+second edition:
+
+> **The only sustainable competitive advantage is [your] ability to learn
+> faster than the competition.**
+>
+> -- Peter Senge
+
+Textbooks have a purpose outside the classroom, even if that
+means you won't have a professor
+dragging you through it. Not all textbooks feature exercises
+and homework; some can be quite fun, relaxing, enlightening to read,
+without creating headaches or feeling like puzzles. A book you chose
+almost certainly contains parts of the answer to the question that made you
+choose it.
+
+Imagine how you will feel when your book shows you a new way to think about a specific problem you couldn't quite put your finger on. Suddenly, a new connection occurs in your brain. Now, all you can see is the answer. Everything simply  makes  sense! Personally, this is among the most powerful and freeing experiences I have felt yet. It truly is a transcending moment that cannot be overstated.
+
+**We are all lifelong learners.** If you want to learn about something, you can do it. What allows some
+people to learn faster than others is that they have created and
+optimized a learning system that is suited for *their* way of learning.
+When I realized that the core mission of DevOps, which eluded me for years, is to create a system that
+automates organizational learning, I felt the pinch of irony since this realization had required me to create my own system of learning. Now that this
+is done, I feel more empowered than ever and ready to take this
+challenge head-on.
+
+I don't want to give you the wrong impression: I am definitely not
+immune to learning anxiety, even after reading {{< n_books >}} books and writing all
+about my experience. [Nobody gets used to feeling dumb](/69), and
+unfortunately the
+more you learn, the more you realize how little you actually know about
+everything. The good news is that I now feel equipped to tackle this
+journey. I'll never be done learning, and true learning is always an
+uncomfortable, if not painful process. Nevertheless, my learning system
+allowed me to come across pieces of wisdom that radically changed my
+relationships and my life for the better.  I cannot even begin to express the sheer magnitude that the ability to read non-fiction books had on my life. Yet, I am *overcoming* learning anxiety. I am not done, and probably never will be. I am
+*learning* that pain can be leveraged. I am *starting* to believe that the only
+real failure is not to learn from failure. I am *beginning* to see fear as a compass that
+guides us toward the path that will make us grow.
+
+If you personally suffer with learning anxiety and made it this far in
+this blog post, I am in awe of you. [The last mile is always the least crowded](/40), and you are among the courageous few that made it to the end. Seriously, lift your favorite arm and give yourself a pat on the back from me. I am confident that you are already on the right path: the real journey begins here, if you accept it. I
+hope the ideas I have outlined above will inspire you to give them a try or, better yet, to find your own system
+and rediscover the simple, sacred joy of learning. If this changes your life even half as much as it changed mine, you're in for the ride of a lifetime, my friend.
+
+We truly can do anything we set our mind to. That is what learning is all about.
+
+{{< figure src="/img/nesto-library-visionary-look.jpg" >}}
+
+# Appendix: Additional tips
 
 ### Tip 1: Grab your book before grabbing your phone
 
@@ -912,70 +976,6 @@ The best storage place I found for my ruler is directly in my notebook. The note
 
 {{< figure src="/img/ruler.jpg" position="center" caption="" >}}
 
-
-# Chapter 6: Conclusion
-
-I find this image below very telling. My learning system allowed me to
-compress a 421-page book down to its essential learning nuggets, which
-take only 50 pages in my A5-sized journal. This means I will get as much
-information from reading these 50 pages than from reading 421 pages.
-
-{{< figure src="/img/compressed-book.jpg" position="center" caption="50 pages of pure nuggets!" >}}
-
-Instead of taking weeks to review that information, it will take me 1 hour. This feels
-almost like cheating, except it isn't! I worked hard for this outcome,
-and now I get to savour it.
-
-Books are not something to be afraid of. Not anymore. I realized I now
-get to decide which book I read. As a professional, I am the master of my own
-learning. As the DevOps Handbook rightfully puts it on page 320 of its
-second edition:
-
-> **The only sustainable competitive advantage is [your] ability to learn
-> faster than the competition.**
->
-> -- Peter Senge
-
-Textbooks have a purpose outside the classroom, even if that
-means you won't have a professor
-dragging you through it. Not all textbooks feature exercises
-and homework; some can be quite fun, relaxing, enlightening to read,
-without creating headaches or feeling like puzzles. A book you chose
-almost certainly contains parts of the answer to the question that made you
-choose it.
-
-Imagine how you will feel when your book shows you a new way to think about a specific problem you couldn't quite put your finger on. Suddenly, a new connection occurs in your brain. Now, all you can see is the answer. Everything simply  makes  sense! Personally, this is among the most powerful and freeing experiences I have felt yet. It truly is a transcending moment that cannot be overstated.
-
-**We are all lifelong learners.** If you want to learn about something, you can do it. What allows some
-people to learn faster than others is that they have created and
-optimized a learning system that is suited for *their* way of learning.
-When I realized that the core mission of DevOps, which eluded me for years, is to create a system that
-automates organizational learning, I felt the pinch of irony since this realization had required me to create my own system of learning. Now that this
-is done, I feel more empowered than ever and ready to take this
-challenge head-on.
-
-I don't want to give you the wrong impression: I am definitely not
-immune to learning anxiety, even after reading {{< n_books >}} books and writing all
-about my experience. [Nobody gets used to feeling dumb](/69), and
-unfortunately the
-more you learn, the more you realize how little you actually know about
-everything. The good news is that I now feel equipped to tackle this
-journey. I'll never be done learning, and true learning is always an
-uncomfortable, if not painful process. Nevertheless, my learning system
-allowed me to come across pieces of wisdom that radically changed my
-relationships and my life for the better.  I cannot even begin to express the sheer magnitude that the ability to read non-fiction books had on my life. Yet, I am *overcoming* learning anxiety. I am not done, and probably never will be. I am
-*learning* that pain can be leveraged. I am *starting* to believe that the only
-real failure is not to learn from failure. I am *beginning* to see fear as a compass that
-guides us toward the path that will make us grow.
-
-If you personally suffer with learning anxiety and made it this far in
-this blog post, I am in awe of you. [The last mile is always the least crowded](/40), and you are among the courageous few that made it to the end. Seriously, lift your favorite arm and give yourself a pat on the back from me. I am confident that you are already on the right path: the real journey begins here, if you accept it. I
-hope the ideas I have outlined above will inspire you to give them a try or, better yet, to find your own system
-and rediscover the simple, sacred joy of learning. If this changes your life even half as much as it changed mine, you're in for the ride of a lifetime, my friend.
-
-We truly can do anything we set our mind to. That is what learning is all about.
-
-{{< figure src="/img/nesto-library-visionary-look.jpg" >}}
 
 [^2]: See my review [Comportement Organisationnel](/78)
 
