@@ -23,21 +23,47 @@ aliases: [
 
 # Preface
 
-We who suffer from learning anxiety suffer in silence, without realizing it. We know where to get information, but we do not feel capable of using it effectively. We feel powerless, stupid, and out of place. What is wrong with us? Why are we so *broken*?
+We who suffer from learning anxiety suffer in silence, without realizing
+it. We know where to get information, but we do not feel capable of
+using it effectively. We feel powerless, stupid, and out of place. What
+is wrong with us? Why are we so *broken*?
 
-I have suffered from learning anxiety for the majority of my life and I was oblivious to it. Being anxious about learning made me afraid of failure, which in turn hindered my natural development. Luckily, I have made significant strides in my journey towards healing this condition when I turned 28. Now in my thirties, I confidently say that overcoming my learning anxiety gave me a second chance at life. I believe it is my duty to share my story and what I *learned* from it, in the hope that this text reaches someone in need (you?).
+We don't hear many people talk about learning anxiety, and I believe
+therein lies the problem. Mental healing requires acknowledgement, and
+acknowledgement requires knowledge of the problem. The anxious learner
+is less likely to learn about their condition, because the idea of
+learning feels unsafe to them in the first place. It is a sadly ironic
+condition.
 
-We don't hear many people talk about learning anxiety, and I believe therein lies the problem. Mental healing requires acknowledgement, and acknowledgement requires knowledge of the problem. The anxious learner is less likely to learn about their condition, because the idea of learning feels unsafe to them in the first place. It is a sadly ironic condition.
+I have suffered from learning anxiety for the majority of my life and I
+was oblivious to it. Being anxious about learning made me afraid of
+failure, which in turn hindered my natural development. Luckily, I have
+made significant strides in my journey towards healing this condition
+when I turned 28. Now in my thirties, I confidently say that overcoming
+my learning anxiety gave me a second chance at life. I believe it is my
+duty to share my story and what I *learned* from it, in the hope that
+this text reaches someone in need (you?).
 
 If there's only one thing I'd want you to remember from this text, it's
 that **anyone can experience learning anxiety and solving it requires a
 system of your own creation that will make learning a joyful experience
-to you**. In this text, I will tell you my story: how I discovered I had learning anxiety, what impact it had on my life, and the techniques I discovered to work through it. If you experience learning anxiety, my hope is that this post
-will make you realize that you are not alone and that there is a way out. With a little
-bit of creativity, you can get through any obstacle that stands in your
-way.
+to you**. In this text, I will tell you my story: how I discovered I had
+learning anxiety, what impact it had on my life, and the techniques I
+discovered to work through it. If you experience learning anxiety, my
+hope is that this post will make you realize that you are not alone and
+that there is a way out. You can get
+through any obstacle that stands in your way, and you can even have fun
+while doing it. All it takes is the willingness to fail and learn from
+our mistakes. And, perhaps, the urge to read a book or two. Or 83.
 
-=L
+I hope this text will bring value to your life.
+
+P.S. Don't feel bad if you don't finish reading this text in its
+entirety. Maybe I didn't make it engaging enough, or too rambly. You
+have full permission to blame the author if you lose interest. :slightly_smiling_face: If I may
+ask a small favor in exchange, just post a comment at the bottom of this
+page to let me know how far you made it, so that I have an idea of which
+section needs improving. Thank you for your help!
 
 ---
 
@@ -553,11 +579,11 @@ the following tips, or skip ahead to [Chapter 6: Conclusion](#chapter-6-conclusi
 
 The best way to progress through a book is not to allocate
 long periods of time for reading, but rather to keep your book handy at
-all times and to read a paragraph or two (or more, if you're lucky!)
-whenever you're between tasks.
+all times and to open it briefly whenever you're between tasks.
 
 Basically, any time you feel like picking up your phone to browse, pick
-your book first, and see if you can squeeze a quick paragraph or two.
+your book first, and see if you can squeeze a quick paragraph or two (or
+more, if you get into it!).
 You'll be amazed by the results. Change your phone's wallpaper to remind
 you to read if you need to. It's worth it.
 
