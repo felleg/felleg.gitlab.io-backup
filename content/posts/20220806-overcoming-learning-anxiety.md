@@ -32,7 +32,9 @@ not the best way to grab the attention of people who share that anxiety,
 but I did my best to make this read as entertaining and light as
 possible, in the hope that, if you are also dealing with learning
 anxiety, you will be inspired to take steps towards overcoming this
-wall. Feel free to use add-ons like Read Aloud
+wall. 
+
+Feel free to use add-ons like Read Aloud
 ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/read-aloud/),
 [Chrome](https://chromewebstore.google.com/detail/hdhinadidafjejdhmfkjgnolgimiaplp))
 to convert this text to audio if you wish.* :smile:
