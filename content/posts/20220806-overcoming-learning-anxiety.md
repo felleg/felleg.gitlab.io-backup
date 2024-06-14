@@ -476,7 +476,7 @@ these little knowledge nuggets later. :wink:
 
 When you're done with the book (or whenever you feel like it, really!),
 get your notebook out. We are now going to go back to page one from the
-book and turn page by page looking for any nugget you identified
+book and go page by page looking for any nugget you identified
 earlier.
 
 Why take the time to write by hand all of these nuggets? I'm glad you
@@ -488,15 +488,13 @@ of the book whenever you want to revisit its ideas later. Think about
 it: your notes will be all the *good stuff*. No distractions. Pure gold,
 selected by you!
 
-Secondly, and in my opinion most importantly, it is
-impossible to write down something without forcing it through your
-brain. Any sentence that goes into your notebook was seen by your eye,
+Secondly, and in my opinion most importantly, writing a nugget forces it to get into your brain, even if only briefly. Indeed, any sentence that goes into your notebook was seen by your eye,
 decoded by your brain, and felt by your hand and arm's muscles. For your
 memory, this
-process is a lot more involved than just reading a book, which only
+process is much richer than just reading words, which only
 involves the eye and the brain. By writing your highlights, you are
 immersing yourself in the book. It's a hard experience to describe, as
-it is both incredibly simple and profoundly powerful. Give it a shot!
+it is both incredibly simple and profoundly powerful. I think you'll have to give it a shot to really *get* it.
 
 Thirdly, as I wrote earlier in [Chapter
 4](#chapter-4-creating-a-system-of-learning), you want to do everything
