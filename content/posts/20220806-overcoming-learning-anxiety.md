@@ -502,7 +502,7 @@ you can not to depend on having access to the book once you're done with
 it. The goal of producing complete notes is to allow you to unshackle
 from the book and claim this knowledge as your own.
 
-In this process of going through the book another time to collect your
+In this process of going through the book a second time to collect your
 nuggets, feel free to not even look at the pages without highlights. I
 mean, why would you? You already read them and clearly haven't identified anything of
 value there. Trust your instinct: move on! It feels good when you can
@@ -513,9 +513,9 @@ skip over ten pages like that.
 As you can see in the picture above, I don't really bother rephrasing
 the quotes from the book. The only time I'll rephrase something is if I
 can make it shorter, or if I find the original sentence hard to
-understand.
+understand. Your mileage may vary, though. Some people tell me you *have* to reword quotes you get from a book. To each their own!
 
-Personally, I love this step. I often do this while listening to music,
+Personally, I love this step of writing highlights on paper. I often do this while listening to music,
 or while watching a video in the background. It's very relaxing. Just go
 at your own pace and stop when you've had your fill.
 
@@ -542,9 +542,9 @@ and write all my highlights into the review[^2], since it allows me to
 easily use the Ctrl-F combo on my keyboard to find relevant quotes.
 Whatever floats your boat, really!
 
-[Here is an example of the latest review I wrote](/83). Feel free to
+[Here is an example of the latest English review I wrote](/82). Feel free to
 copy my format if you want, or create your own. In the end, what matters
-is that you force your brain to think about these ideas and have them
+is that you create a pattern of work that forces your brain to think about these ideas and have them
 make sense for you. You get bonus points if you make this review public:
 not only are you sharing your knowledge, but you also encourage people
 to participate in your journey and share knowledge with you.
@@ -561,8 +561,6 @@ the following tips, or skip ahead to [Chapter 6: Conclusion](#chapter-6-conclusi
 
 ## Tip 1: Grab your book before grabbing your phone
 
-**This tip is so important that it could be its own blog post**.
-
 The best way to progress through a book is not to allocate
 long periods of time for reading, but rather to keep your book handy at
 all times and to read a paragraph or two (or more, if you're lucky!)
@@ -574,7 +572,7 @@ You'll be amazed by the results. Change your phone's wallpaper to remind
 you to read if you need to. It's worth it.
 
 Caveat: This does require you to keep your book within reach and visible as often as
-possible.
+possible. Plan ahead!
 
 ## Tip 2: Start by reading a single book at a time
 
@@ -676,7 +674,11 @@ This has many benefits:
 I noticed that some authors like to create enumerations in prose instead
 of in a list form. In order to help my future note-taking self, I use my
 pen to circle where each element of an enumeration begins in a
-paragraph. It makes the information much easier to parse later on.
+paragraph. It makes the information much easier to parse later on. It also signals that this information would be more visually striking if writen as a list: 
+
+- First, ...
+- Second, ...
+- Finally, ...
 
 {{< figure src="/img/enumeration.jpg" position="center" caption="" >}}
 
@@ -685,8 +687,8 @@ paragraph. It makes the information much easier to parse later on.
 If reading a certain paragraph triggers a light bulb in your mind or
 makes you pause and wonder about a specific question, I recommend that
 you write that thought in the margins next to the paragraph that
-inspired it. That way, when writing your notes, you will also be able to
-record your own good ideas.
+inspired it. That way, when writing your notes, you will be able to
+revisit your own good ideas and decide how to expand upon it.
 
 Don't let a good idea go to waste!
 
@@ -696,8 +698,7 @@ Don't let a good idea go to waste!
 
 If your notebook doesn't have page numbers already (most don't), I
 strongly recommend that you number your pages yourself. This is
-invaluable to allow you to reference your notes later on. It is such an
-integral part of my system that I initially forgot to list it here! This
+invaluable to allow you to reference your notes later on. This
 is a quality of life upgrade that is too obvious to live without.
 
 If you have to number your notebook's pages, take this opportunity to
@@ -744,11 +745,10 @@ the image below:
 
 {{< figure src="/img/note-short-url.png" position="center" caption="" >}}
 
-The `F/bcm`, with the circled F being a shorthand for https://felx.cc/,
-is my short URL. To be clear, if you visit https://felx.cc/bcm, you'll
-be taken to this link instead: https://photos.google.com/share/AF1QipNkyXbkGnqpbp38J_f57sodGkG801H4lzJiwqTcInRbMmU38EKrqHbP28fZ9afKpw?key=WVB3UWdrUHNxS3duR0loTXY4ZEU5d084X29iSGp3, which is a photo I took of a page in a book for convenience.
+See that strange `(F)/bcm`? The circled F is a shorthand for https://felx.cc. If you visit https://felx.cc/bcm, you'll
+be taken to this link instead: https://photos.google.com/share/AF1QipNkyXbkGnqpbp38J_f57sodGkG801H4lzJiwqTcInRbMmU38EKrqHbP28fZ9afKpw?key=WVB3UWdrUHNxS3duR0loTXY4ZEU5d084X29iSGp3, which is a photo I took of a page in a book for convenience. Thus, https://felx.cc/bcm is my short URL: it is convenient to type on any device, and can redirect me to a much more unwieldy URL.
 
-Thus, a URL shortening is a service that allows you to create a small
+Thus, a URL shortener is a service that allows you to create a small
 link that can redirect to a link of any length. This is invaluable: it
 allows me to save important, complicated links directly alongside my
 reading notes, where I know they will be most useful.
@@ -764,7 +764,7 @@ already offer free tiers:
 - https://t.ly/
 - ...
 
-However, if you're a computer nerd and would like to possess your *own*
+However, if you're a computer nerd and would like to possess *your* own
 URL shortening service (like I do with https://felx.cc/, that is fully
 owned by me!), I recommend you check out [a video I made on how to
 get started with
@@ -887,14 +887,14 @@ This allows you to make nice lines, for tables or underlines. Any cheap
 is important. After all, the whole point of keeping a journal is so you
 can easily refer to your knowledge.
 
-The best storage place I found for my ruler is directly in my notebook. The book's elastic band keeps it securely shut.
+The best storage place I found for my ruler is directly in my notebook. The notebook I recommend above has an elastic band that ensures your ruler would never slip and fall once shut.
 
 {{< figure src="/img/ruler.jpg" position="center" caption="" >}}
 
 
 # Chapter 6: Conclusion
 
-I find this image very telling. My learning system allowed me to
+I find this image below very telling. My learning system allowed me to
 compress a 421-page book down to its essential learning nuggets, which
 take only 50 pages in my A5-sized journal. This means I will get as much
 information from reading these 50 pages than from reading 421 pages.
@@ -927,10 +927,9 @@ Imagine how you will feel when your book shows you a new way to think about a sp
 
 **We are all lifelong learners.** If you want to learn about something, you can do it. What allows some
 people to learn faster than others is that they have created and
-optimized a learning system that is suited around *their* way of learning.
-When I realized that the core mission of DevOps is to create a system that
-automates organizational learning, I felt the pinch of irony, because to
-realize this, I had to create my own system of learning. Now that this
+optimized a learning system that is suited for *their* way of learning.
+When I realized that the core mission of DevOps, which eluded me for years, is to create a system that
+automates organizational learning, I felt the pinch of irony since this realization had required me to create my own system of learning. Now that this
 is done, I feel more empowered than ever and ready to take this
 challenge head-on.
 
@@ -943,27 +942,17 @@ everything. The good news is that I now feel equipped to tackle this
 journey. I'll never be done learning, and true learning is always an
 uncomfortable, if not painful process. Nevertheless, my learning system
 allowed me to come across pieces of wisdom that radically changed my
-relationships and my life. I am *overcoming* learning anxiety. I am
-*learning* that pain can be leveraged. I now *believe* that the only
-real failure is not to learn from failure. I use fear as a compass to
-guide me towards the path that will help me grow.
+relationships and my life for the better.  I cannot even begin to express the sheer magnitude that the ability to read non-fiction books had on my life. Yet, I am *overcoming* learning anxiety. I am not done, and probably never will be. I am
+*learning* that pain can be leveraged. I am *starting* to believe that the only
+real failure is not to learn from failure. I am *starting* to see fear as a compass that
+guides us toward the path that will make us grow.
 
 If you personally suffer with learning anxiety and made it this far in
-this blog post, I'm confident that you are already on the right path. I
-hope the ideas I have outlined will inspire you to find your own system
-and rediscover the simple, sacred joy of learning. There are still
-challenges ahead, and there always will be. For example, I am still
-having issues learning through reading webpages, even accounting for
-distractions. That suggests there is another system that I will inevitably have to
-adopt eventually[^1]. I've done it once, so I trust I can do it again and,
-hopefully, in less time than it initially took me (3 years)!
+this blog post, I am in awe of you. [The last mile is always the least crowded](/40), and you are among the courageous few that made it to the end. Seriously, lift your favorite arm and give yourself a pat on the back from me. I am confident that you are already on the right path: the real journey begins here, if you accept it. I
+hope the ideas I have outlined above will inspire you to give them a try or, better yet, to find your own system
+and rediscover the simple, sacred joy of learning. If this changes your life even half as much as it changed mine, you're in for the ride of a lifetime, my friend.
 
-After all, that's what learning is all about! :wink:
+We truly can do anything we set our mind to. That is what learning is all about.
 
-If you want to follow my "learning journey" progress, head over to my [reading list](/reads).
-
-[^1]: My current learning system for reading web pages uses
-  [Highlight by
-  Weave-Trix](https://addons.mozilla.org/en-CA/firefox/addon/highlight-by-trix/), [Read Aloud](https://addons.mozilla.org/en-US/firefox/addon/read-aloud/) and [Reader Ruler](https://addons.mozilla.org/en-US/firefox/addon/readingruler/) for Firefox.
 [^2]: See my review [Comportement Organisationnel](/78)
 
