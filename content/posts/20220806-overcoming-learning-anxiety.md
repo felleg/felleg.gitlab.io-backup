@@ -538,7 +538,7 @@ Personally, I love this step of writing highlights on paper. I often do this whi
 or while watching a video in the background. It's very relaxing. Just go
 at your own pace and stop when you've had your fill.
 
-## Step 3: Review the book
+## Step 3: Write about your opinion of the book
 
 This might seem like overkill to most, but I wouldn't even think of
 skipping this step. Once I'm done with a book, I want to formulate my
