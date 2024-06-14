@@ -542,7 +542,7 @@ at your own pace and stop when you've had your fill.
 
 This might seem like overkill to most, but I wouldn't even think of
 skipping this step. Once I'm done with a book, I want to formulate my
-own opinion about what I just read. This is what cements it in my brain.
+own opinion about what I just read in the form of a review. This is what cements it in my brain.
 
 Since I use my website as a platform for reviewing the books I read,
 sometimes I get stage fright. "What will people think of me if I write
