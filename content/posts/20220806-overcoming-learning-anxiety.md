@@ -288,7 +288,7 @@ Throughout most of my time at Contxtful, I was given the opportunity to
 learn, and by my own account, failed at it more   than I succeeded.
 Eventually, the feeling of being unable to reach  my full potential with
 Contxtful (and potentially hurting the company as a result) led me to
-join nesto, in the hope that there lied the key  that would unlock this
+quit my job and join [nesto](https://nesto.ca), in the hope that there lied the key  that would unlock this
 potential.
 
 I just didn't expect that key to be the threat  of getting the old boot!
