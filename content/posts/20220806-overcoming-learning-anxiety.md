@@ -424,8 +424,7 @@ inconvenient. While it felt good to interact with the words on the
 pages, it didn't help me remember anything! It was at that moment that
 my partner Gabrielle said something very wise:
 
-> You should do everything in your power to avoid reading a book more
-> than once. Once you finished a book, consider yourself done with it.
+> You should never have to read a book or textbook more than once. If you take good notes, once you finish a book, you can consider yourself done with it.
 
 She was so right about that. This gave me a new motivation: whatever
 system I'd use for learning, it would be a system that doesn't depend on
