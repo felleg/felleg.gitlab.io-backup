@@ -586,9 +586,10 @@ information from reading these 50 pages than from reading 421 pages.
 
 {{< figure src="/img/compressed-book.jpg" position="center" caption="50 pages of pure nuggets!" >}}
 
-Instead of taking weeks to review that information, it will take me 1 hour. This feels
+Instead of taking days to review that information, it will take me 1 hour. This feels
 almost like cheating, except it isn't! I worked hard for this outcome,
-and now I get to savour it.
+and now I get to savour it. Better yet, since all the crucial information is compact and written by me and for me, 
+the ideas assemble in my head much quicker than if I was just reading the book all over again.
 
 Books are not something to be afraid of. Not anymore. I realized I now
 get to decide which book I read. As a professional, I am the master of my own
@@ -598,7 +599,7 @@ second edition:
 > **The only sustainable competitive advantage is [your] ability to learn
 > faster than the competition.**
 >
-> -- Peter Senge
+> -- Peter Senge 
 
 Textbooks have a purpose outside the classroom, even if that
 means you won't have a professor
