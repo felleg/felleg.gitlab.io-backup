@@ -574,7 +574,7 @@ will do fine. The easiest it is for you to access that information once
 you're done, the better.
 
 That's it, really! However, since I am very passionate about this
-subject, I can't resist sharing some additional tricks. Header over to
+subject, I can't resist sharing some additional tricks. Head over to
 the [Appendix](#appendix) for more precise tricks.
 
 # Chapter 6: Conclusion
