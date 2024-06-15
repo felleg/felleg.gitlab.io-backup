@@ -526,7 +526,7 @@ mean, why would you? You already read them and clearly haven't identified anythi
 value there. Trust your instinct: move on! It feels good when you can
 skip over a bunch of pages empty of nuggets.
 
-{{< figure src="/img/lecture-notes-cas.jpg" position="center" caption="" >}}
+{{< figure src="/img/lecture-notes-cas.jpg" position="center" caption="Writing notes = capturing knowledge nuggets" >}}
 
 As you can see in the picture above, I don't really bother rephrasing
 the quotes from the book. The only time I'll rephrase something is if I
