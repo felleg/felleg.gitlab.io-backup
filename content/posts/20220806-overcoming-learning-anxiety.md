@@ -210,7 +210,7 @@ understand what basic sentences meant. For a while, it felt like I was
 surrounded by buzzwords, with no one telling me anything. Oh how I wished Jimmy Neutron's "[book gum](https://www.youtube.com/watch?v=x1ambhfSnBA)" was real!
 
 This process
-lasted years, and it was unpleasant. I felt useless. I felt ashamed. I wished I could go back in time and
+lasted *years*, and it was unpleasant. I felt useless. I felt ashamed. I wished I could go back in time and
 learn about agile, CI/CD, and other DevOps requirements during my
 studies instead of having filled my brain with equations of motion that I had
 no use for. In short, at 27 years old, I already felt like I had missed the boat, and with each
@@ -257,9 +257,11 @@ Project*. I felt ready for it. Bring it on!
 
 I ordered my copy of *[The DevOps Handbook](https://amzn.to/4clZUMF)* in 2019. I finished it on August 6, 2022. For those keeping count, that means three years of lead time. What happened?
 
-Simply put, after a few chapters, I began to feel intimidated. This
-didn't feel like the Phoenix Project. It was a real book, one that
-required actual effort to read through.
+The [Dunning-Kruger effect]() is what happened. I had reached the peak of Mt. Stupid. My confidence in learning from reading had risen above my abilities.
+
+After only a few chapters, I began to feel dizzy. This
+book wasn't like the Phoenix Project. It was a _real_ book, one that
+required actual effort to read through. It laid the truth bare: I truly had no idea what I had gotten myself into.
 
 Every new information felt like it took
 the spot of another one in my head, similar to a sort of musical chair of knowledge.
