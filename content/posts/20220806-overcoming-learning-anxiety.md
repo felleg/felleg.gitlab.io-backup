@@ -140,9 +140,8 @@ down these words:
 
 Well, here it is. This is the moment when my mind clicked and realized *I* had learning
 anxiety. Before writing it down and seeing it with my own eyes for the first time --- "learning
-anxiety" --- this is a concept that felt somewhat alien to me. On one
-hand, it
-made sense and described accurately how I felt. On the other hand, how could I claim to have learning anxiety if I had
+anxiety" --- this is a concept that felt somewhat alien to me. While it did
+make logical sense and described accurately how I felt, how could I claim to have learning anxiety if I had
 a Masters in Physics? Clearly, I had above average learning abilities,
 right? I felt like I had no excuse to feel the way I was feeling.
 
