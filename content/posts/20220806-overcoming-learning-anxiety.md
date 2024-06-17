@@ -257,7 +257,7 @@ Project*. I felt ready for it. Bring it on!
 
 I ordered my copy of *[The DevOps Handbook](https://amzn.to/4clZUMF)* in 2019. I finished it on August 6, 2022. For those keeping count, that means three years of lead time. What happened?
 
-The [Dunning-Kruger effect]() is what happened. I had reached the peak of Mount Stupid. Some people call this "premature enlightenment." My confidence in my ability to learn from reading had risen above my actual abilities.
+The [Dunning-Kruger effect](https://simple.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) is what happened. I had reached the peak of Mount Stupid. Some people call this "premature enlightenment." My confidence in my ability to learn from reading had risen above my actual abilities.
 
 {{< figure src="/img/dunning-kruger-effect.png" position="center" caption="The path to mastery of any type involves traversing the Dunning-Kruger graph from left to right." >}}
 
@@ -295,23 +295,25 @@ potential. And would you believe it, each member of the DevOps team got to recei
 
 Surely there was some secret sauce at nesto that would allow me to succeed where I failed at Contxtful. What new possibilities would allow me to escape the Valley of Despair? 
 
-The answer came quickly:  for the first time in my life, I was threatened by termination.
+The answer came quickly: for the first time in my life, I was threatened with termination.
 
 
 # Chapter 3: Good fold, Bad fold
 
-In mid-June 2022, three months after joining the nesto DevOps team, I
-received unfortunate news: I was
-getting a probation extension. I wasn't quite cutting it in the
-workplace. I had trouble learning the new tools and processes required
-to become a productive teammate. New concepts and important details eluded me. I was failing, hard. If I didn't manage to course-correct within two months, I could kiss my
-job goodbye.
+In June 2022, three months after joining the nesto DevOps team, I
+received the unfortunate news: I was getting a probation extension. I
+wasn't quite cutting it in the workplace. I had trouble learning the new
+tools and processes required to become a productive teammate. New
+concepts and important details eluded me. To summarize, I was failing,
+and hard. If I didn't manage to course-correct within two months, I
+could kiss my job goodbye.
 
-This is what put me into **survival mode**.
+This is what put me into **survival mode**, where the hopelessness of
+the situation was such that it finally made me open to learning.
 
-I had never been put in that kind of situation  before, where a manager
-told me I was not pulling my own weight. I wasn't going to waste this
-opportunity  to show the world what I could do when given proper
+To be told by a manager that I was not pulling my own weight was a first
+for me. I wasn't going to waste this
+opportunity to show the world what I could do when given proper
 motivation.
 
 So I got to work, big time. My focus in mid-June was higher than ever,
@@ -320,7 +322,9 @@ personal goals was to get through the *DevOps Handbook* before the end of
 my extended probation, partly to prove to myself that I could
 accomplish something for once.
 
-And I am  happy to report that I did (:tada:), thanks in no small  part to a neat little trick that  I am  about to show you:
+Two months later, after over three years of trying, I turned the last
+page of the book. Something had changed in me. I had learned *how to
+read a book*.
 
 {{< figure src="/img/finished-devops-handbook.jpg" position="center" caption="DONE!" >}}
 
