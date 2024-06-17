@@ -9,7 +9,7 @@ tags:
 aliases: [
    "/overcoming-learning-anxiety/",
 ]
-description: "In this text, I will tell you my story: how I discovered I had learning anxiety, what impact it had on my life, and the techniques I developed to work through it."
+description: "In this text, I will tell you my story: how I discovered I had learning anxiety, the impact it had on my life, and the techniques I developed to work through it."
 ---
 
 **About the cover image**
@@ -40,7 +40,7 @@ I have suffered from learning anxiety for the majority of my life and I
 was oblivious to it. Being anxious about learning made me afraid of
 failure, which in turn hindered my natural development. Luckily, I have
 made significant strides in my journey towards healing this condition
-when I turned 28. Now in my thirties, I confidently say that overcoming
+when I turned 28 years old. Now in my thirties, I confidently say that overcoming
 my learning anxiety gave me a second chance at life. I believe it is my
 duty to share my story and what I *learned* from it, in the hope that
 this text reaches someone in need (you?).
@@ -49,20 +49,19 @@ If there's only one thing I'd want you to remember from this text, it's
 that **anyone can experience learning anxiety and solving it requires a
 system of your own creation that will make learning a joyful experience
 to you**. In this text, I will tell you my story: how I discovered I had
-learning anxiety, what impact it had on my life, and the techniques I
+learning anxiety, the impact it had on my life, and the techniques I
 developed to work through it. If you experience learning anxiety, my
 hope is that this text will make you realize that you are not alone and
-that there is a way out. You can get
-through any obstacle that stands in your way, and you can even have fun
+that there is a way out. You can overcome any obstacle that stands in your way, and you can even have fun
 while doing it. All it takes is the willingness to fail and learn from
 our mistakes. And, perhaps, the urge to read a book or two. Or {{< n_books >}}.
 
 I hope this text will bring value to your life.
 
 P.S. Don't feel bad if you don't finish reading this text in its
-entirety. Maybe I didn't make it engaging enough, or too rambly. You
+entirety. Perhaps I didn't make it engaging enough, or too rambly. You
 have full permission to blame the author if you lose interest. :slightly_smiling_face: If I may
-ask a small favor in exchange, just post a comment at the bottom of this
+ask a small favor in return, just post a comment at the bottom of this
 page to let me know how far you made it, so that I have an idea of which
 section needs improving. Thank you for your help!
 
@@ -122,7 +121,7 @@ bad about my performance at work. I had felt that for a long time, but I couldn'
 quite put my finger on why. It's not that I wasn't trying hard enough: in
 fact, I felt I was trying so hard that I was getting close to burning
 out. However, I also felt like I wasn't accomplishing as much as I should
-have, considering the amount of energy I was pouring daily in my work. From
+have, considering the amount of energy I was pouring daily into my work. From
 the outside, it might have looked like this:
 
 {{< figure src="/img/too-busy.jpeg" position="center" caption="''Just get off your bike for a second!''" >}}
@@ -140,7 +139,7 @@ down these words:
 
 Well, here it is. This is the moment when my mind clicked and realized *I* had learning
 anxiety. Before writing it down and seeing it with my own eyes for the first time --- "learning
-anxiety" --- this is a concept that felt somewhat alien to me. While it did
+anxiety" --- I had never heard of that concept before. It was completely alien to me. While it did
 make logical sense and described accurately how I felt, how could I claim to have learning anxiety if I had
 a Masters in Physics? Clearly, I had above average learning abilities,
 right? I felt like I had no excuse to feel the way I was feeling.
@@ -149,13 +148,13 @@ But it was true. Regardless of my past achievements, I simply had plain old lear
 
 I certainly knew how I felt when it
 came to learning: to put it mildly, I felt my learning performance was
-below all those around me.
+below that of all those around me.
 
-What I feel is ironic is that I had to overcome learning anxiety to
-realize this was precisely the problem holding me back from learning. In
-other words, as I was writing *"learning anxiety (<- **I
-have that!**)"*, I hadn't realized that, precisely at that moment, I was
-beginning to heal. Very meta...
+It seems ironic to me that I had to overcome my learning anxiety in
+order to
+learn that this was exactly the problem holding me back. In
+other words, precisely as I was writing *"learning anxiety (<- **I
+have that!**)"*, I was beginning to heal, although I hadn't realized it. Very meta...
 
 Let's start untangling this mental knot by going back in time.
 
@@ -165,11 +164,11 @@ In 2017, fresh out of University and ready to tackle the world, I
 started working for a newly-formed startup then-called Proximity HCI
 (now known as [Contxtful](https://contxtful.com)). I had just finished
 my Masters thesis in particle Physics and was ready to jump into the
-software world ([this is something I already discussed on this blog in
+software world ([this is something I already discussed on my blog in
 2019](/posts/2019/10/why-i-shifted-from-physics-to-focus-on-software/)).
 
 I was hired as a machine learning scientist, and chipped away at tasks
-for many months, but clearly things weren't
+for many months, but things were clearly not
 working out. With machine learning, I was simply "not on my X", as we say in
 French, meaning I wasn't in the right context to excel. As I naturally
 started working towards handling the IT of the company and discovering
@@ -179,12 +178,13 @@ change my life.
 *"You know what? I think DevOps would be a good fit for you."*
 
 For  someone with a self-diagnosed impostor syndrome, receiving this kind of
-information is a mixed bag. On one hand, it finally provided me an
-explanation as to  why I was  having such a difficult time  accomplishing the
-tasks I was given. This  is a big plus. *"Of course, it all makes
+information is a mixed bag. On one hand, it finally
+explained why I was  having such a difficult time  accomplishing the
+tasks I was given. This  was a relief. *"Of course, it all makes
 sense now! I'm bad at machine learning because, deep down, I'm a DevOps!
 Yes, change my title now, please! This will fix all my problems"*, I would say
-to myself on my little cloud of joy. On the other hand, it placed me in front of an undodgeable
+to myself on my little cloud of joy. On the other hand, I now
+faced an undodgeable
 question: *"What the heck is DevOps, anyway?"*
 
 You can  probably imagine why, depending on the day, my impostor
@@ -207,7 +207,7 @@ understand" is said:
 
 Every search result required me to do at least three other searches to
 understand what basic sentences meant. For a while, it felt like I was
-surrounded by buzzwords, with no one telling me anything. Oh how I wished Jimmy Neutron's "[book gum](https://www.youtube.com/watch?v=x1ambhfSnBA)" was real!
+surrounded by buzzwords, with no clear explanations in sight. Oh how I wished Jimmy Neutron's "[book gum](https://www.youtube.com/watch?v=x1ambhfSnBA)" was real!
 
 This process
 lasted *years*, and it was unpleasant. I felt useless. I felt ashamed. I wished I could go back in time and
@@ -220,8 +220,8 @@ The only thing pushing me forward was the fact that my colleagues
 depended on my work, as amateurish as it was. I could entertain the idea
 of going down
 in a big ball of fire, but I didn't want my colleagues to suffer the
-fall with me. I wanted them to thrive and excel at their rightfully
-chosen tasks. Ironically, I now believe this is precisely the kind of
+fall with me. I wanted them to thrive and excel at their respective
+tasks. Ironically, I now believe this is precisely the kind of
 mindset that drives the DevOps philosophy: Do everything you can to
 maximize the value your peers can deliver. However, I was simply too discouraged
 at the time to realize this...
@@ -239,13 +239,13 @@ Turns out, it was great fun indeed! There are many reasons for this, I believe. 
 is, of course, very well written. It wouldn't sell over 500,000 copies
 if it wasn't. Secondly, and more importantly, the fact that I was open
 to the material and didn't feel pressured to understand everything right
-away made a key difference. Finally, and this is key, I enjoyed this
-book because I read it in its entirety, and this is something I will
-come back to in this post.
+away made a big difference. Finally, and this is key, I enjoyed this
+book because I read it in its entirety. This is something I will
+come back to later in this post.
 
 In a single week, I had finished reading my first DevOps book. Woohoo! I felt like I
 was ready to conquer the world. My mind was now filled with ideas I was
-excited to try. *The Phoenix Project* subtly advertised
+excited to try out. *The Phoenix Project* subtly advertised
 for another book from the same author, *[The DevOps
 Handbook](https://amzn.to/4clZUMF)*, which
 supposedly contained everything you needed to know to propel your
@@ -263,10 +263,10 @@ The [Dunning-Kruger effect](https://simple.wikipedia.org/wiki/Dunning%E2%80%93Kr
 
 After only a few chapters, I began to feel dizzy. This
 book wasn't like the Phoenix Project. It was a _real_ book, one that
-required actual effort to read through. It laid the truth bare: I truly had no idea what I had gotten myself into. I quickly fell into the Valley of Despair. 
+required actual effort to read through. It laid the truth bare: I had no idea what I had gotten myself into. I quickly fell into the Valley of Despair. 
 
 Every new information felt like it took
-the spot of another one in my head, similar to a sort of musical chair of knowledge.
+the place of another one in my head, reminiscent of a musical chair of knowledge.
 For example, I had trouble remembering what the [Three Ways of
 DevOps](https://itrevolution.com/articles/the-three-ways-principles-underpinning-devops/) stood for, even though they were central parts of both the
 Phoenix Project and the handbook. It felt like I was drowning in
@@ -282,13 +282,16 @@ was quick, and then everything ground to a halt.
 
 Reluctantly, I shelved  the handbook both physically and digitally, feeling ashamed and
 defeated. I felt even more like an impostor: the fact I couldn't get
-through the *DevOps Handbook* served as evidence to that.
+through the *DevOps Handbook* proved it. I was a fake DevOps.
 
-This pattern of excitement for learning leading  to bitter abandon was,
-as you might have guessed, not limited to the *DevOps Handbook*.
+This pattern of excitement for learning leading  to bitter
+disillusionment was, as you might have guessed, not limited to the
+*DevOps Handbook*.
 Throughout most of my time at Contxtful, I was given the opportunity to
-learn, and by my own account, failed at it more   than I succeeded.
-Eventually, the feeling of being unable to reach  my full potential with
+learn, and by my own account, failed to do so more   than I succeeded. I
+was going from Mount Stupid to Mount Stupid, never making it through any
+Valley of Despair.
+Eventually, the feeling of being unable to reach  my full potential at
 Contxtful (and potentially hurting the company as a result) led me to
 quit my job and join [nesto](https://nesto.ca), in the hope that there lied the key  that would unlock my
 potential. And would you believe it, each member of the DevOps team got to receive their own copy of the *DevOps Handbook*. This book was following me everywhere I went! So much time had elapsed since I started reading it that the second edition of the Handbook had now come out.
@@ -314,21 +317,20 @@ the situation was such that it finally made me open to learning.
 To be told by a manager that I was not pulling my own weight was a first
 for me. I wasn't going to waste this
 opportunity to show the world what I could do when given proper
-motivation.
-
-So I got to work, big time. My focus in mid-June was higher than ever,
+motivation.  So I got to work, big time. My focus in mid-June was higher
+than ever,
 thanks to survival instincts that kicked into high gear. One of my first
 personal goals was to get through the *DevOps Handbook* before the end of
 my extended probation, partly to prove to myself that I could
 accomplish something for once.
 
 Two months later, after over three years of trying, I turned the last
-page of the book. Something had changed in me. I had learned *how to
+page of *The DevOps Handbook*. Something had changed within me. I had learned *how to
 read a book*.
 
 {{< figure src="/img/finished-devops-handbook.jpg" position="center" caption="DONE!" >}}
 
-Can you  spot it? The little detail that allowed me to read the book?
+Can you  spot it? The little detail that allowed me to finish the book?
 
 Look at the spine. Do you notice how curved it is? Isn't that simply wonderful? It reminds me of a well-loved punching bag.
 
@@ -345,8 +347,7 @@ subtle difference, but it means a lot!
 
 For example, if someone was standing in a gym next to their punching
 bag, you would probably understand that whatever damage the bag exhibits
-went directly into making that person stronger. If you had to win a
-fight, you'd probably pick the boxer who has a seemingly unused punching
+went directly into making that person stronger. If you had to fight someone, you'd probably pick the boxer with a seemingly untouched punching
 bag in their gym.
 
 Now look at the books in your library (if you have some). What does
