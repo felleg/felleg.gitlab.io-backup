@@ -633,7 +633,7 @@ relationships and my life for the better.  I cannot even begin to express the sh
 real failure is not to learn from failure. I am *beginning* to see fear as a compass that
 guides us toward the path that will make us grow.
 
-If you personally suffer with learning anxiety and made it this far in
+If you personally suffer from learning anxiety and made it this far in
 this blog post, I am in awe of you. [The last mile is always the least crowded](/40), and you are among the courageous few that made it to the end. Seriously, lift your favorite arm and give yourself a pat on the back from me. I am confident that you are already on the right path: the real journey begins here, if you accept it. I
 hope the ideas I have outlined above will inspire you to give them a try or, better yet, to find your own system
 and rediscover the simple, sacred joy of learning. If this changes your life even half as much as it changed mine, you're in for the ride of a lifetime, my friend.
