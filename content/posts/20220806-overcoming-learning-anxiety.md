@@ -185,7 +185,7 @@ explanation to  why you are  having such a difficult time  accomplishing the
 tasks you were given. This  is a big plus. *"Of course, it all makes
 sense now! I'm bad at machine learning because, deep down, I'm a DevOps!
 Yes, change my title now, please! This will fix all my problems"*, I would say
-to myself. On the other hand, it places you in front of an undodgeable
+to myself. On the other hand, it placed me in front of an undodgeable
 question: *"What the heck is DevOps, anyway?"*
 
 You can then imagine why, depending on the day, my impostor
