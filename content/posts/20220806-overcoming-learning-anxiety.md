@@ -257,11 +257,13 @@ Project*. I felt ready for it. Bring it on!
 
 I ordered my copy of *[The DevOps Handbook](https://amzn.to/4clZUMF)* in 2019. I finished it on August 6, 2022. For those keeping count, that means three years of lead time. What happened?
 
-The [Dunning-Kruger effect]() is what happened. I had reached the peak of Mt. Stupid. My confidence in learning from reading had risen above my abilities.
+The [Dunning-Kruger effect]() is what happened. I had reached the peak of Mount Stupid. Some people call this "premature enlightenment." My confidence in my ability to learn from reading had risen above my actual abilities.
+
+{{< figure src="/img/dunning-kruger-effect.png" position="center" caption="The path to mastery of any type involves traversing the Dunning-Kruger graph from left to right." >}}
 
 After only a few chapters, I began to feel dizzy. This
 book wasn't like the Phoenix Project. It was a _real_ book, one that
-required actual effort to read through. It laid the truth bare: I truly had no idea what I had gotten myself into.
+required actual effort to read through. It laid the truth bare: I truly had no idea what I had gotten myself into. I quickly fell into the Valley of Despair. 
 
 Every new information felt like it took
 the spot of another one in my head, similar to a sort of musical chair of knowledge.
@@ -272,8 +274,7 @@ information. If the Phoenix Project
 managed to organically sneak in   a reasonable amount of information within the context  of  the story, the *DevOps Handbook* proved to be too much for me. There seemed to be no time for relaxation: The handbook  simply lined the knowledge nuggets one after the other relentlessly.
 
 Very early on, I could feel my reading velocity diminish as I was
-reading my physical copy. I started
-reading the digital version on my Kobo to see if that could help (I was
+reading my physical copy. I took a stab at the digital version on my Kobo to see if that could help (I was
 very big on e-readers at the time, see [I Love
 E-readers](https://felixleger.com/posts/2020/10/i-love-e-readers/)), but I
 got the same result; Initial progress
@@ -289,10 +290,12 @@ Throughout most of my time at Contxtful, I was given the opportunity to
 learn, and by my own account, failed at it more   than I succeeded.
 Eventually, the feeling of being unable to reach  my full potential with
 Contxtful (and potentially hurting the company as a result) led me to
-quit my job and join [nesto](https://nesto.ca), in the hope that there lied the key  that would unlock this
-potential.
+quit my job and join [nesto](https://nesto.ca), in the hope that there lied the key  that would unlock my
+potential. And would you believe it, each member of the DevOps team got to receive their own copy of the *DevOps Handbook*. This book was following me everywhere I went! So much time had elapsed since I started reading it that the second edition of the Handbook had now come out.
 
-I just didn't expect that key to be the threat  of getting the old boot!
+Surely there was some secret sauce at nesto that would allow me to succeed where I failed at Contxtful. What new possibilities would allow me to escape the Valley of Despair? 
+
+The answer came quickly:  for the first time in my life, I was threatened by termination.
 
 
 # Chapter 3: Good fold, Bad fold
@@ -301,7 +304,7 @@ In mid-June 2022, three months after joining the nesto DevOps team, I
 received unfortunate news: I was
 getting a probation extension. I wasn't quite cutting it in the
 workplace. I had trouble learning the new tools and processes required
-to become a productive teammate. New concepts and important details eluded me. I had two months to course-correct, otherwise I could kiss my
+to become a productive teammate. New concepts and important details eluded me. I was failing, hard. If I didn't manage to course-correct within two months, I could kiss my
 job goodbye.
 
 This is what put me into **survival mode**.
