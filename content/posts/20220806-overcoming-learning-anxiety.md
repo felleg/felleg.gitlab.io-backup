@@ -667,12 +667,12 @@ possible. Plan ahead!
 
 As you start learning, you get excited when you see all the
 possibilities within your grasp. Never forget, "Stop starting, start
-finishing".
+finishing." Generally, for better or for worse, the end of the book is often when
+everything comes together and the author "blows your mind."
 
 {{< figure src="/img/stop-starting-start-finishing.jpg" position="center" caption="Words to live by." >}}
 
-
-Choose your book well, and don't start another one before you finished
+Choose your book carefully, and do your best not to start another one before you finished
 your current one. Use this as motivation to get through your current
 book, if needed!
 
