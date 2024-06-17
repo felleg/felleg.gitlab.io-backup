@@ -541,7 +541,9 @@ at your own pace and stop when you've had your fill.
 
 This might seem like overkill to most, but I wouldn't even think of
 skipping this step. Once I'm done with a book, I want to formulate my
-own opinion about what I just read in the form of a review. This is what cements it in my brain.
+own opinion about what I just read in the form of a review. This is what
+cements it in my brain and makes my feel like I own the ideas I'm
+discussing.
 
 Since I use my website as a platform for reviewing the books I read,
 sometimes I get stage fright. "What will people think of me if I write
@@ -554,13 +556,19 @@ canvas: whatever ends up there is simply a reflection of how I felt.
 Sure, I try to put a minimum of effort in my reviews, but I also try not
 to overdo it.
 
-Finally, I use my review as a final opportunity to write my *favorite*
-highlights from the book one more time. Sometimes I just go overboard
-and write all my highlights into the review (see my review of [Comportment Organisationnel](/78), it's a doozy!). Doing this allows me to
-easily use the Ctrl-F combo on my keyboard to find relevant quotes.
-At this point, whatever floats your boat is what you need, really.
+Finally, I use my review as a final opportunity to include my *favorite*
+highlights from the book one last time. To do this, I look at the notes
+I took from the book and highlight those I find worth sharing with
+others. No need to overthink it: I recommend just following your
+instinct here. For example, if you are typing your review on a computer,
+you any quote you include at this stage will be searchable, e.g. using
+Ctrl-F. Thus, when in doubt, I tend to include more quotes than
+necessary, because the ability to use Ctrl-F (or `grep`, to be precise!
+:wink:) to search among my quotes is incredibly convenient. To quote
+[Where Good Ideas Come From](/61), "Write everything down, but keep your
+folders messy!"
 
-[Here is an example of the latest English review I wrote](/82). Feel free to
+[Here is an example of the latest review I wrote](/82). Feel free to
 copy my format if you want, or create your own. In the end, what matters
 is that you create a pattern of work that forces your brain to think about these ideas and have them
 make sense for you. You get bonus points if you make this review public:
@@ -568,8 +576,8 @@ not only are you sharing your knowledge, but you also encourage people
 to participate in your journey and share knowledge with you.
 
 The format you use to review your books doesn't matter. It can be a
-website like me, a page in your notebook, a Word document, an email, a spreadsheet, etc. As long
-as you use your words to write about the subject you read about, you
+website like me, a fresh page in your notebook, a Word document, an email, a spreadsheet, etc. As long
+as you use _your_ words to write about the subject you read about, you
 will do fine. The easiest it is for you to access that information once
 you're done, the better.
 
