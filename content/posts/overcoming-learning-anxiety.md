@@ -421,8 +421,7 @@ version!) and apply a clean, *strong* book suplex to it, as flat as you can make
 fear that the book will instantly break in half, but in my experience
 that never happens. You generally have to work pretty hard to even get a single page to fall
 out of a book, trust me. So, show it who's the boss! Yes, it's going to leave a mark on the spine,
-but that's also the point. Feel with your hands how this new
-experience feels. Get comfortable. Try suplexing the early pages of the book, then the
+but that's also the point. See how this new experience feels on your hands, on your eyes. Get comfortable. Try suplexing the early pages of the book, then the
 middle pages, then the final pages. Observe the difference. Realize that books have been around for hundreds of
 years and that they are *tough*, dependable objects.
 
