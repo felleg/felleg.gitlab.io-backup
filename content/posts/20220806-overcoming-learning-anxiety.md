@@ -290,10 +290,11 @@ Throughout most of my time at Contxtful, I was given the opportunity to
 learn, and by my own account, failed to do so more   than I succeeded. I
 was going from Mount Stupid to Mount Stupid, never making it through any
 Valley of Despair.
+
 Eventually, the feeling of being unable to reach  my full potential at
 Contxtful (and potentially hurting the company as a result) led me to
 quit my job and join [nesto](https://nesto.ca), in the hope that there lied the key  that would unlock my
-potential. And would you believe it, each member of the DevOps team got to receive their own copy of the *DevOps Handbook*. This book was following me everywhere I went! So much time had elapsed since I started reading it that the second edition of the Handbook had now come out.
+potential. And would you believe it, each member of nesto's DevOps team received their own copy of the *DevOps Handbook* as a welcome gift. This book was following me everywhere I went! At this point, so much time had elapsed since I had started reading it that the second edition of the Handbook had now come out.
 
 Surely there was some secret sauce at nesto that would allow me to succeed where I failed at Contxtful. What new possibilities would allow me to escape the Valley of Despair? 
 
