@@ -228,3 +228,18 @@ Eventually, I will not have enough games to justify keeping my Billy
 bookcase!
 
 {{< figure src="/img/hoarding-project/what-is-left-20230419.jpg" caption="Collection 5.0" >}}
+
+# 2024 Update
+
+I finally got rid of the bookshelf entirely! Everything that remains in
+my collection are gifts. They represent the people that I love more than
+the games themselves.
+
+- Gift from my brother Justin:
+  - Game & Watch Super Mario Bros.
+- Gifts from Sven:
+  - Vita game
+  - Dr Jekyll & Mr Hyde
+  - Milon's Secret Castle
+
+That's. It.
