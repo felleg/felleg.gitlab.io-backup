@@ -14,8 +14,7 @@ description: "In this text, I will tell you my story: how I discovered I had lea
 
 **About the cover image**
 
-- Image generated using
-  [Perchance AI Photo Generator](https://perchance.org/ai-photo-generator)
+- Image drawn by Félix & Gabrielle
 - Assembled in [GIMP](https://gimp.org)
 - Color: `#ffea00`
 - Font: Helvetica
