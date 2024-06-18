@@ -281,7 +281,7 @@ was quick, and then everything ground to a halt.
 
 Reluctantly, I shelved  the handbook both physically and digitally, feeling ashamed and
 defeated. I felt even more like an impostor: the fact I couldn't get
-through the *DevOps Handbook* proved it. I was a fake DevOps.
+through the *DevOps Handbook* proved it. I became fixated on the notion that I was a fake DevOps.
 
 This pattern of excitement for learning leading  to bitter
 disillusionment was, as you might have guessed, not limited to the
