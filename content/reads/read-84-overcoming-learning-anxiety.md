@@ -64,7 +64,7 @@ Here is a summary of the method I share in the text:
 
 ---
 
-# :star: Star Quotes :star:
+# :star: Star Quotes
 
 1. Mental healing requires acknowledgement, and acknowledgement requires knowledge of the problem. The anxious learner is less likely to learn about their condition, because the idea of learning feels unsafe to them in the first place. It is a sadly ironic predicament.
 1. Anyone can experience learning anxiety and solving it requires a system of your own creation that will make learning a joyful experience to you
