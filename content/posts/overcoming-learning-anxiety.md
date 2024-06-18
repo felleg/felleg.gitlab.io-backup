@@ -8,7 +8,6 @@ tags:
   - featured
 aliases: [
    "/overcoming-learning-anxiety/",
-   "/posts/2022/08/overcoming-learning-anxiety/",
    "/ola",
 ]
 description: "In this text, I will tell you my story: how I discovered I had learning anxiety, the impact it had on my life, and the techniques I developed to work through it."
@@ -857,7 +856,7 @@ use a different ink (e.g. red) than what you would use for your note
 taking. Things will look much clearer when you reach the bottom right
 corner of odd-numbered pages. :wink:
 
-## Tip 8: If you notebook doesn't have margins, make some!
+## Tip 8: If your notebook doesn't have margins, make some!
 
 For most of my life, I assumed the margin was meant for graders to
 review your work and comment on their corrections. Well, news flash: the
