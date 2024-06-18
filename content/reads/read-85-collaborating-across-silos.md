@@ -10,7 +10,6 @@ tags:
   #- 'fiction'
 aliases:
   - '/85'
-draft: true
 number: 85
 rating: 👍
 
@@ -27,6 +26,53 @@ Author: [Harvard Business Review](https://hbr.org)
 ---
 
 # Review
+
+ This book is a collection of articles written between 2000 and 2005 for
+ the Harvard School of Business, before the term "DevOps" was invented
+ (~2007). I chose to read this book because breaking silos is one of the
+ core missions of the DevOps movement. I was curious to learn what the
+ scholars of Harvard had to teach on the matter.
+
+ Contrary to what modern DevOps practicioners are used to, in this book
+ there is no mention of technological tools that help break silos.
+ Instead, it's about findings ways to make people want to work together.
+ While some may say this content is overly theoritical and not
+ practical, I think this makes it timeless. And, would you know it, some
+ of the most discussed topics of [DevOpsDays 2024 in
+ Montreal](https://devopsdays.org/events/2024-montreal/welcome/)
+ revolved around communication, empathy, and emotional
+ intelligence. It seems to me that our industry is rediscovering that
+ behind every technology, there is a human operating it, a human driven
+ by emotions. Thus, no significant transformation be successful without a firm
+ grasp on how emotions work and how to handle conflict constructively.
+
+ I enjoyed the framework of the four cooperation tools (see image
+ below). As written in the book, "One of the rarest managerial skills is
+ the ability to understand which tools will work in a given situation
+ and which will misfire." This framework is useful to make the right
+ call as to which tool to use in which situation.
+
+{{< figure src="https://lh3.googleusercontent.com/pw/AP1GczMl0-MK4oNYaRyicbLZoDcXadL1aJxswMdWRZCLLx2YCSJ-gLfEOxOryV7ncY3LYlRsH1R1e2F6JzXwzJITEPCyq9qXwVSHFy9zuqqvn0FBTeQnKMk7isyV097srEsRdo4_RRpejAQfT-l_n6Hj1Yk5Bw=w1227-h920-s-no?authuser=0" position="center" caption="The Four Cooperation Tools, and in what context to use them in the organization." >}} 
+
+ I enjoyed the concept of the "human portal." I feel there is tremendous
+ hidden value in having a clear map of the human network inside an
+ organization. I'll test the waters at the organization where I
+ currently work and see if this concept sticks.
+
+ I found it interesting that the book discussed the technique of the
+ Five Whys, which I strongly associate with the notion of Blameless
+ Postmortems central to the DevOps philosophy.
+
+ Finally, I was amused when one of the articles in the book started quoting
+ [Emotional Intelligence by Daniel Goleman](/83), which is a book I just
+ finished reading. A fun coincidence!
+
+ To conclude, this was a light read that reinforced some ideas I
+ previously held. Breaking silos is not about constructing single panes
+ of glass. It's first and foremost about leveraging our humanity and
+ finding ways to make everyone's perspective heard. We don't need to be
+ aligned on everything. What we need are common tools for dealing with
+ conflict *before* the conflict happens.
 
 {{< myrating rating="👍" >}}
 
