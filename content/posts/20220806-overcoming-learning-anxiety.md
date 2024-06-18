@@ -33,7 +33,7 @@ therein lies the issue. Mental healing requires acknowledgement, and
 acknowledgement requires knowledge of the problem. The anxious learner
 is less likely to learn about their condition, because the idea of
 learning feels unsafe to them in the first place. It is a sadly ironic
-condition.
+predicament.
 
 I have suffered from learning anxiety for the majority of my life and I
 was oblivious to it. Being anxious about learning made me afraid of
