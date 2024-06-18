@@ -19,7 +19,7 @@ that, I owned 200 musical albums, evenly split between CDs and vinyls discs, and
 {{< figure src="/img/hoarding-project/og-shelf.jpeg" position="center" caption="My collection proudly displayed in my first apartment" >}}
 
 When I was 16, if I had seen that picture online, I would have dreamed to live in that bedroom. True story, I
-used to watch [James Rolfe's Game Room Tours](https://www.youtube.com/watch?v=b3gO1V-z7A4) and drool.
+used to watch [James Rolfe\'s Game Room Tours](https://www.youtube.com/watch?v=b3gO1V-z7A4) and drool.
 
 However, life sure has its ways. Now that I have experienced the reality of owning all of that stuff, I want
 to share the story of how I realized my collection was bringing me more pain than joy, and how I managed to
