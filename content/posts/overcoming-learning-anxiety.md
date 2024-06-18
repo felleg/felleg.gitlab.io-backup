@@ -18,7 +18,6 @@ description: "In this text, I will tell you my story: how I discovered I had lea
 
 - Image drawn by Félix & Gabrielle
 - Assembled in [GIMP](https://gimp.org)
-- Color: `#ffea00`
 - Font: Helvetica
 
 ---
