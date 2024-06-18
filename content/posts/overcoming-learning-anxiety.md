@@ -974,7 +974,7 @@ my messy handwriting look less messy. Personally, I am
 now very fond of dotted journals, because they provide the benefits of a
 grid without being as visually distracting.
 
-{{< figure src="/img/dotted-journal-2.png" position="center" caption="" >}}
+{{< figure src="/img/dotted-journal-3.png" position="center" caption="" >}}
 
 
 #### Pens and highlighters
