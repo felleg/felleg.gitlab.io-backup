@@ -8,6 +8,8 @@ tags:
   - featured
 aliases: [
    "/overcoming-learning-anxiety/",
+   "/posts/2022/08/overcoming-learning-anxiety/",
+   "/ola",
 ]
 description: "In this text, I will tell you my story: how I discovered I had learning anxiety, the impact it had on my life, and the techniques I developed to work through it."
 ---
