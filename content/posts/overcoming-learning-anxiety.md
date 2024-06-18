@@ -132,7 +132,7 @@ survival mode, where I had two possible outcomes:
 - learn to adapt...
 - ... or learn to let go.
 
-This led me to read a certain DevOps  handbook, which led me to write
+This led me to read a certain *DevOps Handbook*, which led me to write
 down these words:
 
 {{< figure src="/img/learning-anxiety-lightbulb.jpg" position="center" caption="A photo of my notes: ''In the team, we want to help overcome learning anxiety.''" >}}
@@ -188,11 +188,11 @@ faced an undodgeable
 question: *"What the heck is DevOps, anyway?"*
 
 You can  probably imagine why, depending on the day, my impostor
-syndrome simply got out of control. I started as a humble Physicist. I changed career
+syndrome simply got out of control. I had started as a humble Physicist. I had then changed career
 paths after my Masters degree to
-become a Machine Learning scientist (out of nowhere), only to realize I was even worse at that job, so
-much so that my boss recommended another career change, this time into a
-field I knew absolutely nothing about. I was rightfully terrified.
+become a Machine Learning scientist (out of nowhere). I had come to the conclusion that I was even worse at that job, so
+much so that my boss recommended another career change into a
+field I knew absolutely nothing about. I was rightfully terrified!
 
 Not wanting to waste any time, I feverishly started Googling the most
 basic things, like "How to DevOps?" and "What is DevOps?". To give you an idea of the steepness of the
@@ -229,17 +229,19 @@ at the time to realize this...
 In 2019, as I was going on vacation, I stumbled upon a book called *[The
 Phoenix
 Project](/reads/read-41-1-the-phoenix-project/)*, which seemed really popular in the DevOps space as an
-entry point into the subject matter. Being written as a novel, I thought:
+entry point into the subject matter. It was written as a novel, so I thought:
 "Ah! This is perfect material to read on the beach, without any pressure
-to learn. This is going to be great fun."
+to learn. This should be fun."
 
 {{< figure src="/img/phoenix-project.png" position="center" caption="Buy, buy, buy! That's the easy part." >}}
 
 Turns out, it was great fun indeed! There are many reasons for this, I believe. Firstly, the book
 is, of course, very well written. It wouldn't sell over 500,000 copies
-if it wasn't. Secondly, and more importantly, the fact that I was open
+if it wasn't. I connected with the story and its cast of characters that
+reminded me of my daily interactions with my colleagues. Secondly, and more importantly, the fact that I was open
 to the material and didn't feel pressured to understand everything right
-away made a big difference. Finally, and this is key, I enjoyed this
+away made a big difference. Learning felt optional, and so my anxiety
+had no reason to get triggered. Finally, and this is key, I enjoyed this
 book because I read it in its entirety. This is something I will
 come back to later in this post.
 
@@ -250,7 +252,7 @@ for another book from the same author, *[The DevOps
 Handbook](https://amzn.to/4clZUMF)*, which
 supposedly contained everything you needed to know to propel your
 business forward like the protagonist of *The Phoenix
-Project*. I felt ready for it. Bring it on!
+Project*. I felt ready for it. It was now my turn to be the main character. Bring it on!
 
 
 # Chapter 2: *The DevOps Handbook*
@@ -263,7 +265,7 @@ The [Dunning-Kruger effect](https://simple.wikipedia.org/wiki/Dunning%E2%80%93Kr
 
 After only a few chapters, I began to feel dizzy. This
 book wasn't like the Phoenix Project. It was a _real_ book, one that
-required actual effort to read through. It laid the truth bare: I had no idea what I had gotten myself into. I quickly fell into the Valley of Despair. 
+required actual effort to read through. It laid the truth bare: I had no idea what I had gotten myself into. I quickly fell into the Valley of Despair.
 
 Every new information felt like it took
 the place of another one in my head, reminiscent of a musical chair of knowledge.
@@ -295,9 +297,13 @@ Valley of Despair.
 Eventually, the feeling of being unable to reach  my full potential at
 Contxtful (and potentially hurting the company as a result) led me to
 quit my job and join [nesto](https://nesto.ca), in the hope that there lied the key  that would unlock my
-potential. And would you believe it, each member of nesto's DevOps team received their own copy of the *DevOps Handbook* as a welcome gift. This book was following me everywhere I went! At this point, so much time had elapsed since I had started reading it that the second edition of the Handbook had now come out.
+potential. And would you believe it, each member of nesto's DevOps team
+received their own copy of the *DevOps Handbook* as a welcome gift. This
+book was following me everywhere I went! At this point, so much time had
+elapsed since I had started reading it that the second edition of the
+Handbook had now come out. I was feeling embarassed.
 
-Surely there was some secret sauce at nesto that would allow me to succeed where I failed at Contxtful. What new possibilities would allow me to escape the Valley of Despair? 
+Surely there was some secret sauce at nesto that would allow me to succeed where I failed at Contxtful. What new possibilities would allow me to escape the dreaded Valley of Despair?
 
 The answer came quickly: for the first time in my life, I was threatened with termination.
 
@@ -331,9 +337,9 @@ read a book*.
 
 {{< figure src="/img/finished-devops-handbook.jpg" position="center" caption="DONE!" >}}
 
-Can you  spot it? The little detail that allowed me to finish the book?
+So, can you  spot it? The little detail that allowed me to finish the book?
 
-Look at the spine. Do you notice how curved it is? Isn't that simply wonderful? It reminds me of a well-loved punching bag.
+Look at the spine. Do you notice how curved it is? Isn't that simply wonderful? It reminds me of a well-loved punching bag...
 
 I guess I must explain. See, I have developed a very recent fondness for
 curved spines (at least, on books). I used to think having a book with a
@@ -410,6 +416,25 @@ sharing with others.
 Is it really a coincidence that a curved book spine looks like a smile?
 :smiley:
 
+So, **here is my challenge to you**: find a book you feel OK
+experimenting on (including this text if you are reading it in book
+version!) and apply a clean, *strong* book suplex to it, as flat as you can make it. Most people
+fear that the book will instantly break in half, but in my experience
+that never happens. You generally have to work pretty hard to even get a single page to fall
+out of a book, trust me. So, show it who's the boss! Yes, it's going to leave a mark on the spine,
+but that's also the point. Feel with your hands how this new
+experience feels. Get comfortable. Try suplexing the early pages of the book, then the
+middle pages, then the final pages. Observe the difference. Realize that books have been around for hundreds of
+years and that they are *tough*, dependable objects.
+
+You don't have to try it if it makes you uncomfortable: I don't want to
+force you to break your things. Indeed, I take no responsibility in the damage
+anyone makes to their own material :wink:. Before I move on, though, I
+will point out that if you feel like you have tried everything and that
+learning anxiety is still looming over you, it might be worth giving the
+book suplex a shot, if only for the cathartic experience of using your
+hands to crush something that made you feel like a prisoner. Freedom!!
+
 # Chapter 4: Creating a system of learning
 
 So, I knew how to hold a book. Big whoop. This didn't
@@ -424,8 +449,8 @@ Pandora's box. Now that I was unafraid to hurt the resell value of my books,
 a world of possibilities became accessible.
 
 Many attempts were made before stumbling upon my learning system. We
-learn by doing. At first, I tried to take notes in the book using a pen.
-While it felt great to do in the moment, it didn't have any lasting
+learn by doing. At first, I tried to take notes directly in the book using a pen.
+While this new experience felt great to do in the moment, it didn't have any lasting
 effect. I then tried to do the same thing with a yellow highlighter, as
 I had heard in primary school that the color yellow makes it easier to
 remember things. That was baloney. The problem in both cases is that
@@ -455,17 +480,28 @@ before stumbling upon a process that worked! I asked my partner for help
 and suggestions when I realized I was out of ideas. I searched on
 YouTube for insight. I was at my most vulnerable then, because I was
 basically admitting that I needed help. I had overcome the
-learning anxiety on the topic of learning itself. It might not look like
+learning anxiety on the topic of learning itself.
+
+It might not look like
 much, just asking someone or a search engine for help, but this is huge!
 It requires tremendous courage to try new things,
 fall on your face, and ask for help. I tip my hat to anyone who
-experiences learning anxiety and makes it this far in their own journey.
-This is the stuff psychological breakthroughs are made of.
+experiences personal hardships and has the courage to look for
+assistance before trying again.
+That's how major psychological breakthroughs begin. In a way, that is
+what you chose to do by starting to read this text (and look at you,
+still reading!). So, let's take a minute to celebrate the fact that you
+chose to hear my advice, and that despite all the distractions in
+the world, you are still paying attention and making progress. You're
+awesome! :tada:
 
-I can't say if your learning system will look like mine. But however
+I can't say for sure if your final learning system will look like mine. But however
 your brain learns, you'll have to fail before you get good. So remember
 that **each humbling failure is a step closer to mastery, and rejoice that you are
 making real progress.**
+
+Alright, enough talking, let's start doing. It's time I share with you
+how I actually learn.
 
 # Chapter 5: My current learning system
 
@@ -480,7 +516,8 @@ Make sure that each of these items are objects that you personally enjoy
 using. I'll nerd out [in a later section of the Appendix about the hardware I
 use](#additional-tips-on-hardware), but for now just focus on making sure
 that whatever gear you end up choosing makes you want to read/write
-more, not less!
+more, not less! If you are reading a printed version of this text, I
+suggest you try to do these steps in real time as you learn about them.
 
 ## Step 1: Read and highlight the golden nuggets
 
@@ -490,7 +527,7 @@ highlight something, I don't care if this is something the author
 expected me to memorize or not, resonate with or not. Often times I even take
 pride in highlighting a little detail that feels irrelevant in the
 scope of the whole book but that *I* connect with. Do not be scared by
-this freedom: follow your instinct.
+this freedom: follow your instinct. There is no test at the end [^1].
 
 As you read, don't bother trying to remember everything. Personally, when I turn a
 page, I feel completely OK not remembering what I just read! Read
@@ -516,12 +553,13 @@ of the book whenever you want to revisit its ideas later. Think about
 it: your notes will be all the *good stuff*. No distractions. Pure gold,
 selected by you!
 
-Secondly, and in my opinion most importantly, writing a nugget forces it to get into your brain, even if only briefly. Indeed, any sentence that goes into your notebook was seen by your eye,
+Secondly, and in my opinion most importantly, writing a nugget forces it to get decoded by your brain, even if only briefly. Indeed, any sentence that goes into your notebook was seen by your eye,
 decoded by your brain, and crafted by your hand's muscles. For your
 memory, this
 process is much richer than just reading words, which only
 involves the eye and the brain. By writing your highlights, you are
-immersing yourself in the book. It's a hard experience to describe, as
+immersing yourself in the book. Reading diagonally is often tempting;
+writing diagonally is much more difficult to pull off. It's a hard experience to describe, as
 it is both incredibly simple and profoundly powerful. I think you'll have to give it a shot to really *get* it.
 
 Thirdly, as I wrote earlier in [Chapter
@@ -579,15 +617,14 @@ necessary, because the ability to use Ctrl-F (or `grep`, to be precise!
 [Where Good Ideas Come From](/61), "Write everything down, but keep your
 folders messy!"
 
-[Here is an example of the latest review I wrote](/82). Feel free to
+[Here is an example of the latest review I wrote](/85). Feel free to
 copy my format if you want, or create your own. In the end, what matters
 is that you create a pattern of work that forces your brain to think about these ideas and have them
 make sense for you. You get bonus points if you make this review public:
 not only are you sharing your knowledge, but you also encourage people
 to participate in your journey and initiate discussions with you.
 
-The format you use to review your books doesn't matterinitiate
-discussions It can be a
+The format you use to review your books doesn't matter. It can be a
 website like me, a fresh page in your notebook, a Word document, an email, a spreadsheet, etc. As long
 as you use _your_ words to write about the subject you read about, you
 will do fine. The easiest it is for you to access that information once
@@ -608,7 +645,7 @@ information from reading these 50 pages than from reading 421 pages.
 
 Instead of taking days to review that information, it will take me 1 hour. This feels
 almost like cheating, except it isn't! I worked hard for this outcome,
-and now I get to savour it. Better yet, since all the crucial information is compact and written by me and for me, 
+and now I get to savour it. Better yet, since all the crucial information is compact and written by me and for me,
 the ideas assemble in my head much quicker than if I was just reading the book all over again.
 
 Books are not something to be afraid of. Not anymore. I realized I now
@@ -619,7 +656,7 @@ second edition:
 > **The only sustainable competitive advantage is [your] ability to learn
 > faster than the competition.**
 >
-> -- Peter Senge 
+> -- Peter Senge
 
 Textbooks have a purpose outside the classroom, even if that
 means you won't have a professor
@@ -788,7 +825,7 @@ This has many benefits:
 I noticed that some authors like to create enumerations in prose instead
 of in a list form. In order to help my future note-taking self, I use my
 pen to circle where each element of an enumeration begins in a
-paragraph. It makes the information much easier to parse later on. It also signals that this information would be more visually striking if written as a list: 
+paragraph. It makes the information much easier to parse later on. It also signals that this information would be more visually striking if written as a list:
 
 - First, ...
 - Second, ...
@@ -1005,6 +1042,8 @@ The best storage place I found for my ruler is directly in my notebook. The note
 
 {{< figure src="/img/ruler.jpg" position="center" caption="" >}}
 
-
-[^2]: See my review [Comportement Organisationnel](/78)
+[^1]: If you are reading a book for an exam, my learning system might not be
+    perfectly suited to your needs. However, you can use my learning
+    system to read the excellent [How to Become a Straight-A Student by Cal
+    Newport](https://amzn.to/3z8hiVV). :wink:
 
