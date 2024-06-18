@@ -380,9 +380,9 @@ might sound, it is a truth that eluded me for many years.
 
 ## Flashback
 
-About 10 years ago, I was a relatively money-poor grad student. I was relatively short on cash and keeping
-my old course manuals was not something I could afford to do. Thus, I
-took great care of my manuals, seldom highlighting or writing in them, in order to boost their eventual sale price.
+About 10 years ago, I was a relatively money-poor grad student. I was somewhat short on cash and keeping
+my old course textbooks was not something I could afford to do. Thus, I
+took great care of these textbooks, seldom highlighting or writing in them, in order to boost their eventual sale price.
 
 Unfortunately, this strategy was sub-optimal. For  an extra $40
 per book sold, I was taking the risk of having a lesser learning
@@ -414,12 +414,12 @@ Is it really a coincidence that a curved book spine looks like a smile?
 So, I knew how to hold a book. Big whoop. This didn't
 change the fact that after reading 10 pages, I
 couldn't contain all the information I was reading. If 10 pages
-of info coming in my brain meant 10 pages of info coming out, that does not count
+of info coming in my brain means 10 pages of info coming out, that does not count
 as learning. That is the equivalent of passively listening to radio
-while driving. All your mind really records are the ads.
+while driving. All your mind really records is the ads.
 
 This time, something was different though. Folding my paperback opened
-Pandora's box. Now that I was unafraid to hurt the resell value of my book,
+Pandora's box. Now that I was unafraid to hurt the resell value of my books,
 a world of possibilities became accessible.
 
 Many attempts were made before stumbling upon my learning system. We
@@ -440,13 +440,13 @@ system I'd use for learning, it would be a system that doesn't depend on
 maintaining access to the source material. In fact, after she told me
 this, I realized the best course of action was to give the book away
 once I am done reading it. It is the simplest, cleanest and safest
-criteria to ensure my learning system could sustain it.
+way to ensure my learning system is working.
 
-I didn't have to search very long after that insight to have my eureka
+I didn't have to search for very long after that insight to have my eureka
 moment. Armed with the rule of giving my book once I'm done reading it,
 I started searching for ideas online that would cement my learning
 system. [This video from
-Matt Morris titled How to Read a Book for Maximum Learning](https://www.youtube.com/watch?v=_WCfaGarc4U) hit the spot.
+Matt Morris titled How to Read a Book for Maximum Learning](https://www.youtube.com/watch?v=_WCfaGarc4U) fit the bill.
 
 What I want you to remember from this chapter is that my learning system
 didn't just fall on me from the heavens. I failed a bunch of times
@@ -470,13 +470,13 @@ making real progress.**
 
 Here's how the sausage is made, in three easy steps. You will need:
 
-- Notebook to write
+- Notebook
 - Pen
 - Highlighter
 - Ruler
 
 Make sure that each of these items are objects that you personally enjoy
-using. I'll nerd out [in a later section about the hardware I
+using. I'll nerd out [in a later section of the Appendix about the hardware I
 use](#additional-tips-on-hardware), but for now just focus on making sure
 that whatever gear you end up choosing makes you want to read/write
 more, not less!
@@ -488,11 +488,11 @@ golden nuggets of information *you* find interesting. Whenever I
 highlight something, I don't care if this is something the author
 expected me to memorize or not, resonate with or not. Often times I even take
 pride in highlighting a little detail that feels irrelevant in the
-scope of the whole book but that I connect with. Do not be scared by
-this freedom: follow your heart.
+scope of the whole book but that *I* connect with. Do not be scared by
+this freedom: follow your instinct.
 
-As you read, don't bother trying to remember everything. When I turn a
-page, I feel completely OK not remembering what I just read about. Read
+As you read, don't bother trying to remember everything. Personally, when I turn a
+page, I feel completely OK not remembering what I just read! Read
 your book like you're watching a TV show or listening to a podcast.
 Highlight as you go, and know that we will come back to collect all
 these little knowledge nuggets later. :wink:
@@ -516,7 +516,7 @@ it: your notes will be all the *good stuff*. No distractions. Pure gold,
 selected by you!
 
 Secondly, and in my opinion most importantly, writing a nugget forces it to get into your brain, even if only briefly. Indeed, any sentence that goes into your notebook was seen by your eye,
-decoded by your brain, and crafted by your hand and arm's muscles. For your
+decoded by your brain, and crafted by your hand's muscles. For your
 memory, this
 process is much richer than just reading words, which only
 involves the eye and the brain. By writing your highlights, you are
@@ -525,7 +525,7 @@ it is both incredibly simple and profoundly powerful. I think you'll have to giv
 
 Thirdly, as I wrote earlier in [Chapter
 4](#chapter-4-creating-a-system-of-learning), you want to do everything
-you can not to depend on having access to the book once you're done with
+you can *not* to depend on having access to the book once you're done with
 it. The goal of producing complete notes is to allow you to unshackle
 from the book and claim this knowledge as your own.
 
@@ -551,7 +551,7 @@ at your own pace and stop when you've had your fill.
 This might seem like overkill to most, but I wouldn't even think of
 skipping this step. Once I'm done with a book, I want to formulate my
 own opinion about what I just read in the form of a review. This is what
-cements it in my brain and makes my feel like I own the ideas I'm
+cements it in my brain and makes me feel like I own the ideas I'm
 discussing.
 
 Since I use my website as a platform for reviewing the books I read,
@@ -561,16 +561,17 @@ face my fear of rejection.
 
 In my reviews, I give myself the freedom to be as detailed or as brief
 as I want. In a way, I treat a review like an artist would treat a
-canvas: whatever ends up there is simply a reflection of how I felt.
+canvas: whatever ends up there is simply a reflection of how I felt
+about the book.
 Sure, I try to put a minimum of effort in my reviews, but I also try not
 to overdo it.
 
 Finally, I use my review as a final opportunity to include my *favorite*
-highlights from the book one last time. To do this, I look at the notes
+knowledge nuggets from the book one last time. I call those :star: Star Quotes :star:. To do this, I look at the notes
 I took from the book and highlight those I find worth sharing with
 others. No need to overthink it: I recommend just following your
-instinct here. For example, if you are typing your review on a computer,
-you any quote you include at this stage will be searchable, e.g. using
+intuition once more. For example, if you are typing your review on a computer,
+any quote you include at this stage will be searchable, e.g. using
 Ctrl-F. Thus, when in doubt, I tend to include more quotes than
 necessary, because the ability to use Ctrl-F (or `grep`, to be precise!
 :wink:) to search among my quotes is incredibly convenient. To quote
@@ -582,23 +583,24 @@ copy my format if you want, or create your own. In the end, what matters
 is that you create a pattern of work that forces your brain to think about these ideas and have them
 make sense for you. You get bonus points if you make this review public:
 not only are you sharing your knowledge, but you also encourage people
-to participate in your journey and share knowledge with you.
+to participate in your journey and initiate discussions with you.
 
-The format you use to review your books doesn't matter. It can be a
+The format you use to review your books doesn't matterinitiate
+discussions It can be a
 website like me, a fresh page in your notebook, a Word document, an email, a spreadsheet, etc. As long
 as you use _your_ words to write about the subject you read about, you
 will do fine. The easiest it is for you to access that information once
 you're done, the better.
 
 That's it, really! However, since I am very passionate about this
-subject, I can't resist sharing some additional tricks. Head over to
+subject, I can't resist sharing some additional tips. Head over to
 the [Appendix](#appendix) for more precise tricks.
 
 # Chapter 6: Conclusion
 
-I find this image below very telling. My learning system allowed me to
+I find the image below very telling. My learning system allowed me to
 compress a 421-page book down to its essential learning nuggets, which
-take only 50 pages in my A5-sized journal. This means I will get as much
+take only 50 handwritten pages in my A5-sized journal. This means I will get as much
 information from reading these 50 pages than from reading 421 pages.
 
 {{< figure src="/img/compressed-book.jpg" position="center" caption="50 pages of pure nuggets!" >}}
@@ -610,7 +612,7 @@ the ideas assemble in my head much quicker than if I was just reading the book a
 
 Books are not something to be afraid of. Not anymore. I realized I now
 get to decide which book I read. As a professional, I am the master of my own
-learning. As the DevOps Handbook rightfully puts it on page 320 of its
+learning. As the DevOps Handbook rightly puts it on page 320 of its
 second edition:
 
 > **The only sustainable competitive advantage is [your] ability to learn
@@ -626,17 +628,22 @@ without creating headaches or feeling like puzzles. A book you chose
 almost certainly contains parts of the answer to the question that made you
 choose it.
 
-Imagine how you will feel when your book shows you a new way to think about a specific problem you couldn't quite put your finger on. Suddenly, a new connection occurs in your brain. Now, all you can see is the answer. Everything simply  makes  sense! Personally, this is among the most powerful and freeing experiences I have felt yet. It truly is a transcending moment that cannot be overstated.
+Imagine how you will feel when your book shows you a new way to think
+about a specific problem you couldn't quite figure out. Suddenly, a new
+connection occurs in your brain. Now, all you can see is the answer.
+Everything simply  makes  sense! Personally, this is among the most
+powerful and freeing experiences I have felt yet. It truly is a
+transcending moment that cannot be overstated.
 
 **We are all lifelong learners.** If you want to learn about something, you can do it. What allows some
 people to learn faster than others is that they have created and
 optimized a learning system that is suited for *their* way of learning.
 When I realized that the core mission of DevOps, which eluded me for years, is to create a system that
-automates organizational learning, I felt the pinch of irony since this realization had required me to create my own system of learning. Now that this
+automates organizational learning, I felt the pinch of irony since this realization had required me to create *my* own system of learning. Now that this
 is done, I feel more empowered than ever and ready to take this
 challenge head-on.
 
-I don't want to give you the wrong impression: I am definitely not
+I don't want to give you the wrong impression: I am definitely still not
 immune to learning anxiety, even after reading {{< n_books >}} books and writing all
 about my experience. [Nobody gets used to feeling dumb](/69), and
 unfortunately the
