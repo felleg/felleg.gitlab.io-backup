@@ -658,9 +658,10 @@ necessary, because the ability to use Ctrl-F (or `grep`, to be precise!
 [Where Good Ideas Come From](/61), "Write everything down, but keep your
 folders messy!"
 
-[Here is an example of the latest review I wrote](/85). Feel free to
+[As an example, here is the latest review I wrote](/latest). Feel free to
 copy my format if you want, or create your own. In the end, what matters
-is that you create a pattern of work that forces your brain to think about these ideas and have them
+is that you create a pattern of work that tricks your brain into
+thinking about these ideas and have them
 make sense for you. You get bonus points if you make this review public:
 not only are you sharing your knowledge, but you also encourage people
 to participate in your journey and initiate discussions with you.
@@ -684,10 +685,12 @@ information from reading these 50 pages than from reading 421 pages.
 
 {{< figure src="/img/compressed-book.jpg" position="center" caption="50 pages of pure nuggets!" >}}
 
-Instead of taking days to review that information, it will take me 1 hour. This feels
-almost like cheating, except it isn't! I worked hard for this outcome,
-and now I get to savour it. Better yet, since all the crucial information is compact and written by me and for me,
-the ideas assemble in my head much quicker than if I was just reading the book all over again.
+Instead of taking days to review that information, it will take me 1
+hour. This feels almost like cheating, except it isn't! I worked hard
+for this outcome, and now I get to savour it. Better yet, since all the
+crucial information is compact and written by me and for me, the ideas
+assemble in my head much quicker than if I was just reading the book all
+over again. The information has been pre-digested.
 
 Books are not something to be afraid of. Not anymore. I realized I now
 get to decide which book I read. As a professional, I am the master of my own
@@ -698,6 +701,8 @@ second edition:
 > faster than the competition.**
 >
 > -- Peter Senge
+
+This is my favorite quote of all time.
 
 Textbooks have a purpose outside the classroom, even if that
 means you won't have a professor
@@ -731,10 +736,22 @@ everything. The good news is that I now feel equipped to tackle this
 journey. I'll never be done learning, and true learning is always an
 uncomfortable, if not painful process. Nevertheless, my learning system
 allowed me to come across pieces of wisdom that radically changed my
-relationships and my life for the better.  I cannot even begin to express the sheer magnitude that the ability to read non-fiction books had on my life. Yet, I am *overcoming* learning anxiety. I am not done, and probably never will be. I am
+relationships and my life for the better.  I cannot even begin to
+express the sheer magnitude that the ability to read non-fiction books
+had on my life. I do not feel crippling anxiety when I step into the
+office every morning. I do not feel afraid to give my opinion on
+important topics. In fact, now more than ever, when I speak to friends
+and colleagues, I feel valued and genuinely interesting.
+
+Yet, I am *overcoming* learning anxiety. I am not done,
+and probably never will be. I am
 *learning* that pain can be leveraged. I am *starting* to believe that the only
 real failure is not to learn from failure. I am *beginning* to see fear as a compass that
-guides us toward the path that will make us grow.
+guides us toward the path that will make us grow. I'm still scared of
+exams, and I honestly still fear getting fired from time to time! Some
+things are a unfortunately part of life. What I learned is that by
+arming ourselves with knowledge, our problems become more interesting,
+more fulfilling, and closer to our true ambitions.
 
 If you personally suffer from learning anxiety and made it this far in
 this blog post, I am in awe of you. [The last mile is always the least crowded](/40), and you are among the courageous few that made it to the end. Seriously, lift your favorite arm and give yourself a pat on the back from me. I am confident that you are already on the right path: the real journey begins here, if you accept it. I
