@@ -115,7 +115,7 @@ avons réussi à améliorer les choses.
 J'aime cette idée parce qu'elle nous invite à se mettre moins de poids
 sur les épaules, et parce qu'elle est alignée avec la notion de "outcome
 driven business" dont on entend souvent parler dans la sphère DevOps. Ce
-qui importe pus que tout, c'est bel et bien notre contribution.
+qui importe plus que tout, c'est bel et bien notre contribution.
 
 ## Règle numéro 6: Ne vous prenez donc pas tant au sérieux!
 
