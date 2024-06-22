@@ -208,7 +208,10 @@ Every search result required me to do at least three other searches to
 understand what basic sentences meant. For a while, it felt like I was
 surrounded by buzzwords, with no clear explanations in sight. Oh how I wished Jimmy Neutron's "[book gum](https://www.youtube.com/watch?v=x1ambhfSnBA)" was real!
 
-This process
+{{< figure src="/img/book-gum.jpg" position="center" caption="Jimmy Neutron's book gum" >}}
+
+This process of drinking from a fire hose of information while
+struggling to get anything done
 lasted *years*, and it was unpleasant. I felt useless. I felt ashamed. I wished I could go back in time and
 learn about agile, CI/CD, and other DevOps requirements during my
 studies instead of having filled my brain with equations of motion that I had
