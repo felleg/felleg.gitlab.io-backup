@@ -387,9 +387,10 @@ Now, you might be asking: What difference does it make to hold a book
 bent over backwards? I'm tempted to say: try it for yourself and *you*
 tell me what difference it makes. Here's my take on it:
 
-- It's more comfortable for long periods of time
-- It's less distracting (because you see only one page at a time)
-- It leaves a mark (books are punching bags!)
+- It's more comfortable to for long periods of time, because it allows a
+  firmer grip
+- It's less distracting, because you see only one page at a time
+- It leaves a mark. Remember, books are punching bags!
 
 A book is just a bunch of pages with ink on them. It is a book's content that is valuable, i.e. what sticks in your brain after  you are done with it.  The extraction process might leave marks, but  that is secondary.
 Books are a mere tactile visual support. We have to stop "respecting"
