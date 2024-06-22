@@ -80,6 +80,7 @@ Here is a summary of the method I share in the text:
 1. Stop respecting books, and start respecting how your brain learns.
 1. When you listen passively to the radio while driving, all your mind
    really records is the ads.
+1. We learn by doing.
 1. You should never have to read a book or textbook more than once. If you take good notes, once you finish a book, you can consider yourself done with it.
 1. Each humbling failure is a step closer to mastery, and rejoice that you are making real progress.
 1. Highlight whatever golden nuggets of information *you* find interesting
