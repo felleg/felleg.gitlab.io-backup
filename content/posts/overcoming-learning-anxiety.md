@@ -352,13 +352,12 @@ accident: a book was dropped, or grossly stepped on. The picture above is an exa
 evidence left by someone who really put their energy into
 extracting everything there was to learn from a specific book, page
 after page. It's a
-subtle difference, but it means a lot! It made me realize that books are
-punching bags.
+subtle difference, but it means a lot! It made me realize that books are literally punching bags.
 
 Let me repeat that once more, in bold. **Books are punching bags**. We use books
-to make our brain more powerful. When interacting with a book, what
-matters is the effect the book has on our brain, not the effect we have
-on the book.
+to make our brain more powerful. When we interact with a book, what
+matters is the effect it has on our brain, *not* the effect we have on
+the book.
 
 Let's think about punching bags for a moment. If someone was standing in
 a gym next to their punching
