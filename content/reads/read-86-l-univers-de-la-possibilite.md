@@ -1,6 +1,6 @@
 ---
 date: 2024-06-21T10:27:23-04:00
-title: "(Lecture 86) L'Univers de da possibilité"
+title: "(Lecture 86) L'Univers de la possibilité"
 cover: img/reads/l-univers-de-la-possibilite.png
 amzcover: https://m.media-amazon.com/images/I/61dovLm7FIL._SL400_.jpg
 author: 
