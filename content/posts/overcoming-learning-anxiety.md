@@ -291,7 +291,7 @@ through the *DevOps Handbook* proved it. I became fixated on the notion that I w
 This pattern of excitement for learning leading  to bitter
 disillusionment was, as you might have guessed, not limited to the
 *DevOps Handbook*.
-Throughout most of my time at Contxtful, I was given the opportunity to
+Throughout most of my time at Contxtful (almost five years), I was given the opportunity to
 learn, and by my own account, failed to do so more   than I succeeded. I
 was going from Mount Stupid to Mount Stupid, never making it through any
 Valley of Despair.
