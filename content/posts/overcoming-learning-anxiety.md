@@ -347,35 +347,46 @@ I guess I must explain. See, I have developed a very recent fondness for
 curved spines (at least, on books). I used to think having a book with a
 curved spine meant you weren't taking care of your stuff. I equated curved spines to negligence.
 Today, I realize there are good folds, and there
-are bad folds. A bad fold is the kind of fold I described above:
-actual damage. The picture above is an example of a good fold: it is
+are bad folds. A bad fold is one that is simply the result of an
+accident: a book was dropped, or grossly stepped on. The picture above is an example of a good fold: it is
 evidence left by someone who really put their energy into
 extracting everything there was to learn from a specific book, page
 after page. It's a
-subtle difference, but it means a lot!
+subtle difference, but it means a lot! It made me realize that books are
+punching bags.
 
-For example, if someone was standing in a gym next to their punching
+Let me repeat that once more, in bold. **Books are punching bags**. We use books
+to make our brain more powerful. When interacting with a book, what
+matters is the effect the book has on our brain, not the effect we have
+on the book.
+
+Let's think about punching bags for a moment. If someone was standing in
+a gym next to their punching
 bag, you would probably understand that whatever damage the bag exhibits
 went directly into making that person stronger. If you had to fight someone, you'd probably pick the boxer with a seemingly untouched punching
-bag in their gym.
+bag in their gym. Well, the same goes with books. If I met two students
+who showed me their library, I would guess that the one who receives the
+highest grades is the one whose book spines are the most curved. Why?
+Because it shows they really used them!
 
 Now look at the books in your library (if you have some). What does
 this say about your learning habits?
 
 {{< figure src="/img/punching-bags.png" position="center" caption="I don't know about you, but I'd rather spar with the person who practiced with the bag on the left." >}}
 
-It was my then manager (and mentor!)
-Mathieu Frenette who showed me a "tool" that I
-would be using for the rest of my life. It is a
-way of holding books that reminds us that **our goal is to learn**. I call it the book suplex, but I also give it other fun names like the inverse fold, or the broken spine grab. Here is what it looks like:
+As insightful as the realization that books are punching bags might sound, I can't take credit for
+it. That honor goes to my manager at nesto (and mentor!)
+Mathieu Frenette, who casually showed me how he held the books he read.
+On that day, my life was changed forever. Here is what it looked like:
 
-{{< figure src="/img/book-suplex.jpg" position="center" caption="Suplex that book, even if it's a hardcover!" >}}
+{{< figure src="/img/book-suplex.jpg" position="center" caption="Behold, the book suplex!" >}}
 
 Some people might cringe when seeing this. Are you one of those? :wink:
 
 Yet, those who know, know. For me, this opened Pandora's box.
 Now, you might be asking: What difference does it make to hold a book
-bent over backwards?
+bent over backwards? I'm tempted to say: try it for yourself and *you*
+tell me what difference it makes. Here's the difference it makes for me:
 
 - It's more comfortable for long periods of time
 - It's less distracting (because you see only one page at a time)
@@ -385,7 +396,11 @@ A book is just a bunch of pages with ink on them. It is a book's content that is
 Books are a mere tactile visual support. We have to stop "respecting"
 our books. A suplexed book is not impacted
 at all in its capacity to teach us something. Yet, as obvious as this
-might sound, it is a truth that eluded me for many years.
+might sound, it is a truth that eluded me for many years. Let me tell
+you a story of a time when I respected books more than my brain's need
+to learn.
+
+---
 
 ## Flashback
 
@@ -409,14 +424,26 @@ don't plan on doing this ever again.
 
 (End flashback)
 
-So there you have it. Now you know why I believe a folded book is beautiful. It means
-someone probably gave the book the time and energy it deserved. And, indirectly, if this "damaged"
+---
+
+So there you have it. Now you know why I believe a folded, potentially damaged book is beautiful. It means
+someone gave the book the time and energy it deserved. And, indirectly, if this "damaged"
 book is freely available on a bookshelf near you, it means that person
 understood the book enough to part with it, and thought it was worth
 sharing with others.
 
-Is it really a coincidence that a curved book spine looks like a smile?
-:smiley:
+**It's ok to damage your books. That's the point of owning them.** You
+are meant to be free to bend them, write in them, fold them, in any way
+that allows you to *learn faster*. Rip pages off if you must. Your copy is
+*yours*. Please don't think of books as decorations; think of them
+as food that nourishes your soul! If you damaged a book to the point
+that you believe it to be
+unusable by anyone else, it is ok to put it in a recycling bin. Few
+people realize how invaluable our ability to learn truly is -- it is
+well worth a few hundred pages if it can change your life and the lives
+of others around you. In summary, my final advice on the
+matter is to stop respecting books, and to start respecting how
+your brain learns.  :smiley:
 
 So, **here is my challenge to you**: find a book you feel OK
 experimenting on (including this text if you are reading it in book
@@ -428,6 +455,7 @@ but that's also the point. See how this new experience feels on your hands, on y
 middle pages, then the final pages. Observe the difference. Realize that books have been around for hundreds of
 years and that they are *tough*, dependable objects.
 
+{{< figure src="/img/how-to-fold-a-book.gif" position="center" caption="Can *you* do it?" >}}
 You don't have to try it if it makes you uncomfortable: I don't want to
 force you to break your things. Indeed, I take no responsibility in the damage
 anyone makes to their own material :wink:. Before I move on, though, I
@@ -522,8 +550,12 @@ suggest you try to do these steps in real time as you learn about them.
 
 ## Step 1: Read and highlight the golden nuggets
 
-Crack open the book with a highlighter in hand and highlight whatever
-golden nuggets of information *you* find interesting. Whenever I
+Crack open the book at page 1. We are embarking on a journey. If you
+didn't try the book suplex yet, consider doing it now.
+Have a highlighter in your hand and start reading. Highlight whatever
+golden nuggets of information *you* find interesting. That's it!
+
+Whenever I
 highlight something, I don't care if this is something the author
 expected me to memorize or not, resonate with or not. Often times I even take
 pride in highlighting a little detail that feels irrelevant in the
