@@ -363,7 +363,7 @@ Let's think about punching bags for a moment. If someone was standing in
 a gym next to their punching
 bag, you would probably understand that whatever damage the bag exhibits
 went directly into making that person stronger, punch after punch, and kick after kick. If you had to fight someone, you'd probably pick the boxer with a seemingly untouched punching
-bag in their gym. Well, the same goes with books. If I met two students
+bag in their gym, since this would give you the best change of winning the fight. Well, the same goes with books. If I met two students
 who showed me their library, I would guess that the one who receives the
 highest grades is the one whose book spines are the most curved. Why?
 Because it shows they really used them!
