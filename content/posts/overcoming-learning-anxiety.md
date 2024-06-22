@@ -490,22 +490,28 @@ my partner Gabrielle said something very wise:
 
 > You should never have to read a book or textbook more than once. If you take good notes, once you finish a book, you can consider yourself done with it.
 
-She was so right about that. This gave me a new motivation: whatever
+She was so right about that, even though it took me a few days to admit
+it. This went against my core belief that books are meant to be kept as
+reference material. After all, almost every content creator on the Internet who is a
+self-declared book reader will proudly display their bookshelf in the
+background of their videos. When I realized the wisdom in Gabrielle's
+words, I decided to be a contrarian. My library, if I were to have one,
+would be filled by books I wrote, and empty of books I read. This gave me a new motivation: whatever
 system I'd use for learning, it would be a system that doesn't depend on
 maintaining access to the source material. In fact, after she told me
-this, I realized the best course of action was to give the book away
-once I am done reading it. It is the simplest, cleanest and safest
+this, I realized the best course of action was to systematically give the book away
+once I am done reading it. It is the simplest, safest and most elegant
 way to ensure my learning system is working.
 
 I didn't have to search for very long after that insight to have my eureka
 moment. Armed with the rule of giving my book once I'm done reading it,
 I started searching for ideas online that would cement my learning
-system. [This video from
-Matt Morris titled How to Read a Book for Maximum Learning](https://www.youtube.com/watch?v=_WCfaGarc4U) fit the bill.
+system. [This six-minutes long video from
+Matt Morris titled \'How to Read a Book for Maximum Learning\'](https://www.youtube.com/watch?v=_WCfaGarc4U) fit the bill.
 
 What I want you to remember from this chapter is that my learning system
 didn't just fall on me from the heavens. I failed a bunch of times
-before stumbling upon a process that worked! I asked my partner for help
+before stumbling upon a process that worked for me. I asked my partner for help
 and suggestions when I realized I was out of ideas. I searched on
 YouTube for insight. I was at my most vulnerable then, because I was
 basically admitting that I needed help. I had overcome the
@@ -591,8 +597,8 @@ decoded by your brain, and crafted by your hand's muscles. For your
 memory, this
 process is much richer than just reading words, which only
 involves the eye and the brain. By writing your highlights, you are
-immersing yourself in the book. Reading diagonally is often tempting;
-writing diagonally is much more difficult to pull off. It's a hard experience to describe, as
+immersing your entire body in the book. Reading diagonally is often tempting;
+*writing* diagonally is much more difficult to pull off, if not impossible. It's a hard experience to describe, as
 it is both incredibly simple and profoundly powerful. I think you'll have to give it a shot to really *get* it.
 
 Thirdly, as I wrote earlier in [Chapter
