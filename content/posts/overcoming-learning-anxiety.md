@@ -385,7 +385,7 @@ Some people might cringe when seeing this. Are you one of those? :wink:
 Yet, those who know, know. For me, this opened Pandora's box.
 Now, you might be asking: What difference does it make to hold a book
 bent over backwards? I'm tempted to say: try it for yourself and *you*
-tell me what difference it makes. Here's the difference it makes for me:
+tell me what difference it makes. Here's my take on it:
 
 - It's more comfortable for long periods of time
 - It's less distracting (because you see only one page at a time)
