@@ -1,0 +1,14 @@
+<script>
+   // Fetch the number of books dynamically
+   var numberOfBooks = {{ len (where .Site.RegularPages "Section" "reads") }};
+
+   // Redirect function
+   function redirectToLatest() {
+          var redirectUrl = '/' + numberOfBooks;
+          window.location.href = redirectUrl;
+   }
+
+   // Call the redirect function when the page loads
+   redirectToLatest();
+</script>
+
