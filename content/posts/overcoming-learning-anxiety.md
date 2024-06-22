@@ -639,10 +639,12 @@ face my fear of rejection.
 
 In my reviews, I give myself the freedom to be as detailed or as brief
 as I want. In a way, I treat a review like an artist would treat a
-canvas: whatever ends up there is simply a reflection of how I felt
-about the book.
+canvas: whatever ends up there is simply a reflection of how I *felt*
+about the book. There's a good amount of intuition that goes into this
+process.
 Sure, I try to put a minimum of effort in my reviews, but I also try not
-to overdo it.
+to overdo it. After all, this is something I do for myself. I have to
+find enjoyment in it, otherwise I know I will get discouraged.
 
 Finally, I use my review as a final opportunity to include my *favorite*
 knowledge nuggets from the book one last time. I call those :star: Star Quotes :star:. To do this, I look at the notes
