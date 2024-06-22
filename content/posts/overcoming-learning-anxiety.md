@@ -254,7 +254,7 @@ for another book from the same author, *[The DevOps
 Handbook](https://amzn.to/4clZUMF)*, which
 supposedly contained everything you needed to know to propel your
 business forward like the protagonist of *The Phoenix
-Project*. I felt ready for it. It was now my turn to be the main character. Bring it on!
+Project* did. I felt ready for it. It was now my turn to be the main character. Bring it on!
 
 
 # Chapter 2: *The DevOps Handbook*
