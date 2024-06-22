@@ -17,7 +17,7 @@ rating: 👎
 
 Année de parution: 2000
 
-Author: [Rosamund Stone
+Auteurs: [Rosamund Stone
 Zander](http://www.rosamundzander.com/about-roz.php) et [Benjamin
 Zander](https://www.benjaminzander.org/)
 
