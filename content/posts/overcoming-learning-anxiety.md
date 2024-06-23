@@ -79,6 +79,8 @@ inefficient. :heart:
 
 Thanks to Matt Morris for making a [video](https://www.youtube.com/watch?v=_WCfaGarc4U) that became the foundation of my learning system.
 
+Thanks to the following people who gave me feedback on this text: Julien Gaboriaud, Catherine Proulx, Maxime Bergeron. 
+
 And **thank you** for giving this text a chance.
 
 ---
