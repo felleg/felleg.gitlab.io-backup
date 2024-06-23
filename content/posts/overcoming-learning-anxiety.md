@@ -847,13 +847,23 @@ periods of time for reading, but rather to keep your book handy at all
 times and to open it briefly whenever you're between tasks. This is my
 number one advice because when I manage to motivate people to pick up
 reading again, their intuitive response is generally to say "I'll set
-an hour aside in my calendar 
+an hour aside in my calendar for reading." And they do. And then
+nothing else happens. They are still unable to turn reading into a
+habit!
 
-Basically, any time you feel like picking up your phone to browse,
-pick your book first, and see if you can squeeze a quick paragraph or
-two (or more, if you get into it!).  You'll be amazed by the results.
-Change your phone's wallpaper to remind you to read if you need to.
-It's worth it.
+Well, I have found the perfect solution to that. But you have to stick
+to it, otherwise it will not work.
+
+Ready? Here it is: Any time you feel like picking up your phone to
+browse, pick your book first, and see if you can squeeze a quick
+paragraph or two (or more, if you get into it!).
+
+How was that? Disappointing, right? Well, too bad, that really is the
+secret to finishing books quickly! :smiley:
+
+You'll be amazed by
+the results.  Change your phone's wallpaper to remind you to read if
+you need to.  It's worth it.
 
 Caveat: This does require you to keep your book within reach and
 visible as often as possible. Plan ahead!
