@@ -87,7 +87,7 @@ Thanks to Matt Morris for making a
 foundation of my learning system.
 
 Thanks to Desire Silcott for her photographs of me with nesto's
-bookshelf.
+bookshelf. (Chapter 6)
 
 Thanks to the following people who gave me feedback on this text: Julien Gaboriaud, Catherine Proulx, Maxime Bergeron.
 
