@@ -60,7 +60,9 @@ mistakes. And, perhaps, the urge to read a book or two. Or {{< n_books
 
 I hope this text will bring value to your life.
 
-P.S. Don't feel bad if you don't finish reading this text in its
+## P.S.
+
+Don't feel bad if you don't finish reading this text in its
 entirety. Perhaps I didn't make it engaging enough, or too rambly. You
 have full permission to blame the author if you lose interest.
 :slightly_smiling_face: If I may ask a small favor in return, just

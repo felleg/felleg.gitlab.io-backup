@@ -9,9 +9,12 @@ toc: true
 cover: img/reads/star-quotes.png
 tags:
   - untagged
+aliases:
+  - /star-quotes
+description: Here are the best quotes I came across in my lectures.
 ---
 
-# Preface
+# Introduction
 
 Star Quotes is what I am left when I finish reading a book. Whenever I
 add a new book in my [bookshelf](/bookshelf), I make sure to
@@ -23,7 +26,9 @@ The collection of quotes you have in front of you is a compilation of all star q
 
 $(date)
 
-P.S. Yes, rather unconventionally, this book begins on chapter 11. That's
+## P.S.
+
+Yes, rather unconventionally, this book begins on chapter 11. That's
 the results of my constantly evolving learning system. I unfortunately did
 not start keeping useful notes of my lectures until into book 11, which
 happens to be Team Topologies. Technically, I could have begun at chapter

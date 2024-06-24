@@ -12,7 +12,7 @@ aliases:
   - '/##'
 draft: true
 number: ##
-rating: 👍👍👎👎
+rating: 👍👍👎👎🙋🏻‍♂️
 
 ---
 
@@ -28,7 +28,7 @@ Author: [NAME]()
 
 # Review
 
-{{< myrating rating="👍👍👎👎" >}}
+{{< myrating rating="👍👍👎👎🙋🏻‍♂️ " >}}
 
 ---
 

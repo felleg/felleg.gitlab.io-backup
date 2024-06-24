@@ -17,6 +17,7 @@ generations:
   only:
     changes:
       - content/reads/**
+      - scripts/**
 
 pages:
   stage: deploy
