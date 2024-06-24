@@ -42,7 +42,7 @@ not start keeping useful notes of my lectures until into book 11, which
 happens to be Team Topologies. Technically, I could have begun at chapter
 1, but I wanted to keep the same numeration as the one from my
 [bookshelf](/bookshelf), the reason being that, for any book on my
-bookshelf, if you visit `https://felixleger.com/##`, where `##` is the
+bookshelf, if you visit \`https://felixleger.com/##\`, where \`##\` is the
 number of the book, you will directly be taken to the review I wrote for
 it, including its star quotes. :smile: I hope this feature makes the confusion
 slightly more worth it. Another reason why a number got skipped is because I
