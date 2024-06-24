@@ -32,7 +32,7 @@ Author: [NAME]()
 
 ---
 
-# :star: Star quotes:
+# :star: Star Quotes
 
 1. (p. 
 1. (p. 

@@ -1,6 +1,6 @@
 ---
 date: 2023-09-15T15:57:35-04:00
-title: "(Read 47) Come as You Are"
+title: (Read 47) Come as You Are
 cover: img/reads/come-as-you-are.png
 amzcover: https://m.media-amazon.com/images/I/7129vKi72mL._SL400_.jpg
 tags: ['reads', 'nonfiction']

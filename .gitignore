@@ -9,3 +9,4 @@ resources
 **/.DS_Store
 static/img/**/*-scaled.*
 content/bookshelf.md
+content/posts/star-quotes.md

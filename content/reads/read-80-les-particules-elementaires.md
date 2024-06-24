@@ -1,6 +1,6 @@
 ---
 date: 2024-05-14T15:53:42-04:00
-title: "(Lecture 80) Les Particules Elementaires"
+title: (Lecture 80) Les Particules Elementaires
 cover: img/reads/les-particules-elementaires.png
 amzcover: https://m.media-amazon.com/images/I/517HaoauqdL.jpg
 author: Michel Houellebecq
@@ -92,7 +92,7 @@ pour nous-mêmes.
 
 ---
 
-# :star: Citations étoiles
+# :star: Star quotes
 
 1. (p. 7) La vision du monde la plus couramment adoptée, à un moment
    donné, par les membres d'une société détermine son économie, sa

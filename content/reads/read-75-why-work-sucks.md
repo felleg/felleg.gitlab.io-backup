@@ -1,6 +1,6 @@
 ---
 date: 2024-03-26T10:31:36-04:00
-title: "(Read 75) Why Work Sucks and How to Fix It"
+title: (Read 75) Why Work Sucks and How to Fix It
 cover: img/reads/why-work-sucks.png
 amzcover: https://m.media-amazon.com/images/I/81yWZqkyZIL._SL400_.jpg
 author: Cali Ressler and Jody Thompson
@@ -78,7 +78,8 @@ I'm looking forward to playing with these new ideas.
 
 ---
 {{< partial mathjax_support >}}
-# :star: Star quotes:
+
+# :star: Star quotes
 
 1. (p. 3) A ROWE is a Results-Only Work Environment. In a ROWE, you can
    literally do whatever you want whenever you want as long as your work

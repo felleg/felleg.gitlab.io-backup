@@ -1,5 +1,6 @@
 ---
 date: 2022-02-21
+exclude_from_star_quotes: true
 title: (Read 10) La Facture amoureuse
 frontpage: "true"
 cover: img/reads/la-facture-amoureuse.jpg

@@ -1,6 +1,6 @@
 ---
 date: 2024-06-03T16:15:06-04:00
-title: "(Read 82) Agile Estimating and Planning"
+title: (Read 82) Agile Estimating and Planning
 cover: img/reads/agile-estimating-and-planning.png
 amzcover: https://m.media-amazon.com/images/I/81ZcfafjvoL._SL400_.jpg
 author: Mike Cohn
@@ -73,7 +73,7 @@ the end of the story (!) when it comes to project management.
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
 
 1. (p. xxii) There are two types of uncertainty:
     - Ends uncertainty: What do we really want to build?

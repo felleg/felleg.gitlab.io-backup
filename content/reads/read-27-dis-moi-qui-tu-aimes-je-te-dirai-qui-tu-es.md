@@ -1,6 +1,7 @@
 ---
 date: 2023-04-17
 title: (Read 27) Dis-moi qui tu aimes, je te dirai qui tu es
+exclude_from_star_quotes: true
 frontpage: "true"
 cover: img/reads/dis-moi.jpg
 amzcover: https://m.media-amazon.com/images/I/818+06X9jfL._SL400_.jpg

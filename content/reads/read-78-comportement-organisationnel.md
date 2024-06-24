@@ -1,6 +1,6 @@
 ---
 date: 2024-05-05T17:44:51-04:00
-title: "(Lecture 78) Comportement Organisationnel"
+title: (Lecture 78) Comportement Organisationnel
 cover: img/reads/comportement-organisationnel.png
 amzcover: https://m.media-amazon.com/images/I/51ZU4xqj3FL.jpg
 author: Steven L. McShane & Charles Benabou
@@ -49,7 +49,7 @@ moi!
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
 
 1. (p. v) L'organisation est une création collective où les individus et
    les groupes ne se déterminent que par rapport à autrui.

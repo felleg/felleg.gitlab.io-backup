@@ -1,6 +1,6 @@
 ---
 date: 2024-02-09T15:24:38-05:00
-title: "(Read 68) The Psychology of Money"
+title: (Read 68) The Psychology of Money
 cover: img/reads/the-psychology-of-money.png
 amzcover: https://m.media-amazon.com/images/I/71TRUbzcvaL._SL400_.jpg
 tags: ['reads', 'nonfiction']
@@ -59,7 +59,7 @@ regrets in association to money.
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
 
 1. (p. xi) :star: A genius is the person who can do the average thing when
    everyone else is losing their mind.

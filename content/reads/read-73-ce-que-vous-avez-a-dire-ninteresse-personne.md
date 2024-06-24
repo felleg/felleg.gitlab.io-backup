@@ -1,6 +1,6 @@
 ---
 date: 2024-03-15T16:33:36-04:00
-title: "(Lecture 73) Ce que vous avez à dire n'intéresse personne"
+title: (Lecture 73) Ce que vous avez à dire n'intéresse personne
 cover: img/reads/ce-que-vous-avez-a-dire-ninteresse-personne.png
 amzcover: https://m.media-amazon.com/images/I/61bdPdcaKwL._SL400_.jpg
 tags:
@@ -71,7 +71,7 @@ d'y répondre dans les commentaires ci-bas. :wink:
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
 
 1. (p. 9) Malgré les machines, malgré les technologies et l'intelligence
    artificielle, notre société demeure encore un monde où des gens

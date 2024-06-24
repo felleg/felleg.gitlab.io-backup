@@ -1,6 +1,6 @@
 ---
 date: 2024-03-06T09:57:33-05:00
-title: "(Read 72) Dopamine Nation"
+title: (Read 72) Dopamine Nation
 cover: img/reads/dopamine-nation.png
 amzcover: https://m.media-amazon.com/images/I/91HfbGNPsKL._SL400_.jpg
 tags:
@@ -108,7 +108,7 @@ sure, but I believe it will always be worth it in the end.
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
 
 1. (p. 41) Boredom is not just boring. It can also be terrifying. It
    forces us to come face-to-face with bigger questions of meaning and

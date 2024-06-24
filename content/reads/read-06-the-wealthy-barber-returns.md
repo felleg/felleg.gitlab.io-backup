@@ -1,5 +1,6 @@
 ---
 date: 2021-07-20
+exclude_from_star_quotes: true
 title: (Read 6) The Wealthy Barber Returns
 frontpage: "true"
 cover: img/reads/wealthy-barber-returns.jpg

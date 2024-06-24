@@ -9,6 +9,7 @@ aliases: ['/books/book-02-the-subtle-art-of-not-giving-a-f-ck', '/2']
 author: Mark Manson
 number: 2
 rating: 👍
+exclude_from_star_quotes: true
 ---
 
 Release year: 2016

@@ -1,5 +1,6 @@
 ---
 date: 2021-08-29
+exclude_from_star_quotes: true
 title: (Read 7) Liberté 45
 frontpage: "true"
 cover: img/reads/liberte-45.jpg

@@ -1,6 +1,7 @@
 ---
 date: 2024-04-22T09:13:51-04:00
-title: "(Lecture 77) Zuhan Falun"
+exclude_from_star_quotes: true
+title: (Lecture 77) Zuhan Falun
 cover: img/reads/zuhan-falun.png
 amzcover: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.editions-tredaniel.com%2Fimages%2Fmin%2F978_2_84445_899_5_UNE_526_770_1627369305.jpg&f=1&nofb=1&ipt=6cd71e179dfad5ff3001ed703b09d2a342c864b1744fad6fd46cd778ffdd50f0&ipo=images
 author: Li Hongzhi
@@ -184,6 +185,6 @@ honneur peu enviable:
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
 
 Aucune.

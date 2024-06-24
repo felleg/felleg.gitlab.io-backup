@@ -1,6 +1,6 @@
 ---
 date: 2024-02-04T21:24:15-05:00
-title: "(Lecture 66) Blunt - Les Treize Derniers Jours"
+title: (Lecture 66) Blunt - Les Treize Derniers Jours
 cover: img/reads/blunt.jpg
 amzcover: https://m.media-amazon.com/images/I/71yMtVSeeiL._SL400_.jpg
 tags: ['reads', 'lectures', 'fiction']

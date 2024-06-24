@@ -1,6 +1,6 @@
 ---
 date: 2023-11-14T15:16:16-05:00
-title: "(Read 55) The 48 Laws of Power"
+title: (Read 55) The 48 Laws of Power
 cover: img/reads/the-48-laws-of-power.png
 amzcover: https://m.media-amazon.com/images/I/611X8GI7hpL._SL400_.jpg
 tags: ['reads', 'nonfiction']

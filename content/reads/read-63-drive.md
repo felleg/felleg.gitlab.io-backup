@@ -1,6 +1,6 @@
 ---
 date: 2024-01-13T11:16:20-05:00
-title: "(Read 63) Drive"
+title: (Read 63) Drive
 cover: img/reads/drive.png
 amzcover: https://m.media-amazon.com/images/I/81pUH8Q8GkL._SL400_.jpg
 tags: ['reads', 'nonfiction']

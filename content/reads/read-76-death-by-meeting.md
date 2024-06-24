@@ -1,6 +1,6 @@
 ---
 date: 2024-04-02T13:56:02-04:00
-title: "(Read 76) Death by Meeting"
+title: (Read 76) Death by Meeting
 cover: img/reads/death-by-meeting.png
 amzcover: https://m.media-amazon.com/images/I/71xFMSrBPeL._SL400_.jpg
 author: Patrick Lencioni
@@ -74,7 +74,7 @@ to.
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
 
 1. (p. 16) :star: The company's culture comes to mirror its meetings.
 1. (p. 122) The leader of the group needs to be looking for places where

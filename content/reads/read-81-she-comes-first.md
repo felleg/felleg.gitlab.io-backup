@@ -1,6 +1,6 @@
 ---
 date: 2024-06-01T15:19:45-04:00
-title: "(Read 81) She Comes First"
+title: (Read 81) She Comes First
 cover: img/reads/she-comes-first.png
 amzcover: https://m.media-amazon.com/images/I/81Q8KloKI1L._SL400_.jpg
 author: Ian Kerner, Ph.D.
@@ -51,7 +51,7 @@ Let's hope I don't regret posting this...
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
 
 1. (p. 23) Separate the concept of procreation from pleasure.
 1. (p. 26) All of women's orgasms are clitoral.

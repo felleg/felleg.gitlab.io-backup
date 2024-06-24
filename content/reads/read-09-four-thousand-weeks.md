@@ -1,5 +1,6 @@
 ---
 date: 2021-11-06
+exclude_from_star_quotes: true
 title: (Read 9) Four Thousand Weeks
 frontpage: "true"
 cover: img/reads/4000-weeks.jpg

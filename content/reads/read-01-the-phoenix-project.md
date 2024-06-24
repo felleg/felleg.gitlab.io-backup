@@ -9,6 +9,7 @@ aliases: ['/books/book-01-the-phoenix-project', '/1']
 author: Gene Kim
 number: 1
 rating: 👍👍
+exclude_from_star_quotes: true
 
 ---
 

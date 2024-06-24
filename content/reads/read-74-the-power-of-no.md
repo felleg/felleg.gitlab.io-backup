@@ -1,6 +1,6 @@
 ---
 date: 2024-03-20T15:21:18-04:00
-title: "(Read 74) The Power of No"
+title: (Read 74) The Power of No
 cover: img/reads/the-power-of-no.png
 amzcover: https://m.media-amazon.com/images/I/71P547-DQ2L._SL400_.jpg
 tags:
@@ -54,7 +54,7 @@ Now let's see... Is there anything else I'd like to add to this review? No! :smi
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
 
 1. (p. 12) Saying no and being negative are two very different things:
     - Negativity is a passive and enduring state.

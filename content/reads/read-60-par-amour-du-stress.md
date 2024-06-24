@@ -1,6 +1,6 @@
 ---
 date: 2023-12-22T10:29:07-05:00
-title: "(Lecture 60) Par Amour Du Stress"
+title: (Lecture 60) Par Amour Du Stress
 cover: img/reads/par-amour-du-stress.png
 amzcover: https://m.media-amazon.com/images/I/810hCYfCwjL._SL400_.jpg
 tags: ['reads', 'lectures', 'nonfiction']

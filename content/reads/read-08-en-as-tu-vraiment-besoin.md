@@ -1,5 +1,6 @@
 ---
 date: 2021-09-21
+exclude_from_star_quotes: true
 title: (Read 8) En as-tu vraiment besoin?
 frontpage: "true"
 cover: img/reads/en-as-tu-vraiment-besoin.jpg

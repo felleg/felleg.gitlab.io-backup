@@ -1,18 +1,35 @@
 image: monachus/hugo
 
+stages:
+  - build
+  - deploy
+
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
-pages:
+generations:
+  stage: build
   script:
-    - hugo
     - apt -y update && apt -y install imagemagick
     - bash scripts/generate-allreads.sh
     - bash scripts/generate-bookshelf.sh
+    - bash scripts/generate-star-quotes.sh
+  only:
+    changes:
+      - content/reads/**
+
+pages:
+stage: deploy
+  script:
+    - hugo
+    - apt -y update && apt -y install imagemagick
     #- cd static/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/
     #- bash update_photo_array.sh
     #- cd -
     - hugo
+
+  dependencies:
+    - generations
 
   artifacts:
     paths:
@@ -20,4 +37,7 @@ pages:
     expire_in: 1 week
   only:
   - master
+  cache:
+    paths:
+      - public
   interruptible: true

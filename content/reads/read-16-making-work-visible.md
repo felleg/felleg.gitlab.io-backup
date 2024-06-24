@@ -60,8 +60,6 @@ Author: Dominica DeGrande
     - conflicting priorities
     - neglected work
 
-# Video summary
-
-I exceptionally made a video summary where I attempt to explain my favorite
+**Bonus video summary**: I exceptionally made a video summary where I attempt to explain my favorite
 passages from the book, you may watch it
 [here](https://www.youtube.com/watch?v=GXTWeIVAfAU).

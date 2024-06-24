@@ -1,5 +1,6 @@
 ---
 date: 2021-02-25
+exclude_from_star_quotes: true
 title: (Read 5) Millionaire Teacher
 frontpage: "true"
 cover: img/reads/millionaire-teacher.jpg

@@ -1,6 +1,6 @@
 ---
 date: 2023-11-25T11:51:22-05:00
-title: "(Read 56) Originals"
+title: (Read 56) Originals
 cover: img/reads/originals.png
 amzcover: https://m.media-amazon.com/images/I/71QCH3j31wL._SL400_.jpg
 tags: ['reads', 'nonfiction']

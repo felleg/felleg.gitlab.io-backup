@@ -9,6 +9,7 @@ aliases: ['/books/book-03-the-four-agreements', '/3']
 author: Don Miguel Ruiz
 number: 3
 rating: 👍
+exclude_from_star_quotes: true
 ---
 
 Release year: 1997

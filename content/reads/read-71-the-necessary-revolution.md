@@ -1,6 +1,6 @@
 ---
 date: 2024-03-04T18:16:43-05:00
-title: "(Read 71) The Necessary Revolution"
+title: (Read 71) The Necessary Revolution
 cover: img/reads/the-necessary-revolution.png
 amzcover: https://m.media-amazon.com/images/I/714+7o-L9EL._SL400_.jpg
 tags:
@@ -148,7 +148,7 @@ and mission with the core values people hold.
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
 
 1. (p. 34) During a period of expansion, two parallel realities develop,
    one inside the bubble and one outside. The more the bubble grows, the

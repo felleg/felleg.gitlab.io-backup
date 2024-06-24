@@ -1,6 +1,6 @@
 ---
 date: 2024-06-16T16:21:06-04:00
-title: "(Read 85) Collaborating Across Silos"
+title: (Read 85) Collaborating Across Silos
 cover: img/reads/collaborating-across-silos.png
 amzcover: https://m.media-amazon.com/images/I/8108hBj2MwL._SL400_.jpg
 author: Harvard Business Review
@@ -78,7 +78,7 @@ Author: [Harvard Business Review](https://hbr.org)
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
 
 1. (p. 4) Team members collaborate more easily and naturally if they
    perceive themselves as being alike.

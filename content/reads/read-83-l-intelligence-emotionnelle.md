@@ -1,6 +1,6 @@
 ---
 date: 2024-06-07T13:19:02-04:00
-title: "(Lecture 83) L'Intelligence émotionnelle"
+title: (Lecture 83) L'Intelligence émotionnelle
 cover: img/reads/l-intelligence-emotionnelle.png
 amzcover: https://m.media-amazon.com/images/I/61D+qvxN2cL._SL400_.jpg
 author: Daniel Goleman
@@ -60,7 +60,7 @@ chacun de nous!
 
 ---
 
-# :star: Star quotes:
+# :star: Star quotes
 
 1. (p. 7) Il est difficile de se mettre en colère pour des motifs
    valables et contre qui le mérite, au moment et durant le temps voulu.
