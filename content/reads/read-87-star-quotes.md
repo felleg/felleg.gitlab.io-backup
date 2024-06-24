@@ -39,43 +39,8 @@ The full text of the book is
 actually created using GitLab's CI/CD and a little bash script of my
 own creation:
 
-```bash
-for input in $(ls $source_files); do
-	echo $input
-	input_file="$input"
-	number=${input_file#*-}
-	number=${number%%-*}
+{{< figure src="/img/star-quotes-script.png" position="center" caption="The script powering the Star Quotes!" >}}
 
-
-
-	if [[ $(grep "exclude_from_star_quotes: true" $input) ]]; then
-	continue;
-	fi
-
-	title=$(grep "title:" "$input_file" | awk '{$1=""; print substr($0,2)}')
-	title=$(echo "$title" | cut -d ')' -f 2)
-	cover=$(grep "^cover:" "$input_file")
-	cover=$(echo "$cover" | cut -d ' ' -f 2)
-	echo "\n# #$number: $title" >> "$output_file"
-	echo "{{< figure src=\"/$cover\" position=\"center\" caption=\"[Link to review](/$number)\" style=\"height: 400px; width: auto;\" >}}" >}} >> "$output_file"
-
-	# Flag to indicate whether to start writing to output_file
-	write_to_output=false
-
-	# Read the input file line by line
-	while IFS= read -r line; do
-		# Check if the line contains the specific string
-		if [[ $(echo "$line" | grep "$trigger_str") ]]; then
-			write_to_output=true
-			continue
-		fi
-
-		# If the flag is set, write the line to the output file
-		if $write_to_output; then
-			echo "$line" >> "$output_file"
-		fi
-	done < "$input_file"
-done
-```
+Ah, the power of the command line!
 
 {{< myrating rating="🙋🏻‍♂️ " >}}
