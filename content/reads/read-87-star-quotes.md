@@ -44,3 +44,9 @@ own creation:
 Ah, the power of the command line!
 
 {{< myrating rating="🙋🏻‍♂️ " >}}
+
+---
+
+# :star: Star quotes
+
+:star: :star: :star: :star: :star: [Here they are!](/star-quotes) :star: :star: :star: :star: :star:
