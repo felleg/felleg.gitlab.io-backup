@@ -11,7 +11,6 @@ tags:
   #- 'fiction'
 aliases:
   - '/87'
-draft: true
 number: 87
 rating: 🙋🏻‍♂️
 
