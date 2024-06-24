@@ -28,6 +28,8 @@ fire hose. Attempt at your own peril! :smile: It's a convenient way
 for me to quickly \`Ctrl-F\` information. Feel free to try it out too,
 you might find something useful!
 
+If you would like to dive deeper into the quotes of a book, you may click the link to the review (located under each cover image) and find a link to my raw, handwritten notes. Maybe you'll find a star quote of your own in there!
+
 I hope you will get enjoyment from this dynamic collection!
 
 =L
