@@ -1,5 +1,6 @@
 ---
 date: 2023-07-09
+exclude_from_star_quotes: true
 title: (Livre 36) Le Petit Larousse Illustré 2024
 cover: img/reads/le-petit-larousse-2024.jpg
 amzcover: https://m.media-amazon.com/images/I/81LuSwaxywL._SL400_.jpg

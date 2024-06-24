@@ -1,5 +1,6 @@
 ---
 date: 2024-01-30T11:23:33-05:00
+exclude_from_star_quotes: true
 title: (Read 65) Scrum and XP From the Trenches
 cover: img/reads/scrum-and-xp-from-the-trenches.png
 amzcover: https://m.media-amazon.com/images/I/61bgGVBYHZL._SL400_.jpg
