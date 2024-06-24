@@ -1,3 +1,5 @@
+image: monachus/hugo
+
 stages:
   - build
   - deploy
@@ -7,12 +9,15 @@ variables:
 
 generations:
   stage: build
-  image: ubuntu
   script:
+    - hugo
     - apt -y update && apt -y install imagemagick
     - bash scripts/generate-allreads.sh
     - bash scripts/generate-bookshelf.sh
     - bash scripts/generate-star-quotes.sh
+    #- cd static/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/
+    #- bash update_photo_array.sh
+    #- cd -
   only:
     changes:
       - content/reads/**
@@ -20,13 +25,7 @@ generations:
 
 pages:
   stage: deploy
-  image: monachus/hugo
   script:
-    - hugo
-    - apt -y update && apt -y install imagemagick
-    #- cd static/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/
-    #- bash update_photo_array.sh
-    #- cd -
     - hugo
 
   dependencies:
