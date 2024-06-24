@@ -1,5 +1,3 @@
-image: monachus/hugo
-
 stages:
   - build
   - deploy
@@ -9,6 +7,7 @@ variables:
 
 generations:
   stage: build
+  image: ubuntu
   script:
     - apt -y update && apt -y install imagemagick
     - bash scripts/generate-allreads.sh
@@ -21,6 +20,7 @@ generations:
 
 pages:
   stage: deploy
+  image: monachus/hugo
   script:
     - hugo
     - apt -y update && apt -y install imagemagick
