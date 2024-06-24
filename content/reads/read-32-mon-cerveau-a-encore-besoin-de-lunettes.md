@@ -1,5 +1,6 @@
 ---
 date: 2023-05-24
+exclude_from_star_quotes: true
 title: (Read 32) Mon Cerveau a encore besoin de lunettes
 frontpage: "true"
 cover: img/reads/mon-cerveau-a-encore-besoin-de-lunettes.jpg
