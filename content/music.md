@@ -3,6 +3,10 @@ title: "The Music Shelf"
 aliases:
   - /discshelf
 discshelf_item:
+  - title: The Likes of Us
+    author: Big Big Train
+    cover_link: https://open.spotify.com/album/3zjmvbCAxUJ4iXKDLvp9hK?si=zv_Pu2tORWqFGFhL5Jwigg
+    cover_img: https://progreport.com/wp-content/uploads/2023/12/BigBigTrain_TheLikesOfUs-copy.jpg
   - title: McCartney
     author: Paul McCartney
     cover_link: https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT?si=OHV1s6MXRdW8j_rm1TaQWA

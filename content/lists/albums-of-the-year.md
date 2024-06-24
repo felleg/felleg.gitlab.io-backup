@@ -7,7 +7,7 @@ title: "My Albums of the Year"
 -->
 | Award Year | Release Year | Thumbnail | Album | Artist | Genre |
 | ---- | ---- |--------- | ----- | ------ | ----- |
-| 2024 | 2023 / 2024 / 2022 | {{< thumbnail src="img/albums/mahini-dey.jpg" >}} {{< thumbnail src="img/albums/djesse-vol-4.png" >}} {{< thumbnail src="img/albums/jazz-sabbath-vol2.jpg" >}} | Mahini Dey / Jacob Collier / Jazz Sabbath | Mahini Dey / Djesse Vol. 4 / Vol. 2 | Eclectic Jazz / A little bit of everything and amazing vocals / Stolen Jazz |
+| 2024 | 2023 / 2024 / 2022 / 2024 | {{< thumbnail src="img/albums/mahini-dey.jpg" >}} {{< thumbnail src="img/albums/djesse-vol-4.png" >}} {{< thumbnail src="img/albums/jazz-sabbath-vol2.jpg" >}}  {{< thumbnail src="img/albums/the-likes-of-us.jpg" >}}| Mahini Dey / Jacob Collier / Jazz Sabbath / Big Big Train| Mahini Dey / Djesse Vol. 4 / Vol. 2 / The Likes of Us | Eclectic Jazz / A little bit of everything and amazing vocals / Stolen Jazz / Prog Rock |
 | 2023 | 2023 / 2022 / 2023 | {{< thumbnail src="img/2023-albumoftheyear-my-21st-century-blues.png" >}} {{<thumbnail src="img/albums/spirals.jpg">}} {{<thumbnail src="img/albums/everything-harmony.png">}} {{<thumbnail src="img/albums/melinoe.jpg">}} | My 21st Century Blues / Spirals / Everything Harmony / Melinoë | Raye / Nick Leng / The Lemon Twigs / Akhlys | House, pop, blues, dancehall, trip hop / Psychedelic? / Todd Rundgren? / Black Metal |
 | 2022 | 2021 | {{< thumbnail src="img/2022-albumoftheyear-debonair.jpg" >}} | Debonair | Horsey | Eclectic Progressive Rock |
 | 2021 | 2021 | {{< thumbnail src="img/inside.png" >}} | Inside | Bo Burnham | Comedy |
