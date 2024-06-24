@@ -365,10 +365,9 @@ and hard. If I didn't manage to course-correct within two months, I
 could kiss my new job goodbye.
 
 This is what put me into **survival mode**, where the hopelessness of
-the situation was such that it finally made me open to learning.
+the situation was such that it finally made me open to learning. I couldn't bear the thought of being rejected by my newly-elected home. It would have made leaving Contxtful feel like a mistake, and would have left me without a plan B. I *had* to get through that probation period at nesto, no matter what it cost me.
 
-To be told by a manager that I was not pulling my own weight was a
-first for me. I wasn't going to waste this opportunity to show the
+I had never explicitly been told by a manager that I was not pulling my own weight. I wasn't going to waste this opportunity to show the
 world what I could do when given proper motivation.  So I got to work,
 big time. My focus in mid-June was higher than ever, thanks to
 survival instincts that kicked into high gear. One of my first
@@ -376,7 +375,7 @@ personal goals was to get through the *DevOps Handbook* before the end
 of my extended probation, partly to prove to myself that I could
 accomplish something for once.
 
-Two months later, after over three years of trying, I turned the last
+Two months later, after over three years of trying, I ceremoniously turned the last
 page of *The DevOps Handbook*. Something had changed within me. I had
 learned *how to read a book*.
 
