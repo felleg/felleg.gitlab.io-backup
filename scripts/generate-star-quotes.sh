@@ -68,7 +68,7 @@ for input in $(ls $source_files); do
 	title=$(echo "$title" | cut -d ')' -f 2)
 	cover=$(grep "^cover:" "$input_file")
 	cover=$(echo "$cover" | cut -d ' ' -f 2)
-	echo "\n# #$number: $title" >> "$output_file"
+	echo -e "\n# #$number: $title" >> "$output_file"
 	echo "{{< figure src=\"/$cover\" position=\"center\" caption=\"[Link to review](/$number)\" style=\"height: 400px; width: auto;\" >}}" >}} >> "$output_file"
 
 	# Flag to indicate whether to start writing to output_file
