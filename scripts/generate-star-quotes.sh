@@ -4,7 +4,7 @@ source_files=content/reads/*.md
 cat <<EOF > $output_file
 ---
 title: "Star Quotes"
-date: $(date +"%Y-%m-%dT%H:%M:%S-04:00")
+date: $(date +"%Y-%m-%dT%H:%M:%S")
 toc: true
 cover: img/reads/star-quotes.png
 tags:
