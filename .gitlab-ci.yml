@@ -1,14 +1,10 @@
 image: monachus/hugo
 
-stages:
-  - build
-  - deploy
-
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
-generations:
-  stage: build
+pages:
+  stage: deploy
   script:
     - hugo
     - apt -y update && apt -y install imagemagick
@@ -18,23 +14,6 @@ generations:
     #- cd static/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/
     #- bash update_photo_array.sh
     #- cd -
-  only:
-    changes:
-      - content/reads/**
-      - scripts/**
-  artifacts:
-    paths:
-    - public
-    - static
-    expire_in: 1 week
-
-pages:
-  stage: deploy
-  script:
-    - hugo
-
-  dependencies:
-    - generations
 
   artifacts:
     paths:
