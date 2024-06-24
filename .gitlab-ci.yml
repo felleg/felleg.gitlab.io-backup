@@ -19,7 +19,7 @@ generations:
       - content/reads/**
 
 pages:
-stage: deploy
+  stage: deploy
   script:
     - hugo
     - apt -y update && apt -y install imagemagick
