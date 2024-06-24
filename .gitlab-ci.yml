@@ -11,10 +11,12 @@ pages:
     - bash scripts/generate-allreads.sh
     - bash scripts/generate-bookshelf.sh
     - bash scripts/generate-star-quotes.sh
+    - ls content/posts/star-quotes.md
     #- cd static/do-you-know-this-person-243987978423987fsdalksadflqrweoyzv/
     #- bash update_photo_array.sh
     #- cd -
     - hugo
+    - ls public/star-quotes
 
   artifacts:
     paths:
@@ -22,7 +24,4 @@ pages:
     expire_in: 1 week
   only:
   - master
-  cache:
-    paths:
-      - public
   interruptible: true
