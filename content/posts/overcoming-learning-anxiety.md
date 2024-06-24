@@ -849,24 +849,28 @@ number one advice because when I manage to motivate people to pick up
 reading again, their intuitive response is generally to say "I'll set
 an hour aside in my calendar for reading." And they do. And then
 nothing else happens. They are still unable to turn reading into a
-habit!
+habit! Want to know a secret? I have trouble reading for more than 30
+minutes in a row. I doubt most people who schedule to read a full
+uninterrupted hour actually succeed. In my opinion, they mostly end up
+fooling themselves.
 
-Well, I have found the perfect solution to that. But you have to stick
-to it, otherwise it will not work.
+Fortunately, I bring good news. I have found the perfect solution to
+instantly bake reading into your routine. But you have to stick to it,
+otherwise it will not work.
 
 Ready? Here it is: Any time you feel like picking up your phone to
-browse, pick your book first, and see if you can squeeze a quick
-paragraph or two (or more, if you get into it!).
+browse, pick your book first, and see if you can read a paragraph or
+two (or more, if you get into it!) before using your phone.
 
 How was that? Disappointing, right? Well, too bad, that really is the
 secret to finishing books quickly! :smiley:
 
-You'll be amazed by
+If you try it, I'm certain you'll be amazed by
 the results.  Change your phone's wallpaper to remind you to read if
 you need to.  It's worth it.
 
 Caveat: This does require you to keep your book within reach and
-visible as often as possible. Plan ahead!
+visible as often as possible. Plan ahead to prevent cheating yourself!
 
 ## Tip 2: Start by reading a single book at a time
 
