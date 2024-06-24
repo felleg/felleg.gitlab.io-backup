@@ -3,7 +3,7 @@ title: "I am Working on a Book!"
 date: 2024-06-23T20:30:38-04:00
 draft: false
 toc: false
-cover:
+cover: img/reads/overcoming-learning-anxiety.png
 tags:
   - announcement
   #- featured
