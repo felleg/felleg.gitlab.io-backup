@@ -90,7 +90,8 @@ Thanks to Desire Silcott for her photographs of me with nesto's
 bookshelf. (Chapter 6)
 
 Thanks to the following people who gave me feedback on this text:
-Gabrielle Perron, Réjane Léger, Julien Gaboriaud, Catherine Proulx, Maxime Bergeron.
+Gabrielle Perron, Réjane Léger, Machine Bergeron, 
+Mathieu Frenette, Julien Gaboriaud, Elaine Delage, Catherine Proulx.
 
 And **thank you** for giving this text a chance.
 
