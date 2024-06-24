@@ -8,7 +8,7 @@ Thanks for visiting my website!
 If you resonate with anything you find here, I hope you will let me
 know in a comment or via email. :smile: In the meantime, have a nice day!
 
-{{< figure src="/img/lac-travers-2022.jpeg" position="center" caption="'If this isn't nice, I don't know what is!'" >}}
+{{< figure src="/img/felix-library.jpg" position="center" scale="400px" caption="Photo credit: Desire Silcott" >}}
 
 ---
 
