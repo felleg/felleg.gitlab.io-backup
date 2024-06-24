@@ -22,6 +22,11 @@ generations:
     changes:
       - content/reads/**
       - scripts/**
+  artifacts:
+    paths:
+    - public
+    - static
+    expire_in: 1 week
 
 pages:
   stage: deploy
