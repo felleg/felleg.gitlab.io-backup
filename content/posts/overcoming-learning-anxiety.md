@@ -362,7 +362,7 @@ wasn't quite cutting it in the workplace. I had trouble learning the
 new tools and processes required to become a productive teammate. New
 concepts and important details eluded me. To summarize, I was failing,
 and hard. If I didn't manage to course-correct within two months, I
-could kiss my job goodbye.
+could kiss my new job goodbye.
 
 This is what put me into **survival mode**, where the hopelessness of
 the situation was such that it finally made me open to learning.
