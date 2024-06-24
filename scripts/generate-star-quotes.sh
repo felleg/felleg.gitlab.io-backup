@@ -18,9 +18,17 @@ description: Here are the best quotes I came across in my lectures.
 
 Star Quotes is what I am left when I finish reading a book. Whenever I
 add a new book in my [bookshelf](/bookshelf), I make sure to
-include the star quotes from that book in there, next to a review.
+include the star quotes from that book in there, next to a review ([example](/latest)).
 
-The collection of quotes you have in front of you is a compilation of all star quotes up to now. Please enjoy this dynamic collection!
+This "book" is a compilation
+of all the star quotes you can currently find on my website
+(https://felixleger.com/books) as of today. I don't expect much people to read
+this in its entirety: it might feel like trying to drink from a
+fire hose. Attempt at your own peril! :smile: It's a convenient way
+for me to quickly \`Ctrl-F\` information. Feel free to try it out too,
+you might find something useful!
+
+I hope you will get enjoyment from this dynamic collection!
 
 =L
 
