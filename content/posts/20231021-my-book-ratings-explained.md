@@ -27,13 +27,13 @@ Let's go more in detail about what each rating generally means to me:
   as a reader, and I think the world would be a better place if more
   people checked it out.
 
-There is also a special rating you might see in some of my older
-reviews:
+There are some special ratings you might see:
 
+- **I wrote this** (🙋🏻‍♂️), so I'm biased! You can easily
+  recognize the books I wrote from their yellow spine in the
+  [bookshelf](/bookshelf).
 - **Still thinking about it** (:thinking:), for some reason I didn't feel comfortable
   giving a rating. That usually isn't a good sign, though. 😅
-- **I wrote this** (🙋🏻‍♂️), in case I ever realize my dream of
-  publishing a book.
 
 I hope that clears things up!
 
