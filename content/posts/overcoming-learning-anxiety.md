@@ -60,6 +60,8 @@ mistakes. And, perhaps, the urge to read a book or two. Or {{< n_books
 
 I hope this text will bring value to your life.
 
+=L
+
 ## P.S.
 
 Don't feel bad if you don't finish reading this text in its
