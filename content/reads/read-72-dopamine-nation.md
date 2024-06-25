@@ -96,7 +96,7 @@ that it could be done again with cannabis. This read raised the question
 in my mind.
 
 What I enjoyed from my read
-was that it taught me about the power of radical honesty, with can turn
+was that it taught me about the power of radical honesty, which can turn
 destructive shame into prosocial shame. By being honest, we foster
 acceptance rather than isolation, because despite our individual
 uniqueness, our experiences might be more similar than we initially
