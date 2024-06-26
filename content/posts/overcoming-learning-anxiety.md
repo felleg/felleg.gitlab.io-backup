@@ -858,7 +858,7 @@ It doesn't have to be complicated. If you travel with a bag, that's an obvious s
 
 To tell the truth, you don't really need a bag or pockets to make this tip work. You could simply keep your book and highlighter in your hands and your pen behind your ear for the few times you might need it. No clothes required!
 
-If you are dying for a bag recommendation, [here's the bag I use when I'm traveling.](https://amzn.to/4bjCaa3) It's light, it's compact when stored, and gets the job done every time.
+If you are dying for a bag recommendation, [here\'s the bag I use when I\'m traveling.](https://amzn.to/4bjCaa3) It's light, it's compact when stored, and gets the job done every time.
 
 ## Tip 2: Grab your book before grabbing your phone
 
