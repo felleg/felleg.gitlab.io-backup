@@ -1106,7 +1106,7 @@ fully owned by me!), I recommend you check out [a video I made on how
 to get started with
 VanityURL](/posts/2024/01/vanityurls-a-convenient-diy-url-shortener-service/).
 
-## Tip 13: Give your book away
+## Tip 12: Give your book away
 
 This is the fun part. When you finished reading a book and collecting
 all its nuggets in your journal, you are free to share it with the
@@ -1128,7 +1128,7 @@ next person who will start this book!
 
 {{< figure src="/img/encouraging-others.jpg" position="center" caption="" >}}
 
-## Tip 14: Share your notes online
+## Tip 13: Share your notes online
 
 I developed the habit to scan my notes once they are complete for a
 given book and putting them on my Google Drive. This has many
@@ -1157,7 +1157,7 @@ to retrieve my notes and even share them with interested parties.
 
 {{< figure src="/img/virtual-bookshelf.png" position="center" caption="[My virtual bookshelf](/bookshelf)" >}}
 
-## Tip 15: Remember: Reading a book twice is inefficient
+## Tip 14: Remember: Reading a book twice is inefficient
 
 I've hinted at it before, but I'll say it clearly once more: If you
 are reading a book a second time, what does this say about the first
@@ -1166,7 +1166,7 @@ twice.  Instead, rely on your notes to quickly get the essence of the
 book.  That's your reward for putting in this work: you can get the
 same info as reading the full book in a fraction of the time.
 
-## Tip 16: Additional tips on hardware
+## Tip 15: Additional tips on hardware
 
 Alright, we are now getting into the nitty-gritty. For most of us,
 making a purchase is the fun, exciting part. My dopamine-hungry brain
