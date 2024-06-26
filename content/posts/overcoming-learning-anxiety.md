@@ -846,16 +846,31 @@ In this section, I will tell you about some tricks I picked up over
 years of learning from books. If you have other interesting tricks you
 would like to share, please let me know in the comments below! :pray:
 
-## Tip 1: Grab your book before grabbing your phone
+## Tip 1: Never go out without your book and pens 
 
-The best way to progress through a book is not to allocate long
+Personally, I feel naked when I go somewhere without my book, my notebook, my pen and my highlighter. 
+
+It is impossible make progress in a book you don't have access to. One can't highlight golden nuggets without a highlighter in hand. 
+
+If you want to get serious about your reading habits, you need to find a way to have these objects available at all times. The closer they are to your hands, the better.
+
+It doesn't have to be complicated. If you travel with a bag, that's an obvious spot to store your book. If you have pockets, that's an obvious place for a pen and highlighter.
+
+To tell the truth, you don't really need a bag or pockets to make this tip work. You could simply keep your book and highlighter in your hands and your pen behind your ear for the few times you might need it. No clothes required!
+
+If you are dying for a bag recommendation, [here's the bag I use when I'm traveling.](https://amzn.to/4bjCaa3) It's light, it's compact when stored, and gets the job done every time.
+
+## Tip 2: Grab your book before grabbing your phone
+
+In my experience, the best way to progress through a book is *not* to allocate long
 periods of time for reading, but rather to keep your book handy at all
-times and to open it briefly whenever you're between tasks. This is my
-number one advice because when I manage to motivate people to pick up
+times (see tip #1) and to open it whenever you're between tasks.
+
+When I manage to motivate people to pick up
 reading again, their intuitive response is generally to say "I'll set
 an hour aside in my calendar for reading." And they do. And then
 nothing else happens. They are still unable to turn reading into a
-habit! Want to know a secret? I have trouble reading for more than 30
+habit! Want to know a dirty secret? I have trouble reading for more than 30
 minutes in a row. I doubt most people who schedule to read a full
 uninterrupted hour actually succeed. In my opinion, they mostly end up
 fooling themselves.
@@ -868,17 +883,20 @@ Ready? Here it is: Any time you feel like picking up your phone to
 browse, pick your book first, and see if you can read a paragraph or
 two (or more, if you get into it!) before using your phone.
 
+Let me put it another way: Earn the right to use your phone by reading 2 paragraphs from your book.
+
 How was that? Disappointing, right? Well, too bad, that really is the
-secret to finishing books quickly! :smiley:
+secret sauce to finishing books quickly! :smiley:
 
 If you try it, I'm certain you'll be amazed by
-the results.  Change your phone's wallpaper to remind you to read if
-you need to.  It's worth it.
+the results. The majority of us are addicted to our phones, and this tip turns our addiction into something positive. Change your phone's wallpaper to remind you to read if
+you need to. 
 
-Caveat: This does require you to keep your book within reach and
-visible as often as possible. Plan ahead to prevent cheating yourself!
+After some time, if you're anything lile me, you might come to *prefer* reading your book than using your phone. Why waste time searching for inconsequential content online when the content you really care about is right there in your book?
 
-## Tip 2: Start by reading a single book at a time
+Caveat: For this tip to work, you *must* have your book and your highlighter on you (tip #1) pretty much all the time. It's worth it!
+
+## Tip 3: Start by reading a single book at a time
 
 As you start learning, you get excited when you see all the
 possibilities within your grasp. Never forget, "Stop starting, start
@@ -904,7 +922,7 @@ single book at a time, especially at the start of your learning
 journey - don't get carried away!
 
 
-## Tip 3: Track your progress by folding the corners
+## Tip 4: Track your progress by folding the corners
 
 This is a big part of my system.
 
@@ -935,7 +953,7 @@ writing, I write. I feel like I am free to choose what activity is
 right for what time. And, most importantly, whatever I end up
 choosing, I am constantly learning.
 
-## Tip 4: Use the body of your highlighter as a visual aid
+## Tip 5: Use the body of your highlighter as a visual aid
 
 When I picture someone reading, I often see them using their finger to
 track their progress, like this:
@@ -976,7 +994,9 @@ This has many benefits:
    - wide enough to hide the sentences below what I am reading, which
      ensures I am not reading "in diagonal".
 
-## Tip 5: Identify elements of an enumeration in the text
+## Tip 6: Identify elements of an enumeration in the text
+
+What this tip is about is highlighting your nuggets in a way that makes them more comfortable to write down later.
 
 I noticed that some authors like to create enumerations in prose
 instead of in a list form. In order to help my future note-taking
@@ -991,7 +1011,7 @@ striking if written as a list:
 
 {{< figure src="/img/enumeration.jpg" position="center" caption="" >}}
 
-## Tip 6: Use your book's margins to write ideas
+## Tip 7: Use your book's margins to write ideas
 
 If reading a certain paragraph triggers a light bulb in your mind or
 makes you pause and wonder about a specific question, I recommend that
@@ -1003,7 +1023,7 @@ Don't let a good idea go to waste!
 
 {{< figure src="/img/good-margin-notes.jpg" position="center" caption="" >}}
 
-## Tip 7: Number your notebook's pages
+## Tip 8: Number your notebook's pages
 
 If your notebook doesn't have page numbers already (most don't), I
 strongly recommend that you number your pages yourself. This is
@@ -1015,7 +1035,7 @@ use a different ink (e.g. red) than what you would use for your note
 taking. Things will look much clearer when you reach the bottom right
 corner of odd-numbered pages. :wink:
 
-## Tip 8: If your notebook doesn't have margins, make some!
+## Tip 9: If your notebook doesn't have margins, make some!
 
 For most of my life, I assumed the margin was meant for graders to
 review your work and comment on their corrections. Well, news flash:
@@ -1033,7 +1053,7 @@ Of course, not all of your notes will require a margin note, but
 that's a good thing: it leaves you with more room for the notes that
 truly need commenting later on.
 
-## Tip 9: Write the source of your knowledge nuggets
+## Tip 10: Write the source of your knowledge nuggets in your margins
 
 {{< figure src="/img/notes-source.png" position="center" caption="" >}}
 
@@ -1047,7 +1067,7 @@ even more important than daily work!").
 
 Side effects may include people calling you a bookworm.
 
-## Tip 10: Use a URL shortener to encode web links in your notebook
+## Tip 11: Use a URL shortener to encode web links in your notebook
 
 This is very nerdy, but also very cool *and* useful. See an example in
 the image below:
@@ -1078,13 +1098,15 @@ services already offer free tiers:
 - https://t.ly/
 - ...
 
+They all do the same thing. Turn bug URLs into small URLs.
+
 However, if you're a computer nerd and would like to possess *your*
 own URL shortening service (like I do with https://felx.cc/, that is
 fully owned by me!), I recommend you check out [a video I made on how
 to get started with
 VanityURL](/posts/2024/01/vanityurls-a-convenient-diy-url-shortener-service/).
 
-## Tip 11: Give your book away
+## Tip 13: Give your book away
 
 This is the fun part. When you finished reading a book and collecting
 all its nuggets in your journal, you are free to share it with the
@@ -1106,7 +1128,7 @@ next person who will start this book!
 
 {{< figure src="/img/encouraging-others.jpg" position="center" caption="" >}}
 
-## Tip 12: Share your notes online
+## Tip 14: Share your notes online
 
 I developed the habit to scan my notes once they are complete for a
 given book and putting them on my Google Drive. This has many
@@ -1135,7 +1157,7 @@ to retrieve my notes and even share them with interested parties.
 
 {{< figure src="/img/virtual-bookshelf.png" position="center" caption="[My virtual bookshelf](/bookshelf)" >}}
 
-## Tip 13: Remember: Reading a book twice is inefficient
+## Tip 15: Remember: Reading a book twice is inefficient
 
 I've hinted at it before, but I'll say it clearly once more: If you
 are reading a book a second time, what does this say about the first
@@ -1144,7 +1166,7 @@ twice.  Instead, rely on your notes to quickly get the essence of the
 book.  That's your reward for putting in this work: you can get the
 same info as reading the full book in a fraction of the time.
 
-## Tip 14: Additional tips on hardware
+## Tip 16: Additional tips on hardware
 
 Alright, we are now getting into the nitty-gritty. For most of us,
 making a purchase is the fun, exciting part. My dopamine-hungry brain
