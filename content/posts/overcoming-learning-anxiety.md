@@ -1150,7 +1150,7 @@ is the [Canon LiDE 400](https://amazon.ca/dp/B07GPS69KF) and I am
 totally satisfied with it. Recommended!
 
 After scanning my notes, I write a new post with all my favorite
-quotes from my note. I call those :star: Star Quotes :star:. I then
+quotes from my note. I call those :star: [Star Quotes](/star-quotes) :star:. I then
 proceed to write a short review for the book. Having to summarize my
 understanding of the book and writing about my appreciation of it is
 what really cements it in my brain. A bonus side effect of that is
