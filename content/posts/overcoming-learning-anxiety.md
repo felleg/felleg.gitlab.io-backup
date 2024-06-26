@@ -714,14 +714,14 @@ discouraged.
 
 Finally, I use my review as a final opportunity to include my
 *favorite* knowledge nuggets from the book one last time. I call those
-:star: Star Quotes :star:. To do this, I look at the notes I took from
+:star: [Star Quotes](/star-quotes) :star:. To do this, I look at the notes I took from
 the book and highlight those I find worth sharing with others. No need
 to overthink it: I recommend just following your intuition once more.
 For example, if you are typing your review on a computer, any quote
 you include at this stage will be searchable, e.g. using Ctrl-F. Thus,
 when in doubt, I tend to include more quotes than necessary, because
 the ability to use Ctrl-F (or `grep`, to be precise!  :wink:) to
-search among my quotes is incredibly convenient. To quote [Where Good
+search among my quotes is incredibly convenient. You may [view them all on a single page here](/star-quotes) if you're curious. To quote [Where Good
 Ideas Come From](/61), "Write everything down, but keep your folders
 messy!"
 
@@ -835,6 +835,8 @@ mine, you're in for the ride of a lifetime, my friend.
 
 We truly can do anything we set our mind to. That is what learning is
 all about.
+
+Your move!
 
 {{< figure src="/img/nesto-library-visionary-look.jpg" >}}
 
