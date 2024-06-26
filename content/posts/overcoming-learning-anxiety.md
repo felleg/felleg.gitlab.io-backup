@@ -501,7 +501,7 @@ and to start respecting how your brain learns.  :smiley:
 So, **here is my challenge to you**: find a book you feel OK
 experimenting on (including this text if you are reading it in book
 version!) and apply a clean, *strong* book suplex to it, as flat as
-you can make it. Most people fear that the book will instantly break
+you can make it. It doesn't matter if it is a softcover or hardcover; the book suplex will work on any book, [including the dictionary](/img/larousse-fold.jpg). Most people fear that the book will instantly break
 in half, but in my experience that never happens. You generally have
 to work pretty hard to even get a single page to fall out of a book,
 trust me. So, show it who's the boss! Yes, it's going to leave a mark
