@@ -870,7 +870,9 @@ When I manage to motivate people to pick up
 reading again, their intuitive response is generally to say "I'll set
 an hour aside in my calendar for reading." And they do. And then
 nothing else happens. They are still unable to turn reading into a
-habit! Want to know a dirty secret? I have trouble reading for more than 30
+habit! 
+
+Do you want to know a dirty secret? I have trouble reading for more than 30
 minutes in a row. I doubt most people who schedule to read a full
 uninterrupted hour actually succeed. In my opinion, they mostly end up
 fooling themselves.
@@ -892,7 +894,7 @@ If you try it, I'm certain you'll be amazed by
 the results. The majority of us are addicted to our phones, and this tip turns our addiction into something positive. Change your phone's wallpaper to remind you to read if
 you need to. 
 
-After some time, if you're anything lile me, you might come to *prefer* reading your book than using your phone. Why waste time searching for inconsequential content online when the content you really care about is right there in your book?
+After some time, if you're anything like me, you might come to *prefer* reading your book than using your phone. Indeed, why waste time searching for inconsequential content online when the content you really care about is right there in your book?
 
 Caveat: For this tip to work, you *must* have your book and your highlighter on you (tip #1) pretty much all the time. It's worth it!
 
