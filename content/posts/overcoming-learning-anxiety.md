@@ -848,7 +848,7 @@ would like to share, please let me know in the comments below! :pray:
 
 ## Tip 1: Never go out without your book and pens 
 
-Personally, I feel naked when I go somewhere without my book, my notebook, my pen and my highlighter. 
+Personally, I feel naked whenever I go somewhere without my book, my notebook, my pen and my highlighter. 
 
 It is impossible make progress in a book you don't have access to. One can't highlight golden nuggets without a highlighter in hand. 
 
