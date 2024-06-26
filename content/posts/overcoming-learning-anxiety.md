@@ -854,7 +854,7 @@ It is impossible make progress in a book you don't have access to. One can't hig
 
 If you want to get serious about your reading habits, you need to find a way to have these objects available at all times. The closer they are to your hands, the better.
 
-It doesn't have to be complicated. If you travel with a bag, that's an obvious spot to store your book. If you have pockets, that's an obvious place for a pen and highlighter.
+It doesn't have to be complicated. If you travel with a bag, that's an obvious spot to store your books. If you have pockets, that's an obvious place for a pen and highlighter.
 
 To tell the truth, you don't really need a bag or pockets to make this tip work. You could simply keep your book and highlighter in your hands and your pen behind your ear for the few times you might need it. No clothes required!
 
