@@ -10,7 +10,6 @@ tags:
   #- 'fiction'
 aliases:
   - '/88'
-draft: true
 number: 88
 rating: 👍👍
 
@@ -24,9 +23,93 @@ Author: [Brianna Wiest](https://www.briannawiest.com/)
 
 {{< buythisbook link="https://amzn.to/3zwAfBG" >}}
 
+Thanks to Marie-Ange for this recommendation!
+
 ---
 
 # Review
+
+This is a self-help book in every sense of the word. It feels like it
+has been a while since I have read a book this dedicated to provoking
+healing in someone. There is no story. There is no protagonist. The
+end feels like the beginning, and the tone is constant throughout the
+text.
+
+It is *not* boring, though.
+
+My first thought when I opened this book was that the author wasted no
+time getting straight into the subject matter. I find this good,
+because I know that people who need mental help don't have time for
+fluff.  This is text is immediately accessible, and feels very similar
+to listening to a therapist who explains what you are going through,
+what your journey will be made of, and what you can reasonably hope
+for.  The fact that therapy is *still* underutilized in our era makes
+me want to recommend this book to anyone even more. All of us have
+annoying tendencies to self-sabotage rooted in trauma. Mine have been
+particularly strong for the majority of my life (lying, eating junk,
+self-hate), and I know I can't claim that I totally got rid of them
+yet, except the self-hate part. I feel confident in saying that I finally
+learned what love is and how it works.
+
+What makes this book useful is
+that it explains us where these urges come from and what to do with
+them if we hope to ever outgrow them.
+
+I think the star quotes below will speak for themselves. You will know
+immediately if this is content resonates with you or not. Personally,
+I have done therapy a couple of years ago and I have undergone a
+personal revolution. At 31 years old, I am a radically different
+person than I was at 29 years old. I can confirm that the progression in "climbing
+the mountain" was very similar to the steps I went through when I
+merged with the new, better me. I just didn't know it at the time.
+
+I wonder how my journey would have been impacted had I read this book
+earlier. Would it have saved me some time when I felt like I was
+searching in the dark? Would it have made me overthink my current
+situation? Those questions seem impossible to answer.
+
+If there is one criticism I could make about the book, it is that I
+wish the author talked more about herself and her own experience
+working through her mountain. I feel like it would have made this text
+even more relatable. However, I think I can understand why the book
+is written with a self-effaced narrator. It probably has something to
+do with the fact that therapists are also very closed-lipped about
+their own personal matters.
+
+This is not a book about its author. It is
+a book about yourself. Its aim is to tell you where to draw the line
+in your mind in order to get out of your inner turmoil and confusion.
+I think it can be used as a compass to point to the areas of your life
+that need your input. You will still need to do the work; climbing
+your mountain might involve visiting the dark forests of your past that
+you would rather forget exist.
+
+I did exactly that, and it changed my
+life, both for the better and for the worst. For example, everywhere
+around me, I now see challenges and adversity that I could previously brush off
+and forget by watching YouTube and playing games.
+This new reality of being accountable for our pain sucks, because it
+really is uncomfortable at times. However, for the first time
+in decades, I genuinely love who I am. There is no one in the world
+that I love more than myself, and I feel like I don't depend on anyone
+telling me that they admire me to feel good about myself. I just love
+what I am, quirks and all, and this motivates me to take better care
+of myself. It makes me want *not* to sabotage what I am. I am what I
+hold dearest. That is what it feels like to have climbed your
+mountain.
+
+Self-sabotage is a symptom, that's what it boils
+down to. Instead of trying to fight your urges, over and over, you can
+face your inner demons, your traumas, and go beyond your current
+reality.
+
+This book is an invitation to start your own journey. I strongly recommend
+it
+as a first step toward rebuilding your mental strength, especially if
+you have not yet felt ready to start feeing a therapist. This is a
+path the majority of us has to go through at least once in our lives,
+and the sooner we start it, the sooner we can enjoy the purposeful life we were
+truly meant to live.
 
 {{< myrating rating="👍👍" >}}
 
