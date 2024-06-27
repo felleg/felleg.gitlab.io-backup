@@ -1,6 +1,6 @@
 ---
 date: {{ .Date }}
-title: "{{ replace .Name "-" " " | title }}"
+title: {{ replace .Name "-" " " | title }}
 cover: img/reads/...
 amzcover: 
 author: 
