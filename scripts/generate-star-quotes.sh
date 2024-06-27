@@ -81,7 +81,7 @@ for input in $(ls $source_files); do
 	# Read the input file line by line
 	while IFS= read -r line; do
 		# Check if the line contains the specific string
-		if [[ $(echo "$line" | grep "$trigger_str") ]]; then
+		if [[ $(echo "$line" | grep -i "$trigger_str") ]]; then
 			write_to_output=true
 			continue
 		fi
