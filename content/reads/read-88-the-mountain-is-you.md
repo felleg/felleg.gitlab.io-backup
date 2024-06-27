@@ -1,6 +1,6 @@
 ---
 date: 2024-06-27T11:54:06-04:00
-title: "(Read 88) The Mountain Is You"
+title: (Read 88) The Mountain Is You
 cover: img/reads/the-mountain-is-you.png
 amzcover: https://m.media-amazon.com/images/I/71AHFDEpkdL._SL400_.jpg
 author: Brianna Wiest
