@@ -1210,10 +1210,10 @@ subordonné.
 1. (p. 641) Même si leurs cultures diffèrent d'une manière importante,
    deux sociétés peuvent former une union durable si elles utilisent une
    stratégie de fusion appropriée.
-1. (p. 642) :star: **[Les stratégies de fusion]**(https://felx.cc/.cc/tUF)
+1. (p. 642) :star: **[Les stratégies de fusion](https://felx.cc/tUF)**
 1. (p. 643) :star: Les changements sont efficaces quand ils deviennent
    "la manière dont on fait les choses ici."
-1. (p. 643) **Étapes de création de changement**:**
+1. (p. 643) **Étapes de création de changement**:
     1. Les chefs d'entreprise doivent rendre leurs employés conscients
        de l'urgence de changement
     1. Les chefs doivent "dégeler" la culture existante en éliminant les
