@@ -690,7 +690,38 @@ do this while listening to music, or while watching a video in the
 background. It's very relaxing. Just go at your own pace and stop when
 you've had your fill.
 
-## Step 3: Write about your opinion of the book
+## Step 3: Find your Star Quotes
+
+So you read a book, you made some highlights, and you took some
+notes. Are all of these notes good? On average, I would say about 60%
+of them are truly worth keeping. Indeed, some quotes are redundant, or
+don't make much sense out of context. Therefore, a very powerful thing
+I enjoy doing before right before I review a book is reading my notes
+one last time and identifying which quotes I want to include in my
+review. I call those :star: Star Quotes :star:.
+
+This process is useful because it forces you to:
+- read the material one more time, which ups your
+  chances of remembering it later
+- remove the quotes you initially liked, but don't
+  really have lasting value
+
+What is neat in finding your Star Quotes is that you follow exactly
+the same method you developed in [Step
+1](#step-1-read-and-highlight-the-golden-nuggets), but on your notes.
+Of course, you might be tempted to highlight most of the material found
+in your notes, and that's ok. That means your initial selection was
+relevant!
+
+See in the image below the quotes identified by a bit of highlighter.
+These are my Star Quotes. They will be included in my review of the
+book, which happens in the next step.
+
+{{< figure src="/img/highlight-star-quotes.png" position="center" caption="" >}}
+
+Psst, I have created [a free book version of my Star Quotes](/star-quotes) if you are interested.
+
+## Step 4: Write about your opinion of the book
 
 This might seem like overkill to most, but I wouldn't even think of
 skipping this step. Once I'm done with a book, I want to formulate my
@@ -712,18 +743,10 @@ also try not to overdo it. After all, this is something I do for
 myself. I have to find enjoyment in it, otherwise I know I will get
 discouraged.
 
-Finally, I use my review as a final opportunity to include my
-*favorite* knowledge nuggets from the book one last time. I call those
-:star: [Star Quotes](/star-quotes) :star:. To do this, I look at the notes I took from
-the book and highlight those I find worth sharing with others. No need
-to overthink it: I recommend just following your intuition once more.
-For example, if you are typing your review on a computer, any quote
-you include at this stage will be searchable, e.g. using Ctrl-F. Thus,
-when in doubt, I tend to include more quotes than necessary, because
-the ability to use Ctrl-F (or `grep`, to be precise!  :wink:) to
-search among my quotes is incredibly convenient. You may [view them all on a single page here](/star-quotes) if you're curious. To quote [Where Good
-Ideas Come From](/61), "Write everything down, but keep your folders
-messy!"
+Finally, I suggest you include in your review all the Star Quotes you
+identified in [Step 3](#step-3-find-your-star-quotes). If will be very
+convenient to be able to use `Ctrl-F` (or `grep`) to search specific
+quotes later on.
 
 [As an example, here is the latest review I wrote](/latest). Feel free
 to copy my format if you want, or create your own. In the end, what
@@ -996,11 +1019,67 @@ This has many benefits:
    - wide enough to hide the sentences below what I am reading, which
      ensures I am not reading "in diagonal".
 
-## Tip 6: Identify elements of an enumeration in the text
+## Tip 6: Get the right grip
 
-What this tip is about is highlighting your nuggets in a way that makes them more comfortable to write down later.
+If you plan on reading for long periods of time, you need a way to get
+comfortable. Fortunately, I believe I have found an easy way that will
+work for most people. This is what is looks like:
 
-I noticed that some authors like to create enumerations in prose
+{{< figure src="/img/how-hold-a-book-1.jpg" position="center" caption="" >}} 
+
+As you can see, one hand holds the book, and the other holds the
+highlighter. I have already described in [Tip
+#5](#tip-5-use-the-body-of-your-highlighter-as-a-visual-aid)
+how to use your highlighter as a visual aid. Personally, I really like
+leaving my index between the front and back cover, because it creates
+a nice support without being in my eyes' way. When you reach the end
+of the page, simply switch hands!
+
+{{< figure src="/img/how-hold-a-book-2.jpg" position="center" caption="" >}} 
+
+## Tip 7: Use creative highlighting to help your future self take efficient notes
+
+When we highlight in a book, we highlight for our future self who will
+turn these highlights into written notes. Our goal is to make that
+future self's job as easy as possible.
+
+Most of the time, there isn't a lot of thought that goes into
+highlighting -- that's a good thing! If you find a sentence that you
+love, just highlight it. Easy peasy. But what if the useful
+information is split across different sentences? What if by switching
+some words around you can make its meaning more obvious to you?
+
+Take the example below:
+
+{{< figure src="/img/construct-sentences-3.png" position="center" caption="" >}} 
+
+The original quote is:
+
+> "Validating your feelings" sounds like a big term, but it really
+> means one thing: It's just letting yourself have them.
+
+I don't need to remember that "'Validating your feelings' sounds like
+a big term that really means one thing." What I want to remember is
+that validating your feelings is just letting yourself have them. And
+so that's exactly what I highlight:
+
+> "Validating your feelings" [...]'s just letting yourself have them.
+
+This approach works a lot of the time, but there are some exceptions.
+For example, see what I did in the example below. It was simpler to
+simply write the missing bits with a pen instead of trying to
+reconstruct a quote using words already on the page.
+
+{{< figure src="/img/construct-sentences-2.png" position="center" caption="" >}} 
+
+This technique also works to cut the fat in a mostly relevant
+paragraph. See in the example below how I string together different sentences
+using a simple line.
+
+{{< figure src="/img/construct-sentences-1.png" position="center" caption="" >}} 
+
+
+Finally, I noticed that some authors like to create enumerations in prose
 instead of in a list form. In order to help my future note-taking
 self, I use my pen to circle where each element of an enumeration
 begins in a paragraph. It makes the information much easier to parse
@@ -1013,7 +1092,7 @@ striking if written as a list:
 
 {{< figure src="/img/enumeration.jpg" position="center" caption="" >}}
 
-## Tip 7: Use your book's margins to write ideas
+## Tip 8: Use your book's margins and blank pages to write ideas
 
 If reading a certain paragraph triggers a light bulb in your mind or
 makes you pause and wonder about a specific question, I recommend that
@@ -1021,11 +1100,18 @@ you write that thought in the margins next to the paragraph that
 inspired it. That way, when writing your notes, you will be able to
 revisit your own good ideas and decide how to expand upon it.
 
-Don't let a good idea go to waste!
-
 {{< figure src="/img/good-margin-notes.jpg" position="center" caption="" >}}
 
-## Tip 8: Number your notebook's pages
+If you consider reviewing your book when you are done with it (which I
+recommend!), you might want to write your impressions of the book near
+the front cover for ease of retrieval, as I have done in the picture
+below for the book [The Mountain Is You](/88).
+
+Don't let a good idea go to waste!  :smile:
+
+{{< figure src="/img/thoughts-about-book.png" position="center" caption="" >}} 
+
+## Tip 9: Number your notebook's pages
 
 If your notebook doesn't have page numbers already (most don't), I
 strongly recommend that you number your pages yourself. This is
@@ -1037,7 +1123,7 @@ use a different ink (e.g. red) than what you would use for your note
 taking. Things will look much clearer when you reach the bottom right
 corner of odd-numbered pages. :wink:
 
-## Tip 9: If your notebook doesn't have margins, make some!
+## Tip 10: If your notebook doesn't have margins, make some!
 
 For most of my life, I assumed the margin was meant for graders to
 review your work and comment on their corrections. Well, news flash:
@@ -1055,7 +1141,7 @@ Of course, not all of your notes will require a margin note, but
 that's a good thing: it leaves you with more room for the notes that
 truly need commenting later on.
 
-## Tip 10: Write the source of your knowledge nuggets in your margins
+## Tip 11: Write the source of your knowledge nuggets in your margins
 
 {{< figure src="/img/notes-source.png" position="center" caption="" >}}
 
@@ -1069,7 +1155,7 @@ even more important than daily work!").
 
 Side effects may include people calling you a bookworm.
 
-## Tip 11: Use a URL shortener to encode web links in your notebook
+## Tip 12: Use a URL shortener to encode web links in your notebook
 
 This is very nerdy, but also very cool *and* useful. See an example in
 the image below:
@@ -1108,7 +1194,7 @@ fully owned by me!), I recommend you check out [a video I made on how
 to get started with
 VanityURL](/posts/2024/01/vanityurls-a-convenient-diy-url-shortener-service/).
 
-## Tip 12: Give your book away
+## Tip 13: Give your book away
 
 This is the fun part. When you finished reading a book and collecting
 all its nuggets in your journal, you are free to share it with the
@@ -1130,10 +1216,11 @@ next person who will start this book!
 
 {{< figure src="/img/encouraging-others.jpg" position="center" caption="" >}}
 
-## Tip 13: Share your notes online
+## Tip 14: Share your notes online
 
 I developed the habit to scan my notes once they are complete for a
-given book and putting them on my Google Drive. This has many
+given book and putting them on my Google Drive. I then include a
+publicly accessible link to these scans directly in my reviews. This has many
 advantages:
 
 - It creates a true cloud-supported backup, meaning that I would most
@@ -1144,6 +1231,8 @@ advantages:
 - It shows people my actual work. This is an important part of the
   trust-earning process. People won't believe you put in the work
   until they see proof that makes it safe for them to believe you.
+
+{{< figure src="/img/link-handwritten-notes.png" position="center" caption="" >}}
 
 If you are looking for a flatbed scanner, the one I am currently using
 is the [Canon LiDE 400](https://amazon.ca/dp/B07GPS69KF) and I am
@@ -1159,7 +1248,7 @@ to retrieve my notes and even share them with interested parties.
 
 {{< figure src="/img/virtual-bookshelf.png" position="center" caption="[My virtual bookshelf](/bookshelf)" >}}
 
-## Tip 14: Remember: Reading a book twice is inefficient
+## Tip 15: Remember: Reading a book twice is inefficient
 
 I've hinted at it before, but I'll say it clearly once more: If you
 are reading a book a second time, what does this say about the first
@@ -1168,7 +1257,7 @@ twice.  Instead, rely on your notes to quickly get the essence of the
 book.  That's your reward for putting in this work: you can get the
 same info as reading the full book in a fraction of the time.
 
-## Tip 15: Additional tips on hardware
+## Tip 16: Additional tips on hardware
 
 Alright, we are now getting into the nitty-gritty. For most of us,
 making a purchase is the fun, exciting part. My dopamine-hungry brain
