@@ -16,19 +16,19 @@ description: Here are the best quotes I came across in my lectures.
 
 # Introduction
 
-Star Quotes is what I am left when I finish reading a book. Whenever I
+Star Quotes are what I am left with when I finish reading a book. Whenever I
 add a new book in my [bookshelf](/bookshelf), I make sure to
-include the star quotes from that book in there, next to a review ([example](/latest)).
+include the Star Quotes from that book in there, next to a review ([example](/latest)).
 
 This "book" is a compilation
-of all the star quotes you can currently find on my website
-(https://felixleger.com/books) as of today. I don't expect much people to read
+of all the Star Quotes you can find on my website
+as of today. I don't expect much people to read
 this in its entirety: it might feel like trying to drink from a
 fire hose. Attempt at your own peril! :smile: It's a convenient way
 for me to quickly \`Ctrl-F\` information. Feel free to try it out too,
 you might find something useful!
 
-If you would like to dive deeper into the quotes of a book, you may click the link to the review (located under each cover image) and find a link to my raw, handwritten notes. Maybe you'll find a star quote of your own in there!
+If you would like to dive deeper into the quotes of a book, you may click the link to the review (located under each cover image) and find a link to my raw, handwritten notes. Maybe you'll find a Star Quote of your own in there!
 
 I hope you will get enjoyment from this dynamic collection!
 
@@ -46,9 +46,9 @@ happens to be Team Topologies. Technically, I could have begun at chapter
 [bookshelf](/bookshelf), the reason being that, for any book on my
 bookshelf, if you visit \`https://felixleger.com/##\`, where \`##\` is the
 number of the book, you will directly be taken to the review I wrote for
-it, including its star quotes. :smile: I hope this feature makes the confusion
-slightly more worth it. Another reason why a number got skipped is because I
-was not able to identify a star quote in the book related to that number.
+it, including its Star Quotes. :smile: I hope this feature makes the confusion
+slightly more worth it. Whenever a chapter number gets skipped is because I
+was not able to identify a Star Quote in the book related to that number.
 
 ---
 
