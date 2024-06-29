@@ -27,6 +27,11 @@ Author: [Félix Léger](https://felixleger.com)
 
 # Review
 
+**Click on the link below to access the full text:**
+
+# [Overcoming Learning Anxiety](/overcoming-learning-anxiety)
+
+
 This isn't a physical book yet! I have been working on this text for
 almost two years I am strongly attached to it, enough to want to publish it as a real book. It tells the
 story of how I overcame my own learning anxiety, the impact it had on my
@@ -38,18 +43,23 @@ Here is a summary of the method I share in the text:
 **The Steps**:
 1. Read and highlight the golden nuggets
 1. Write down your highlights
+1. Find your Star Quotes
 1. Write about your opinion of the book
 
+
 **The Advanced Tips**:
+
+1. Never go out without your book and pens
 1. Grab your book before grabbing your phone
 1. Start by reading a single book at a time
 1. Track your progress by folding the corners
 1. Use the body of your highlighter as a visual aid
-1. Identify elements of an enumeration in the text
-1. Use your book's margins to write ideas
-1. Number your notebook's pages
-1. If your notebook doesn't have margins, make some!
-1. Write the source of your knowledge nuggets
+1. Get the right grip
+1. Use creative highlighting to help your future self take efficient notes
+1. Use your book’s margins and blank pages to write ideas
+1. Number your notebook’s pages
+1. If your notebook doesn’t have margins, make some!
+1. Write the source of your knowledge nuggets in your margins
 1. Use a URL shortener to encode web links in your notebook
 1. Give your book away
 1. Share your notes online
@@ -59,6 +69,7 @@ Here is a summary of the method I share in the text:
 **Click on the link below to access the full text:**
 
 # [Overcoming Learning Anxiety](/overcoming-learning-anxiety)
+
 
 {{< myrating rating="🙋🏻‍♂️" >}}
 
