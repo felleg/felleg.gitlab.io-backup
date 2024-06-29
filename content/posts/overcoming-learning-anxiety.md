@@ -756,7 +756,13 @@ get bonus points if you make this review public: not only are you
 sharing your knowledge, but you also encourage people to participate
 in your journey and initiate discussions with you.
 
-The format you use to review your books doesn't matter. It can be a
+A nice side effect of posting your reviews on a website is that you
+can implement custom visualizations. For example, I have a [virtual bookshelf](/bookshelf) that I can use
+to retrieve my notes and even share them with interested parties.
+
+{{< figure src="/img/virtual-bookshelf.png" position="center" caption="[My virtual bookshelf](/bookshelf)" >}}
+
+Ultimately, the format you use to review your books doesn't matter. It can be a
 website like me, a fresh page in your notebook, a Word document, an
 email, a spreadsheet, etc. As long as you use _your_ words to write
 about the subject you read about, you will do fine. The easiest it is
@@ -869,7 +875,7 @@ In this section, I will tell you about some tricks I picked up over
 years of learning from books. If you have other interesting tricks you
 would like to share, please let me know in the comments below! :pray:
 
-## Tip 1: Never go out without your book and pens 
+## Tip 1: Never go out without your book, highlighter and pen
 
 Personally, I feel naked whenever I go somewhere without my book, my notebook, my pen and my highlighter. 
 
@@ -879,7 +885,10 @@ If you want to get serious about your reading habits, you need to find a way to 
 
 It doesn't have to be complicated. If you travel with a bag, that's an obvious spot to store your books. If you have pockets, that's an obvious place for a pen and highlighter.
 
-To tell the truth, you don't really need a bag or pockets to make this tip work. You could simply keep your book and highlighter in your hands and your pen behind your ear for the few times you might need it. No clothes required!
+To tell the truth, you don't really need a bag or pockets to make this
+tip work. You could simply keep your book and highlighter in your
+hands and your pen behind your ear for the few times you might need
+it. No clothes required!
 
 If you are dying for a bag recommendation, [here\'s the bag I use when I\'m traveling.](https://amzn.to/4bjCaa3) It's light, it's compact when stored, and gets the job done every time.
 
@@ -908,7 +917,7 @@ Ready? Here it is: Any time you feel like picking up your phone to
 browse, pick your book first, and see if you can read a paragraph or
 two (or more, if you get into it!) before using your phone.
 
-Let me put it another way: Earn the right to use your phone by reading 2 paragraphs from your book.
+Let me put this another way: Earn the right to use your phone by reading two paragraphs from your book first.
 
 How was that? Disappointing, right? Well, too bad, that really is the
 secret sauce to finishing books quickly! :smiley:
@@ -966,12 +975,13 @@ I can't overstate how useful this is. It gives the feeling that no
 moment spent reading or taking notes is wasted. Whenever something
 else needs my attention, I simply fold the corner, fully aware that
 whenever I'll come back to the book, I will know exactly what I was up
-to. Simply put, it reduces my cognitive load to a minimum.
+to. Often, I will even leave a mark with my highlighter next to the sentence I was
+currently reading to mark the spot I was at. Simply put, it reduces my cognitive load to a minimum.
 
 I also like the fact that this transforms the act of learning into two
 distinct activities:
 - reading
-- writing
+- writing (note-taking)
 
 If I'm in the mood for reading, I read. If I'm in the mood for
 writing, I write. I feel like I am free to choose what activity is
@@ -1009,11 +1019,11 @@ This has many benefits:
 
 - Unlike the tip of your finger, the body of the highlighter is flat.
   It makes it obvious what line you are currently looking at.
-- You can let your eyes glide along the body of the eye-lighter. It
+- You can let your eyes glide along the body of the highlighter. It
   feels less jittery than following the movement of a finger, which
   can only point to one word at a time.
 - The body of the highlighter is:
-   - long enough to allow me to reach the full width of a page within
+   - long enough to allow me to reach the full width of a page without
      having to move my wrist, let alone my arm.
    - vivid in color, which makes it quite eye-catching.
    - wide enough to hide the sentences below what I am reading, which
@@ -1098,7 +1108,7 @@ If reading a certain paragraph triggers a light bulb in your mind or
 makes you pause and wonder about a specific question, I recommend that
 you write that thought in the margins next to the paragraph that
 inspired it. That way, when writing your notes, you will be able to
-revisit your own good ideas and decide how to expand upon it.
+revisit your own good ideas and decide how to expand upon them.
 
 {{< figure src="/img/good-margin-notes.jpg" position="center" caption="" >}}
 
@@ -1115,12 +1125,13 @@ Don't let a good idea go to waste!  :smile:
 
 If your notebook doesn't have page numbers already (most don't), I
 strongly recommend that you number your pages yourself. This is
-invaluable to allow you to reference your notes later on. This is a
+invaluable to allow you to reference your own notes later on. This is a
 quality of life upgrade that is too obvious to live without.
 
 If you have to number your notebook's pages, take this opportunity to
-use a different ink (e.g. red) than what you would use for your note
-taking. Things will look much clearer when you reach the bottom right
+use a different ink color (e.g. red) than what you would use for your
+note-taking. Things will look much clearer when you reach the bottom
+right
 corner of odd-numbered pages. :wink:
 
 ## Tip 10: If your notebook doesn't have margins, make some!
@@ -1136,7 +1147,7 @@ thin as you need.
 {{< figure src="/img/margins.jpg" position="center" caption="" >}}
 
 In my notes, sometimes I write questions or things that will need
-further updates. The margins is the perfect place to put such updates.
+further updates. The margins are the perfect place to put such updates.
 Of course, not all of your notes will require a margin note, but
 that's a good thing: it leaves you with more room for the notes that
 truly need commenting later on.
@@ -1164,13 +1175,13 @@ the image below:
 
 See that strange `(F)/bcm`? The circled F is a shorthand for
 https://felx.cc. If you visit https://felx.cc/bcm, you'll be taken to
-this link instead:
+this much longer link instead:
 https://photos.google.com/share/AF1QipNkyXbkGnqpbp38J_f57sodGkG801H4lzJiwqTcInRbMmU38EKrqHbP28fZ9afKpw?key=WVB3UWdrUHNxS3duR0loTXY4ZEU5d084X29iSGp3,
 which is a photo I took of a page in a book for convenience. Thus,
 https://felx.cc/bcm is my short URL: it is convenient to type on any
 device, and can redirect me to a much more unwieldy URL.
 
-Thus, a URL shortener is a service that allows you to create a small
+A URL shortener is a service that allows you to create a small
 link that can redirect to a link of any length. This is invaluable: it
 allows me to save important, complicated links directly alongside my
 reading notes, where I know they will be most useful.
@@ -1186,7 +1197,7 @@ services already offer free tiers:
 - https://t.ly/
 - ...
 
-They all do the same thing. Turn bug URLs into small URLs.
+They all do the same thing. Turn big URLs into small URLs.
 
 However, if you're a computer nerd and would like to possess *your*
 own URL shortening service (like I do with https://felx.cc/, that is
@@ -1194,7 +1205,7 @@ fully owned by me!), I recommend you check out [a video I made on how
 to get started with
 VanityURL](/posts/2024/01/vanityurls-a-convenient-diy-url-shortener-service/).
 
-## Tip 13: Give your book away
+## Tip 13: Give your book away after you wrote your review
 
 This is the fun part. When you finished reading a book and collecting
 all its nuggets in your journal, you are free to share it with the
@@ -1212,43 +1223,12 @@ library is the victory lap.
 For the *DevOps Handbook*, since this book meant a lot for me during
 my personal development, I added a little note on the title page. Who
 knows, maybe this little encouragement will make a difference for the
-next person who will start this book!
+next person who will pick up this book!
 
 {{< figure src="/img/encouraging-others.jpg" position="center" caption="" >}}
 
-## Tip 14: Share your notes online
 
-I developed the habit to scan my notes once they are complete for a
-given book and putting them on my Google Drive. I then include a
-publicly accessible link to these scans directly in my reviews. This has many
-advantages:
-
-- It creates a true cloud-supported backup, meaning that I would most
-  likely have to delete the files myself to lose them.
-- It allows me to browse my notes even when I don't have my physical
-  books with me. This is critical as I tend to accumulate more and
-  more notebooks.
-- It shows people my actual work. This is an important part of the
-  trust-earning process. People won't believe you put in the work
-  until they see proof that makes it safe for them to believe you.
-
-{{< figure src="/img/link-handwritten-notes.png" position="center" caption="" >}}
-
-If you are looking for a flatbed scanner, the one I am currently using
-is the [Canon LiDE 400](https://amazon.ca/dp/B07GPS69KF) and I am
-totally satisfied with it. Recommended!
-
-After scanning my notes, I write a new post with all my favorite
-quotes from my note. I call those :star: [Star Quotes](/star-quotes) :star:. I then
-proceed to write a short review for the book. Having to summarize my
-understanding of the book and writing about my appreciation of it is
-what really cements it in my brain. A bonus side effect of that is
-that it creates a nice [virtual bookshelf](/bookshelf) that I can use
-to retrieve my notes and even share them with interested parties.
-
-{{< figure src="/img/virtual-bookshelf.png" position="center" caption="[My virtual bookshelf](/bookshelf)" >}}
-
-## Tip 15: Remember: Reading a book twice is inefficient
+## Tip 14: Remember: Reading a book twice is inefficient
 
 I've hinted at it before, but I'll say it clearly once more: If you
 are reading a book a second time, what does this say about the first
@@ -1257,7 +1237,7 @@ twice.  Instead, rely on your notes to quickly get the essence of the
 book.  That's your reward for putting in this work: you can get the
 same info as reading the full book in a fraction of the time.
 
-## Tip 16: Additional tips on hardware
+## Tip 15: Additional tips on hardware
 
 Alright, we are now getting into the nitty-gritty. For most of us,
 making a purchase is the fun, exciting part. My dopamine-hungry brain
@@ -1284,7 +1264,7 @@ easily fold back the notebook and stay opened flat on a table. If you
 do invest in a spiral-notebook, at least make sure it is high quality.
 
 
-Also, I strongly recommend to use a grid or dotted journal.  This
+Also, I strongly recommend to use a **dotted** journal.  This
 allows better horizontal alignment of information for writing lists.
 It makes my messy handwriting look less messy. Personally, I am now
 very fond of dotted journals, because they provide the benefits of a
@@ -1314,7 +1294,7 @@ Why?
 
 #### Ruler
 
-This allows you to make nice lines, for tables or underlines. Any
+This allows you to make nice lines, for margins, tables or underlines. Any
 cheap 15 cm ruler will do. It makes your journal more pleasing to
 read, which is important. After all, the whole point of keeping a
 journal is so you can comfortably refer to your knowledge.
