@@ -134,6 +134,58 @@ I wasn't always aware of how bad my learning anxiety was, and I'm
 convinced that most people who suffer that condition don't realize it
 either.
 
+In my younger years, to the outsider, I must have looked like a virtuoso in everything I
+touched. I could improvise on the piano with sensitivity at age 9
+after a single year of home classes. I intuitively understood
+Mathematics from a young age up to well into my college years. Words
+flowed naturally through me when I was writing, both in French and in
+English. I could juggle and ride kilometers on a unicycle. [And you should
+have seen me play with a flower
+stick](https://youtu.be/i8HtXcQfBOM?si=Cdq56ZEE0RJ1uma0)! I had a
+quick mind, piercing eyes and a sharp sense of
+humor. I could dominate anyone at any (video) game I picked up. I was
+never the strongest boy, but my charm and my wits were such that if I
+decided to get something done, no matter how difficult, I would always
+find a way.  And, as surprising as this may sound, I was still popular at
+school. I had more friends than most. My teachers loved me. My
+friends' parents loved me. I was never bullied. To summarize, I had it
+all, and it all felt easy.
+
+**Giftedness** refers to an exceptional level of natural ability or talent
+in one or more areas, such as intellectual, creative, artistic, or
+leadership capacities. It is often recognized in children who show
+advanced abilities compared to their peers.
+
+Well. My giftedness turned out to be a curse.
+
+All light creates shadow. When it comes to giftedness, there is one major
+downside. When you are used to being good at everything, as soon as you
+no longer are for a particular activity, your ego probably won't be able to handle
+it, so you often give up too easily. This comes at a price that is worth more
+than talent: **lack of grit**.
+
+The trained eye would
+have noticed a pattern in me. As soon as I found someone better than
+me at something, this didn't inspire me, nor make me curious, nor turn
+me into a fan. It made me *give up!* When I felt like I had reached my
+depth at something, I lost all interest in pushing forward and
+improving. There were many hints of that, in hindsight.
+
+As good as my flower stick abilities were, I snubbed techniques that
+were out of my reach by labelling them as "less interesting." I
+despised losing at board games that didn't rely on luck. For example,
+I stopped playing Chess as soon as I started losing. I lost interest
+in karate as soon as I got my first hit in the face. I never started
+cooking, because I didn't feel great at it. Learning to ride a
+snowboard was one of most challenging things I had ever done as a
+child, because I had to continue making attempts despite how bad it
+hurt in general.
+
+I smile when I remind myself of all these memories. I had no idea of
+the vacuum I was creating in my soul.
+
+[... missing bit ... work in progress ...]
+
 I knew I felt bad about my performance at work. I had felt that for a
 long time, but I couldn't quite put my finger on why. It's not that I
 wasn't trying hard enough: in fact, I felt I was trying so hard that I
