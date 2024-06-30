@@ -84,7 +84,7 @@ Thanks to Gene Kim for writing the books that gave me my *Aha!*
 moment.
 
 Thanks to Gabrielle for teaching me that reading a book twice is
-inefficient. :heart:
+inefficient. I love you.
 
 Thanks to Matt Morris for making a
 [video](https://www.youtube.com/watch?v=_WCfaGarc4U) that became the
@@ -94,7 +94,7 @@ Thanks to Desire Silcott for her photographs of me with nesto's
 bookshelf. (Chapter 6)
 
 Thanks to the following people who gave me feedback on this text:
-Gabrielle Perron, Réjane Léger, Maxime Bergeron, Nicole Daoust,
+Gabrielle Perron (on multiple occasions), Réjane Léger, Maxime Bergeron, Nicole Daoust,
 Mathieu Frenette, Julien Gaboriaud, Elaine Delage, Catherine Proulx.
 
 And **thank you** for giving this text a chance.
