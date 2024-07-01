@@ -1455,7 +1455,7 @@ Why?
 {{< figure scale="400px" src="/img/bic-cristal-and-highlighter.jpg" position="center" caption="" >}}
 
 For more details about how I chose the Bic Cristal as my main pen, see
-[The Bic Cristal Story[(/posts/2024/07/the-bic-cristal/)
+[The Bic Cristal Story](/posts/2024/07/the-bic-cristal/)
 
 
 #### Ruler
