@@ -1,5 +1,5 @@
 ---
-title: "The Bic Cristal"
+title: "The Bic Cristal Story"
 date: 2024-07-01T18:40:01-04:00
 draft: false
 toc: false
