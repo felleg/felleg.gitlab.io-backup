@@ -84,6 +84,3 @@ Cleave](https://www.youtube.com/watch?v=kuIkTRf8UFc) who, like me, is
 enamoured with his Bic pens. This is what we're aiming for: finding the
 tools that genuinely make us excited to get to work to use them.
 
-Note 3: Interestingly, for drawing on human skin, the Paper Mate InkJoy
-is surprisingly hard to beat. I will not be answering questions.
-
