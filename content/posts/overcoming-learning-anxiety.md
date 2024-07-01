@@ -1452,7 +1452,10 @@ Why?
 - The Bic Cristal does not smear (I'm left handed)
 - The highlighter has lots of ink and lasts a long time
 
-{{< figure scale="400px" src="/img/bic-cristal-and-highlighter.jpg" position="center" caption="So, am I a good [pen seller](https://www.youtube.com/watch?v=9UspZGJ-TrI)? ;)" >}}
+{{< figure scale="400px" src="/img/bic-cristal-and-highlighter.jpg" position="center" caption="" >}}
+
+For more details about how I chose the Bic Cristal as my main pen, see
+[The Bic Cristal Story[(/posts/2024/07/the-bic-cristal/)
 
 
 #### Ruler
