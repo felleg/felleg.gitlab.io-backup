@@ -24,41 +24,95 @@ description: "In this text, I will tell you my story: how I discovered I had lea
 # Preface
 
 We who suffer from learning anxiety suffer in silence, without
-realizing it. We know where to get information, but we do not feel
-capable of using it effectively. We feel powerless, stupid, and out of
-place. What is wrong with us? Why are we so *broken*?
+realizing it. We know where information lives, in fact we have the
+entire Internet at our disposal, including artificial intelligence.
+Yet, we do not feel capable of using this abundance of information
+effectively. We get discouraged. We don't "read the manual." We
+believe we have leaky ears; we seem unable to retain knowledge.
+Learning new things feels like a chore, efforts spent often in vain. We start doubting ourselves. In social contexts, we feel
+powerless, stupid, and out of place. What is wrong with us? Why are we
+so *broken*?
 
-We don't hear many people talk about learning anxiety, and I believe
+In this day and age, we don't hear many people talk about learning anxiety, and I believe
 therein lies the issue. Mental healing requires acknowledgement, and
 acknowledgement requires knowledge of the problem. The anxious learner
 is less likely to learn about their condition, because the idea of
-learning feels unsafe to them in the first place. It is a sadly ironic
-predicament.
+learning feels unsafe to them in the first place. It
+is a sadly ironic predicament. They are not likely
+to search for a cure; they must rely on chance to come across one.
+
+I hope this book will be such a cure. I hope you will trust whoever
+recommended it to you.
+
+I want all anxious learners to know that they are *not
+broken*. They simply lost something: joy in learning. It can be
+rediscovered. In fact, restoring your joy in learning might be the
+most meaningful experience of your life. It certainly has been for me
+so far. This process doesn't even need to take very long to have a big
+impact. What we will attempt together in this book is to change how
+you approach information, so that it makes you feel powerful instead
+of anxious.
 
 I have suffered from learning anxiety for the majority of my life and
 I was oblivious to it. Being anxious about learning made me afraid of
-failure, which in turn hindered my natural development. Luckily, I
-have made significant strides in my journey towards healing this
-condition when I turned 28 years old. Now in my thirties, I
-confidently say that overcoming my learning anxiety gave me a second
-chance at life. I believe it is my duty to share my story and what I
-*learned* from it, in the hope that this text reaches someone in need
-(you?).
+failure, which in turn hindered my natural development. It didn't
+matter what accolades I had on my CV. It was all luck. The truth is, I
+was afraid to fail, and I had forgotten what learning felt like. My
+life had no meaning. I hated my job. It was only when I was confronted
+with the risk of losing it all that I found in me the will to learn
+*how to learn*.
+Without exaggeration, this experience of overcoming my learning anxiety gave
+me a second chance at life. Not only did it reconnect me with my
+brain, it made me aware of different, better ways to live. By reading,
+I could learn from other people's mistakes and save myself unthinkable
+amounts of time. It has made me at peace, both with myself and with
+the world around me. Thus, I believe it is my duty to share my story
+and what I *learned* from it, in the hope that this text reaches
+someone in need (you?).
+
+We currently live in a society that rewards having fun and being comfortable.
+Our social networks reward us for making it look like we're having
+richer experiences than our friends. We have endless sources for videos, games and
+movies so we can distract ourselves from our thoughts. The problem with getting used
+to having fun
+and being comfortable is that it does not teach us anything, except
+maybe how terrifying it is to go back to normal, less pleasurable
+states.
+
+We can learn to flip this around. We can learn to crave what is
+healthy for our brains.
+
+True learning, the kind that changes the decisions we make, the
+actions we take, and the course of our lives, is almost universally
+painful to traverse. Each bruise is a stepping stone, a bump in the
+road that stands in the way of fulfilling our potential and our true
+desires. It is what it is. If only we can learn to trust the process,
+we will notice that we can attain everything we hope for and more. All
+it requires is the willingness to fail, to learn, to succeed.
+
+The information is out there. It has been available for generations
+and generations. Some of the most valuable lessons humanity has
+learned was written over 2,000 years ago by Greek philosophers. However, if we don't feel confident in our ability to
+navigate it all, it is as if that information didn't exist at all. All
+that wisdom is imprisoned in its ink.
 
 If there's only one thing I'd want you to remember from this text,
 it's that **anyone can experience learning anxiety and solving it
 requires a system of your own creation that will make learning a
-joyful experience to you**. In this text, I will tell you my story:
+joyful experience to you**.
+
+In this text, I will tell you my story:
 how I discovered I had learning anxiety, the impact it had on my life,
 and the techniques I developed to work through it. If you experience
 learning anxiety, my hope is that this text will make you realize that
 you are not alone and that there is a way out. You can overcome any
 obstacle that stands in your way, and you can even have fun while
-doing it. All it takes is the willingness to fail and learn from our
+doing it. You might rediscover yourself and the world around you like
+you never have before. All it takes is the willingness to fail and learn from our
 mistakes. And, perhaps, the urge to read a book or two. Or {{< n_books
 >}}.
 
-I hope this text will bring value to your life.
+I sincerely hope this text will bring value to your life.
 
 =L
 
@@ -68,7 +122,8 @@ Don't feel bad if you don't finish reading this text in its
 entirety. Perhaps I didn't make it engaging enough, or too rambly. You
 have full permission to blame the author if you lose interest.
 :slightly_smiling_face: If I may ask a small favor in return, just
-post a comment at the bottom of this page to let me know how far you
+post a comment at the bottom of this page or [send me an
+email](mailto:felix@felixleger.com) to let me know how far you
 made it, so that I have an idea of which section needs improving.
 Thank you for your help!
 
@@ -76,22 +131,24 @@ Thank you for your help!
 
 # Thanks
 
-Thanks to Alexandre Désilets-Benoit for giving me my X.
+Thanks to Alexandre Désilets-Benoit for his patience and for giving me my X.
 
-Thanks to Mathieu Frenette for teaching me the fold.
+Thanks to Mathieu Frenette for teaching me the fold and for pushing me
+beyond what I thought was possible.
+
+Thanks to Gabrielle Perron for teaching me that reading a book twice is
+inefficient, and so much more. I love you.
+
+
+Thanks to Desire Silcott for her photographs. (Chapter 6)
 
 Thanks to Gene Kim for writing the books that gave me my *Aha!*
 moment.
 
-Thanks to Gabrielle for teaching me that reading a book twice is
-inefficient. I love you.
 
 Thanks to Matt Morris for making a
 [video](https://www.youtube.com/watch?v=_WCfaGarc4U) that became the
 foundation of my learning system.
-
-Thanks to Desire Silcott for her photographs of me with nesto's
-bookshelf. (Chapter 6)
 
 Thanks to the following people who gave me feedback on this text:
 Gabrielle Perron (on multiple occasions), Réjane Léger, Maxime Bergeron, Nicole Daoust,
@@ -127,7 +184,7 @@ And **thank you** for giving this text a chance.
 > *How can leaders help their followers maximize their learning while
 > minimizing their pain?*
 >
-> (Diane Coutu, [The Anxiety of
+> (Edgar H. Schein, [The Anxiety of
 Learning](https://hbr.org/2002/03/the-anxiety-of-learning))
 
 I wasn't always aware of how bad my learning anxiety was, and I'm
@@ -178,25 +235,25 @@ I stopped playing Chess as soon as I started losing. I lost interest
 in karate as soon as I got my first hit in the face. I never started
 cooking, because I didn't feel great at it. Learning to ride a
 snowboard was one of most challenging things I had ever done as a
-child, because I had to continue making attempts despite how bad it
+child, because I had to continue making attempts to avoid being left
+behind despite how bad it
 hurt in general.
 
 I smile when I remind myself of all these memories. I had no idea of
-the vacuum I was creating in my soul.
+the vacuum I was creating in my soul. Life had given me many
+abilities, but left me with the impression that new abilities could
+not be developed.
 
-[... missing bit ... work in progress ...]
+Unsolved problems keep building up until they turn into a crisis. This
+is where our story begins -- with an existential crisis.
 
-I knew I felt bad about my performance at work. I had felt that for a
+<!--
+
+I
+knew I felt bad about my performance at work. I had felt that for a
 long time, but I couldn't quite put my finger on why. It's not that I
 wasn't trying hard enough: in fact, I felt I was trying so hard that I
-was getting close to burning out. However, I also felt like I wasn't
-accomplishing as much as I should have, considering the amount of
-energy I was pouring daily into my work. From the outside, it might
-have looked like this:
-
-{{< figure src="/img/too-busy.jpeg" position="center" caption="''Just get off your bike for a second!''" >}}
-
-A series of events eventually put me in survival mode, where I had two
+was getting close to burning out. However, A series of events eventually put me in survival mode, where I had two
 possible outcomes:
 
 - learn to adapt...
@@ -230,20 +287,28 @@ have that!**)"*, I was beginning to heal, although I hadn't realized
 it. Very meta...
 
 Let's start untangling this mental knot by going back in time.
+-->
 
-# Chapter 1: The anxiety begins
+# Part 1
 
-In 2017, fresh out of University and ready to tackle the world, I
+## Chapter 1: The anxiety begins
+
+In 2017, fresh out of University and feeling ready to tackle the world, I
 started working for a newly-formed startup then-called Proximity HCI
 (now known as [Contxtful](https://contxtful.com)). I had just finished
 my Masters thesis in particle Physics and was ready to jump into the
-software world ([this is something I already discussed on my blog in
+world of software development ([this is something I already discussed on my blog in
 2019](/posts/2019/10/why-i-shifted-from-physics-to-focus-on-software/)).
+I had developed a recent fondness for computers after analyzing
+multiple particle trajectories for my thesis.
 
-I was hired as a machine learning scientist, and chipped away at tasks
-for many months, but things were clearly not working out. With machine
+Machine learning was the hot buzzword at the time and so I was hired as a machine learning scientist, and chipped away at tasks
+for many months. Unfortunately, a few months in, things were clearly
+not working out. There was no science to my methods. I just cobbled
+algorithms together and hoped they would work magically. With machine
 learning, I was simply "not on my X", as we say in French, meaning I
-wasn't in the right context to excel. As I naturally started working
+wasn't in the right context to fulfill my potential. As I naturally
+drifted
 towards handling the IT of the company and discovering automated
 deployment pipelines, my then-manager (and trusted friend!) Alexandre
 Désilets-Benoit said something that would change my life.
@@ -270,7 +335,7 @@ nothing about. I was rightfully terrified!
 Not wanting to waste any time, I feverishly started Googling the most
 basic things, like "How to DevOps?" and "What is DevOps?". To give you
 an idea of the steepness of the learning curve I was faced with, check
-out [this great video from TechWorld with
+out [this introductory video from TechWorld with
 Nina](https://youtu.be/9pZ2xmsSDdo?si=UHPLsU2gar5CNhCZ) and count how
 many times something along the lines of "you need to learn / know /
 understand" is said:
@@ -281,11 +346,10 @@ understand" is said:
 
 Every search result required me to do at least three other searches to
 understand what basic sentences meant. For a while, it felt like I was
-surrounded by buzzwords, with no clear explanations in sight. Oh how I
+surrounded by buzzwords, with no clear explanations in sight. The
+rabbit hole just kept on going and going. Oh how I
 wished Jimmy Neutron's "[book
 gum](https://www.youtube.com/watch?v=x1ambhfSnBA)" was real!
-
-{{< figure src="/img/book-gum.jpg" position="center" caption="Jimmy Neutron's book gum" >}}
 
 This process of drinking from a fire hose of information while
 struggling to get anything done lasted *years*, and it was unpleasant.
@@ -296,12 +360,22 @@ that I had no use for. In short, at 27 years old, I already felt like
 I had missed the boat, and with each passing day felt more like giving
 up.
 
+I deeply felt like I wasn't
+accomplishing as much as I should have, considering the amount of
+energy I was pouring daily into my work, yet I had no idea what I
+could try to find a solution to my problems. From the outside, it might
+have looked like this:
+
+{{< figure src="/img/too-busy.jpeg" position="center" caption="''Just get off your bike for a second!''" >}}
+
+
+
 The only thing pushing me forward was the fact that my colleagues
 depended on my work, as amateurish as it was. I could entertain the
 idea of going down in a big ball of fire, but I didn't want my
 colleagues to suffer the fall with me. I wanted them to thrive and
 excel at their respective tasks. Ironically, I now believe this is
-precisely the kind of mindset that drives the DevOps philosophy: Do
+precisely the kind of mindset that drives the DevOps philosophy, to do
 everything you can to maximize the value your peers can deliver.
 However, I was simply too discouraged at the time to realize this...
 
@@ -312,7 +386,7 @@ subject matter. It was written as a novel, so I thought: "Ah! This is
 perfect material to read on the beach, without any pressure to learn.
 This should be fun."
 
-{{< figure src="/img/phoenix-project.png" position="center" caption="Buy, buy, buy! That's the easy part." >}}
+{{< figure src="/img/phoenix-project.png" position="center" caption="" >}}
 
 Turns out, it was great fun indeed! There are many reasons for this, I
 believe. Firstly, the book is, of course, very well written. It
@@ -335,7 +409,7 @@ protagonist of *The Phoenix Project* did. I felt ready for it. It was
 now my turn to be the main character. Bring it on!
 
 
-# Chapter 2: *The DevOps Handbook*
+## Chapter 2: *The DevOps Handbook*
 
 I ordered my copy of *[The DevOps Handbook](https://amzn.to/4clZUMF)*
 in 2019. I finished it on August 6, 2022. For those keeping count,
@@ -405,8 +479,7 @@ allow me to escape the dreaded Valley of Despair?
 The answer came quickly: for the first time in my life, I was
 threatened with termination.
 
-
-# Chapter 3: Good fold, Bad fold
+## Chapter 3: Aha!
 
 In June 2022, three months after joining the nesto DevOps team, I
 received the unfortunate news: I was getting a probation extension. I
@@ -427,86 +500,61 @@ personal goals was to get through the *DevOps Handbook* before the end
 of my extended probation, partly to prove to myself that I could
 accomplish something for once.
 
-Two months later, after over three years of trying, I ceremoniously turned the last
-page of *The DevOps Handbook*. Something had changed within me. I had
-learned *how to read a book*.
+And then, something magical happened. At page 107, three years after
+I had started the book, I found a sentence that hit me like a ton of bricks.
 
-{{< figure src="/img/finished-devops-handbook.jpg" position="center" caption="DONE!" >}}
+> In the team, we want to help overcome learning anxiety.
 
-So, can you  spot it? The little detail that allowed me to finish the
-book?
+For the first time in my life, I saw the demon in me. It was learning
+anxiety all along. It was making me afraid of learning, of trying, of
+failing. That's what kept wasting my time. That's what kept me in the
+Valley of Despair.
 
-Look at the spine. Do you notice how curved it is? Isn't that simply
-wonderful? It reminds me of a well-loved punching bag...
+I was made plainly aware that if I wanted to learn the necessary
+skills that would allow me to keep my job, I would first have to learn
+how to beat this learning anxiety out of me. I would have to make
+learning things feel *safe*.
 
-I guess I must explain. See, I have developed a very recent fondness
-for curved spines (at least, on books). I used to think having a book
-with a curved spine meant you weren't taking care of your stuff. I
-equated curved spines to negligence.  Today, I realize there are good
-folds, and there are bad folds. A bad fold is one that is simply the
-result of an accident: a book was dropped, or grossly stepped on. The
-picture above is an example of a good fold: it is evidence left by
-someone who really put their energy into extracting everything there
-was to learn from a specific book, page after page. It's a subtle
-difference, but it means a lot! It made me realize that books are
-literally punching bags.
+But how?
 
-Let me repeat that once more, in bold. **Books are punching bags**. We
-use books to make our brain more powerful. When we interact with a
-book, what matters is the effect it has on our brain, *not* the effect
-we have on the book.
+## Chapter 4: Opening Pandora's Box
 
-Let's think about punching bags for a moment. If someone was standing
-in a gym next to their punching bag, you would probably understand
-that whatever damage the bag exhibits went directly into making that
-person stronger, punch after punch, and kick after kick. If you had to
-fight someone, you'd probably pick the boxer with a seemingly
-untouched punching bag in their gym, since this would give you the
-best chance of winning the fight. Well, the same goes with books. If I
-met two students who showed me their library, I would guess that the
-one who receives the highest grades is the one whose book spines are
-the most curved. Why?  Because it shows they really used them!
+The hardest part of making a breakthrough is finding the right problem
+to solve. I had just identified my problem, *learning anxiety*. You can bet I wanted
+revenge for all the precious years it made me waste.
 
-Now look at the books in your library (if you have some). What does
-this say about your learning habits?
+I became much more open to trying new things. I worked overtime to
+better understand how some complex programs worked. I recorded video
+demonstrations to motivate myself to keep trying things. I celebrated
+whatever small successes I could accomplish. It was hard, but I felt I
+was going in the right direction.
 
-{{< figure src="/img/punching-bags.png" position="center" caption="I don't know about you, but I'd rather spar with the person who practiced with the bag on the left." >}}
+One evening, our team leader Mathieu Frenette welcomed us into his apartment for a
+special occasion. It was a nice bonding experience for all of us. My
+latest efforts had made me feel more welcomed in the team. I felt better
+about participating in discussions. I will never forget the moment
+when Mathieu came back with a stack of books as we were
+trying different flavors of spicy chocolate on his patio. There were books of all
+kinds, none related to our current job. He was eager to share what he
+was learning about.
 
-As insightful as the realization that books are punching bags might
-sound, I can't take credit for it. That honor goes to my manager at
-nesto (and mentor!) Mathieu Frenette, who casually showed me how he
-held the books he read.  On that day, my life was changed forever.
-Here is what it looked like:
+None of the content on display fascinated me more than the way Mathieu
+held those books. It felt wrong, gross, even. Never in my life had I
+seen someone hold a book like that. It sent shivers down my spine. It felt like he was breaking an
+unwritten rule. Here's what it looked like:
 
-{{< figure src="/img/book-suplex.jpg" position="center" caption="Behold, the book suplex!" >}}
+{{< figure src="/img/how-to-fold-a-book.gif" position="center" caption="The book suplex" >}}
 
-Some people might cringe when seeing this. Are you one of those?
-:wink:
+I asked Mathieu why he was folding his books this way. He simply
+replied with his characteristic grin: "It's so much more comfortable!"
 
-Yet, those who know, know. For me, this opened Pandora's box.  Now,
-you might be asking: What difference does it make to hold a book bent
-over backwards? I'm tempted to say: try it for yourself and *you* tell
-me what difference it makes. Here's my take on it:
+That made me pause. Could this have been my missing ingredient all
+along?
 
-- It's more comfortable to for long periods of time, because it allows
-  a firmer grip
-- It's less distracting, because you see only one page at a time
-- It leaves a mark. Remember, books are punching bags!
-
-A book is just a bunch of pages with ink on them. It is a book's
-content that is valuable, i.e. what sticks in your brain after  you
-are done with it.  The extraction process might leave marks, but  that
-is secondary.  Books are a mere tactile visual support. We have to
-stop "respecting" our books. A suplexed book is not impacted at all in
-its capacity to teach us something. Yet, as obvious as this might
-sound, it is a truth that eluded me for many years. Let me tell you a
-story of a time when I respected books more than my brain's need to
-learn.
-
----
 
 ## Flashback
 
+---
 About 10 years ago, I was a relatively money-poor grad student. I was
 somewhat short on cash and keeping my old course textbooks was not
 something I could afford to do. Thus, I took great care of these
@@ -527,54 +575,90 @@ collection](/posts/2021/03/selling-my-video-game-collection-the-hoarding-project
 Whatever the reason, I'm glad I made it this far in  life  despite
 this backwards mindset, because I don't plan on doing this ever again.
 
-(End flashback)
-
 ---
 
-So there you have it. Now you know why I believe a folded, potentially
-damaged book is beautiful. It means someone gave the book the time and
-energy it deserved. And, indirectly, if this "damaged" book is freely
-available on a bookshelf near you, it means that person understood the
-book enough to part with it, and thought it was worth sharing with
-others.
+Let's think about punching bags for a moment. If someone was standing
+in a gym next to their punching bag, you would probably understand
+that whatever damage the bag exhibits went directly into making that
+person stronger, punch after punch, and kick after kick. If you had to
+fight someone, you'd probably pick the boxer with a seemingly
+untouched punching bag in their gym, since this means they probably
+haven't practiced boxing at all.
 
-**It's ok to damage your books. That's the point of owning them.** You
+{{< figure src="/img/punching-bags.png" position="center" caption="I don't know about you, but I'd rather spar with the person who practiced with the bag on the left." >}}
+
+
+The book suplex made something click in my head. It opened Pandora's
+box. **Books are punching bags for our brain**. They are meant to be
+used however necessary to make you stronger.
+
+Let me get preachy about it. **It's ok to damage your books. That's the point of owning them.** You
 are meant to be free to bend them, write in them, fold them, in any
-way that allows you to *learn faster*. Rip pages off if you must. Your
+way that allows you to *learn faster*. Rip pages off if you must.
+Doodle in them if you must. Your
 copy is *yours*. Please don't think of books as decorations; think of
-them as food that nourishes your soul! If you damaged a book to the
+them as food that nourishes your soul! *Use them*. If
+you damaged a book to the
 point that you believe it to be unusable by anyone else, it is ok to
-put it in a recycling bin. Few people realize how invaluable our
+put it in a recycling bin afterward. Few people realize how invaluable our
 ability to learn truly is -- it is well worth a few hundred pages if
 it can change your life and the lives of others around you. In
 summary, my final advice on the matter is to stop respecting books,
 and to start respecting how your brain learns.  :smiley:
 
-So, **here is my challenge to you**: find a book you feel OK
+You can't imagine how joyful I was to suplex the DevOps Handbook. It
+had held me back for so long, I felt like I was getting revenge. It
+was such a cathartic experience. Page after page, I was folding it,
+compressing it, damaging it, writing in it, and with each day passing, I saw the book
+get more and more used by my doing. I hadn't yet learned how to take
+notes (we'll get to that in [Chapter
+5](#chapter-5-creating-a-system-of-learning)), but I was making more
+progress than ever, simply because the act of using my hands to
+flatten the book made me feel powerful. The book suplex was such an
+upgrade when it came to reading:
+- it's more comfortable for longer periods of time, because it allows
+  a firmer grip
+- it's less distracting, because you can only see one page at a time
+- it leaves a mark (remember, books are punching bags!)
+
+Here's a picture I took after turning the last page of the book that
+had
+tortured me for the majority of my career:
+
+{{< figure src="/img/finished-devops-handbook.jpg" position="center" caption="DONE!" >}}
+
+So, **here is my challenge to you**. Before moving on to [Part 2](#part-2), find a book you feel OK
 experimenting on (including this text if you are reading it in book
 version!) and apply a clean, *strong* book suplex to it, as flat as
 you can make it. It doesn't matter if it is a softcover or hardcover; the book suplex will work on any book, [including the dictionary](/img/larousse-fold.jpg). Most people fear that the book will instantly break
 in half, but in my experience that never happens. You generally have
 to work pretty hard to even get a single page to fall out of a book,
-trust me. So, show it who's the boss! Yes, it's going to leave a mark
+trust me. Even if it does, it's *not* a big deal. If you follow my
+method, you won't even keep the book when you are done with it! So,
+show it who's the boss. Yes, it's going to leave a mark
 on the spine, but that's also the point. See how this new experience
 feels on your hands, on your eyes. Get comfortable. Try suplexing the
 early pages of the book, then the middle pages, then the final pages.
 Observe the difference. Realize that books have been around for
 hundreds of years and that they are *tough*, dependable objects.
 
-{{< figure src="/img/how-to-fold-a-book.gif" position="center" caption="Can *you* do it?" >}}
 
 You don't have to try it if it makes you uncomfortable: I don't want
-to force you to break your things. Indeed, I take no responsibility in
+to force you to break your precious things. Indeed, I take no responsibility in
 the damage anyone makes to their own material :wink:. Before I move
 on, though, I will point out that if you feel like you have tried
 everything and that learning anxiety is still looming over you, it
 might be worth giving the book suplex a shot, if only for the
 cathartic experience of using your hands to crush something that made
-you feel like a prisoner. Freedom!!
+you feel like a prisoner.
 
-# Chapter 4: Creating a system of learning
+Freedom!!
+
+---
+
+# Part 2
+
+## Chapter 5: Creating a system of learning
 
 So, I knew how to hold a book. Big whoop. This didn't change the fact
 that after reading 10 pages, I couldn't contain all the information I
@@ -650,32 +734,44 @@ mastery, and rejoice that you are making real progress.**
 Alright, enough talking, let's start doing. It's time I share with you
 how I actually learn.
 
-# Chapter 5: My current learning system
+## Chapter 6: My current learning system
 
-Here's how the sausage is made, in three easy steps. You will need:
+In this chapter, I will teach you exactly how I learned everything I
+know. You will notice that my method relies on using physical books.
+If you'd rather read digital books, the main steps will stay roughly the same.
+If you learn better from audiobooks or podcasts, you might have to
+find workarounds.
 
-- Notebook
-- Pen
-- Highlighter
-- Ruler
+What I want you to remember is that it's ok if your
+preferred way of learning is different from mine. At the end of the
+day, what matters is that you find joy in using your system and that
+it gives you the results you want.
+
+Alright, let's get started. If you want to try my learning system, you
+will need, in addition to your chosen book:
+
+- a notebook
+- a pen
+- a highlighter
+- a ruler that fits in your notebook
 
 Make sure that each of these items are objects that you personally
 enjoy using. I'll nerd out [in a later section of the Appendix about
 the hardware I use](#additional-tips-on-hardware), but for now just
 focus on making sure that whatever gear you end up choosing makes you
-want to read/write more, not less! If you are reading a printed
-version of this text, I suggest you try to do these steps in real time
-as you learn about them.
+want to read/write more, not less! If you can, I suggest you try to do these steps in real time on this text as you learn about them.
 
-## Step 1: Read and highlight the golden nuggets
+### Step 1: Read and highlight the golden nuggets
 
-Crack open the book at page 1. We are embarking on a journey. If you
+Crack open the book at page 1 (or simply continue reading here). We are embarking on a journey. If you
 didn't try the book suplex yet, consider doing it now.  Have a
 highlighter in your hand and start reading. Highlight whatever golden
 nuggets of information *you* find interesting. That's it!
 
 Whenever I highlight something, I don't care if this is something the
-author expected me to memorize or not, resonate with or not. Often
+author expected me to memorize or not. If a sentence resonates with me, if I'd
+like to keep this sentence floating in my brain, that's the signal to
+highlight it. Often
 times I even take pride in highlighting a little detail that feels
 irrelevant in the scope of the whole book but that *I* connect with.
 Do not be scared by this freedom: follow your instinct. There is no
@@ -689,7 +785,7 @@ collect all these little knowledge nuggets later. :wink:
 
 {{< figure src="/img/mining-for-golden-nuggets.jpg" position="center" caption="Highlighting = identifying the gold nuggets." >}}
 
-## Step 2: Write down your highlights
+### Step 2: Write down your highlights
 
 When you're done with the book (or whenever you feel like it,
 really!), get your notebook out. We will now go back to the beginning
@@ -717,7 +813,7 @@ incredibly simple and profoundly powerful. I think you'll have to give
 it a shot to really *get* it.
 
 Thirdly, as I wrote earlier in [Chapter
-4](#chapter-4-creating-a-system-of-learning), you want to do
+5](#chapter-5-creating-a-system-of-learning), you want to do
 everything you can *not* to depend on having access to the book once
 you're done with it. The goal of producing complete notes is to allow
 you to unshackle from the book and claim this knowledge as your own.
@@ -742,7 +838,7 @@ do this while listening to music, or while watching a video in the
 background. It's very relaxing. Just go at your own pace and stop when
 you've had your fill.
 
-## Step 3: Find your Star Quotes
+### Step 3: Find your Star Quotes
 
 So you read a book, you made some highlights, and you took some
 notes. Are all of these notes good? On average, I would say about 60%
@@ -771,9 +867,9 @@ book, which happens in the next step.
 
 {{< figure src="/img/highlight-star-quotes.png" position="center" caption="" >}}
 
-Psst, I have created [a free book version of my Star Quotes](/star-quotes) if you are interested.
+Psst, I have created [a free book version of all my Star Quotes](/star-quotes) if you are interested.
 
-## Step 4: Write about your opinion of the book
+### Step 4: Write about your opinion of the book
 
 This might seem like overkill to most, but I wouldn't even think of
 skipping this step. Once I'm done with a book, I want to formulate my
@@ -824,7 +920,7 @@ That's it, really! However, since I am very passionate about this
 subject, I can't resist sharing some additional tips. Head over to the
 [Appendix](#appendix) for more precise tricks.
 
-# Chapter 6: Conclusion
+## Chapter 7: Conclusion
 
 I find the image below very telling. My learning system allowed me to
 compress a 421-page book down to its essential learning nuggets, which
@@ -843,8 +939,8 @@ book all over again. The information has been pre-digested.
 
 Books are not something to be afraid of. Not anymore. I realized I now
 get to decide which book I read. As a professional, I am the master of
-my own learning. As the DevOps Handbook rightly puts it on page 320 of
-its second edition:
+my own learning. This ability to learn allowed me to find a quote that
+I now live by, hidden deep into the DevOps Handbook at the end of page 320 of its second edition:
 
 > **The only sustainable competitive advantage is [your] ability to
 > learn faster than the competition.**
@@ -865,7 +961,8 @@ about a specific problem you couldn't quite figure out. Suddenly, a
 new connection occurs in your brain. Now, all you can see is the
 answer.  Everything simply  makes  sense! Personally, this is among
 the most powerful and freeing experiences I have felt yet. It truly is
-a transcending moment that cannot be overstated.
+a transcending moment that cannot be overstated. In the beginning,
+reading books felt painful. Now, I am addicted.
 
 **We are all lifelong learners.** If you want to learn about
 something, you can do it. What allows some people to learn faster than
@@ -920,6 +1017,8 @@ all about.
 Your move!
 
 {{< figure src="/img/nesto-library-visionary-look.jpg" >}}
+
+---
 
 # Appendix: Additional tips
 
@@ -981,6 +1080,18 @@ you need to.
 After some time, if you're anything like me, you might come to *prefer* reading your book than using your phone. Indeed, why waste time searching for inconsequential content online when the content you really care about is right there in your book?
 
 Caveat: For this tip to work, you *must* have your book and your highlighter on you (tip #1) pretty much all the time. It's worth it!
+
+### Tip 2.1: Buy an alarm clock and leave your phone out of the bedroom
+
+Kudos to Simon Sinek for this tip. Most people keep their phones next
+to their bed because it serves as their morning alarm clock. That is a
+terrible practice, for we know how damaging it is for our eyes and
+minds to use our phones before going to sleep. Try adopting a different
+strategy that generations of people before you have relied on to go to
+sleep: get yourself an alarm clock ([here\'s the one I
+use](https://amzn.to/3W6QL4z)), migrate your phone's charger outside
+of your bedroom, and bring your book to bed instead. Not only will
+this make you read more, but it will also make your sleep better.
 
 ## Tip 3: Start by reading a single book at a time
 
