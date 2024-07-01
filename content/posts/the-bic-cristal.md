@@ -13,7 +13,7 @@ tags:
 This is a story of how investing $6 in my learning gear made a big
 difference.
 
-This text was originally included in [Overcoming Learning
+This text was originally written in 2022 to be included in [Overcoming Learning
 Anxiety](/overcoming-learning-anxiety), but felt superfluous, so I am
 posting it in a separate text.
 
