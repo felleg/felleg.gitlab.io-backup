@@ -93,8 +93,8 @@ it requires is the willingness to fail, to learn, to succeed.
 The information is out there. It has been available for generations
 and generations. Some of the most valuable lessons humanity has
 learned was written over 2,000 years ago by Greek philosophers. However, if we don't feel confident in our ability to
-navigate it all, it is as if that information didn't exist at all. All
-that wisdom is imprisoned in its ink.
+navigate it all, it is as if that information didn't exist. All
+that wisdom stays imprisoned in its ink.
 
 If there's only one thing I'd want you to remember from this text,
 it's that **anyone can experience learning anxiety and solving it
