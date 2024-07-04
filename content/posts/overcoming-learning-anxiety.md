@@ -23,64 +23,79 @@ description: "Unlock your hidden potential by rediscovering the joy of learning"
 
 # Preface
 
-We who suffer from learning anxiety suffer in silence, without
-realizing it. We know where information lives, in fact we have the
-entire Internet at our disposal, including artificial intelligence.
-Yet, we do not feel capable of using this abundance of information
-effectively. We get discouraged easily. We don't "read the manual." We
-believe we have leaky ears; we seem unable to retain knowledge.
-Learning new things feels like a chore, efforts spent often in vain. We start doubting ourselves. In social contexts, we feel
-powerless, stupid, and out of place. What is wrong with us? Why are we
-so *broken*?
+> *Awareness of wrongdoing is the starting point of healing, for he who
+> does not know that he is doing wrong does not wish to be set right.*
+> 
+> Lucius Annaeus Seneca, *Letters on Ethics*
 
-In this day and age, we don't hear many people talk about learning anxiety, and I believe
-therein lies the issue. Mental healing requires acknowledgement, and
-acknowledgement requires knowledge of the problem. The anxious learner
-is less likely to learn about their condition, because the idea of
-learning feels unsafe to them in the first place. It
-is a sadly ironic predicament. They are not likely
-to search for a cure; they must rely on chance to come across one.
+I wrote this book because I wanted to educate people about learning
+anxiety. In this day and age, we don't hear many people talk about
+this subject, and I believe therein lies the issue. Mental healing
+requires acknowledgement, and acknowledgement requires knowledge of
+the problem. The anxious learner is less likely to learn about their
+condition, because the idea of learning feels unsafe to them in the
+first place. It is a sadly ironic predicament.
 
-I hope this book will be such a cure. I hope you will trust whoever
-recommended it to you.
+In traversing the 2020 COVID-19 epidemic, I believe we have all
+learned something about importance of mental health. I have observed
+growing acceptance in public discourse for using therapy as a way to
+heal, which personally makes me quite happy as a believer in such
+treatments. Society has made great
+progress in beginning to accept how serious anxiety disorders are for
+the individual. However, I have yet to hear someone say anything about
+learning anxiety in the real world, let alone have them come forward
+to talk about how they were affected by this disease, how they worked
+through it, and how healing transformed their lives.
 
-I want all anxious learners to know that they are *not
+"Be the change I want to
+see in the world" is what motivated me to write this book. I
+surely don't know enough about the science of neurology to claim
+expertise on the topic of learning anxiety. However, I did have severe
+learning anxiety, and I feel the need to bring awareness to this
+condition while the experience is
+still fresh in my mind. Overcoming learning anxiety is the most
+gratifying thing I have ever experienced. It changed my life.
+By rediscovering joy in learning and
+in creating my own system of learning, I have found the key to
+unlimited mountains of wisdom that profoundly impacted every aspect of
+my identity. Where I once felt stuck in constantly repeating the same
+mistakes, I could now read a book on the subject that enlarged my
+perspective, made me see things differently, and suggested different
+ways to act. 
+
+As I write these lines, there is a single lingering fear in me: am I preaching to the
+choir? What are the
+chances that people afraid of reading books make the decision to read
+this one? However slim those odds are, I have to take them, if only as
+a token of gratitude for the authors that changed my
+life with their words.
+
+I wish all anxious learners would know that they are *not
 broken*. They simply lost something: joy in learning. It can be
 rediscovered. In fact, restoring your joy in learning might be the
 most meaningful experience of your life. It certainly has been for me
 so far. This process doesn't even need to take very long to have a big
-impact. What we will attempt together in this book is to change how
+impact. What we will attempt together in this book is changing how
 you approach information, so that it makes you feel powerful instead
 of anxious.
 
+<!--
 I have suffered from learning anxiety for the majority of my life and
 I was oblivious to it. Being anxious about learning made me afraid of
 failure, which in turn hindered my natural development. It didn't
 matter what accolades I had on my CV. It was all luck. The truth is, I
 was afraid to fail, and I had forgotten what learning felt like. My
-life had no meaning. I hated my job. It was only when I was confronted
+life had no meaning. I was miserable at work. It was only when I was confronted
 with the risk of losing it all that I found in me the will to learn
-*how to learn*.
-Without exaggeration, this experience of overcoming my learning anxiety gave
-me a second chance at life. Not only did it reconnect me with my
-brain, it made me aware of different, better ways to live. By reading,
-I could learn from other people's mistakes and save myself unthinkable
-amounts of time. It has made me at peace, both with myself and with
-the world around me. Thus, I believe it is my duty to share my story
-and what I *learned* from it, in the hope that this text reaches
-someone in need (you?).
-
-We currently live in a society that rewards having fun and being comfortable.
-Our social networks reward us for making it look like we're having
-richer experiences than our friends. We have endless sources for videos, games and
-movies so we can distract ourselves from our thoughts. The problem with getting used
-to having fun
-and being comfortable is that it does not teach us anything, except
-maybe how terrifying it is to go back to normal, less pleasurable
-states.
-
-We can learn to flip this around. We can learn to crave what is
-healthy for our brains.
+*how to learn*.  Without exaggeration, this experience of overcoming
+my learning anxiety gave me a second chance at life. Not only did it
+reconnect me with my brain, it made me aware of different, better ways
+to live. By reading, I could learn from other people's mistakes and
+save myself unthinkable amounts of time. It has made me at peace, both
+with myself and with the world around me. Thus, I believe it is my
+duty to share my story and what I *learned* from it, in the hope that
+this text reaches someone in need -- you, perhaps?
+-->
 
 True learning, the kind that changes the decisions we make, the
 actions we take, and the course of our lives, is almost universally
@@ -88,15 +103,19 @@ painful to traverse. Each bruise is a stepping stone, a bump in the
 road that stands in the way of fulfilling our potential and our true
 desires. It is what it is. If only we can learn to trust the process,
 we will notice that we can attain everything we hope for and more. All
-it requires is the willingness to fail, to learn, to succeed.
+it requires is the willingness to fail, to learn, to succeed. We can
+learn to love learning.
 
-The information is out there. It has been available for generations
+Now more than ever, the information is out there. It has been
+available for generations
 and generations. Some of the most valuable lessons humanity has
-learned was written over 2,000 years ago by Greek philosophers. However, if we don't feel confident in our ability to
+learned was written over 2,000 years ago by Greek philosophers.
+However, if we don't feel confident in our ability to
 navigate it all, it is as if that information didn't exist. All
-that wisdom stays imprisoned in its ink.
+that wisdom stays imprisoned in its ink. The gift of humanity is
+wasted on us.
 
-If there's only one thing I'd want you to remember from this text,
+If there's only one thing I'd want you to remember from all of this,
 it's that **anyone can experience learning anxiety and solving it
 requires a system of your own creation that will make learning a
 joyful experience to you**.
@@ -922,6 +941,11 @@ subject, I can't resist sharing some additional tips. Head over to the
 
 ## Chapter 7: Conclusion
 
+> *The only sustainable competitive advantage is the ability to
+> learn faster than the competition.*
+>
+> -- Peter Senge, *The Fifth Discipline*
+
 I find the image below very telling. My learning system allowed me to
 compress a 421-page book down to its essential learning nuggets, which
 take only 50 handwritten pages in my A5-sized journal. This means I
@@ -940,14 +964,7 @@ book all over again. The information has been pre-digested.
 Books are not something to be afraid of. Not anymore. I realized I now
 get to decide which book I read. As a professional, I am the master of
 my own learning. This ability to learn allowed me to find a quote that
-I now live by, hidden deep into the DevOps Handbook at the end of page 320 of its second edition:
-
-> **The only sustainable competitive advantage is [your] ability to
-> learn faster than the competition.**
->
-> -- Peter Senge
-
-This is my favorite quote of all time.
+I now live by, hidden deep into the DevOps Handbook at the end of page 320 of its second edition. It appears at the beginning of this chapter.
 
 Textbooks have a purpose outside the classroom, even if that means you
 won't have a professor dragging you through it. Not all textbooks
