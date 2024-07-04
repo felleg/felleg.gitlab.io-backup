@@ -4,7 +4,6 @@ date: 2024-02-10T19:27:24-05:00
 cover: /img/arcade-wheel.png
 tags:
   - arcade
-  - featured
 description: "The arcade wheel"
 ---
 
