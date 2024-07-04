@@ -10,7 +10,7 @@ aliases: [
    "/overcoming-learning-anxiety/",
    "/ola",
 ]
-description: "In this text, I will tell you my story: how I discovered I had learning anxiety, the impact it had on my life, and the techniques I developed to work through it."
+description: "Unlock your hidden potential by rediscovering the joy of learning"
 ---
 
 **About the cover image**
@@ -27,7 +27,7 @@ We who suffer from learning anxiety suffer in silence, without
 realizing it. We know where information lives, in fact we have the
 entire Internet at our disposal, including artificial intelligence.
 Yet, we do not feel capable of using this abundance of information
-effectively. We get discouraged. We don't "read the manual." We
+effectively. We get discouraged easily. We don't "read the manual." We
 believe we have leaky ears; we seem unable to retain knowledge.
 Learning new things feels like a chore, efforts spent often in vain. We start doubting ourselves. In social contexts, we feel
 powerless, stupid, and out of place. What is wrong with us? Why are we
