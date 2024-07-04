@@ -3,7 +3,7 @@ title: "My Review Ratings, Explained"
 date: 2023-10-21T20:31:21-04:00
 draft: false
 toc: false
-cover: /img/two-thumbs-up.jpg
+#cover: /img/two-thumbs-up.jpg
 aliases: ['/posts/2023/10/my-book-ratings-explained',
 '/ratings-explained']
 ---
@@ -38,3 +38,5 @@ There are some special ratings you might see:
 I hope that clears things up!
 
 =L
+
+{{< figure src="/img/two-thumbs-up.jpg" position="center" caption="" >}}
