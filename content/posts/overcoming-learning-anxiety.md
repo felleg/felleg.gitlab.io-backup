@@ -936,7 +936,7 @@ about the subject you read about, you will do fine. The easiest it is
 for you to access that information once you're done, the better.
 
 That's it, really! However, since I am very passionate about this
-subject, I can't resist sharing some additional tips. Head over to the
+subject, I can't resist sharing some additional ideas. Head over to the
 [Appendix](#appendix) for more precise tricks.
 
 ## Chapter 7: Conclusion
@@ -1037,13 +1037,13 @@ Your move!
 
 ---
 
-# Appendix: Additional tips
+# Appendix: Additional ideas
 
 In this section, I will tell you about some tricks I picked up over
 years of learning from books. If you have other interesting tricks you
 would like to share, please let me know in the comments below! :pray:
 
-## Tip 1: Never go out without your book, highlighter and pen
+## Idea 1: Never go out without your book, highlighter and pen
 
 Personally, I feel naked whenever I go somewhere without my book, my notebook, my pen and my highlighter. 
 
@@ -1054,17 +1054,17 @@ If you want to get serious about your reading habits, you need to find a way to 
 It doesn't have to be complicated. If you travel with a bag, that's an obvious spot to store your books. If you have pockets, that's an obvious place for a pen and highlighter.
 
 To tell the truth, you don't really need a bag or pockets to make this
-tip work. You could simply keep your book and highlighter in your
+idea work. You could simply keep your book and highlighter in your
 hands and your pen behind your ear for the few times you might need
 it. No clothes required!
 
 If you are dying for a bag recommendation, [here\'s the bag I use when I\'m traveling.](https://amzn.to/4bjCaa3) It's light, it's compact when stored, and gets the job done every time.
 
-## Tip 2: Grab your book before grabbing your phone
+## Idea 2: Grab your book before grabbing your phone
 
 In my experience, the best way to progress through a book is *not* to allocate long
 periods of time for reading, but rather to keep your book handy at all
-times (see tip #1) and to open it whenever you're between tasks.
+times (see [Idea #1](#idea-1-never-go-out-without-your-book-highlighter-and-pen)) and to open it whenever you're between tasks.
 
 When I manage to motivate people to pick up
 reading again, their intuitive response is generally to say "I'll set
@@ -1091,16 +1091,18 @@ How was that? Disappointing, right? Well, too bad, that really is the
 secret sauce to finishing books quickly! :smiley:
 
 If you try it, I'm certain you'll be amazed by
-the results. The majority of us are addicted to our phones, and this tip turns our addiction into something positive. Change your phone's wallpaper to remind you to read if
+the results. The majority of us are addicted to our phones, and this
+idea turns our addiction into something positive. Change your phone's
+wallpaper to remind you to read if
 you need to. 
 
 After some time, if you're anything like me, you might come to *prefer* reading your book than using your phone. Indeed, why waste time searching for inconsequential content online when the content you really care about is right there in your book?
 
-Caveat: For this tip to work, you *must* have your book and your highlighter on you (tip #1) pretty much all the time. It's worth it!
+Caveat: For this idea to work, you *must* have your book and your highlighter on you (see again [Idea #1](#idea-1-never-go-out-without-your-book-highlighter-and-pen)) pretty much all the time. It's worth it!
 
-### Tip 2.1: Buy an alarm clock and leave your phone out of the bedroom
+### Idea 2.1: Buy an alarm clock and leave your phone out of the bedroom
 
-Kudos to Simon Sinek for this tip. Most people keep their phones next
+Kudos to Simon Sinek for this idea. Most people keep their phones next
 to their bed because it serves as their morning alarm clock. That is a
 terrible practice, for we know how damaging it is for our eyes and
 minds to use our phones before going to sleep. Try adopting a different
@@ -1110,7 +1112,7 @@ use](https://amzn.to/3W6QL4z)), migrate your phone's charger outside
 of your bedroom, and bring your book to bed instead. Not only will
 this make you read more, but it will also make your sleep better.
 
-## Tip 3: Start by reading a single book at a time
+## Idea 3: Start by reading a single book at a time
 
 As you start learning, you get excited when you see all the
 possibilities within your grasp. Never forget, "Stop starting, start
@@ -1136,7 +1138,7 @@ single book at a time, especially at the start of your learning
 journey - don't get carried away!
 
 
-## Tip 4: Track your progress by folding the corners
+## Idea 4: Track your progress by folding the corners
 
 This is a big part of my system.
 
@@ -1168,7 +1170,7 @@ writing, I write. I feel like I am free to choose what activity is
 right for what time. And, most importantly, whatever I end up
 choosing, I am constantly learning.
 
-## Tip 5: Use the body of your highlighter as a visual aid
+## Idea 5: Use the body of your highlighter as a visual aid
 
 When I picture someone reading, I often see them using their finger to
 track their progress, like this:
@@ -1209,7 +1211,7 @@ This has many benefits:
    - wide enough to hide the sentences below what I am reading, which
      ensures I am not reading "in diagonal".
 
-## Tip 6: Get the right grip
+## Idea 6: Get the right grip
 
 If you plan on reading for long periods of time, you need a way to get
 comfortable. Fortunately, I believe I have found an easy way that will
@@ -1218,8 +1220,8 @@ work for most people. This is what is looks like:
 {{< figure src="/img/how-hold-a-book-1.jpg" position="center" caption="" >}} 
 
 As you can see, one hand holds the book, and the other holds the
-highlighter. I have already described in [Tip
-#5](#tip-5-use-the-body-of-your-highlighter-as-a-visual-aid)
+highlighter. I have already described in [Idea
+#5](#idea-5-use-the-body-of-your-highlighter-as-a-visual-aid)
 how to use your highlighter as a visual aid. Personally, I really like
 leaving my index between the front and back cover, because it creates
 a nice support without being in my eyes' way. When you reach the end
@@ -1227,7 +1229,7 @@ of the page, simply switch hands!
 
 {{< figure src="/img/how-hold-a-book-2.jpg" position="center" caption="" >}} 
 
-## Tip 7: Use creative highlighting to help your future self take efficient notes
+## Idea 7: Use creative highlighting to help your future self take efficient notes
 
 When we highlight in a book, we highlight for our future self who will
 turn these highlights into written notes. Our goal is to make that
@@ -1282,7 +1284,7 @@ striking if written as a list:
 
 {{< figure src="/img/enumeration.jpg" position="center" caption="" >}}
 
-## Tip 8: Use your book's margins and blank pages to write ideas
+## Idea 8: Use your book's margins and blank pages to write ideas
 
 If reading a certain paragraph triggers a light bulb in your mind or
 makes you pause and wonder about a specific question, I recommend that
@@ -1301,7 +1303,7 @@ Don't let a good idea go to waste!  :smile:
 
 {{< figure src="/img/thoughts-about-book.png" position="center" caption="" >}} 
 
-## Tip 9: Number your notebook's pages
+## Idea 9: Number your notebook's pages
 
 If your notebook doesn't have page numbers already (most don't), I
 strongly recommend that you number your pages yourself. This is
@@ -1314,7 +1316,7 @@ note-taking. Things will look much clearer when you reach the bottom
 right
 corner of odd-numbered pages. :wink:
 
-## Tip 10: If your notebook doesn't have margins, make some!
+## Idea 10: If your notebook doesn't have margins, make some!
 
 For most of my life, I assumed the margin was meant for graders to
 review your work and comment on their corrections. Well, news flash:
@@ -1332,7 +1334,7 @@ Of course, not all of your notes will require a margin note, but
 that's a good thing: it leaves you with more room for the notes that
 truly need commenting later on.
 
-## Tip 11: Write the source of your knowledge nuggets in your margins
+## Idea 11: Write the source of your knowledge nuggets in your margins
 
 {{< figure src="/img/notes-source.png" position="center" caption="" >}}
 
@@ -1346,7 +1348,7 @@ even more important than daily work!").
 
 Side effects may include people calling you a bookworm.
 
-## Tip 12: Use a URL shortener to encode web links in your notebook
+## Idea 12: Use a URL shortener to encode web links in your notebook
 
 This is very nerdy, but also very cool *and* useful. See an example in
 the image below:
@@ -1385,7 +1387,7 @@ fully owned by me!), I recommend you check out [a video I made on how
 to get started with
 VanityURL](/posts/2024/01/vanityurls-a-convenient-diy-url-shortener-service/).
 
-## Tip 13: Give your book away after you wrote your review
+## Idea 13: Give your book away after you wrote your review
 
 This is the fun part. When you finished reading a book and collecting
 all its nuggets in your journal, you are free to share it with the
@@ -1408,7 +1410,7 @@ next person who will pick up this book!
 {{< figure src="/img/encouraging-others.jpg" position="center" caption="" >}}
 
 
-## Tip 14: Remember: Reading a book twice is inefficient
+## Idea 14: Remember: Reading a book twice is inefficient
 
 I've hinted at it before, but I'll say it clearly once more: If you
 are reading a book a second time, what does this say about the first
@@ -1417,7 +1419,7 @@ twice.  Instead, rely on your notes to quickly get the essence of the
 book.  That's your reward for putting in this work: you can get the
 same info as reading the full book in a fraction of the time.
 
-## Tip 15: Additional tips on hardware
+## Idea 15: Additional tips on hardware
 
 Alright, we are now getting into the nitty-gritty. For most of us,
 making a purchase is the fun, exciting part. My dopamine-hungry brain
