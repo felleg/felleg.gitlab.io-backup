@@ -545,9 +545,9 @@ alarming precision:
 > anxiety” and “survival anxiety.” Learning anxiety comes from being
 > afraid to try something new for fear that it will be too difficult,
 > that we will look stupid in the attempt, or that we will have to
-> part from old habits that have worked for us in the past. **Learning
+> part from old habits that have worked for us in the past. Learning
 > something new can cast us as the deviant in the groups we belong
-> to.** It can threaten our self-esteem and, in extreme cases, even
+> to. It can threaten our self-esteem and, in extreme cases, even
 > our identity.*
 >
 > *You can’t talk people out of their learning anxieties; they’re the
@@ -568,8 +568,8 @@ For the first time in my life, I saw the demon in me. Dr. Schein was
 describing exactly how I had felt during my entire career. First,
 learning anxiety kept me in the Valley of Despair. Then, the risk of
 losing my job at nesto made me experience survival anxiety that was
-greater than my learning anxiety, which allowed me to finally be open
-to learn.
+greater than my learning anxiety, which finally made me open
+to learning.
 
 This was my *Aha!* moment. My problem was learning
 anxiety all along. It was making me afraid of learning, which made me
@@ -601,7 +601,7 @@ revenge for all the precious years it made me waste.
 I became much more open to trying new things. I worked overtime to
 better understand how some complex programs worked. I recorded video
 demonstrations to motivate myself to keep trying things. I celebrated
-whatever small successes I could accomplish. It was hard, but I felt I
+whatever small successes I could accomplish. It was tedious, but I felt I
 was going in the right direction.
 
 One evening, our team leader Mathieu Frenette welcomed us into his apartment for a
