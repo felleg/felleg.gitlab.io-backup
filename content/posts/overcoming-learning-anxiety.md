@@ -672,7 +672,11 @@ are meant to be free to bend them, write in them, fold them, in any
 way that allows you to *learn faster*. Rip pages off if you must.
 Doodle in them if you must. Your
 copy is *yours*. Please don't think of books as decorations; think of
-them as food that nourishes your soul! *Use them*. If
+them as food that nourishes your soul!
+
+*Use* them.
+
+If
 you damaged a book to the
 point that you believe it to be unusable by anyone else, it is ok to
 put it in a recycling bin afterward. Few people realize how invaluable our
@@ -738,7 +742,7 @@ Freedom!!
 
 > *You gotta kiss a lot of frogs before you find a prince.*
 >
-> Adam Grant, *Originals*
+> -- Adam Grant, *Originals*
 
 So, I knew how to hold a book. Big whoop. This didn't change the fact
 that after reading 10 pages, I couldn't contain all the information I
@@ -759,7 +763,9 @@ thing with a yellow highlighter, as I had heard in primary school that
 the color yellow makes it easier to remember things. That was baloney.
 The problem in both cases is that having to flip through tens of pages
 just to view my notes was inconvenient. While it felt good to interact
-with the words on the pages, it didn't help me remember anything! It
+with the words on the pages, it didn't help me remember anything!
+
+It
 was at that moment that my partner Gabrielle said something very wise:
 
 > *You should never have to read a book or textbook more than once. If
@@ -793,7 +799,7 @@ times before stumbling upon a process that worked for me. I asked my
 partner for help and suggestions when I realized I was out of ideas. I
 searched on YouTube for insight. I was at my most vulnerable then,
 because I was basically admitting that I needed help. I had overcome
-the learning anxiety on the topic of learning itself.
+my learning anxiety on the topic of learning itself.
 
 It might not look like much, just asking someone or a search engine
 for help, but this is huge!  It requires tremendous courage to try new
@@ -827,7 +833,7 @@ If you'd rather read digital books, the main steps will stay roughly the same.
 If you learn better from audiobooks or podcasts, you might have to
 find workarounds.
 
-What I want you to remember is that it's ok if your
+Know that it's ok if your
 preferred way of learning is different from mine. At the end of the
 day, what matters is that you find joy in using your system and that
 it gives you the results you want.
@@ -860,7 +866,7 @@ highlight it. Often
 times I even take pride in highlighting a little detail that feels
 irrelevant in the scope of the whole book but that *I* connect with.
 Do not be scared by this freedom: follow your instinct. There is no
-test at the end [^1].
+test at the end. [^1]
 
 As you read, don't bother trying to remember everything. Personally,
 when I turn a page, I feel completely OK not remembering what I just
@@ -920,7 +926,7 @@ understand. Your mileage may vary, though. Some people tell me you
 
 Personally, I love this step of writing highlights on paper. I often
 do this while listening to music, or while watching a video in the
-background. It's very relaxing. Just go at your own pace and stop when
+background. It feels like knitting and is very relaxing. Just go at your own pace and stop when
 you've had your fill.
 
 ### Step 3: Find your Star Quotes
@@ -931,7 +937,7 @@ of them are truly worth keeping. Indeed, some quotes are redundant, or
 don't make much sense out of context. Therefore, a very powerful thing
 I enjoy doing before right before I review a book is reading my notes
 one last time and identifying which quotes I want to include in my
-review. I call those :star: Star Quotes :star:.
+review. I call those Star Quotes.
 
 This process is useful because it forces you to:
 - read the material one more time, which ups your
@@ -977,7 +983,7 @@ myself. I have to find enjoyment in it, otherwise I know I will get
 discouraged.
 
 Finally, I suggest you include in your review all the Star Quotes you
-identified in [Step 3](#step-3-find-your-star-quotes). If will be very
+identified in [Step 3](#step-3-find-your-star-quotes). It will be very
 convenient to be able to use `Ctrl-F` (or `grep`) to search specific
 quotes later on.
 
@@ -1043,7 +1049,7 @@ Textbooks have a purpose outside the classroom, even if that means you
 won't have a professor dragging you through it. Not all textbooks
 feature exercises and homework; some can be quite fun, relaxing,
 enlightening to read, without creating headaches or feeling like
-puzzles. A book you chose almost certainly contains parts of the
+puzzles. A book you chose almost certainly contains elements of the
 answer to the question that made you choose it.
 
 I can't describe how awesome it feels to find a book that shows me a new
@@ -1078,7 +1084,7 @@ for the better.  I cannot even begin to express the sheer magnitude
 that the ability to read non-fiction books had on my life. I do not
 feel crippling anxiety when I step into the office every morning. I do
 not feel afraid to give my opinion on important topics. I do not feel
-afraid when I disagree with people I love. In fact, now
+threatened when I disagree with people I love. In fact, now
 more than ever, when I speak to friends and colleagues, I feel valued
 and genuinely interesting.
 
@@ -1093,7 +1099,7 @@ ourselves with knowledge, our problems become more interesting, more
 fulfilling, and closer to our true ambitions.
 
 If you personally suffer from learning anxiety and made it this far in
-this blog post, I am in awe of you. You are among the courageous few that made it to
+this text, I am in awe of you. You are among the courageous few that made it to
 the end. Seriously, lift your favorite arm and give yourself a pat on
 the back from me. I am confident that you are already on the right
 path: the real journey begins here, if you accept it. I hope the ideas
@@ -1119,7 +1125,8 @@ be worth attempting. We are all unique and all learn differently, thus it is per
 fine if what works for me doesn't quite work for you.
 
 If you have other interesting tricks you
-would like to share, please [let me know](mailto:felix@felixleger.com)
+would like to share, please [let me
+know](mailto:felix@felixleger.com).
 
 ## Idea 1: Have a goal
 
@@ -1140,8 +1147,8 @@ What is important is not whether you succeed at your goal or not. In
 fact, it can be *good* to fail at reaching an important goal, as long
 as you see this as an opportunity to learn about what you could
 improve next time you set a goal. The reason it is important to set a
-clear goal is so that when we try something, we can verify
-sure it is pushing us in the right direction. It doesn't have to be a
+clear goal is so that before we try something, we can verify
+if it is pushing us in the right direction. It doesn't have to be a
 big goal. It just needs to be meaningful to you and push you in the right direction. You can
 make the goal bigger as you get better.
 
@@ -1153,7 +1160,8 @@ following the method outlined in [Chapter
 
 ## Idea 2: Read non-fiction
 
-We all love a good story. There is indeed value in reading a good
+All humans love a good story. There is indeed value in reading a
+well-constructed
 fiction. Some of my fondest memories include reading Harry Potter and
 talking about it with my father. However, I believe the lessons one
 can learn from fiction will be acquired slower than from reading
@@ -1162,7 +1170,7 @@ non-fiction, partly because fiction is, well... not real.
 I would suggest you give non-fiction a try if you have not already. By
 non-fiction, I mean a book that discusses a subject anchored in
 reality. It can be a history book, a book focused on a specific topic,
-or even a biography. Non-fiction books are not boring: they are also
+or even a biography. Non-fiction books are generally not boring: they are also
 filled with stories. What's convenient in non-fiction is that the
 stories told really happened. Thus, the lessons one can learn from
 them are much more obvious. There is less interpretation to be made.
@@ -1174,26 +1182,31 @@ It is much more directly applicable in one's life.
 
 Personally, I feel naked whenever I go somewhere without my book, my notebook, my pen and my highlighter. 
 
-It is impossible make progress in a book you don't have access to. One can't highlight golden nuggets without a highlighter in hand. 
+It is impossible to make progress in a book you don't have access to.
+One can't highlight golden nuggets without a highlighter in hand.  If
+you want to get serious about your reading habits, you need to find a
+way to have these objects available at all times. The closer they are
+to your hands, the better.
 
-If you want to get serious about your reading habits, you need to find a way to have these objects available at all times. The closer they are to your hands, the better.
+It doesn't have to be complicated. If you travel with a bag, that's an
+obvious spot to store your books. If you have pockets, that's an
+obvious place for a pen and highlighter.  To tell the truth, you don't
+really need a bag or pockets to make this idea work. You could simply
+keep your book and highlighter in your hands and your pen behind your
+ear for the few times you might need it. No clothes required!
 
-It doesn't have to be complicated. If you travel with a bag, that's an obvious spot to store your books. If you have pockets, that's an obvious place for a pen and highlighter.
-
-To tell the truth, you don't really need a bag or pockets to make this
-idea work. You could simply keep your book and highlighter in your
-hands and your pen behind your ear for the few times you might need
-it. No clothes required!
-
-If you are dying for a bag recommendation, [here\'s the bag I use when I\'m traveling.](https://amzn.to/4bjCaa3) It's light, it's compact when stored, and gets the job done every time.
+If you are dying for a bag recommendation, [here\'s the bag I use when
+I\'m traveling.](https://amzn.to/4bjCaa3) It's light, compact
+when stored, and gets the job done every time.
 
 ## Idea 4: Grab your book before grabbing your phone
 
 In my experience, the best way to progress through a book is *not* to allocate long
 periods of time for reading, but rather to keep your book handy at all
-times (see [Idea #3](#idea-3-never-go-out-without-your-book-highlighter-and-pen)) and to open it whenever you're between tasks.
-
-When I manage to motivate people to pick up
+times (see [Idea
+#3](#idea-3-never-go-out-without-your-book-highlighter-and-pen)) and
+to open it whenever you're between tasks.  When I succeed to motivate
+people to pick up
 reading again, their intuitive response is generally to say "I'll set
 an hour aside in my calendar for reading." And they do. And then
 nothing else happens. They are still unable to turn reading into a
@@ -1206,13 +1219,13 @@ fooling themselves.
 
 Fortunately, I bring good news. I have found the perfect solution to
 instantly bake reading into your routine. But you have to stick to it,
-otherwise it will not work.
+otherwise it will not work.  Ready? Here it is:
 
-Ready? Here it is: Any time you feel like picking up your phone to
-browse, pick your book first, and see if you can read a paragraph or
-two (or more, if you get into it!) before using your phone.
-
-Let me put this another way: Earn the right to use your phone by reading two paragraphs from your book first.
+> Any time you feel like picking up your phone to
+> browse, pick your book first, and see if you can read a paragraph or
+> two (or more, if you get into it!) before using your phone.
+>
+> In other words, earn the right to use your phone by reading two paragraphs from your book first.
 
 How was that? Disappointing, right? Well, too bad, that really is the
 secret sauce to finishing books quickly! :smiley:
@@ -1221,9 +1234,10 @@ If you try it, I'm certain you'll be amazed by
 the results. The majority of us are addicted to our phones, and this
 idea turns our addiction into something positive. Change your phone's
 wallpaper to remind you to read if
-you need to. 
-
-After some time, if you're anything like me, you might come to *prefer* reading your book than using your phone. Indeed, why waste time searching for inconsequential content online when the content you really care about is right there in your book?
+you need to.  After some time, if you're anything like me, you might
+come to *prefer* reading your book than using your phone. Indeed, why
+waste time searching for inconsequential content online when the
+content you really care about is right there in your book?
 
 Caveat: For this idea to work, you *must* have your book and your highlighter on you (see again [Idea #3](#idea-3-never-go-out-without-your-book-highlighter-and-pen)) pretty much all the time. It's worth it!
 
@@ -1262,7 +1276,7 @@ possibilities within your grasp. Never forget, "Stop starting, start
 finishing." Generally, for better or for worse, the end of the book is
 often when everything comes together and the author "blows your mind."
 
-{{< figure src="/img/stop-starting-start-finishing.jpg" position="center" caption="Words to live by." >}}
+{{< figure src="/img/stop-starting-start-finishing.jpg" position="center" caption="Words to live by." scale="80%">}}
 
 Choose your book carefully, and do your best not to start another one
 before you finished your current one. Use this as motivation to get
@@ -1278,7 +1292,7 @@ You might want to wait  until you are in the final pages of a book
 before ordering your next one. You don't want to make commitments that
 you might not be able to complete! I strongly advise to order only a
 single book at a time, especially at the start of your learning
-journey - don't get carried away!
+journey - try not to get carried away!
 
 
 ## Idea 7: Track your progress by folding the corners
@@ -1353,7 +1367,7 @@ This has many benefits:
 
 If you plan on reading for long periods of time, you need a way to get
 comfortable. Fortunately, I believe I have found an easy way that will
-work for most people. This is what is looks like:
+work for most people. This is what it looks like:
 
 {{< figure src="/img/how-hold-a-book-1.jpg" position="center" caption="" >}} 
 
@@ -1454,6 +1468,8 @@ note-taking. Things will look much clearer when you reach the bottom
 right
 corner of odd-numbered pages. :wink:
 
+{{< figure src="/img/numbered-page.jpg" position="center" caption="" scale="90%" >}}
+
 ## Idea 13: If your notebook doesn't have margins, make some!
 
 For most of my life, I assumed the margin was meant for graders to
@@ -1541,7 +1557,7 @@ library is the victory lap.
 {{< figure src="/img/book-sharing.png" position="center" caption="" >}}
 
 For the *DevOps Handbook*, since this book meant a lot for me during
-my personal development, I added a little note on the title page. Who
+my personal development, I added a note on the title page. Who
 knows, maybe this little encouragement will make a difference for the
 next person who will pick up this book!
 
@@ -1552,7 +1568,7 @@ next person who will pick up this book!
 
 I've hinted at it before, but I'll say it clearly once more: If you
 are reading a book a second time, what does this say about the first
-time you read it? Life if too short to read a book in its entirety
+time you read it? Life is too short to read a book in its entirety
 twice.  Instead, rely on your notes to quickly get the essence of the
 book.  That's your reward for putting in this work: you can get the
 same info as reading the full book in a fraction of the time.
@@ -1621,7 +1637,7 @@ read, which is important. After all, the whole point of keeping a
 journal is so you can comfortably refer to your knowledge.
 
 The best storage place I found for my ruler is directly in my
-notebook. The notebook I recommend above has an elastic band that
+notebook. It acts like a bookmark. The notebook I recommend above has an elastic band that
 ensures your ruler would never slip and fall once shut.
 
 {{< figure src="/img/ruler.jpg" position="center" caption="" >}}
@@ -1676,7 +1692,7 @@ collection. I hope they will inspire you on your learning journey.
 
 > *Mistakes are goldmines.*
 >
-> -- Gustavo Razzetti, *Remote Note Distant*
+> -- Gustavo Razzetti, *Remote Not Distant*
 
 > *Ask yourself: What would I do if I weren’t afraid? And then find a
 > way to go do it.*
@@ -1686,13 +1702,13 @@ collection. I hope they will inspire you on your learning journey.
 > *Acknowledging your mistakes is not the same as surrendering to
 > them. It’s the first step toward overcoming them.*
 >
-> -- Ray Dalio, *Principles*
-
 > *Success consists of going from failure to failure without loss of
 > enthusiasm.*
 >
 > -- Ray Dalio, *Principles*
 
+> *Nobody gets used to feeling dumb.*
+>
 > *Nothing is harder than saying, “I gave it my all and it wasn’t good
 > enough.”*
 >
@@ -1701,8 +1717,6 @@ collection. I hope they will inspire you on your learning journey.
 > *You have to apply yourself each day to becoming a little better. By
 > applying yourself to the task of becoming a little better each and
 > every day over a period of time, you will become a lot better.*
->
-> *Nobody gets used to feeling dumb.*
 >
 > -- Carol S. Dweck, *Mindset*
 
