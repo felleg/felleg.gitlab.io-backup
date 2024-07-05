@@ -231,7 +231,7 @@ despised losing at board games that didn't rely on luck. For example,
 I stopped playing Chess as soon as I started losing. I lost interest
 in karate as soon as I got my first hit in the face. I never started
 cooking, because I didn't feel great at it. Learning to ride a
-snowboard was one of most challenging things I had ever done as a
+snowboard was one of the most challenging things I had ever done as a
 child, because I had to continue making attempts to avoid being left
 behind despite how bad it
 hurt in general.
