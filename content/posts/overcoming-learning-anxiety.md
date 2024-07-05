@@ -47,8 +47,8 @@ learning anxiety in the real world, let alone have them come forward
 to talk about how they were affected by this disease, how they worked
 through it, and how healing transformed their lives.
 
-"Be the change I want to
-see in the world" is what motivated me to write this book. I
+"Be the change you want to
+see in the world" is a phrase that motivated me to write this book. I
 surely don't know enough about the science of neurology to claim
 expertise on the topic of learning anxiety. However, I did have severe
 learning anxiety, and I feel the need to bring awareness to this
