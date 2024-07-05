@@ -135,9 +135,7 @@ I sincerely hope this text will bring value to your life.
 
 =L
 
-## P.S.
-
-Don't feel bad if you don't finish reading this text in its
+**P.S.** Don't feel bad if you don't finish reading this text in its
 entirety. Perhaps I didn't make it engaging enough, or too rambly. You
 have full permission to blame the author if you lose interest.
 :slightly_smiling_face: If I may ask a small favor in return, just
@@ -216,7 +214,7 @@ Well. My giftedness turned out to be a curse.
 
 All light creates shadow. When it comes to giftedness, there is one major
 downside. When you are used to being good at everything, as soon as you
-no longer are for a particular activity, your ego probably won't be able to handle
+no longer are for a particular activity, your ego can't handle
 it, so you often give up too easily. This comes at a price that is worth more
 than talent: **lack of grit**.
 
@@ -239,11 +237,11 @@ behind despite how bad it
 hurt in general.
 
 I smile when I remind myself of all these memories. I had no idea of
-the vacuum I was creating in my soul. Life had given me many
+the vacuum that was growing in my soul. Life had given me many
 abilities, but left me with the impression that new abilities could
-not be developed.
+not be developed. I had a fixed mindset.
 
-Unsolved problems keep building up until they turn into a crisis. This
+Unsolved problems have the frustrating habit of building up until they turn into a crisis. This
 is where our story begins -- with an existential crisis.
 
 <!--
@@ -324,10 +322,12 @@ why I was  having such a difficult time  accomplishing the tasks I was
 given. This  was a relief. *"Of course, it all makes sense now! I'm
 bad at machine learning because, deep down, I'm a DevOps!  Yes, change
 my title now, please! This will fix all my problems"*, I would say to
-myself on my little cloud of joy. On the other hand, I now faced an
+myself on my little cloud of joy. 
+
+On the other hand, I now faced an
 undodgeable question: *"What the heck is DevOps, anyway?"*
 
-You can  probably imagine why, depending on the day, my impostor
+You can  probably imagine how, depending on the day, my impostor
 syndrome simply got out of control. I had started as a humble
 Physicist. I had then changed career paths after my Masters degree to
 become a Machine Learning scientist (out of nowhere). I had come to
@@ -380,7 +380,7 @@ colleagues to suffer the fall with me. I wanted them to thrive and
 excel at their respective tasks. Ironically, I now believe this is
 precisely the kind of mindset that drives the DevOps philosophy, to do
 everything you can to maximize the value your peers can deliver.
-However, I was simply too discouraged at the time to realize this...
+However, I was simply too discouraged at the time to realize this.
 
 In 2019, as I was going on vacation, I stumbled upon a book called
 *[The Phoenix Project](/reads/read-41-1-the-phoenix-project/)*, which
@@ -391,7 +391,7 @@ This should be fun."
 
 {{< figure src="/img/phoenix-project.png" position="center" caption="" >}}
 
-Turns out, it was great fun indeed! There are many reasons for this, I
+As it turns out, it was great fun indeed! There are many reasons for this, I
 believe. Firstly, the book is, of course, very well written. It
 wouldn't sell over 500,000 copies if it wasn't. I connected with the
 story and its cast of characters that reminded me of my daily
@@ -431,7 +431,9 @@ learn from reading had risen above my actual abilities.
 
 {{< figure src="/img/dunning-kruger-effect.png" position="center" caption="The path to mastery of any type involves traversing the Dunning-Kruger graph from left to right." >}}
 
-After only a few chapters, I began to feel dizzy. This book wasn't
+I thought reading the *Phoenix Project* was the breakthrough to end
+all breakthrough. Little did I know, it was only the beginning of my
+journey, and I was in for quite the slump. After only a few chapters, I began to feel dizzy. *The DevOps Handbook* wasn't
 like the Phoenix Project. It was a _real_ book, one that required
 actual effort to read through. It laid the truth bare: I had no idea
 what I had gotten myself into. I quickly fell into the Valley of
@@ -445,17 +447,25 @@ stood for, even though they were central parts of both the Phoenix
 Project and the handbook. It felt like I was drowning in information.
 If the Phoenix Project managed to organically sneak in   a reasonable
 amount of information within the context  of  the story, the *DevOps
-Handbook* proved to be too much for me. There seemed to be no time for
+Handbook* proved to be too much for me, regardless of how smart I
+thought I was. There seemed to be no time for
 relaxation: The handbook  simply lined the knowledge nuggets one after
-the other relentlessly.
+the other relentlessly. It seemed to give me confirmation that I was
+nothing but an impostor.
 
 Very early on, I could feel my reading velocity diminish as I was
-reading my physical copy. I took a stab at the digital version on my
+reading my physical copy. Indeed, what is the point of reading if you
+can't remember anything? I took a stab at the digital version on my
 Kobo to see if that could help (I was very big on e-readers at the
-time, see [I Love
-E-readers](https://felixleger.com/posts/2020/10/i-love-e-readers/)),
+time[^2]),
 but I got the same result; Initial progress was quick, and then
 everything ground to a halt.
+
+[^2]: In fact, I was so big on e-readers that I wrote a post titled [I Love
+E-readers](https://felixleger.com/posts/2020/10/i-love-e-readers/)
+where I argue that physical books should be a thing of the past. Oh
+the irony, considering I feel uncomfortable whenever I read anything
+that is *not* a physical book! :smile:
 
 Reluctantly, I shelved  the handbook both physically and digitally,
 feeling ashamed and defeated. I felt even more like an impostor: the
@@ -513,7 +523,7 @@ of my extended probation, partly to prove to myself that I could
 accomplish something for once.
 
 And then, something magical happened. At page 107, three years after
-I had started the book, I found a sentence that hit me like a ton of bricks.
+I had started *The DevOps Handbook*, I found a sentence that hit me like a ton of bricks.
 
 > *In the team, we want to help overcome learning anxiety.*
 >
@@ -521,10 +531,12 @@ I had started the book, I found a sentence that hit me like a ton of bricks.
 
 "Wait, what?"
 
-Those two words resonated with emotions I had been experiencing for so
-long. I searched online for more information about this condition, and
-I stumbled upon a passage that was describing my reality with scary
-precision:
+*Learning anxiety*. Those two words resonated with emotions I had been experiencing for so
+long. What was that all about? How had I never heard of this before?
+
+I searched online for more information about this condition and, sure
+enough, I stumbled upon a passage that was describing my reality with
+alarming precision:
 
 > *There are two kinds of anxiety associated with learning: “learning
 > anxiety” and “survival anxiety.” Learning anxiety comes from being
@@ -1019,10 +1031,10 @@ get to decide which book I read. As a professional, I am the master of
 my own learning. This ability to learn allowed me to find quotes that
 I now live by and that guide all my decisions.
 
-What is learning, at the end of the day? According to Steven L
+What is learning, at the end of the day? According to Steven L.
 McShane (*Organizational Behavior*), it is "a relatively permanent
-change in behavior that results from the acquisition of skills." We
-learn when we start making different choices.
+change in behavior that results from the acquisition of skills." When
+we start making different choices, we have learned.
 
 Textbooks have a purpose outside the classroom, even if that means you
 won't have a professor dragging you through it. Not all textbooks
@@ -1031,14 +1043,13 @@ enlightening to read, without creating headaches or feeling like
 puzzles. A book you chose almost certainly contains parts of the
 answer to the question that made you choose it.
 
-Imagine how you will feel when you find a book that shows you a new
+I can't describe how awesome it feels to find a book that shows me a new
 way to think
-about a specific problem you couldn't quite figure out. Suddenly, a
-new connection occurs in your brain. Now, all you can see is the
-answer.  Everything simply  makes  sense! Personally, this is among
+about a specific problem that I couldn't quite figure out. Suddenly, a
+new connection occurs in the brain. Everything simply  makes  sense! Personally, this is among
 the most powerful and freeing experiences I have felt yet. It truly is
 a transcending moment that cannot be overstated. In the beginning,
-reading books felt painful. Now, I am addicted.
+reading to learn felt painful. Now, I am addicted.
 
 **We are all lifelong learners.** If you want to learn about
 something, you can do it. What allows some people to learn faster than
@@ -1048,12 +1059,13 @@ mission of DevOps, which eluded me for years, is to create a system
 that automates organizational learning, I felt the pinch of irony
 since this realization had required me to create *my* own system of
 learning. Now that this is done, I feel more empowered than ever and
-ready to take this challenge head-on.
+ready to take this challenge of automating organizational learning head-on. Writing this book is part of
+that effort.
 
 I don't want to give you the wrong impression: I am definitely still
 not immune to learning anxiety, even after reading {{< n_books >}}
-books and writing all about my experience. [Nobody gets used to
-feeling dumb](/69), and unfortunately the more you learn, the more you
+books and writing all about my experience. Nobody gets used to
+feeling dumb, and unfortunately the more you learn, the more you
 realize how little you actually know about everything. The good news
 is that I now feel equipped to tackle this journey. I'll never be done
 learning, and true learning is always an uncomfortable, if not painful
@@ -1062,7 +1074,8 @@ pieces of wisdom that radically changed my relationships and my life
 for the better.  I cannot even begin to express the sheer magnitude
 that the ability to read non-fiction books had on my life. I do not
 feel crippling anxiety when I step into the office every morning. I do
-not feel afraid to give my opinion on important topics. In fact, now
+not feel afraid to give my opinion on important topics. I do not feel
+afraid when I disagree with people I love. In fact, now
 more than ever, when I speak to friends and colleagues, I feel valued
 and genuinely interesting.
 
@@ -1072,13 +1085,12 @@ never will be. I am *learning* that pain can be leveraged. I am
 failure. I am *beginning* to see fear as a compass that guides us
 toward the path that will make us grow. I'm still scared of exams, and
 I honestly still fear getting fired from time to time! Some things are
-a unfortunately part of life. What I learned is that by arming
+unfortunately part of life. What I learned is that by arming
 ourselves with knowledge, our problems become more interesting, more
 fulfilling, and closer to our true ambitions.
 
 If you personally suffer from learning anxiety and made it this far in
-this blog post, I am in awe of you. [The last mile is always the least
-crowded](/40), and you are among the courageous few that made it to
+this blog post, I am in awe of you. You are among the courageous few that made it to
 the end. Seriously, lift your favorite arm and give yourself a pat on
 the back from me. I am confident that you are already on the right
 path: the real journey begins here, if you accept it. I hope the ideas
@@ -1544,9 +1556,7 @@ same info as reading the full book in a fraction of the time.
 
 ## Idea 18: Additional tips on hardware
 
-Alright, we are now getting into the nitty-gritty. For most of us,
-making a purchase is the fun, exciting part. My dopamine-hungry brain
-loves it when I buy stuff.
+Bring out the shopping carts, we're going to talk STUFF.
 
 So, what hardware do I recommend, precisely?
 
@@ -1617,6 +1627,17 @@ ensures your ruler would never slip and fall once shut.
 not be perfectly suited to your needs. However, you can use my
 learning system to read the excellent [How to Become a Straight-A
 Student by Cal Newport](https://amzn.to/3z8hiVV). :wink:
+
+#### Other things
+
+Here are other things that are part of my toolkit that I briefly
+discussed in this book:
+
+- [The foldable bag I use when I\'m traveling.](https://amzn.to/4bjCaa3), as seen in [Idea #3](#idea-3-never-go-out-without-a-book-highlighter-and-pen)
+- [My alarm clock](https://amzn.to/3W6QL4z), as discussed in [Idea #4.1](#idea-4-grab-your-book-before-grabbing-your-phone)
+- [A headlamp for reading in the dark](https://amzn.to/4ePPBSc), as
+  discussed in [Idea
+  #5](#idea-5-use-a-red-led-headlamp-to-read-in-the-dark)
 
 # Appendix B: Motivational quotes
 
@@ -1693,3 +1714,7 @@ collection. I hope they will inspire you on your learning journey.
 > the future.*
 >
 > -- Anna Lembke, *Dopamine Nation*
+
+> *The last mile is always the least crowded*.
+>
+> -- James Clear, *Atomic Habits*
