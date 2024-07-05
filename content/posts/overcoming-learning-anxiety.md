@@ -298,10 +298,12 @@ In 2017, fresh out of University and feeling ready to tackle the world, I
 started working for a newly-formed startup then-called Proximity HCI
 (now known as [Contxtful](https://contxtful.com)). I had just finished
 my Masters thesis in particle Physics and was ready to jump into the
-world of software development ([this is something I already discussed on my blog in
-2019](/posts/2019/10/why-i-shifted-from-physics-to-focus-on-software/)).
-I had developed a recent fondness for computers after analyzing
+world of software development[^3]. I had developed a recent fondness for computers after analyzing
 multiple particle trajectories for my thesis.
+
+[^3]: This shift from Physics to software is something I previously [discussed on my blog in
+2019](/posts/2019/10/why-i-shifted-from-physics-to-focus-on-software/).
+
 
 Machine learning was the hot buzzword at the time and so I was hired as a machine learning scientist, and chipped away at tasks
 for many months. Unfortunately, a few months in, things were clearly
@@ -321,8 +323,9 @@ kind of information is a mixed bag. On one hand, it finally explained
 why I was  having such a difficult time  accomplishing the tasks I was
 given. This  was a relief. *"Of course, it all makes sense now! I'm
 bad at machine learning because, deep down, I'm a DevOps!  Yes, change
-my title now, please! This will fix all my problems"*, I would say to
-myself on my little cloud of joy. 
+my title now, please! This will fix all my problems,"* I would
+unironically say to
+myself.
 
 On the other hand, I now faced an
 undodgeable question: *"What the heck is DevOps, anyway?"*
@@ -349,7 +352,7 @@ understand" is said:
 
 Every search result required me to do at least three other searches to
 understand what basic sentences meant. For a while, it felt like I was
-surrounded by buzzwords, with no clear explanations in sight. The
+surrounded by buzzwords with no clear explanations in sight. The
 rabbit hole just kept on going and going. Oh how I
 wished Jimmy Neutron's "[book
 gum](https://www.youtube.com/watch?v=x1ambhfSnBA)" was real!
@@ -357,7 +360,7 @@ gum](https://www.youtube.com/watch?v=x1ambhfSnBA)" was real!
 This process of drinking from a fire hose of information while
 struggling to get anything done lasted *years*, and it was unpleasant.
 I felt useless. I felt ashamed. I wished I could go back in time and
-learn about agile, CI/CD, and other DevOps requirements during my
+learn about Agile, CI/CD, and other DevOps requirements during my
 studies instead of having filled my brain with equations of motion
 that I had no use for. In short, at 27 years old, I already felt like
 I had missed the boat, and with each passing day felt more like giving
@@ -400,7 +403,7 @@ fact that I was open to the material and didn't feel pressured to
 understand everything right away made a big difference. Learning felt
 optional, and so my anxiety had no reason to get triggered. Finally,
 and this is key, I enjoyed this book because I read it in its
-entirety. This is something I will come back to later in this post.
+entirety. This is something I will come back to later...
 
 In a single week, I had finished reading my first DevOps book. Woohoo!
 I felt like I was ready to conquer the world. My mind was now filled
@@ -429,7 +432,7 @@ is what happened. I had reached the peak of Mount Stupid. Some people
 call this "premature enlightenment." My confidence in my ability to
 learn from reading had risen above my actual abilities.
 
-{{< figure src="/img/dunning-kruger-effect.png" position="center" caption="The path to mastery of any type involves traversing the Dunning-Kruger graph from left to right." >}}
+{{< figure src="/img/dunning-kruger-effect.png" position="center" caption="The path to mastery of any type involves traversing the Dunning-Kruger graph from left to right." scale="90%" >}}
 
 I thought reading the *Phoenix Project* was the breakthrough to end
 all breakthrough. Little did I know, it was only the beginning of my
@@ -518,7 +521,7 @@ I had never explicitly been told by a manager that I was not pulling my own weig
 world what I could do when given proper motivation.  So I got to work,
 big time. My focus in mid-June was higher than ever, thanks to
 survival instincts that kicked into high gear. One of my first
-personal goals was to get through the *DevOps Handbook* before the end
+personal objectives was to get through the *DevOps Handbook* before the end
 of my extended probation, partly to prove to myself that I could
 accomplish something for once.
 
