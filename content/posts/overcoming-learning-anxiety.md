@@ -21,18 +21,6 @@ description: "Unlock your hidden potential by rediscovering the joy of learning"
 
 ---
 
-<!-- Quotes
-
-
-
-> *L'apprentissage est le changement relativement permanent d’un
-> comportement qui résulte de l’acquisition de compétences.*
->
-> Steven L. McShane, Charles Benabou, *Comportement Organisationnel*
-
-
--->
-
 # Preface
 
 > *Awareness of wrongdoing is the starting point of healing, for he who
@@ -198,7 +186,7 @@ And **thank you** for giving this text a chance.
 > -- Barry O' Reilly, *Unlearn*
 
 I wasn't always aware of how bad my learning anxiety was and I had no
-idea of the chokehold it had on my life. I'm
+idea of the choke hold it had on my life. I'm
 convinced that most people who suffer that condition don't realize it
 either.
 
@@ -1032,7 +1020,7 @@ my own learning. This ability to learn allowed me to find quotes that
 I now live by and that guide all my decisions.
 
 What is learning, at the end of the day? According to Steven L
-McShane (*Organizationsl Behavior*), it is "a relatively permanent
+McShane (*Organizational Behavior*), it is "a relatively permanent
 change in behavior that results from the acquisition of skills." We
 learn when we start making different choices.
 
@@ -1658,7 +1646,7 @@ collection. I hope they will inspire you on your learning journey.
 >
 > -- Margaret J. Wheatley & Myron Kellner-Rogers, *A Simpler Way*o
 
-> *It isn’t the symptoms that prediect how much anxiety disrupts a person’s life, it’s how a person feels about those symptoms.*
+> *It isn’t the symptoms that predict how much anxiety disrupts a person’s life, it’s how a person feels about those symptoms.*
 >
 > -- Emily Nagoski, *Come As You Are*
 
