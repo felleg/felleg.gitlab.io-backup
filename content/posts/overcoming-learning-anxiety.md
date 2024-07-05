@@ -157,7 +157,7 @@ Thanks to Gabrielle Perron for teaching me that reading a book twice is
 inefficient, and so much more. I love you.
 
 
-Thanks to Desire Silcott for her photographs. (Chapter 6)
+Thanks to Desire Silcott for her photographs. (Chapter 7)
 
 Thanks to Gene Kim for writing the books that gave me my *Aha!*
 moment.
