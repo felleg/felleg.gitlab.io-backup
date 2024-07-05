@@ -612,7 +612,7 @@ That made me pause. Could this have been my missing ingredient all
 along?
 
 
-## Flashback
+### Flashback
 
 ---
 About 10 years ago, I was a relatively money-poor grad student. I was
