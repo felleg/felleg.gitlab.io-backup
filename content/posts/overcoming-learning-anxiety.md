@@ -1665,7 +1665,7 @@ collection. I hope they will inspire you on your learning journey.
 
 > *Could we take what feels like a threat and alter its role in our lives?*
 >
-> -- Margaret J. Wheatley & Myron Kellner-Rogers, *A Simpler Way*o
+> -- Margaret J. Wheatley & Myron Kellner-Rogers, *A Simpler Way*
 
 > *It isn’t the symptoms that predict how much anxiety disrupts a person’s life, it’s how a person feels about those symptoms.*
 >
