@@ -21,6 +21,18 @@ description: "Unlock your hidden potential by rediscovering the joy of learning"
 
 ---
 
+<!-- Quotes
+
+
+
+> *L'apprentissage est le changement relativement permanent d’un
+> comportement qui résulte de l’acquisition de compétences.*
+>
+> Steven L. McShane, Charles Benabou, *Comportement Organisationnel*
+
+
+-->
+
 # Preface
 
 > *Awareness of wrongdoing is the starting point of healing, for he who
@@ -178,35 +190,15 @@ And **thank you** for giving this text a chance.
 ---
 
 
-# Introduction: Discovering I had learning anxiety
+# Introduction
 
-> *There are two kinds of anxiety associated with learning: “learning
-> anxiety” and “survival anxiety.” Learning anxiety comes from being
-> afraid to try something new for fear that it will be too difficult,
-> that we will look stupid in the attempt, or that we will have to
-> part from old habits that have worked for us in the past. **Learning
-> something new can cast us as the deviant in the groups we belong
-> to.** It can threaten our self-esteem and, in extreme cases, even
-> our identity.*
->
-> *You can’t talk people out of their learning anxieties; they’re the
-> basis for resistance to change. And given the intensity of those
-> fears, none of us would ever try something new unless we experienced
-> the second form of anxiety, survival anxiety—the horrible
-> realization that in order to make it, you’re going to have to
-> change. Like prisoners of war, potential learners experience so much
-> hopelessness through survival anxiety that eventually they become
-> open to the possibility of learning. But even this dejection is not
-> necessarily enough. Individuals can remain in a state of despair
-> permanently.*
->
-> *How can leaders help their followers maximize their learning while
-> minimizing their pain?*
->
-> (Edgar H. Schein, [The Anxiety of
-Learning](https://hbr.org/2002/03/the-anxiety-of-learning))
 
-I wasn't always aware of how bad my learning anxiety was, and I'm
+> *The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn and relearn.*
+>
+> -- Barry O' Reilly, *Unlearn*
+
+I wasn't always aware of how bad my learning anxiety was and I had no
+idea of the chokehold it had on my life. I'm
 convinced that most people who suffer that condition don't realize it
 either.
 
@@ -225,7 +217,7 @@ decided to get something done, no matter how difficult, I would always
 find a way.  And, as surprising as this may sound, I was still popular at
 school. I had more friends than most. My teachers loved me. My
 friends' parents loved me. I was never bullied. To summarize, I had it
-all, and it all felt easy.
+all, and it all felt easy...
 
 **Giftedness** refers to an exceptional level of natural ability or talent
 in one or more areas, such as intellectual, creative, artistic, or
@@ -311,6 +303,10 @@ Let's start untangling this mental knot by going back in time.
 # Part 1
 
 ## Chapter 1: The anxiety begins
+
+> *Realize as early as possible that you have chosen your career for the wrong reasons, before your confidence takes a hit.*
+>
+> -- Robert Greene, *Mastery*
 
 In 2017, fresh out of University and feeling ready to tackle the world, I
 started working for a newly-formed startup then-called Proximity HCI
@@ -430,6 +426,11 @@ now my turn to be the main character. Bring it on!
 
 ## Chapter 2: *The DevOps Handbook*
 
+> *You do not rise to the level of your goals. You fall to the level
+> of your systems.*
+>
+> -- James Clear, *Atomic Habits*
+
 I ordered my copy of *[The DevOps Handbook](https://amzn.to/4clZUMF)*
 in 2019. I finished it on August 6, 2022. For those keeping count,
 that means three years of lead time. What happened?
@@ -500,6 +501,10 @@ threatened with termination.
 
 ## Chapter 3: Aha!
 
+> *Why has nobody told me **this** before?*
+>
+> -- Dr Julie Smith, *Why Has Nobody Told Me This Before?*
+
 In June 2022, three months after joining the nesto DevOps team, I
 received the unfortunate news: I was getting a probation extension. I
 wasn't quite cutting it in the workplace. I had trouble learning the
@@ -522,12 +527,53 @@ accomplish something for once.
 And then, something magical happened. At page 107, three years after
 I had started the book, I found a sentence that hit me like a ton of bricks.
 
-> In the team, we want to help overcome learning anxiety.
+> *In the team, we want to help overcome learning anxiety.*
+>
+> Gene Kim et al., *The DevOps Handbook*
 
-For the first time in my life, I saw the demon in me. It was learning
-anxiety all along. It was making me afraid of learning, of trying, of
-failing. That's what kept wasting my time. That's what kept me in the
-Valley of Despair.
+"Wait, what?"
+
+Those two words resonated with emotions I had been experiencing for so
+long. I searched online for more information about this condition, and
+I stumbled upon a passage that was describing my reality with scary
+precision:
+
+> *There are two kinds of anxiety associated with learning: “learning
+> anxiety” and “survival anxiety.” Learning anxiety comes from being
+> afraid to try something new for fear that it will be too difficult,
+> that we will look stupid in the attempt, or that we will have to
+> part from old habits that have worked for us in the past. **Learning
+> something new can cast us as the deviant in the groups we belong
+> to.** It can threaten our self-esteem and, in extreme cases, even
+> our identity.*
+>
+> *You can’t talk people out of their learning anxieties; they’re the
+> basis for resistance to change. And given the intensity of those
+> fears, none of us would ever try something new unless we experienced
+> the second form of anxiety, survival anxiety—the horrible
+> realization that in order to make it, you’re going to have to
+> change. Like prisoners of war, potential learners experience so much
+> hopelessness through survival anxiety that eventually they become
+> open to the possibility of learning. But even this dejection is not
+> necessarily enough. Individuals can remain in a state of despair
+> permanently.*
+>
+> (Edgar H. Schein, [The Anxiety of
+Learning](https://hbr.org/2002/03/the-anxiety-of-learning))
+
+For the first time in my life, I saw the demon in me. Dr. Schein was
+describing exactly how I had felt during my entire career. First,
+learning anxiety kept me in the Valley of Despair. Then, the risk of
+losing my job at nesto made me experience survival anxiety that was
+greater than my learning anxiety, which allowed me to finally be open
+to learn.
+
+This was my *Aha!* moment. My problem was learning
+anxiety all along. It was making me afraid of learning, which made me
+afraid of failing, which made me afraid of trying, which kept me
+stuck.
+That's what kept wasting my time. That's what kept me in the
+Valley of Despair!
 
 I was made plainly aware that if I wanted to learn the necessary
 skills that would allow me to keep my job, I would first have to learn
@@ -537,6 +583,13 @@ learning things feel *safe*.
 But how?
 
 ## Chapter 4: Opening Pandora's Box
+
+
+> *If you want to teach people a new way of thinking, don’t bother to
+> teach them. Instead, give them a tool, the use of which will lead to
+> new ways of thinking.*
+>
+> Peter Senge, *The Necessary Revolution*
 
 The hardest part of making a breakthrough is finding the right problem
 to solve. I had just identified my problem, *learning anxiety*. You can bet I wanted
@@ -679,6 +732,11 @@ Freedom!!
 
 ## Chapter 5: Creating a system of learning
 
+
+> *You gotta kiss a lot of frogs before you find a prince.*
+>
+> Adam Grant, *Originals*
+
 So, I knew how to hold a book. Big whoop. This didn't change the fact
 that after reading 10 pages, I couldn't contain all the information I
 was reading. If 10 pages of info coming in my brain means 10 pages of
@@ -701,9 +759,9 @@ just to view my notes was inconvenient. While it felt good to interact
 with the words on the pages, it didn't help me remember anything! It
 was at that moment that my partner Gabrielle said something very wise:
 
-> You should never have to read a book or textbook more than once. If
+> *You should never have to read a book or textbook more than once. If
 > you take good notes, once you finish a book, you can consider
-> yourself done with it.
+> yourself done with it.*
 
 She was so right about that, even though it took me a few days to
 admit it. This went against my core belief that books are meant to be
@@ -755,6 +813,11 @@ how I actually learn.
 
 ## Chapter 6: My current learning system
 
+> *The ability to learn faster than your competitors may be the only
+> sustainable competitive advantage.*
+>
+> -- Peter Senge, *The Fifth Discipline*
+
 In this chapter, I will teach you exactly how I learned everything I
 know. You will notice that my method relies on using physical books.
 If you'd rather read digital books, the main steps will stay roughly the same.
@@ -776,7 +839,7 @@ will need, in addition to your chosen book:
 
 Make sure that each of these items are objects that you personally
 enjoy using. I'll nerd out [in a later section of the Appendix about
-the hardware I use](#additional-tips-on-hardware), but for now just
+the hardware I use](#idea-18-additional-tips-on-hardware), but for now just
 focus on making sure that whatever gear you end up choosing makes you
 want to read/write more, not less! If you can, I suggest you try to do these steps in real time on this text as you learn about them.
 
@@ -937,14 +1000,16 @@ for you to access that information once you're done, the better.
 
 That's it, really! However, since I am very passionate about this
 subject, I can't resist sharing some additional ideas. Head over to the
-[Appendix](#appendix) for more precise tricks.
+[Appendix](#appendix-a-additional-ideas) for more precise tricks.
 
 ## Chapter 7: Conclusion
 
-> *The only sustainable competitive advantage is the ability to
-> learn faster than the competition.*
+> *One day, the mountain that was in front of you will be so far behind
+> you, it will barely be visible in the distance. But who you will
+> become in learning to climb it will stay with you forever.*
 >
-> -- Peter Senge, *The Fifth Discipline*
+> -- Brianna Wiest, *The Mountain Is You*
+
 
 I find the image below very telling. My learning system allowed me to
 compress a 421-page book down to its essential learning nuggets, which
@@ -963,8 +1028,13 @@ book all over again. The information has been pre-digested.
 
 Books are not something to be afraid of. Not anymore. I realized I now
 get to decide which book I read. As a professional, I am the master of
-my own learning. This ability to learn allowed me to find a quote that
-I now live by, hidden deep into the DevOps Handbook at the end of page 320 of its second edition. It appears at the beginning of this chapter.
+my own learning. This ability to learn allowed me to find quotes that
+I now live by and that guide all my decisions.
+
+What is learning, at the end of the day? According to Steven L
+McShane (*Organizationsl Behavior*), it is "a relatively permanent
+change in behavior that results from the acquisition of skills." We
+learn when we start making different choices.
 
 Textbooks have a purpose outside the classroom, even if that means you
 won't have a professor dragging you through it. Not all textbooks
@@ -973,7 +1043,8 @@ enlightening to read, without creating headaches or feeling like
 puzzles. A book you chose almost certainly contains parts of the
 answer to the question that made you choose it.
 
-Imagine how you will feel when your book shows you a new way to think
+Imagine how you will feel when you find a book that shows you a new
+way to think
 about a specific problem you couldn't quite figure out. Suddenly, a
 new connection occurs in your brain. Now, all you can see is the
 answer.  Everything simply  makes  sense! Personally, this is among
@@ -1037,13 +1108,66 @@ Your move!
 
 ---
 
-# Appendix: Additional ideas
+# Appendix A: Additional ideas
 
 In this section, I will tell you about some tricks I picked up over
-years of learning from books. If you have other interesting tricks you
-would like to share, please let me know in the comments below! :pray:
+years of learning from books. Think of them as suggestions that might
+be worth attempting. We are all unique and all learn differently, thus it is perfectly
+fine if what works for me doesn't quite work for you.
 
-## Idea 1: Never go out without your book, highlighter and pen
+If you have other interesting tricks you
+would like to share, please [let me know](mailto:felix@felixleger.com)
+
+## Idea 1: Have a goal
+
+> *Writing goals down makes them real.*
+>
+> John Doerr, *Measure What Matters*
+
+Having goals gives us momentum. Why do *you* want to learn about
+something? Try to make this very obvious to yourself.
+
+When I began my learning journey, my
+goal was to save my DevOps job at nesto. Having this clear goal in my
+mind made it easier for me to focus on searching solutions that would
+nudge me closer to my goal. Finishing *The DevOps Handbook* seemed
+like a reasonable objective in alignment with this initial goal.
+
+What is important is not whether you succeed at your goal or not. In
+fact, it can be *good* to fail at reaching an important goal, as long
+as you see this as an opportunity to learn about what you could
+improve next time you set a goal. The reason it is important to set a
+clear goal is so that when we try something, we can verify
+sure it is pushing us in the right direction. It doesn't have to be a
+big goal. It just needs to be meaningful to you and push you in the right direction. You can
+make the goal bigger as you get better.
+
+If you are looking for a suggestion, here's mine. Every day, before going to sleep, read 5 pages of a book until you complete it,
+following the method outlined in [Chapter
+6](#chapter-6-my-current-learning-system)
+
+
+
+## Idea 2: Read non-fiction
+
+We all love a good story. There is indeed value in reading a good
+fiction. Some of my fondest memories include reading Harry Potter and
+talking about it with my father. However, I believe the lessons one
+can learn from fiction will be acquired slower than from reading
+non-fiction, partly because fiction is, well... not real.
+
+I would suggest you give non-fiction a try if you have not already. By
+non-fiction, I mean a book that discusses a subject anchored in
+reality. It can be a history book, a book focused on a specific topic,
+or even a biography. Non-fiction books are not boring: they are also
+filled with stories. What's convenient in non-fiction is that the
+stories told really happened. Thus, the lessons one can learn from
+them are much more obvious. There is less interpretation to be made.
+It is much more directly applicable in one's life.
+
+
+
+## Idea 3: Never go out without a book, highlighter and pen
 
 Personally, I feel naked whenever I go somewhere without my book, my notebook, my pen and my highlighter. 
 
@@ -1060,11 +1184,11 @@ it. No clothes required!
 
 If you are dying for a bag recommendation, [here\'s the bag I use when I\'m traveling.](https://amzn.to/4bjCaa3) It's light, it's compact when stored, and gets the job done every time.
 
-## Idea 2: Grab your book before grabbing your phone
+## Idea 4: Grab your book before grabbing your phone
 
 In my experience, the best way to progress through a book is *not* to allocate long
 periods of time for reading, but rather to keep your book handy at all
-times (see [Idea #1](#idea-1-never-go-out-without-your-book-highlighter-and-pen)) and to open it whenever you're between tasks.
+times (see [Idea #3](#idea-3-never-go-out-without-your-book-highlighter-and-pen)) and to open it whenever you're between tasks.
 
 When I manage to motivate people to pick up
 reading again, their intuitive response is generally to say "I'll set
@@ -1098,9 +1222,9 @@ you need to.
 
 After some time, if you're anything like me, you might come to *prefer* reading your book than using your phone. Indeed, why waste time searching for inconsequential content online when the content you really care about is right there in your book?
 
-Caveat: For this idea to work, you *must* have your book and your highlighter on you (see again [Idea #1](#idea-1-never-go-out-without-your-book-highlighter-and-pen)) pretty much all the time. It's worth it!
+Caveat: For this idea to work, you *must* have your book and your highlighter on you (see again [Idea #3](#idea-3-never-go-out-without-your-book-highlighter-and-pen)) pretty much all the time. It's worth it!
 
-### Idea 2.1: Buy an alarm clock and leave your phone out of the bedroom
+### Idea 4.1: Buy an alarm clock and leave your phone out of the bedroom
 
 Kudos to Simon Sinek for this idea. Most people keep their phones next
 to their bed because it serves as their morning alarm clock. That is a
@@ -1112,7 +1236,23 @@ use](https://amzn.to/3W6QL4z)), migrate your phone's charger outside
 of your bedroom, and bring your book to bed instead. Not only will
 this make you read more, but it will also make your sleep better.
 
-## Idea 3: Start by reading a single book at a time
+## Idea 5: Use a red LED headlamp to read in the dark
+
+I find it really convenient not to depend on a light fixture to read.
+Next to my bed, I keep a head lamp to read a few pages before going to
+sleep. It is simply more convenient and comfortable that other
+alternatives.
+
+{{< figure src="/img/read-in-the-dark.jpg" position="center" caption="" scale="50%">}}
+
+The model I am currently using is the [Black Diamond
+Cosmo-R](https://amzn.to/4ePPBSc), but for our needs this might be a
+little overkill. I suggest you simply look for whatever headlamp that has a
+red LED and can go to low levels of intensity.
+
+{{< figure src="https://m.media-amazon.com/images/I/71aqT0juOBL._AC_SL400.jpg" position="center" caption="" >}}
+
+## Idea 6: Start by reading a single book at a time
 
 As you start learning, you get excited when you see all the
 possibilities within your grasp. Never forget, "Stop starting, start
@@ -1138,18 +1278,14 @@ single book at a time, especially at the start of your learning
 journey - don't get carried away!
 
 
-## Idea 4: Track your progress by folding the corners
-
-This is a big part of my system.
-
-In my younger years, I vaguely remember coming across an online debate about using
-bookmarks vs. folding corners. In the past, I would have been in the
-bookmark camp, but I'm now clearly a folded corners guy.
+## Idea 7: Track your progress by folding the corners
 
 Each page has two corners and I use this to my full advantage. The top
-corner indicates my reading progress, and the bottom corner indicates
-my note-taking progress. And no risk of having your bookmark fall out
-of the book!
+corner indicates my reading progress, and the bottom corner tracks
+my note-taking progress. Since I don't use a bookmark, there is no
+risk of losing the page I was on, because a fold leaves a mark.
+
+I said it before, but I'll say it once more: books are punching bags!
 
 {{< figure src="/img/folded-corners-system.png" position="center" caption="" >}}
 
@@ -1158,19 +1294,18 @@ moment spent reading or taking notes is wasted. Whenever something
 else needs my attention, I simply fold the corner, fully aware that
 whenever I'll come back to the book, I will know exactly what I was up
 to. Often, I will even leave a mark with my highlighter next to the sentence I was
-currently reading to mark the spot I was at. Simply put, it reduces my cognitive load to a minimum.
+currently reading to clearly identify the spot I was at.
 
-I also like the fact that this transforms the act of learning into two
-distinct activities:
+I like the fact that each corner tracks different activities:
 - reading
 - writing (note-taking)
 
 If I'm in the mood for reading, I read. If I'm in the mood for
-writing, I write. I feel like I am free to choose what activity is
+taking notes, I write. I feel like I am free to choose what activity is
 right for what time. And, most importantly, whatever I end up
 choosing, I am constantly learning.
 
-## Idea 5: Use the body of your highlighter as a visual aid
+## Idea 8: Use the body of your highlighter as a visual aid
 
 When I picture someone reading, I often see them using their finger to
 track their progress, like this:
@@ -1211,7 +1346,7 @@ This has many benefits:
    - wide enough to hide the sentences below what I am reading, which
      ensures I am not reading "in diagonal".
 
-## Idea 6: Get the right grip
+## Idea 9: Get the right grip
 
 If you plan on reading for long periods of time, you need a way to get
 comfortable. Fortunately, I believe I have found an easy way that will
@@ -1221,7 +1356,7 @@ work for most people. This is what is looks like:
 
 As you can see, one hand holds the book, and the other holds the
 highlighter. I have already described in [Idea
-#5](#idea-5-use-the-body-of-your-highlighter-as-a-visual-aid)
+#8](#idea-8-use-the-body-of-your-highlighter-as-a-visual-aid)
 how to use your highlighter as a visual aid. Personally, I really like
 leaving my index between the front and back cover, because it creates
 a nice support without being in my eyes' way. When you reach the end
@@ -1229,7 +1364,7 @@ of the page, simply switch hands!
 
 {{< figure src="/img/how-hold-a-book-2.jpg" position="center" caption="" >}} 
 
-## Idea 7: Use creative highlighting to help your future self take efficient notes
+## Idea 10: Use creative highlighting to help your future self take efficient notes
 
 When we highlight in a book, we highlight for our future self who will
 turn these highlights into written notes. Our goal is to make that
@@ -1243,7 +1378,7 @@ some words around you can make its meaning more obvious to you?
 
 Take the example below:
 
-{{< figure src="/img/construct-sentences-3.png" position="center" caption="" >}} 
+{{< figure src="/img/construct-sentences-3.png" position="center" caption="" scale="70%" >}} 
 
 The original quote is:
 
@@ -1262,13 +1397,13 @@ For example, see what I did in the example below. It was simpler to
 simply write the missing bits with a pen instead of trying to
 reconstruct a quote using words already on the page.
 
-{{< figure src="/img/construct-sentences-2.png" position="center" caption="" >}} 
+{{< figure src="/img/construct-sentences-2.png" position="center" caption="" scale="70%">}} 
 
 This technique also works to cut the fat in a mostly relevant
 paragraph. See in the example below how I string together different sentences
 using a simple line.
 
-{{< figure src="/img/construct-sentences-1.png" position="center" caption="" >}} 
+{{< figure src="/img/construct-sentences-1.png" position="center" caption="" scale="70%">}} 
 
 
 Finally, I noticed that some authors like to create enumerations in prose
@@ -1284,7 +1419,7 @@ striking if written as a list:
 
 {{< figure src="/img/enumeration.jpg" position="center" caption="" >}}
 
-## Idea 8: Use your book's margins and blank pages to write ideas
+## Idea 11: Use your book's margins and blank pages to write ideas
 
 If reading a certain paragraph triggers a light bulb in your mind or
 makes you pause and wonder about a specific question, I recommend that
@@ -1301,9 +1436,9 @@ below for the book [The Mountain Is You](/88).
 
 Don't let a good idea go to waste!  :smile:
 
-{{< figure src="/img/thoughts-about-book.png" position="center" caption="" >}} 
+{{< figure src="/img/thoughts-about-book.png" position="center" caption="" scale="70%">}} 
 
-## Idea 9: Number your notebook's pages
+## Idea 12: Number your notebook's pages
 
 If your notebook doesn't have page numbers already (most don't), I
 strongly recommend that you number your pages yourself. This is
@@ -1316,7 +1451,7 @@ note-taking. Things will look much clearer when you reach the bottom
 right
 corner of odd-numbered pages. :wink:
 
-## Idea 10: If your notebook doesn't have margins, make some!
+## Idea 13: If your notebook doesn't have margins, make some!
 
 For most of my life, I assumed the margin was meant for graders to
 review your work and comment on their corrections. Well, news flash:
@@ -1334,7 +1469,7 @@ Of course, not all of your notes will require a margin note, but
 that's a good thing: it leaves you with more room for the notes that
 truly need commenting later on.
 
-## Idea 11: Write the source of your knowledge nuggets in your margins
+## Idea 14: Write the source of your knowledge nuggets in your margins
 
 {{< figure src="/img/notes-source.png" position="center" caption="" >}}
 
@@ -1348,7 +1483,7 @@ even more important than daily work!").
 
 Side effects may include people calling you a bookworm.
 
-## Idea 12: Use a URL shortener to encode web links in your notebook
+## Idea 15: Use a URL shortener to encode web links in your notebook
 
 This is very nerdy, but also very cool *and* useful. See an example in
 the image below:
@@ -1387,7 +1522,7 @@ fully owned by me!), I recommend you check out [a video I made on how
 to get started with
 VanityURL](/posts/2024/01/vanityurls-a-convenient-diy-url-shortener-service/).
 
-## Idea 13: Give your book away after you wrote your review
+## Idea 16: Give your book away after you wrote your review
 
 This is the fun part. When you finished reading a book and collecting
 all its nuggets in your journal, you are free to share it with the
@@ -1410,7 +1545,7 @@ next person who will pick up this book!
 {{< figure src="/img/encouraging-others.jpg" position="center" caption="" >}}
 
 
-## Idea 14: Remember: Reading a book twice is inefficient
+## Idea 17: Remember: Reading a book twice is inefficient
 
 I've hinted at it before, but I'll say it clearly once more: If you
 are reading a book a second time, what does this say about the first
@@ -1419,7 +1554,7 @@ twice.  Instead, rely on your notes to quickly get the essence of the
 book.  That's your reward for putting in this work: you can get the
 same info as reading the full book in a fraction of the time.
 
-## Idea 15: Additional tips on hardware
+## Idea 18: Additional tips on hardware
 
 Alright, we are now getting into the nitty-gritty. For most of us,
 making a purchase is the fun, exciting part. My dopamine-hungry brain
@@ -1495,3 +1630,78 @@ not be perfectly suited to your needs. However, you can use my
 learning system to read the excellent [How to Become a Straight-A
 Student by Cal Newport](https://amzn.to/3z8hiVV). :wink:
 
+# Appendix B: Motivational quotes
+
+These quotes are lifted from my [Star Quotes](/star-quotes)
+collection. I hope they will inspire you on your learning journey.
+
+> *In the absence of improvements, processes degrade over time due to chaos and entropy. Even more important than daily work is the improvement of daily work.*
+>
+> -- Gene Kim et al., *The DevOps Handbook*
+
+
+> *Do not envy those who seem to be naturally gifted; it is often a
+> curse, as such types rarely learn the value of diligence and focus,
+> and they pay for this later in life.*
+>
+> -- Robert Greene, *Mastery*
+
+> *Nothing pleases people more than to go on thinking what they have always thought, and at the same time imagine that they are thinking something new and daring. It combines the advantage of security with the delight of adventure.*
+>
+> -- Barry O' Reilly, *Unlearn*
+
+> *Working right trumps finding the right work.*
+>
+> -- Cal Newport, So Good They Can't Ignore You
+
+> *Could we take what feels like a threat and alter its role in our lives?*
+>
+> -- Margaret J. Wheatley & Myron Kellner-Rogers, *A Simpler Way*o
+
+> *It isn’t the symptoms that prediect how much anxiety disrupts a person’s life, it’s how a person feels about those symptoms.*
+>
+> -- Emily Nagoski, *Come As You Are*
+
+> *Mistakes are goldmines.*
+>
+> -- Gustavo Razzetti, *Remote Note Distant*
+
+> *Ask yourself: What would I do if I weren’t afraid? And then find a
+> way to go do it.*
+>
+> -- Sheryl Sandberg, *Lean In*
+
+> *Acknowledging your mistakes is not the same as surrendering to
+> them. It’s the first step toward overcoming them.*
+>
+> -- Ray Dalio, *Principles*
+
+> *Success consists of going from failure to failure without loss of
+> enthusiasm.*
+>
+> -- Ray Dalio, *Principles*
+
+> *Nothing is harder than saying, “I gave it my all and it wasn’t good
+> enough.”*
+>
+> *Everyone, of whatever age and circumstance, is capable of self-transformation.*
+>
+> *You have to apply yourself each day to becoming a little better. By
+> applying yourself to the task of becoming a little better each and
+> every day over a period of time, you will become a lot better.*
+>
+> *Nobody gets used to feeling dumb.*
+>
+> -- Carol S. Dweck, *Mindset*
+
+> *Adversity is just the beginning of a challenging sequence that
+> often leads to success.*
+>
+> -- Martin Seligman, *Learned Optimism*
+
+> *We must have faith that actions today that seem to have no impact
+> in the present moment are in fact accumulating in a positive
+> direction, which will be revealed to us only at some unknown time in
+> the future.*
+>
+> -- Anna Lembke, *Dopamine Nation*

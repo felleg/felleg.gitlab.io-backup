@@ -96,7 +96,7 @@ ratings:
 1. (p. 290) Sex is *not* context dependent. Sex can happen anywhere.
    *Pleasure* is context dependent.
 1. (p. 298) Meta-emotions are how you feel about how you feel.
-1. (p. 310) :star: It isn't the symptoms that prediect how much anxiety
+1. (p. 310) :star: It isn't the symptoms that predict how much anxiety
    disrupts a person's life, it's how a person feels about those
    symptoms.
 1. (p. 317) If you numb physical pain, healing can still happen. If we

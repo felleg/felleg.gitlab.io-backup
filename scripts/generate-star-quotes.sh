@@ -13,6 +13,7 @@ aliases:
   - /star-quotes
 description: Here are the best quotes I came across in my lectures.
 ---
+{{< partial "mathjax_support" >}}
 
 # Introduction
 

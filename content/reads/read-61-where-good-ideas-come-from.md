@@ -60,7 +60,7 @@ Luck favors the connected mind. Good luck!
 1. (p. 61) The ground zero of innovation is not the microscope. It is
    the conference table.
 1. (p. 65) Information spillover is a feature, not a flaw.
-1. (p. 76) Hunches that don't connect are doomed to star hunches.
+1. (p. 76) Hunches that don't connect are doomed to stay hunches.
 1. (p. 78) Sustaining the slow hunch is less a matter of perspiration
    than of *cultivation*. You give the hunch enough nourishment to keep
    it growing, and plant it in fertile soil, where its roots can make

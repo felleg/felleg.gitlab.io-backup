@@ -85,7 +85,7 @@ sailboat pushed to land by the right tailwind.
    invulnerable.
 7. (p. 151) Discovery has to do with asking the right question the right way.
 8. (p. 159) As a leader, ask your people 3 questions:
-    1. What is one thing that I currently do that you'l like me to
+    1. What is one thing that I currently do that you'd like me to
     continue to do?
     2. What is one thing that I don't currently do frequently enough that
     you think I should do more often?

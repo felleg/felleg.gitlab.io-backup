@@ -74,7 +74,7 @@ book and see if they resonate with them. This is the future of work.
     - Are unique
     - Want to use their collective talents and skills to make a positive
       contribution to the organization and the world.
-1. (p. 110) We reap what we saw: fear breeds fear and trust breeds
+1. (p. 110) We reap what we sow: fear breeds fear and trust breeds
    trust. Traditional hierarchies and their plethora of built-in control
    systems are, at their core, formidable machines that breed fear and
    distrust.

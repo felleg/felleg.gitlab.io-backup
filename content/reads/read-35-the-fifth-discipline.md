@@ -69,7 +69,7 @@ I think this is my favorite my favorite book yet.
 1. (p. ?) Culture are the assumptions we cannot see.
 1. (p. ?) Human beings are born with intrinsic motivation, and joy in
    learning.
-1. (p. ?) When one human bring tells (explicitly or even only in their
+1. (p. ?) When one human being tells (explicitly or even only in their
    own mind) what is *real* to another human (e.g. "Don't you see what's
    really going on here?"), what they're actually doing is making a
    demand for obedience.
