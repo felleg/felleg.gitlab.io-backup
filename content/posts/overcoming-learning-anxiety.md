@@ -43,7 +43,7 @@ heal, which personally makes me quite happy as a believer in such
 treatments. Society has made great
 progress in beginning to accept how serious anxiety disorders are for
 the individual. However, I have yet to hear someone say anything about
-learning anxiety in the real world, let alone have them come forward
+learning anxiety, let alone have them come forward
 to talk about how they were affected by this disease, how they worked
 through it, and how healing transformed their lives.
 
