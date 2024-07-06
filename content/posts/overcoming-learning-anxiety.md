@@ -23,10 +23,10 @@ description: "Unlock your hidden potential by rediscovering the joy of learning"
 
 # Preface
 
-> *Awareness of wrongdoing is the starting point of healing, for he who
-> does not know that he is doing wrong does not wish to be set right.*
-> 
-> Lucius Annaeus Seneca, *Letters on Ethics*
+> *The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn and relearn.*
+>
+> -- Barry O' Reilly, *Unlearn*
+
 
 I wrote this book because I wanted to educate people about learning
 anxiety. In this day and age, we don't hear many people talk about
@@ -178,10 +178,11 @@ And **thank you** for giving this text a chance.
 
 # Introduction
 
+> *Awareness of wrongdoing is the starting point of healing, for he who
+> does not know that he is doing wrong does not wish to be set right.*
+> 
+> Lucius Annaeus Seneca, *Letters on Ethics*
 
-> *The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn and relearn.*
->
-> -- Barry O' Reilly, *Unlearn*
 
 I wasn't always aware of how bad my learning anxiety was and I had no
 idea of the choke hold it had on my life. I'm
