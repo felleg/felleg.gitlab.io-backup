@@ -109,14 +109,14 @@ learn to love learning.
 Now more than ever, the information is out there. It has been
 available for generations
 and generations. Some of the most valuable lessons humanity has
-learned were written over 2,000 years ago by Greek philosophers.
+learned were put to paper over 2,000 years ago by Greek philosophers.
 However, if we don't feel confident in our ability to
 navigate it all, it is as if that information didn't exist. All
 that wisdom stays imprisoned in its ink. The gift of humanity is
 wasted on us.
 
 If there's only one thing I'd want you to remember from all of this,
-it's that **anyone can experience learning anxiety and solving it
+it's that **anyone can experience learning anxiety and overcoming it
 requires a system of your own creation that will make learning a
 joyful experience to you**.
 
