@@ -109,7 +109,7 @@ learn to love learning.
 Now more than ever, the information is out there. It has been
 available for generations
 and generations. Some of the most valuable lessons humanity has
-learned was written over 2,000 years ago by Greek philosophers.
+learned were written over 2,000 years ago by Greek philosophers.
 However, if we don't feel confident in our ability to
 navigate it all, it is as if that information didn't exist. All
 that wisdom stays imprisoned in its ink. The gift of humanity is
