@@ -287,7 +287,7 @@ it. Very meta...
 Let's start untangling this mental knot by going back in time.
 -->
 
-# Part 1
+# Part 1: Escaping the Valley of Despair
 
 ## Chapter 1: The anxiety begins
 
@@ -416,7 +416,7 @@ protagonist of *The Phoenix Project* did. I felt ready for it. It was
 now my turn to be the main character. Bring it on!
 
 
-## Chapter 2: *The DevOps Handbook*
+## Chapter 2: Mount Stupid
 
 > *You do not rise to the level of your goals. You fall to the level
 > of your systems.*
