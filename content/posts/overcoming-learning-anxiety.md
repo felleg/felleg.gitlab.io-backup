@@ -37,7 +37,7 @@ condition, because the idea of learning feels unsafe to them in the
 first place. It is a sadly ironic predicament.
 
 In traversing the 2020 COVID-19 epidemic, I believe we have all
-learned something about importance of mental health. I have observed
+learned something about the importance of mental health. I have observed
 growing acceptance in public discourse for using therapy as a way to
 heal, which personally makes me quite happy as a believer in such
 treatments. Society has made great
