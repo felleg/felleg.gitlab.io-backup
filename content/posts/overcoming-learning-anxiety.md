@@ -30,10 +30,10 @@ description: "Unlock your hidden potential by rediscovering the joy of learning"
 
 I wrote this book because I wanted to educate people about learning
 anxiety. In this day and age, we don't hear many people talk about
-this subject, and I believe therein lies the issue. Mental healing
+this subject, which surprises me considering how pervasive learning anxiety can be. Mental healing
 requires acknowledgement, and acknowledgement requires knowledge of
 the problem. The anxious learner is less likely to learn about their
-condition, because the idea of learning feels unsafe to them in the
+condition because the idea of learning and researching feels unsafe to them in the
 first place. It is a sadly ironic predicament.
 
 In traversing the 2020 COVID-19 epidemic, I believe we have all
@@ -75,7 +75,7 @@ broken*. They simply lost something: joy in learning. It can be
 rediscovered. In fact, restoring your joy in learning might be the
 most meaningful experience of your life. It certainly has been for me
 so far. This process doesn't even need to take very long to have a big
-impact. What we will attempt together in this book is changing how
+impact. It took me a year to radically change my learning habits, and I hope that by teaching you what I learned you will see improvements even faster than me. What we will attempt together in this book is changing how
 you approach information, so that it makes you feel powerful instead
 of anxious.
 
