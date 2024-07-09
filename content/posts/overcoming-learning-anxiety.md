@@ -1551,10 +1551,10 @@ next person who will pick up this book!
 
 ## Idea 17: Remember: Reading a book twice is inefficient
 
-I've hinted at it before, but I'll say it clearly once more: If you
-are reading a book a second time, what does this say about the first
-time you read it? Life is too short to read a book in its entirety
-twice.  Instead, rely on your notes to quickly get the essence of the
+I've hinted at it before, but I'll say it clearly once more: Life is
+too short to read a book in its entirety twice.  If you are reading a
+book a second time, what does this say about the first time you read
+it?   Instead, rely on your notes to quickly get the essence of the
 book.  That's your reward for putting in this work: you can get the
 same info as reading the full book in a fraction of the time.
 
