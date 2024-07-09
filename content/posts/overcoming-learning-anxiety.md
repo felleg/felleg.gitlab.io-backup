@@ -27,48 +27,51 @@ description: "Unlock your hidden potential by rediscovering the joy of learning"
 >
 > -- Barry O' Reilly, *Unlearn*
 
+Ignorance is bliss. That much is true.
 
-I wrote this book because I wanted to educate people about learning
-anxiety. In this day and age, we don't hear many people talk about
-this subject, which surprises me considering how pervasive learning anxiety can be. Mental healing
-requires acknowledgement, and acknowledgement requires knowledge of
-the problem. The anxious learner is less likely to learn about their
-condition because the idea of learning and researching feels unsafe to them in the
-first place. It is a sadly ironic predicament.
+Here's another truth: All
+pleasant things have a cost. The cost of blissful ignorance is missed
+opportunities. Missed opportunities can rob us of the life we desire.
 
-In traversing the 2020 COVID-19 epidemic, I believe we have all
-learned something about the importance of mental health. I have observed
-growing acceptance in public discourse for using therapy as a way to
-heal, which personally makes me quite happy as a believer in such
-treatments. Society has made great
-progress in beginning to accept how serious anxiety disorders are for
-the individual. However, I have yet to hear someone say anything about
-learning anxiety, let alone have them come forward
-to talk about how they were affected by this disease, how they worked
-through it, and how healing transformed their lives.
+What then is the cost of knowledge, which brings opportunities? That
+cost is time spent learning, which unfortunately is often painful.
 
-"Be the change you want to
-see in the world" is a phrase that motivated me to write this book. I
-surely don't know enough about the science of neurology to claim
-expertise on the topic of learning anxiety. However, I did have severe
-learning anxiety, and I feel the need to bring awareness to this
-condition while the experience is
-still fresh in my mind. Overcoming learning anxiety is the most
-gratifying thing I have ever experienced. It changed my life.
-By rediscovering joy in learning and
-in creating my own system of learning, I have found the key to
-unlimited mountains of wisdom that profoundly impacted every aspect of
-my identity. Where I once felt stuck in constantly repeating the same
-mistakes, I could now read a book on the subject that enlarged my
-perspective, made me see things differently, and suggested different
-ways to act. 
+Experiencing learning anxiety is similar to being addicted to
+ignorance. Can someone learn to prefer the pain of learning over the
+bliss of ignorance?
 
-As I write these lines, there is a single lingering fear in me: am I preaching to the
-choir? What are the
-chances that people afraid of reading books make the decision to read
-this one? However slim those odds are, I have to take them, if only as
-a token of gratitude for the authors that changed my
-life with their words.
+I believe so. The first step to healing is acknowledgement
+of the problem, which requires knowledge of the problem in the first
+place. Unfortunately, the anxious learner is less likely to learn
+about their condition if the idea of searching for clues feels unsafe
+to them in the first place. It is a sadly ironic predicament, not
+helped by the fact that learning anxiety is rarely brought up in
+casual conversation. Indeed,
+I have yet to hear someone say anything about learning anxiety, let
+alone hear them  talk about how they were affected by
+this disease, how they worked through it, and how healing transformed
+their lives.
+
+"Be the change you want to see in the world" is a phrase that
+motivated me to write this book. I surely don't know enough about the
+science of neurology to claim expertise on the topic of learning
+anxiety. However, I have experienced severe learning anxiety myself,
+which compels me to bring awareness to this condition while the
+experience is still fresh in my mind. Incredibly, overcoming learning
+anxiety is both the hardest and most gratifying thing I have ever
+experienced. By rediscovering joy in learning and in creating my own
+system of learning, I have found the key to unlimited mountains of
+wisdom that profoundly impacted every aspect of my identity. Where I
+once felt stuck in constantly repeating the same mistakes, I could now
+*read* on the subject. This enlarged my perspective, made me see things
+differently, and suggested different ways to act. I cannot overstate
+it: This process changed my life.
+
+As I write these lines, there is a single lingering fear in me: am I
+preaching to the choir? What are the chances that people afraid of
+reading books make the decision to read this one? However slim those
+odds are, I have to take them, if only as a token of gratitude for the
+authors that changed my life with their words.
 
 I wish all anxious learners would know that they are *not
 broken*. They simply lost something: joy in learning. It can be
@@ -77,7 +80,9 @@ most meaningful experience of your life. It certainly has been for me
 so far. This process doesn't even need to take very long to have a big
 impact. It took me a year to radically change my learning habits, and I hope that by teaching you what I learned you will see improvements even faster than me. What we will attempt together in this book is changing how
 you approach information, so that it makes you feel powerful instead
-of anxious.
+of anxious. All
+it requires is the willingness to fail, to learn, to succeed. You too can
+learn to love learning.
 
 <!--
 I have suffered from learning anxiety for the majority of my life and
@@ -97,24 +102,6 @@ duty to share my story and what I *learned* from it, in the hope that
 this text reaches someone in need -- you, perhaps?
 -->
 
-True learning, the kind that changes the decisions we make, the
-actions we take, and the course of our lives, is almost universally
-painful to traverse. Each bruise is a stepping stone, a bump in the
-road that stands in the way of fulfilling our potential and our true
-desires. It is what it is. If only we can learn to trust the process,
-we will notice that we can attain everything we hope for and more. All
-it requires is the willingness to fail, to learn, to succeed. We can
-learn to love learning.
-
-Now more than ever, the information is out there. It has been
-available for generations
-and generations. Some of the most valuable lessons humanity has
-learned were put to paper over 2,000 years ago by Greek philosophers.
-However, if we don't feel confident in our ability to
-navigate it all, it is as if that information didn't exist. All
-that wisdom stays imprisoned in its ink. The gift of humanity is
-wasted on us.
-
 If there's only one thing I'd want you to remember from all of this,
 it's that **anyone can experience learning anxiety and overcoming it
 requires a system of your own creation that will make learning a
@@ -127,7 +114,7 @@ learning anxiety, my hope is that this text will make you realize that
 you are not alone and that there is a way out. You can overcome any
 obstacle that stands in your way, and you can even have fun while
 doing it. You might rediscover yourself and the world around you like
-you never have before. All it takes is the willingness to fail and learn from our
+you never have before. All it takes is the willingness to fail and learn from  honest
 mistakes. And, perhaps, the urge to read a book or two. Or {{< n_books
 >}}.
 
@@ -1512,8 +1499,7 @@ the image below:
 
 See that strange `(F)/bcm`? The circled F is a shorthand for
 https://felx.cc. If you visit https://felx.cc/bcm, you'll be taken to
-this much longer link instead:
-https://photos.google.com/share/AF1QipNkyXbkGnqpbp38J_f57sodGkG801H4lzJiwqTcInRbMmU38EKrqHbP28fZ9afKpw?key=WVB3UWdrUHNxS3duR0loTXY4ZEU5d084X29iSGp3,
+a much longer Google Photos link (https://photos.google.com/share/AF1QipNkyXbkGnqpbp38J_f57sodGkG80...),
 which is a photo I took of a page in a book for convenience. Thus,
 https://felx.cc/bcm is my short URL: it is convenient to type on any
 device, and can redirect me to a much more unwieldy URL.
