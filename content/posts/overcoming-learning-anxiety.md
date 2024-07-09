@@ -293,8 +293,9 @@ multiple particle trajectories for my thesis.
 2019](/posts/2019/10/why-i-shifted-from-physics-to-focus-on-software/).
 
 
-Machine learning was the hot buzzword at the time and so I was hired as a machine learning scientist, and chipped away at tasks
-for many months. Unfortunately, a few months in, things were clearly
+Machine learning was the hot buzzword at the time and so I was hired as a junior machine learning scientist.
+
+A few months in,  it became apparent that things were clearly
 not working out. There was no science to my methods. I just cobbled
 algorithms together and hoped they would work magically. With machine
 learning, I was simply "not on my X", as we say in French, meaning I
