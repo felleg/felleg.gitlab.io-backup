@@ -15,9 +15,7 @@ description: "Unlock your hidden potential by rediscovering the joy of learning"
 
 **About the cover image**
 
-- Image drawn by Félix & Gabrielle
-- Assembled in [GIMP](https://gimp.org)
-- Font: Helvetica
+- Placeholder drawn by Félix Léger.
 
 ---
 
