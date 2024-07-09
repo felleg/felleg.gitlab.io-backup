@@ -65,7 +65,7 @@ once felt stuck in constantly repeating the same mistakes, I could now
 differently, and suggested different ways to act. I cannot overstate
 it: This process changed my life.
 
-As I write these lines, there is a single lingering fear in me: am I
+As I write these lines, there is a single lingering fear in me: Am I
 preaching to the choir? What are the chances that people afraid of
 reading books make the decision to read this one? However slim those
 odds are, I have to take them, if only as a token of gratitude for the
