@@ -1496,8 +1496,8 @@ the image below:
 {{< figure src="/img/note-short-url.png" position="center" caption="" >}}
 
 See that strange `(F)/bcm`? The circled F is a shorthand for
-https://felx.cc. If you visit https://felx.cc/bcm, you'll be taken to
-a much longer Google Photos link (https://photos.google.com/share/AF1QipNkyXbkGnqpbp38J_f57sodGkG80...),
+https://felx.cc. If you visit [https://https://felx.cc/.cc/bcm](https://felx.cc/bcm), you'll be taken to
+a much longer Google Photos link ([https://photos.google.com/share/AF1QipNkyXbkGnqpbp38J_f57sodGkG80\...](https://photos.google.com/share/AF1QipNkyXbkGnqpbp38J_f57sodGkG801H4lzJiwqTcInRbMmU38EKrqHbP28fZ9afKpw?key=WVB3UWdrUHNxS3duR0loTXY4ZEU5d084X29iSGp3)),
 which is a photo I took of a page in a book for convenience. Thus,
 https://felx.cc/bcm is my short URL: it is convenient to type on any
 device, and can redirect me to a much more unwieldy URL.
@@ -1511,9 +1511,9 @@ If you are interested in trying a URL shortening service, many
 services already offer free tiers:
 
 - https://bitly.com/
+- https://tinyurl.com/
 - https://www.shorturl.at/
-- https://tinyurl.com/app
-- https://cutt.ly/fr
+- https://cutt.ly/
 - https://free-url-shortener.rb.gy/
 - https://t.ly/
 - ...
