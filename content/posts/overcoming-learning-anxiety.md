@@ -604,7 +604,7 @@ held those books. It felt wrong, gross, even. Never in my life had I
 seen someone hold a book like that. It sent shivers down my spine. It felt like he was breaking an
 unwritten rule. Here's what it looked like:
 
-{{< figure src="/img/how-to-fold-a-book.gif" position="center" caption="The book suplex" >}}
+{{< figure src="/img/how-to-fold-a-book.png" position="center" caption="The book suplex ([gif version](/img/how-to-fold-a-book.gif))" >}}
 
 I asked Mathieu why he was folding his books this way. He simply
 replied with his characteristic grin: "It's so much more comfortable!"
