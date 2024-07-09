@@ -412,8 +412,7 @@ now my turn to be the main character. Bring it on!
 > -- James Clear, *Atomic Habits*
 
 I ordered my copy of *[The DevOps Handbook](https://amzn.to/4clZUMF)*
-in 2019. I finished it on August 6, 2022. For those keeping count,
-that means three years of lead time. What happened?
+in 2019. Spoiler alert: I finished it on August 6, 2022. What happened for it to take me so long?
 
 The [Dunning-Kruger
 effect](https://simple.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
