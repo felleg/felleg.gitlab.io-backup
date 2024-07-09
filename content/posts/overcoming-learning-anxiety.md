@@ -282,33 +282,33 @@ Let's start untangling this mental knot by going back in time.
 >
 > -- Robert Greene, *Mastery*
 
-In 2017, freshly graduated from McGill University and feeling ready to tackle the world, I
-started working for a newly-formed startup then-called Proximity HCI
-(now known as [Contxtful](https://contxtful.com)). I had just finished
-my Masters thesis in particle Physics and was ready to jump into the
-world of software development[^3]. I had developed a recent fondness for computers after analyzing
-multiple particle trajectories for my thesis.
+In 2017, freshly graduated from McGill University and feeling ready to
+tackle the world, I started working as a junior machine learning
+scientist for a newly-formed startup
+then-called Proximity HCI (now known as
+[Contxtful](https://contxtful.com)). I had just finished my Masters
+thesis in particle Physics and was ready to jump into the world of
+software development[^3] after having developed a recent fondness for
+computers through my research.
 
 [^3]: This shift from Physics to software is something I previously [discussed on my blog in
 2019](/posts/2019/10/why-i-shifted-from-physics-to-focus-on-software/).
 
 
-Machine learning was the hot buzzword at the time and so I was hired as a junior machine learning scientist.
-
-A few months in,  it became apparent that things were clearly
-not working out. There was no science to my methods. I just cobbled
+A few months in at Proximity HCI, it became apparent that things were clearly
+not working out: I was terrible at machine learning. There was simply no science to my methods. I just cobbled
 algorithms together and hoped they would work magically. With machine
 learning, I was simply "not on my X", as we say in French, meaning I
 wasn't in the right context to fulfill my potential. As I naturally
 drifted
 towards handling the IT of the company and discovering automated
 deployment pipelines, my then-manager (and trusted friend!) Alexandre
-Désilets-Benoit said something that would change my life.
+Désilets-Benoit said something that would change my life:
 
-*"You know what? I think DevOps would be a good fit for you."*
+> *"You know what? I think DevOps would be a good fit for you."*
 
 For  someone with a self-diagnosed impostor syndrome, receiving this
-kind of information is a mixed bag. On one hand, it finally explained
+kind of feedback is a mixed bag. On one hand, it finally explained
 why I was  having such a difficult time  accomplishing the tasks I was
 given. This  was a relief. *"Of course, it all makes sense now! I'm
 bad at machine learning because, deep down, I'm a DevOps!  Yes, change
