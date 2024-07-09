@@ -282,7 +282,7 @@ Let's start untangling this mental knot by going back in time.
 >
 > -- Robert Greene, *Mastery*
 
-In 2017, fresh out of University and feeling ready to tackle the world, I
+In 2017, freshly graduated from McGill University and feeling ready to tackle the world, I
 started working for a newly-formed startup then-called Proximity HCI
 (now known as [Contxtful](https://contxtful.com)). I had just finished
 my Masters thesis in particle Physics and was ready to jump into the
