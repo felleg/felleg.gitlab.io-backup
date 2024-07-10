@@ -57,7 +57,7 @@ anxiety. However, I have experienced severe learning anxiety myself,
 which compels me to bring awareness to this condition while the
 experience is still fresh in my mind. Incredibly, overcoming learning
 anxiety is both the hardest and most gratifying thing I have ever
-experienced. By rediscovering joy in learning and in creating my own
+done. By rediscovering joy in learning and in creating my own
 system of learning, I have found the key to unlimited mountains of
 wisdom that profoundly impacted every aspect of my identity. Where I
 once felt stuck in constantly repeating the same mistakes, I could now
