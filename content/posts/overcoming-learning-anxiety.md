@@ -34,7 +34,7 @@ opportunities. Missed opportunities can rob us of the life we desire.
 What then is the cost of knowledge, which brings opportunities? That
 cost is time spent learning, which unfortunately is often painful.
 
-Experiencing learning anxiety is similar to being addicted to
+Experiencing learning anxiety is like being addicted to
 ignorance. Can someone learn to prefer the pain of learning over the
 bliss of ignorance?
 
@@ -68,7 +68,7 @@ it: This process changed my life.
 As I write these lines, there is a single lingering fear in me: Am I
 preaching to the choir? What are the chances that people afraid of
 reading books make the decision to read this one? However slim those
-odds are, I have to take them, if only as a token of gratitude for the
+odds are, I must take them, if only as a token of gratitude for the
 authors that changed my life with their words.
 
 I wish all anxious learners would know that they are *not
@@ -141,12 +141,14 @@ beyond what I thought was possible.
 Thanks to Gabrielle Perron for teaching me that reading a book twice is
 inefficient, and so much more. I love you.
 
+Thanks to Benoit Dicaire for introducing me to VanityURL and for
+sharing the Hugo bookshelf. I don't know where you find all this
+stuff, but keep it coming!
 
 Thanks to Desire Silcott for her photographs. (Chapter 7)
 
 Thanks to Gene Kim for writing the books that gave me my *Aha!*
 moment.
-
 
 Thanks to Matt Morris for making a
 [video](https://www.youtube.com/watch?v=_WCfaGarc4U) that became the
@@ -224,7 +226,7 @@ hurt in general.
 
 I smile when I remind myself of all these memories. I had no idea of
 the vacuum that was growing in my soul. Life had given me many
-abilities, but left me with the impression that new abilities could
+abilities but left me with the impression that new abilities could
 not be developed. I had a fixed mindset.
 
 Unsolved problems have the frustrating habit of building up until they turn into a crisis. This
@@ -282,7 +284,7 @@ Let's start untangling this mental knot by going back in time.
 
 In 2017, freshly graduated from McGill University and feeling ready to
 tackle the world, I started working as a junior machine learning
-scientist for a newly-formed startup
+scientist for a newly formed startup
 then-called Proximity HCI (now known as
 [Contxtful](https://contxtful.com)). I had just finished my Masters
 thesis in particle Physics and was ready to jump into the world of
@@ -320,8 +322,7 @@ undodgeable question: *"What the heck is DevOps, anyway?"*
 You can  probably imagine how, depending on the day, my impostor
 syndrome simply got out of control. I had started as a humble
 Physicist. I had then changed career paths after my Masters degree to
-become a Machine Learning scientist (out of nowhere). I had come to
-the conclusion that I was even worse at that job, so much so that my
+become a Machine Learning scientist (out of nowhere). I had concluded that I was even worse at that job, so much so that my
 boss recommended another career change into a field I knew absolutely
 nothing about. I was rightfully terrified!
 
@@ -452,7 +453,7 @@ everything ground to a halt.
 
 [^2]: In fact, I was so big on e-readers that I wrote a post titled [I Love
 E-readers](https://felixleger.com/posts/2020/10/i-love-e-readers/)
-where I argue that physical books should be a thing of the past. Oh
+where I argue that physical books should be a thing of the past. Oh,
 the irony, considering I feel uncomfortable whenever I read anything
 that is *not* a physical book! :smile:
 
@@ -501,7 +502,7 @@ and hard. If I didn't manage to course-correct within two months, I
 could kiss my new job goodbye.
 
 This is what put me into **survival mode**, where the hopelessness of
-the situation was such that it finally made me open to learning. I couldn't bear the thought of being rejected by my newly-elected home. It would have made leaving Contxtful feel like a mistake, and would have left me without a plan B. I *had* to get through that probation period at nesto, no matter what it cost me.
+the situation was such that it finally made me open to learning. I couldn't bear the thought of being rejected by my newly elected home. It would have made leaving Contxtful feel like a mistake, and would have left me without a plan B. I *had* to get through that probation period at nesto, no matter what it cost me.
 
 I had never explicitly been told by a manager that I was not pulling my own weight. I wasn't going to waste this opportunity to show the
 world what I could do when given proper motivation.  So I got to work,
@@ -619,7 +620,7 @@ along?
 About 10 years ago, I was a relatively money-poor grad student. I was
 somewhat short on cash and keeping my old course textbooks was not
 something I could afford to do. Thus, I took great care of these
-textbooks, seldom highlighting or writing in them, in order to boost
+textbooks, seldom highlighting or writing in them, to boost
 their eventual sale price.
 
 Unfortunately, this strategy was sub-optimal. For  an extra $40 per
@@ -800,11 +801,11 @@ still paying attention and making progress. You're awesome! :tada:
 
 I can't say for sure if your final learning system will look like
 mine. But however your brain learns, you'll have to fail before you
-get good. So remember that **each humbling failure is a step closer to
+get good. So, remember that **each humbling failure is a step closer to
 mastery, and rejoice that you are making real progress.**
 
 Alright, enough talking, let's start doing. It's time I share with you
-how I actually learn.
+how I learn.
 
 ## Chapter 6: My current learning system
 
@@ -849,7 +850,7 @@ Whenever I highlight something, I don't care if this is something the
 author expected me to memorize or not. If a sentence resonates with me, if I'd
 like to keep this sentence floating in my brain, that's the signal to
 highlight it. Often
-times I even take pride in highlighting a little detail that feels
+I even take pride in highlighting a little detail that feels
 irrelevant in the scope of the whole book but that *I* connect with.
 Do not be scared by this freedom: follow your instinct. There is no
 test at the end. [^1]
@@ -857,7 +858,7 @@ test at the end. [^1]
 As you read, don't bother trying to remember everything. Personally,
 when I turn a page, I feel completely OK not remembering what I just
 read! Read your book like you're watching a TV show or listening to a
-podcast.  Highlight as you go, and know that we will come back to
+podcast.  Highlight as you go and know that we will come back to
 collect all these little knowledge nuggets later. :wink:
 
 {{< figure src="/img/mining-for-golden-nuggets.jpg" position="center" caption="Highlighting = identifying the gold nuggets." >}}
@@ -869,7 +870,7 @@ really!), get your notebook out. We will now go back to the beginning
 of the book and flip page by page looking for any nugget you
 identified earlier.
 
-Why take the time to write by hand all of these nuggets? I'm glad you
+Why take the time to write by hand all these nuggets? I'm glad you
 asked.
 
 Firstly, this will make it much easier for you to focus on the
@@ -908,7 +909,7 @@ As you can see in the picture above, I don't really bother rephrasing
 the quotes from the book. The only time I'll rephrase something is if
 I can make it shorter, or if I find the original sentence hard to
 understand. Your mileage may vary, though. Some people tell me you
-*have* to reword quotes you get from a book. To each their own!
+*must* reword quotes you get from a book. To each their own!
 
 Personally, I love this step of writing highlights on paper. I often
 do this while listening to music, or while watching a video in the
@@ -917,8 +918,8 @@ you've had your fill.
 
 ### Step 3: Find your Star Quotes
 
-So you read a book, you made some highlights, and you took some
-notes. Are all of these notes good? On average, I would say about 60%
+So, you read a book, you made some highlights, and you took some
+notes. Are all notes good? On average, I would say about 60%
 of them are truly worth keeping. Indeed, some quotes are redundant, or
 don't make much sense out of context. Therefore, a very powerful thing
 I enjoy doing before right before I review a book is reading my notes
@@ -965,16 +966,16 @@ canvas: whatever ends up there is simply a reflection of how I *felt*
 about the book. There's a good amount of intuition that goes into this
 process.  Sure, I try to put a minimum of effort in my reviews, but I
 also try not to overdo it. After all, this is something I do for
-myself. I have to find enjoyment in it, otherwise I know I will get
+myself. I must find enjoyment in it, otherwise I know I will get
 discouraged.
 
 Finally, I suggest you include in your review all the Star Quotes you
 identified in [Step 3](#step-3-find-your-star-quotes). It will be very
 convenient to be able to use `Ctrl-F` (or `grep`) to search specific
-quotes later on.
+quotes later.
 
 [As an example, here is the latest review I wrote](/latest). Feel free
-to copy my format if you want, or create your own. In the end, what
+to copy my format if you want or create your own. In the end, what
 matters is that you create a pattern of work that tricks your brain
 into thinking about these ideas and have them make sense for you. You
 get bonus points if you make this review public: not only are you
@@ -989,7 +990,7 @@ to retrieve my notes and even share them with interested parties.
 
 Ultimately, the format you use to review your books doesn't matter. It can be a
 website like me, a fresh page in your notebook, a Word document, an
-email, a spreadsheet, etc. As long as you use _your_ words to write
+email, a spreadsheet, etc. If you use _your_ words to write
 about the subject you read about, you will do fine. The easiest it is
 for you to access that information once you're done, the better.
 
@@ -1006,7 +1007,7 @@ subject, I can't resist sharing some additional ideas. Head over to the
 > -- Brianna Wiest, *The Mountain Is You*
 
 
-I find the image below very telling. My learning system allowed me to
+I find the next image very telling. What it shows is how my learning system allowed me to
 compress a 421-page book down to its essential learning nuggets, which
 take only 50 handwritten pages in my A5-sized journal. This means I
 will get as much information from reading these 50 pages than from
@@ -1057,11 +1058,11 @@ learning. Now that this is done, I feel more empowered than ever and
 ready to take this challenge of automating organizational learning head-on. Writing this book is part of
 that effort.
 
-I don't want to give you the wrong impression: I am definitely still
+I don't want to give you the wrong impression: I am still
 not immune to learning anxiety, even after reading {{< n_books >}}
 books and writing all about my experience. Nobody gets used to
 feeling dumb, and unfortunately the more you learn, the more you
-realize how little you actually know about everything. The good news
+realize how little you know about everything. The good news
 is that I now feel equipped to tackle this journey. I'll never be done
 learning, and true learning is always an uncomfortable, if not painful
 process. Nevertheless, my learning system allowed me to come across
@@ -1121,7 +1122,7 @@ know](mailto:felix@felixleger.com).
 > John Doerr, *Measure What Matters*
 
 Having goals gives us momentum. Why do *you* want to learn about
-something? Try to make this very obvious to yourself.
+something? Try to make this obvious to yourself.
 
 When I began my learning journey, my
 goal was to save my DevOps job at nesto. Having this clear goal in my
@@ -1140,7 +1141,7 @@ make the goal bigger as you get better.
 
 If you are looking for a suggestion, here's mine. Every day, before going to sleep, read 5 pages of a book until you complete it,
 following the method outlined in [Chapter
-6](#chapter-6-my-current-learning-system)
+6](#chapter-6-my-current-learning-system).
 
 
 
@@ -1171,7 +1172,7 @@ Personally, I feel naked whenever I go somewhere without my book, my notebook, m
 It is impossible to make progress in a book you don't have access to.
 One can't highlight golden nuggets without a highlighter in hand.  If
 you want to get serious about your reading habits, you need to find a
-way to have these objects available at all times. The closer they are
+way to always have these objects available. The closer they are
 to your hands, the better.
 
 It doesn't have to be complicated. If you travel with a bag, that's an
@@ -1193,18 +1194,18 @@ times (see [Idea
 #3](#idea-3-never-go-out-without-your-book-highlighter-and-pen)) and
 to open it whenever you're between tasks.  When I succeed to motivate
 people to pick up
-reading again, their intuitive response is generally to say "I'll set
+reading again, their intuitive response is generally to say, "I'll set
 an hour aside in my calendar for reading." And they do. And then
 nothing else happens. They are still unable to turn reading into a
 habit! 
 
 Do you want to know a dirty secret? I have trouble reading for more than 30
 minutes in a row. I doubt most people who schedule to read a full
-uninterrupted hour actually succeed. In my opinion, they mostly end up
+uninterrupted hour succeed. In my opinion, they mostly end up
 fooling themselves.
 
 Fortunately, I bring good news. I have found the perfect solution to
-instantly bake reading into your routine. But you have to stick to it,
+instantly bake reading into your routine. But you must stick to it,
 otherwise it will not work.  Ready? Here it is:
 
 > Any time you feel like picking up your phone to
@@ -1217,7 +1218,7 @@ How was that? Disappointing, right? Well, too bad, that really is the
 secret sauce to finishing books quickly! :smiley:
 
 If you try it, I'm certain you'll be amazed by
-the results. The majority of us are addicted to our phones, and this
+the results. Most of us are addicted to our phones, and this
 idea turns our addiction into something positive. Change your phone's
 wallpaper to remind you to read if
 you need to.  After some time, if you're anything like me, you might
@@ -1241,7 +1242,7 @@ this make you read more, but it will also make your sleep better.
 
 ## Idea 5: Use a red LED headlamp to read in the dark
 
-I find it really convenient not to depend on a light fixture to read.
+I find it convenient not to depend on a light fixture to read.
 Next to my bed, I keep a head lamp to read a few pages before going to
 sleep. It is simply more convenient and comfortable that other
 alternatives.
@@ -1264,13 +1265,13 @@ often when everything comes together and the author "blows your mind."
 
 {{< figure src="/img/stop-starting-start-finishing.jpg" position="center" caption="Words to live by." scale="80%">}}
 
-Choose your book carefully, and do your best not to start another one
+Choose your book carefully and do your best not to start another one
 before you finished your current one. Use this as motivation to get
 through your current book, if needed!
 
 Personally, shelving  a book without finishing it only leaves me more
 confused. It gives me some pieces of the puzzle, but since I lack
-pieces I will never see that puzzle to completion. Bite the bullet,
+pieces, I will never see that puzzle to completion. Bite the bullet,
 and finish the books you start, unless they are novels that fail to
 grab your attention.
 
@@ -1323,7 +1324,7 @@ There are many reasons why:
 
 - My finger is too big to accurately point to specific words on a page
 - To reach the full width of the page with my finger, I have to move
-  my entire arm back and forth as I read, or move the arm holding the
+  my entire arm back and forth as I read or move the arm holding the
   book. It wastes energy.
 - I don't particularly appreciate the friction of the page on the tip
   of my index, especially over extended periods of time.
@@ -1367,7 +1368,7 @@ of the page, simply switch hands!
 
 {{< figure src="/img/how-hold-a-book-2.jpg" position="center" caption="" >}} 
 
-## Idea 10: Use creative highlighting to help your future self take efficient notes
+## Idea 10: Use creative highlighting to make note-taking easy
 
 When we highlight in a book, we highlight for our future self who will
 turn these highlights into written notes. Our goal is to make that
@@ -1410,10 +1411,10 @@ using a simple line.
 
 
 Finally, I noticed that some authors like to create enumerations in prose
-instead of in a list form. In order to help my future note-taking
+instead of in a list form. To help my future note-taking
 self, I use my pen to circle where each element of an enumeration
 begins in a paragraph. It makes the information much easier to parse
-later on. It also signals that this information would be more visually
+later. It also signals that this information would be more visually
 striking if written as a list:
 
 - First, ...
@@ -1445,8 +1446,8 @@ Don't let a good idea go to waste!  :smile:
 
 If your notebook doesn't have page numbers already (most don't), I
 strongly recommend that you number your pages yourself. This is
-invaluable to allow you to reference your own notes later on. This is a
-quality of life upgrade that is too obvious to live without.
+invaluable to allow you to reference your own notes later. This is a
+quality-of-life upgrade that is too obvious to live without.
 
 If you have to number your notebook's pages, take this opportunity to
 use a different ink color (e.g. red) than what you would use for your
@@ -1470,7 +1471,7 @@ thin as you need.
 
 In my notes, sometimes I write questions or things that will need
 further updates. The margins are the perfect place to put such updates.
-Of course, not all of your notes will require a margin note, but
+Of course, not all your notes will require a margin note, but
 that's a good thing: it leaves you with more room for the notes that
 truly need commenting later on.
 
@@ -1480,9 +1481,9 @@ truly need commenting later on.
 
 Notice in the photo above that most "knowledge nuggets" are paired
 with a reference to the source material. This helps finding context or
-correcting notes in the rare cases where your notes are unclear and
+correcting notes in the rare cases where your notes are unclear, and
 you must refer to the book. Trust me, it can save you a lot of time,
-and also makes sharing that nugget in the future even easier (e.g. "As
+and makes sharing that nugget in the future even easier (e.g. "As
 the *DevOps Handbook* says on page 49, improvement of daily work is
 even more important than daily work!").
 
@@ -1496,11 +1497,11 @@ the image below:
 {{< figure src="/img/note-short-url.png" position="center" caption="" >}}
 
 See that strange `(F)/bcm`? The circled F is a shorthand for
-https://felx.cc. If you visit [https://https://felx.cc/.cc/bcm](https://felx.cc/bcm), you'll be taken to
+https://felx.cc. If you visit [https://felx.cc/bcm](https://felx.cc/bcm), you'll be taken to
 a much longer Google Photos link ([https://photos.google.com/share/AF1QipNkyXbkGnqpbp38J_f57sodGkG80\...](https://photos.google.com/share/AF1QipNkyXbkGnqpbp38J_f57sodGkG801H4lzJiwqTcInRbMmU38EKrqHbP28fZ9afKpw?key=WVB3UWdrUHNxS3duR0loTXY4ZEU5d084X29iSGp3)),
 which is a photo I took of a page in a book for convenience. Thus,
 https://felx.cc/bcm is my short URL: it is convenient to type on any
-device, and can redirect me to a much more unwieldy URL.
+device and can redirect me to a much more unwieldy URL.
 
 A URL shortener is a service that allows you to create a small
 link that can redirect to a link of any length. This is invaluable: it
@@ -1583,7 +1584,7 @@ easily fold back the notebook and stay opened flat on a table. If you
 do invest in a spiral-notebook, at least make sure it is high quality.
 
 
-Also, I strongly recommend to use a **dotted** journal.  This
+Also, I strongly recommend using a **dotted** journal.  This
 allows better horizontal alignment of information for writing lists.
 It makes my messy handwriting look less messy. Personally, I am now
 very fond of dotted journals, because they provide the benefits of a
@@ -1605,12 +1606,12 @@ If you're looking for recommendations, mine are:
 Why?
 
 - They are cheap, easy to find and reliable
-- The Bic Cristal does not smear (I'm left handed)
+- The Bic Cristal does not smear (I'm left-handed)
 - The highlighter has lots of ink and lasts a long time
 
 {{< figure scale="400px" src="/img/bic-cristal-and-highlighter.jpg" position="center" caption="" >}}
 
-For more details about how I chose the Bic Cristal as my main pen, see
+For more details about why I chose the Bic Cristal as my main pen, see
 [The Bic Cristal Story](/posts/2024/07/the-bic-cristal/).
 
 
@@ -1637,7 +1638,7 @@ Student by Cal Newport](https://amzn.to/3z8hiVV). :wink:
 Here are other things that are part of my toolkit that I briefly
 discussed in this book:
 
-- [The foldable bag I use when I\'m traveling.](https://amzn.to/4bjCaa3), as seen in [Idea #3](#idea-3-never-go-out-without-a-book-highlighter-and-pen)
+- [The foldable bag I use when I\'m traveling](https://amzn.to/4bjCaa3), as seen in [Idea #3](#idea-3-never-go-out-without-a-book-highlighter-and-pen)
 - [My alarm clock](https://amzn.to/3W6QL4z), as discussed in [Idea #4.1](#idea-4-grab-your-book-before-grabbing-your-phone)
 - [A headlamp for reading in the dark](https://amzn.to/4ePPBSc), as
   discussed in [Idea
