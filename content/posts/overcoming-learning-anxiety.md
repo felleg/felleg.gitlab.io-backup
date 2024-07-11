@@ -156,7 +156,7 @@ foundation of my learning system.
 
 Thanks to the following people who gave me feedback on this text:
 Gabrielle Perron (on multiple occasions), Réjane Léger, Maxime Bergeron, Nicole Daoust,
-Mathieu Frenette, Julien Gaboriaud, Elaine Delage, Catherine Proulx.
+Mathieu Frenette, Julien Gaboriaud, Elaine Delage, Catherine Proulx, Benoit Dicaire.
 
 And **thank you** for giving this text a chance.
 
