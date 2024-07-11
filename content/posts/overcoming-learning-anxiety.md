@@ -141,7 +141,7 @@ beyond what I thought was possible.
 Thanks to Gabrielle Perron for teaching me that reading a book twice is
 inefficient, and so much more. I love you.
 
-Thanks to Benoit Dicaire for introducing me to VanityURL and for
+Thanks to Benoît Dicaire for introducing me to VanityURL and for
 sharing the Hugo bookshelf. I don't know where you find all this
 stuff, but keep it coming!
 
@@ -156,7 +156,7 @@ foundation of my learning system.
 
 Thanks to the following people who gave me feedback on this text:
 Gabrielle Perron (on multiple occasions), Réjane Léger, Maxime Bergeron, Nicole Daoust,
-Mathieu Frenette, Julien Gaboriaud, Elaine Delage, Catherine Proulx, Benoit Dicaire.
+Mathieu Frenette, Julien Gaboriaud, Elaine Delage, Catherine Proulx, Benoît Dicaire.
 
 And **thank you** for giving this text a chance.
 
