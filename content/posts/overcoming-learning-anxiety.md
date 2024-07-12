@@ -145,7 +145,7 @@ Thanks to Benoît Dicaire for introducing me to VanityURL and for
 sharing the Hugo bookshelf. I don't know where you find all this
 stuff, but keep it coming!
 
-Thanks to Desire Silcott for her photographs. (Chapter 7)
+Thanks to Desire Silcott for her photographs. (Chapter 8)
 
 Thanks to Gene Kim for writing the books that gave me my *Aha!*
 moment.
@@ -809,10 +809,13 @@ how I learn.
 
 ## Chapter 6: My current learning system
 
-> *The ability to learn faster than your competitors may be the only
-> sustainable competitive advantage.*
+> *Acknowledging your mistakes is not the same as surrendering to
+> them. It’s the first step toward overcoming them.*
 >
-> -- Peter Senge, *The Fifth Discipline*
+> *Success consists of going from failure to failure without loss of
+> enthusiasm.*
+>
+> -- Ray Dalio, *Principles*
 
 In this chapter, I will teach you exactly how I learned everything I
 know. You will notice that my method relies on using physical books.
@@ -998,7 +1001,46 @@ That's it, really! However, since I am very passionate about this
 subject, I can't resist sharing some additional ideas. Head over to the
 [Appendix](#appendix-a-additional-ideas) for more precise tricks.
 
-## Chapter 7: Conclusion
+
+## Chapter 7: Profit
+
+This chapter is a work in progress.
+
+<!--
+> *The ability to learn faster than your competitors may be the only
+> sustainable competitive advantage.*
+>
+> -- Peter Senge, *The Fifth Discipline*
+
+**I now see mistakes as unplanned investments**
+
+This is a perspective I learned from reading. Whenever something bad
+happens, and especially when I am reasonable, instead of languishing
+in my own shame, I now have the reflex to ask myself what is the most
+useful thing I could learn from this. This changed how I approached
+failure and made it easier for me to grow.
+
+**It deepened my relationship with my partner**
+
+My 8-year long relationship with my partner was struggling. I read a
+book called Crucial Conversations
+
+**I found a way to integrate going the gym**
+
+Thanks to Psycho-Cybernetics and Atomic Habits
+
+**I learned how to deal with criticism**
+
+Reading Radical Candor
+
+**I learned how to be a better listener**
+
+I was always a social person, but I was never a good listener.
+Changing How to Win Friends and Influence People changed that.
+
+-->
+
+## Chapter 8: Conclusion
 
 > *One day, the mountain that was in front of you will be so far behind
 > you, it will barely be visible in the distance. But who you will
@@ -1684,14 +1726,6 @@ collection. I hope they will inspire you on your learning journey.
 > way to go do it.*
 >
 > -- Sheryl Sandberg, *Lean In*
-
-> *Acknowledging your mistakes is not the same as surrendering to
-> them. It’s the first step toward overcoming them.*
->
-> *Success consists of going from failure to failure without loss of
-> enthusiasm.*
->
-> -- Ray Dalio, *Principles*
 
 > *Nobody gets used to feeling dumb.*
 >
