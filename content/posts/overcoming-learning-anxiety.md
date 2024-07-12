@@ -176,7 +176,7 @@ idea of the choke hold it had on my life. I'm
 convinced that most people who suffer that condition don't realize it
 either.
 
-In my younger years, to the outsider, I must have looked like a virtuoso in everything I
+In my younger years, to the outsider, I must have looked like a virtuoso of everything I
 touched. I could improvise on the piano with sensitivity at age 9
 after a single year of home classes. I intuitively understood
 Mathematics from a young age up to well into my college years. Words
