@@ -145,7 +145,7 @@ Thanks to Benoît Dicaire for introducing me to VanityURL and for
 sharing the Hugo bookshelf. I don't know where you find all this
 stuff, but keep it coming!
 
-Thanks to Desire Silcott for her photographs. (Chapter 8)
+Thanks to Desire Silcott for her photographs in Chapter 8.
 
 Thanks to Gene Kim for writing the books that gave me my *Aha!*
 moment.
