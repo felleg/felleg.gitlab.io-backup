@@ -17,7 +17,7 @@ Scrabble without a board or points". Its 144 letter tiles come in a
 banana-shaped pouch that looks adorable. The official way to play
 Bananagrams is simple enough ([click here for the official
 rules](/img/bananagrams-how-to-play.jpg)). However, what I would like to
-discuss in this post is a variant I invented/discovered that I simply
+discuss in this post is a variant I invented that I simply
 like to call: **Bananagrams CO-OP**.
 
 # Where to buy
