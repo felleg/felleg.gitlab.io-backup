@@ -1,4 +1,6 @@
----
+<details><summary>Click to expand</summary>
+
+</details>---
 title: "Overcoming Learning Anxiety"
 date: 2022-08-07T15:24:25-04:00
 frontpage: "true"
@@ -34,7 +36,7 @@ opportunities. Missed opportunities can rob us of the life we desire.
 What then is the cost of knowledge, which brings opportunities? That
 cost is time spent learning, which unfortunately is often painful.
 
-Experiencing learning anxiety is like being addicted to
+Experiencing *learning anxiety* is like being addicted to
 ignorance. Can someone learn to prefer the pain of learning over the
 bliss of ignorance?
 
