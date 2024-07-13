@@ -75,7 +75,7 @@ alive and rewarding.
 1. For added pressure, when the timer is stopped, all words in the
    crossword must be valid, otherwise the team is disqualified.
 1. Since this is a CO-OPerative game, players are encouraged to help
-   each other. When someone seems stuck trying to place their
+   each other. However,  when someone seems stuck trying to place their
    letter during their turn, if the player holding the letter piece wishes to come up with their own
    solution without help, the other players *must* respect that (even if it feels annoying).
 1. Players can draw a tile from the Banana Bag before their own turn for a "buffered move". They can use it to plan their next move, but they shouldn't announce their letter yet. This technique helps when the group is pressed for time.
