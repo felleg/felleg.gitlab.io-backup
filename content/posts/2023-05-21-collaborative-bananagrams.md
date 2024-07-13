@@ -65,7 +65,7 @@ Put the filled banana pouch on your table. That's it!
   words in the core must be valid and all letters must be connected.
 - The use of the internet is only allowed to validate someome else's suggestion, or look up the definition of a suggestion.
 
-## Additional Ways to Maximize Fun
+## Spicy twists 🌶️
 
 You don't have to add all of these twists to your game, though I
 personally recommend all of them since I feel they all contribute to
@@ -75,15 +75,15 @@ alive and rewarding.
 1. Before beginning the game, give yourself an objective, such as beating your previous best time, finishing before the end of the lunch break, etc.
 1. For added pressure, when the timer is stopped, all words in the
    crossword must be valid, otherwise the team is disqualified.
-1. Since this is a collaborative game, players are encouraged to help
-   each other, especially when someone seems stuck trying to place their
-   letter during their turn. However, if a player wishes to come up with their own
-   solution without help, the other players are encouraged to respect that (even if it feels annoying).
+1. Since this is a CO-OPerative game, players are encouraged to help
+   each other. When someone seems stuck trying to place their
+   letter during their turn, if the player holding the letter piece wishes to come up with their own
+   solution without help, the other players *must* respect that (even if it feels annoying).
 1. Players can draw a tile from the Banana Bag before their own turn for a "buffered move". They can use it to plan their next move, but they shouldn't announce their letter yet. This technique helps when the group is pressed for time.
-1. Players may choose to skip their turn, leave or (re)enter the game at any time.
-1. Outsiders ("the board") who are watching you play can voice their opinions about word legality and game state. **Their feedback is binding, even if players disagree with it.** In our experience, the best use of the board is to ask for their opinion when you are unsure about the legality of a specific word.
-1. All official languages are accepted (**this is the best twist by far**). Use this to your advantage, as it opens
-   up more combinations of letters.
+1. Players may choose to skip their turn, leave or enter the game at any time.
+1. Outsiders who are watching you play can voice their opinions about word legality and game state. **Their feedback is binding, even if players disagree with it.** In our experience, the best use of the board is to ask for their opinion when you are unsure about the legality of a specific word.
+1. All official languages are accepted (**this is the best twist by far, and the secret to making this game a hit**). Use this to your advantage, as it opens
+   up more valid combinations of letters.
 1. When someone puts down a word you have never seen before, ask for what it means. It will help you remember it and it might come in handy in future games. Learning is fun!
 
 # Demonstration
@@ -97,21 +97,20 @@ demonstration of the game being played:
 
 # Why I can't stop playing Bananagrams CO-OP
 
-I asked ChatGPT one day what he thought of my little twist on the Bananagrams game. Here is what it said:
+Before I tell you what I think, just for the sake of being funny, here's what ChatGPT answered when I asked it what it thought of my little twist on the Bananagrams game. Here is what it said:
 
 > These rules create a collaborative and dynamic gameplay experience where players work together to build a complete crossword grid using the available tiles. The added twists, such as allowing different languages, buffered moves, and involving observers, add layers of complexity and interaction to the game. Overall, it seems like a great way to enjoy the word-building fun of Bananagrams in a collaborative and social setting. *Kudos* to you for coming up with this innovative variant!
 >
 > — [ChatGPT](https://chat.openai.com/share/da84e5e8-d6aa-4c6b-b058-1dd43467560c)
 
-As I have said earlier in this post, I discovered
-Bananagrams CO-OP by accident. We had had the Bananagrams game in the office for
-some time, and when I had players to play with, we played it the
-official way. Unfortunately for me, there wasn't anyone interested in
-playing most of the time. The fact that Bananagrams is by default a
-competitive game also seemed to rub people the wrong way ("Why would I
-play when I already know I will lose?")
+High praise from the world's smartest A.I. as of today, is it not? 🙂
 
-I started playing Banana Solitaire (yup, this variant even supports solo play!) to pass the time at lunchtime, and *that* seemed
+I discovered
+Bananagrams CO-OP by accident. Unlike Newton, it wasn't an apple that fell on my head ; it was a banana.
+
+I had brought this game to the office, but nobody was playing it. I liked the core idea of the word tiles, so I started to play Banana Solitaire.
+
+To pass the time at lunchtime, and *that* seemed
 to get people's attention. Slowly but surely, day by day, people would
 look at me and make comments, asking what game I was playing. I told
 them: "I'm playing a crossword game, the goal is to finish the
@@ -151,19 +150,17 @@ Bananagrams by themselves, pictures and all! My colleague Louis took it upon
 themself to start a game, and they managed to assemble a small crowd. It was a great day
 for bananas everywhere!
 
-From this point on, I saw that Collaborative Bananagrams could be more
+From this point on, I saw that Bananagrams CO-OP could be more
 than a game. For me, it **is a tool that has the potential to rewire
 relationships**. During gameplay, I enjoy using every opportunity I can to high-five
 people and make them feel valued. I see it in people's eyes: they
 derive meaning from pulling of a complex move in front of everyone and
 getting rewarded for it. This can have a lasting effect on the rest of their day at work.
 
-So there you have it: Collaborative Bananagrams! Feel free to try this
-concept at home or at your workplace and let me know what you think! I
-am still in the process of discovering the many ways Collaborative
-Bananagrams can be used to foster positive, fearless relationships in
-my current workplace, but I must say so far that I am quite happy with the
-initial results. :smiley:
+This variant is a hit everywhere I bring it. I cannot be bothered to pay standard Bananagrams, shouting PEEL, DUMP, (but maybe the occasional BANANA!). This is a game I bring with me everywhere I go. It allows me to make friends, learn what they know about, learn new words, ... The laughs we've had when playing this are real. The high fives and the "good job!" thrown around are a sight to see.
+
+So there you have it: Bananagrams CO-OP! Feel free to try this
+concept at home or at your workplace and let me know what you think! I personally think the Bananagrams company should start selling bags labeled "Bananagrams CO-OP" with these new rules. What I find hilarious about this is that it would be a completely different experience for the players, but the actual contents of the banana pouch would be the same as the standard version. I tried to contact them about making this a thing. Who knows, maybe I could be credited as a board game designer... Wouldn't that be something! 😄
 
 If you give this game a try, please tell us your fastest time in the
 comments below. :banana: Have fun!
