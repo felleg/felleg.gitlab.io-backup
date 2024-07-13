@@ -18,7 +18,7 @@ banana-shaped pouch that looks adorable. The official way to play
 Bananagrams is simple enough ([click here for the official
 rules](/img/bananagrams-how-to-play.jpg)). However, what I would like to
 discuss in this post is a variant I invented/discovered that I simply
-like to call: **CO-OP**.
+like to call: **Bananagrams CO-OP**.
 
 # Where to buy
 
