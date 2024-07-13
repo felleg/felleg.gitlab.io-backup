@@ -40,7 +40,9 @@ Experiencing *learning anxiety* is like being addicted to
 ignorance. Can someone learn to prefer the pain of learning over the
 bliss of ignorance?
 
-I believe so. The first step to healing is acknowledgement
+I believe so. 
+
+The first step to healing is acknowledgement
 of the problem, which requires knowledge of the problem in the first
 place. Unfortunately, the anxious learner is less likely to learn
 about their condition if the idea of searching for clues feels unsafe
