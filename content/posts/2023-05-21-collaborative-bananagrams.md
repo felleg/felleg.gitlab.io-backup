@@ -1,5 +1,5 @@
 ---
-title: "Collaborative Bananagrams"
+title: "Bananagrams CO-OP"
 date: 2023-05-22T16:13:34-04:00
 draft: false
 frontpage: "true"
