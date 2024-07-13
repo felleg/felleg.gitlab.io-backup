@@ -61,9 +61,9 @@ Put the filled banana pouch on your table. That's it!
 - Words must be read from left to right or top to bottom, as in
   typical crosswords.
 - Mistakes on the board must be resolved before normal play resumes.
-  In other words, when a new letter is drawn from the Banana Bag, all the
+  Before a new letter is drawn from the Banana Bag, all the
   words in the core must be valid and all letters must be connected.
-- The use of the internet for word suggestions is not allowed, though it is allowed to verify others' words.
+- The use of the internet is only allowed to validate someome else's suggestion, or look up the definition of a suggestion.
 
 ## Additional Ways to Maximize Fun
 
@@ -95,24 +95,26 @@ demonstration of the game being played:
 
 -----
 
-# Why I can't stop playing Collaborative Bananagrams
+# Why I can't stop playing Bananagrams CO-OP
+
+I asked ChatGPT one day what he thought of my little twist on the Bananagrams game. Here is what it said:
 
 > These rules create a collaborative and dynamic gameplay experience where players work together to build a complete crossword grid using the available tiles. The added twists, such as allowing different languages, buffered moves, and involving observers, add layers of complexity and interaction to the game. Overall, it seems like a great way to enjoy the word-building fun of Bananagrams in a collaborative and social setting. *Kudos* to you for coming up with this innovative variant!
 >
 > — [ChatGPT](https://chat.openai.com/share/da84e5e8-d6aa-4c6b-b058-1dd43467560c)
 
-As I have said earlier in this post, I discovered Collaborative
-Bananagrams by accident. We had had the Bananagrams game in the office for
+As I have said earlier in this post, I discovered
+Bananagrams CO-OP by accident. We had had the Bananagrams game in the office for
 some time, and when I had players to play with, we played it the
 official way. Unfortunately for me, there wasn't anyone interested in
 playing most of the time. The fact that Bananagrams is by default a
 competitive game also seemed to rub people the wrong way ("Why would I
 play when I already know I will lose?")
 
-I started playing Banana Solitaire to pass the time at lunchtime, and *that* seemed
+I started playing Banana Solitaire (yup, this variant even supports solo play!) to pass the time at lunchtime, and *that* seemed
 to get people's attention. Slowly but surely, day by day, people would
 look at me and make comments, asking what game I was playing. I told
-them the truth: "I'm playing a crossword game, the goal is to finish the
+them: "I'm playing a crossword game, the goal is to finish the
 bag as fast as possible." At that point, I was already playing it in
 bilingual mode, simply because that made it more fun for me.
 
