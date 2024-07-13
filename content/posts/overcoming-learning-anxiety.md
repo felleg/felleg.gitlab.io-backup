@@ -44,7 +44,7 @@ I believe so.
 
 The first step to healing is acknowledgement
 of the problem, which requires knowledge of the problem in the first
-place. Unfortunately, the anxious learner is less likely to learn
+place. Unfortunately, anxious learners are less likely to learn
 about their condition if the idea of searching for clues feels unsafe
 to them to begin with. It is a sadly ironic predicament, not
 helped by the fact that learning anxiety is rarely brought up in
