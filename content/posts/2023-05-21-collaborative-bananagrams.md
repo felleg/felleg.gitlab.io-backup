@@ -51,7 +51,7 @@ Put the filled banana pouch on your table. That's it!
    the core while respecting the [Important Rules](#important-rules) outlined below. They can rearrange any part of the core as needed.
 1. (Optional) The Banana Bag is passed to the player on the left, who repeats the
    steps above.
-1. Play continues clockwise until the Banana Bag is empty, at which time
+1. Play continues until the Banana Bag is empty, at which time
    all players can claim victory!
 
 ## Important Rules
