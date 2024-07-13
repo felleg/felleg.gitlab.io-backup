@@ -49,7 +49,7 @@ Put the filled banana pouch on your table. That's it!
 1. The person closest to the Banana Bag grabs a single letter from it.
    They tell everyone what their letter is. They must add this letter to
    the core while respecting the [Important Rules](#important-rules) outlined below. They can rearrange any part of the core as needed.
-1. The Banana Bag is passed to the player on the left, who repeats the
+1. (Optional) The Banana Bag is passed to the player on the left, who repeats the
    steps above.
 1. Play continues clockwise until the Banana Bag is empty, at which time
    all players can claim victory!
