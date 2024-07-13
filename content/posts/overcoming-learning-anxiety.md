@@ -50,7 +50,7 @@ casual conversation. Indeed,
 I have yet to hear someone say anything about learning anxiety, let
 alone hear them  talk about how they were affected by
 this disease, how they worked through it, and how healing transformed
-their lives.
+their lives. How are anxious learners expected to heal and become comfortable with their own learning process?
 
 "Be the change you want to see in the world" is a phrase that
 motivated me to write this book. I surely don't know enough about the
