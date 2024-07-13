@@ -1,6 +1,4 @@
-<details><summary>Click to expand</summary>
-
-</details>---
+---
 title: "Overcoming Learning Anxiety"
 date: 2022-08-07T15:24:25-04:00
 frontpage: "true"
