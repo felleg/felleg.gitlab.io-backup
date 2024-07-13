@@ -18,7 +18,7 @@ banana-shaped pouch that looks adorable. The official way to play
 Bananagrams is simple enough ([click here for the official
 rules](/img/bananagrams-how-to-play.jpg)). However, what I would like to
 discuss in this post is a variant I invented/discovered that I simply
-like to call: **Collaborative Bananagrams**.
+like to call: **CO-OP**.
 
 # Where to buy
 
@@ -42,7 +42,7 @@ Put the filled banana pouch on your table. That's it!
 
 ### Phase 1
 1. Unzip the Banana Bag, grab a handful of tiles (~21), and place them face-up on the table.
-1. Everyone plays simultaneously to make a single crossword at the center of the table that uses all face-up letters. We call this the "core". Any part of the core can be modified at any time. All words in the core must respect the [Important Rules](#important-rules) below.
+1. Everyone plays simultaneously to make a single crossword at the center of the table that uses all face-up letters (the core). Any part of the core can be modified at any time. All words in the core must respect the [Important Rules](#important-rules) below.
 1. When the core uses all the face-up letters, move on to phase 2.
 
 ### Phase 2
