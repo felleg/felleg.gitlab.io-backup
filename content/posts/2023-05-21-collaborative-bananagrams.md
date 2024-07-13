@@ -96,7 +96,7 @@ demonstration of the game being played:
 
 # Why I can't stop playing Bananagrams CO-OP
 
-Before I tell you what I think, just for the sake of being funny, here's what ChatGPT answered when I asked it what it thought of my little twist on the Bananagrams game. Here is what it said:
+Before I tell you what I think, here's what ChatGPT answered when I asked it what it thought of my little twist on the Bananagrams game. Here is what it said:
 
 > These rules create a collaborative and dynamic gameplay experience where players work together to build a complete crossword grid using the available tiles. The added twists, such as allowing different languages, buffered moves, and involving observers, add layers of complexity and interaction to the game. Overall, it seems like a great way to enjoy the word-building fun of Bananagrams in a collaborative and social setting. *Kudos* to you for coming up with this innovative variant!
 >
