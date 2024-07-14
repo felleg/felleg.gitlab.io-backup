@@ -277,7 +277,7 @@ Let's start untangling this mental knot by going back in time.
 
 # Part 1: Escaping the Valley of Despair
 
-## Chapter 1: The anxiety begins
+## Chapter 1: The Anxiety Begins
 
 > *Realize as early as possible that you have chosen your career for the wrong reasons, before your confidence takes a hit.*
 >
@@ -808,7 +808,7 @@ mastery, and rejoice that you are making real progress.**
 Alright, enough talking, let's start doing. It's time I share with you
 how I learn.
 
-## Chapter 6: My current learning system
+## Chapter 6: My Current Learning System
 
 > *Acknowledging your mistakes is not the same as surrendering to
 > them. It’s the first step toward overcoming them.*
@@ -1687,7 +1687,7 @@ discussed in this book:
   discussed in [Idea
   #5](#idea-5-use-a-red-led-headlamp-to-read-in-the-dark)
 
-# Appendix B: Motivational quotes
+# Appendix B: Motivational Quotes
 
 These quotes are lifted from my [Star Quotes](/star-quotes)
 collection. I hope they will inspire you on your learning journey.
@@ -1756,3 +1756,41 @@ collection. I hope they will inspire you on your learning journey.
 > *The last mile is always the least crowded*.
 >
 > -- James Clear, *Atomic Habits*
+
+<!--
+
+# Bibliography
+
+**Preface**
+
+{{< bibliography last="O'Reilly" first="Barry" title="Unlearn: Let Go of Past Success to Achieve Extraordinary Results" publisher="McGraw-Hill" year="2018" >}}
+
+**Introduction**
+
+{{< bibliography last="Seneca" first="Lucius Annaeus" title="Letters on Ethics" publisher="The University of Chicago Press" year="2015" >}}
+
+**Chapter 1: The Anxiety Begins**
+
+{{< bibliography last="Greene" first="Robert" title="Mastery" publisher="Viking Adult" year="2012" >}}
+
+**Chapter 2: Mount Stupid**
+
+{{< bibliography last="Clear" first="James" title="Atomic Habits"
+publisher="Avery" year="2018" >}}
+
+**Chapter 3: Aha!**
+
+**Chapter 4: Opening Pandora's Box**
+
+**Chapter 5: Climbing the Slope of Enlightenment**
+
+**Chapter 6: My Current Learning System**
+
+**Chapter 7: Profit**
+
+**Chapter 8: Conclusion**
+
+**Appendix A: Additional ideas**
+
+**Appendix B: Motivational Quotes**
+-->
