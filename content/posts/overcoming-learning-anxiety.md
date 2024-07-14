@@ -13,9 +13,35 @@ aliases: [
 description: "Unlock your hidden potential by rediscovering the joy of learning"
 ---
 
-**About the cover image**
+Cover created by Félix Léger.
 
-- Placeholder drawn by Félix Léger.
+---
+
+# Acknowledgements
+
+Thanks to Alexandre Désilets-Benoit for his patience and for giving me my X.
+
+Thanks to Mathieu Frenette for teaching me the fold and for pushing me
+beyond what I thought was possible.
+
+Thanks to Gabrielle Perron for teaching me that reading a book twice is
+inefficient, and so much more. I love you.
+
+Thanks to Benoît Dicaire for introducing me to VanityURL, the Hugo bookshelf, and the Cornell note taking system. I don't know where you find all this
+stuff, but please keep it coming!
+
+Thanks to Gene Kim for writing the books that gave me my *Aha!*
+moment.
+
+Thanks to Matt Morris for making a
+[video](https://www.youtube.com/watch?v=_WCfaGarc4U) that became the
+foundation of my learning system.
+
+Thanks to the following people who gave me feedback on this text:
+Gabrielle Perron (on multiple occasions), Réjane Léger, Maxime Bergeron, Nicole Daoust,
+Mathieu Frenette, Julien Gaboriaud, Elaine Delage, Catherine Proulx, Benoît Dicaire.
+
+And **thank you** for giving this text a chance.
 
 ---
 
@@ -130,36 +156,6 @@ post a comment at the bottom of this page or [send me an
 email](mailto:felix@felixleger.com) to let me know how far you
 made it, so that I have an idea of which section needs improving.
 Thank you for your help!
-
----
-
-# Thanks
-
-Thanks to Alexandre Désilets-Benoit for his patience and for giving me my X.
-
-Thanks to Mathieu Frenette for teaching me the fold and for pushing me
-beyond what I thought was possible.
-
-Thanks to Gabrielle Perron for teaching me that reading a book twice is
-inefficient, and so much more. I love you.
-
-Thanks to Benoît Dicaire for introducing me to VanityURL, the Hugo bookshelf, and the Cornell note taking system. I don't know where you find all this
-stuff, but please keep it coming!
-
-Thanks to Desire Silcott for her photographs in Chapter 8.
-
-Thanks to Gene Kim for writing the books that gave me my *Aha!*
-moment.
-
-Thanks to Matt Morris for making a
-[video](https://www.youtube.com/watch?v=_WCfaGarc4U) that became the
-foundation of my learning system.
-
-Thanks to the following people who gave me feedback on this text:
-Gabrielle Perron (on multiple occasions), Réjane Léger, Maxime Bergeron, Nicole Daoust,
-Mathieu Frenette, Julien Gaboriaud, Elaine Delage, Catherine Proulx, Benoît Dicaire.
-
-And **thank you** for giving this text a chance.
 
 ---
 
@@ -1143,7 +1139,7 @@ all about.
 
 Your move!
 
-{{< figure src="/img/nesto-library-visionary-look.jpg" >}}
+{{< figure src="/img/nesto-library-visionary-look.jpg" caption="Photo credit: Desire Silcott" >}}
 
 ---
 
@@ -1757,8 +1753,6 @@ collection. I hope they will inspire you on your learning journey.
 >
 > -- James Clear, *Atomic Habits*
 
-<!--
-
 # Bibliography
 
 **Preface**
@@ -1775,22 +1769,63 @@ collection. I hope they will inspire you on your learning journey.
 
 **Chapter 2: Mount Stupid**
 
-{{< bibliography last="Clear" first="James" title="Atomic Habits"
-publisher="Avery" year="2018" >}}
+{{< bibliography last="Clear" first="James" title="Atomic Habits" publisher="Avery" year="2018" >}}
 
 **Chapter 3: Aha!**
 
+{{< bibliography last="Smith" first="Dr. Julie" title="Why Has Nobody Told Me This Before?: Expert Advice for Navigating Life's Challenges" publisher="HarperOne" year="2022" >}}
+
+Gene Kim, Jez Humble, Patrick Debois, John Willis. *The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations*. IT Revolution Press, 2021.
+
+Coutu, Diane. "The Anxiety of Learning", *Harvard Business Review*, March 2022, https://hbr.org/2002/03/the-anxiety-of-learning.
+
+
 **Chapter 4: Opening Pandora's Box**
+
+{{< bibliography last="Senge" first="Peter" title="The Necessary Revolution: How individuals and organizations are working together to create a sustainable world." publisher="US Green Building Council" year="2008" >}}
 
 **Chapter 5: Climbing the Slope of Enlightenment**
 
+{{< bibliography last="Grant" first="Adam" title="Originals: How Non-Conformists Move the World" publisher="Penguin Books" year="2017" >}}
+
 **Chapter 6: My Current Learning System**
+
+{{< bibliography last="Dalio" first="Ray" title="Principles: Life and Work" publisher="Avid Reader Press" year="2017" >}}
 
 **Chapter 7: Profit**
 
+{{< bibliography last="Senge" first="Peter" title="The Fifth Discipline: The Art & Practice of The Learning Organization" publisher="Crown Currency" year="2006" >}}
+
 **Chapter 8: Conclusion**
+
+{{< bibliography last="Wiest" first="Brianna" title="The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery" publisher="Thought Catalog Books" year="2020" >}}
 
 **Appendix A: Additional ideas**
 
+{{< bibliography last="Doerr" first="John" title="Measure What Matters" publisher="Portfolio Penguin" year="2018" >}}
+
 **Appendix B: Motivational Quotes**
--->
+
+Gene Kim, Jez Humble, Patrick Debois, John Willis. *The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations*. IT Revolution Press, 2021.
+
+{{< bibliography last="Greene" first="Robert" title="Mastery" publisher="Viking Adult" year="2012" >}}
+
+{{< bibliography last="O'Reilly" first="Barry" title="Unlearn: Let Go of Past Success to Achieve Extraordinary Results" publisher="McGraw-Hill" year="2018" >}}
+
+{{< bibliography last="Newport" first="Cal" title="So Good They Can't Ignore You" publisher="Piatkus" year="2018" >}}
+
+Margaret J. Wheatley, Myron Kellner-Rogers. *A Simpler Way*. Berrett-Koehler Publishers, 1999.
+
+{{< bibliography last="Nagoski" first="Emily" title="Come As You Are: Revised and Updated: The Surprising New Science That Will Transform Your Sex Life" publisher="Simon & Schuster" year="2021" >}}
+
+{{< bibliography last="Razzetti" first="Gustavo" title="Remote Not Distant: Design a Company Culture That Will Help You Thrive in a Hybrid Workplace" publisher="Liberationist Press" year="2022" >}}
+
+{{< bibliography last="Sandberg" first="Sheryl" title="Lean In: Women, Work, and the Will to Lead" publisher="Knopf" year="2013" >}}
+
+{{< bibliography last="Dweck" first="Carol S." title="Mindset: The New Psychology of Success" publisher="Ballantine Books" year="2007" >}}
+
+{{< bibliography last="Seligman" first=" Martin E.P." title="Learned Optimism: How to Change Your Mind and Your Life" publisher="Vintage" year="2006" >}}
+
+{{< bibliography last="Lembke" first="Dr. Anna" title="Dopamine Nation: Finding Balance in the Age of Indulgence" publisher="Dutton" year="2023" >}}
+
+{{< bibliography last="Clear" first="James" title="Atomic Habits" publisher="Avery" year="2018" >}}
