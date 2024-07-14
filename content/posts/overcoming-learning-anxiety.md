@@ -19,13 +19,12 @@ Cover created by Félix Léger.
 
 # Acknowledgements
 
+Thanks to Gabrielle Perron for teaching me that reading a book twice is inefficient, and so much more. I love you.
+
 Thanks to Alexandre Désilets-Benoit for his patience and for giving me my X.
 
 Thanks to Mathieu Frenette for teaching me the fold and for pushing me
 beyond what I thought was possible.
-
-Thanks to Gabrielle Perron for teaching me that reading a book twice is
-inefficient, and so much more. I love you.
 
 Thanks to Benoît Dicaire for introducing me to VanityURL, the Hugo bookshelf, and the Cornell note taking system. I don't know where you find all this
 stuff, but please keep it coming!
