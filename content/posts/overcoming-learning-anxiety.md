@@ -196,7 +196,7 @@ advanced abilities compared to their peers.
 
 Well. My giftedness turned out to be a curse.
 
-All light creates shadow. When it comes to giftedness, there is one major
+All light has a shadow. When it comes to giftedness, there is one major
 downside. When you are used to being good at everything, as soon as you
 no longer are for a particular activity, your ego can't handle
 it, so you often give up too easily. This comes at a price that is worth more
