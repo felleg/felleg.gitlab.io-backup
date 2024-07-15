@@ -29,6 +29,8 @@ beyond what I thought was possible.
 Thanks to Benoît Dicaire for introducing me to VanityURL, the Hugo bookshelf, and the Cornell note taking system. I don't know where you find all this
 stuff, but please keep it coming!
 
+Thanks to my friends and colleagues for all their book recommendations. I am lucky to be surrounded by so many curious and brilliant people. Never stop sharing your knowledge with others!
+
 Thanks to Gene Kim for writing the books that gave me my *Aha!*
 moment.
 
