@@ -284,7 +284,7 @@ scientist for a newly formed startup
 then-called Proximity HCI (now known as
 [Contxtful](https://contxtful.com)). I had just finished my Masters
 thesis in particle Physics and was ready to jump into the world of
-software development[^3] after having developed a recent fondness for
+software development[^3] after having acquired a recent fondness for
 computers through my research.
 
 [^3]: This shift from Physics to software is something I previously [discussed on my blog in
