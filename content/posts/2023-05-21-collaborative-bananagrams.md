@@ -6,6 +6,8 @@ frontpage: "true"
 toc: true
 tags:
   - featured
+aliases:
+  - "/banana"
 ---
 
 {{< figure src="/img/bananagrams.jpg" position="center" caption="" >}}
