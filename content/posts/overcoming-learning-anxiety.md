@@ -1004,43 +1004,191 @@ subject, I can't resist sharing some additional ideas. Head over to the
 [Appendix](#appendix-a-additional-ideas) for more precise tricks.
 
 
-## Chapter 7: Profit
+## Chapter 7: What I Learned
 
-This chapter is a work in progress.
-
-<!--
 > *The ability to learn faster than your competitors may be the only
 > sustainable competitive advantage.*
 >
 > -- Peter Senge, *The Fifth Discipline*
 
-**I now see mistakes as unplanned investments**
+Armed with my learning system, I became empowered to read any book I
+wanted. I discovered a world of knowledge that was inaccessible to me
+before. In this chapter, I will give specific examples of how I was
+able to apply what I learned from specific books into the real world
+and how this made a difference in my life and the life of those around
+me. I read all of these books between 2022 and 2023.
 
-This is a perspective I learned from reading. Whenever something bad
-happens, and especially when I am reasonable, instead of languishing
-in my own shame, I now have the reflex to ask myself what is the most
-useful thing I could learn from this. This changed how I approached
-failure and made it easier for me to grow.
+**The DevOps Handbook**: How to learn from mistakes as a group
 
-**It deepened my relationship with my partner**
+{{< figure src="https://m.media-amazon.com/images/I/819OwBruPlL._SL1500_.jpg" position="center" caption="" scale="300px">}}
 
-My 8-year long relationship with my partner was struggling. I read a
-book called Crucial Conversations
+Obviously, we have to begin with the Handbook that initially gave me
+so much trouble. From this book, I learned so many things, but if I
+could highlight a specific practice that I lifted straight from the
+book, it would be the Blameless Postmortem. This is a type of meeting
+in which a team analyses the error that led to an incident, and what
+can be learned from it.
 
-**I found a way to integrate going the gym**
+This type of meeting is initially difficult to get used to for a team
+unfamiliar with the concept, and so having read the DevOps Handbook
+gave me the required confidence boost to not get discouraged when
+first attempts at doing postmortems did not go as planned. I developed
+the habit of telling attendees, "the only thing that matters is that
+we are learning, and that includes learning how to conduct a blameless
+postmortem." In fact, whenever something goes wrong in my household, I
+now use the same ideas. Instead of getting angry at whoever committed
+the mistake, I ask myself, "What made them think they were doing the
+right thing when they were doing the wrong thing?" This allows me to
+learn faster from my own mistakes.
 
-Thanks to Psycho-Cybernetics and Atomic Habits
+After two years of hosting this type of meeting in the context of
+incidents, I developed a [blameless postmortem
+recipe](https://gitlab.com/felleg/blameless-postmortems) that I can now
+bring with me everywhere I go.
 
-**I learned how to deal with criticism**
+**Continuous Delivery**: Using links in notes and in writing
 
-Reading Radical Candor
+{{< figure src="https://m.media-amazon.com/images/I/71sYKaNItcL._SL1500_.jpg" position="center" caption="" scale="300px">}}
 
-**I learned how to be a better listener**
+This is another DevOps-centric book, but the most useful thing I
+learned from it was surprisingly how to handle links in a book. This
+is where I got the inspiration to use URL shorteners in my notes and
+in my writings. In this book, instead of pointing to a long link in
+the references section, every link appears directly in the text next
+to where it is most useful, in the form of a bit.ly shortcode. That is
+so convenient! I couldn't resist imitating this idea. I have
+never seen any other book that does this, except the one you are
+holding in your hands right now. :smile:
 
-I was always a social person, but I was never a good listener.
-Changing How to Win Friends and Influence People changed that.
+**Radical Candor**: Giving and receiving feedback
 
--->
+{{< figure src="https://m.media-amazon.com/images/I/71qELZ2wR9L._SL1500_.jpg" position="center" caption="" scale="300px" >}}
+
+This book taught me how to receive criticism gracefully, and how to
+give feedback to someone.
+
+I have always had a thin skin when it came to feedback. I would often
+live for compliments, and get slain by any criticism. This changed
+when I read this book. For example, I feel more confident in showing
+my work to the public because I am less afraid to be faced with
+criticism. I trust that I have the right tools to handle it. This is
+why in the preface of this book I felt comfortable asking for your
+feedback if you found any part boring.
+
+Another example is when I have to give tough feedback to someone. I am
+still getting used to this process, and I don't want to divulge any
+example here in case this would get into someone's privacy. Let's
+just say that this allowed me to deepen my relationships with my
+colleagues and build trust more quickly, since we felt like we could
+really trust each other's feedback.
+
+**How to Win Friends and Influence People**: Listening to the person
+in front of me
+
+{{< figure src="https://m.media-amazon.com/images/I/61GRQsD6sKL._SL1499_.jpg" position="center" caption="" scale="300px" >}}
+
+This book taught me how to shut up and listen when people talk to me.
+I used to feel so insecure about how I was be seen by other people
+that I would always try to fill every room I was in. Not only was this
+surely annoying to the people around me, it made me distant from them.
+I was not open to learning about them.
+
+After reading this book, I started listening and being more interested
+about what people around me had to say. It surprised me how quickly we
+could dive into rich, difficult topics that we don't hear a lot about
+in casual conversation: how one feels about their sex transition, how
+racism affected one's life and family, mental health issues, thoughts
+of suicide... The skills I learned from this book made me feel closer
+than ever to my loved ones and allow me to reinvent my social life.
+
+**Psycho-Cybernetics**: Separating mental image from physical
+appearance
+
+{{< figure src="https://m.media-amazon.com/images/I/61NpPe+wHAL._SL1200_.jpg" position="center" caption="" scale="300px">}}
+
+This book allowed me to have real conversations with my partner about
+physical appearance. My partner is a beautiful, beautiful woman who
+sets the bar really high for herself. In the past, I didn't know how
+to deal with insecurities related to physical appearance. This book
+taught me the concept of the mental image, and it has been a useful
+concept to relate to what my partner was feeling and express to her
+how I felt about her appearance.
+
+Ever since reading and discussing this book with my partner, I feel
+that when I tell her I find her beautiful, she believes me ever so
+slightly, because she knows I can see the real person under the skin.
+
+**Atomic Habits**: Working out regularly
+
+{{< figure src="https://m.media-amazon.com/images/I/81YkqyaFVEL._SL1500_.jpg" position="center" caption="" scale="300px" >}}
+
+This is a book about developing good habits. I had known for a while
+that our life is approximately the sum of our habits, and I knew that
+my habits were mostly bad, yet I didn't know how to change them. One
+of the habit I most wanted to build into my life was doing more
+physical activity. Diabetes (type 2) runs in my family tree, and I knew I
+was on a slippery slope myself.
+
+This book gave me tips that allowed me to chain my few good habits
+together in a way that would empower me to add new ones. For example,
+I love the feeling of taking a shower after shaving. Thus, whenever I
+work out, my reward is to shave before taking a shower. It's a stupid
+thing, really, but thanks to that, I have done 76 workouts between
+December 2023 and July 2024, and I don't plan on stopping. I average
+2.7 workouts per week. It doesn't feel like a chore.
+
+Words can't express the satisfaction of seeing my muscles in the
+mirror for the first time.
+
+**Crucial Conversations**: Discussing sensitive issues without losing
+control of emotions
+
+{{< figure src="https://m.media-amazon.com/images/I/71oJG4ynmaL._SL1500_.jpg" position="center" caption="" scale="300px" >}}
+
+This book probably saved my relationship with my partner on the rare
+instances where we've had disagreements. Before getting familiar with
+concepts like the Path to Action, I always found my emotions getting
+the best of me in important conversations and regretting it. This book
+made me understand that it is foolish to believe we have to choose
+between telling the truth and keeping a friend. We can do both.
+
+My girlfriend is an expert negotiator and I always felt like I
+couldn't keep up with her when the time came to make important
+decisions. After reading Crucial Conversations, I could better respectfully stand my
+ground.
+
+**Remote Not Distant**: Making people want to come to the office
+
+{{< figure src="https://m.media-amazon.com/images/I/611bk4HUZ4L._SL1360_.jpg" position="center" caption="" scale="300px">}}
+
+In the post-pandemic hybrid workplace, this book taught me that the
+office is the new offsite. This means that what used to be a big team
+bonding event, e.g. spending a couple nights at a cottage as a team,
+is now replaced by simply going to the office. This means that if an
+office contains nothing that cannot be done from home, no one will
+come to it. This reduces the possibilities of serendipitous
+connections, and parallel communications.
+
+These concepts gave me ideas about how to contribute to making the
+office where I work fun, engaging, and also special. I set up an
+arcade that colleagues can play for high scores. I brought puzzles to
+our kitchen to have people collaborate together. These are little
+things, but they are working, because I often hear "I'll have to come
+back to play some more."
+
+**Ansible for DevOps**: Getting through probation on the first try!
+
+{{< figure src="https://m.media-amazon.com/images/I/61lbovdegiL._SL1303_.jpg" position="center" caption="" scale="300px" >}}
+
+This is a book I had to read in haste before I started my new job at
+Portage Cybertech, since Ansible is a tool I was not familiar with. My
+learning system allowed me to power through the book and become
+productive on day one.
+
+I cannot say that my code design was anything fancy (I should have
+probably read *Clean Architecture: A Craftsman's Guide to Software
+Structure and Design* for that), but at least it helped me to pass my
+probation in flying colors this time.
 
 ## Chapter 8: Conclusion
 
