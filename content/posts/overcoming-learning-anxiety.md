@@ -292,7 +292,7 @@ computers through my research.
 
 
 A few months in at Proximity HCI, it became apparent that things were clearly
-not working out: I was terrible at machine learning. There was simply no science to my methods. I just cobbled
+not working out: I was terrible at machine learning. There was no science to my methods, I just cobbled
 algorithms together and hoped they would work magically. With machine
 learning, I was simply "not on my X", as we say in French, meaning I
 wasn't in the right context to fulfill my potential. As I naturally
