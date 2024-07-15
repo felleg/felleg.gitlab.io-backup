@@ -977,9 +977,15 @@ quotes later.
 to copy my format if you want or create your own. In the end, what
 matters is that you create a pattern of work that tricks your brain
 into thinking about these ideas and have them make sense for you. You
-get bonus points if you make this review public: not only are you
+get bonus points if you make this review public and share your notes: not only are you
 sharing your knowledge, but you also encourage people to participate
 in your journey and initiate discussions with you.
+
+{{< figure src="/img/link-handwritten-notes.png" position="center" caption="" >}}
+
+If you are looking for a flatbed scanner, the one I am currently using
+is the [Canon LiDE 400](https://amazon.ca/dp/B07GPS69KF) and I am
+totally satisfied with it. Recommended!
 
 A nice side effect of posting your reviews on a website is that you
 can implement custom visualizations. For example, I have a [virtual bookshelf](/bookshelf) that I can use
@@ -1676,11 +1682,14 @@ Student by Cal Newport](https://amzn.to/3z8hiVV). :wink:
 Here are other things that are part of my toolkit that I briefly
 discussed in this book:
 
-- [The foldable bag I use when I\'m traveling](https://amzn.to/4bjCaa3), as seen in [Idea #3](#idea-3-never-go-out-without-a-book-highlighter-and-pen)
-- [My alarm clock](https://amzn.to/3W6QL4z), as discussed in [Idea #4.1](#idea-4-grab-your-book-before-grabbing-your-phone)
+- [The flatbed scanner I use to scan my handwritten
+  notes](https://amazon.ca/dp/B07GPS69KF), as seen in [Chapter
+  6](#chapter-6-my-current-learning-system).
+- [The foldable bag I use when I\'m traveling](https://amzn.to/4bjCaa3), as seen in [Idea #3](#idea-3-never-go-out-without-a-book-highlighter-and-pen).
+- [My alarm clock](https://amzn.to/3W6QL4z), as discussed in [Idea #4.1](#idea-4-grab-your-book-before-grabbing-your-phone).
 - [A headlamp for reading in the dark](https://amzn.to/4ePPBSc), as
   discussed in [Idea
-  #5](#idea-5-use-a-red-led-headlamp-to-read-in-the-dark)
+  #5](#idea-5-use-a-red-led-headlamp-to-read-in-the-dark).
 
 # Appendix B: Motivational Quotes
 
