@@ -1022,7 +1022,7 @@ me. I read all of these books between 2022 and 2023.
 
 **The DevOps Handbook**: How to learn from mistakes as a group
 
-{{< figure src="https://m.media-amazon.com/images/I/819OwBruPlL._SL1500_.jpg" position="center" caption="" scale="300px">}}
+{{< figure src="https://m.media-amazon.com/images/I/819OwBruPlL._SL1500_.jpg" position="center" caption="" scale="250px">}}
 
 Obviously, we have to begin with the Handbook that initially gave me
 so much trouble. From this book, I learned so many things, but if I
@@ -1050,7 +1050,7 @@ bring with me everywhere I go.
 
 **Continuous Delivery**: Using links in notes and in writing
 
-{{< figure src="https://m.media-amazon.com/images/I/71sYKaNItcL._SL1500_.jpg" position="center" caption="" scale="300px">}}
+{{< figure src="https://m.media-amazon.com/images/I/71sYKaNItcL._SL1500_.jpg" position="center" caption="" scale="250px">}}
 
 This is another DevOps-centric book, but the most useful thing I
 learned from it was surprisingly how to handle links in a book. This
@@ -1064,7 +1064,7 @@ holding in your hands right now. :smile:
 
 **Radical Candor**: Giving and receiving feedback
 
-{{< figure src="https://m.media-amazon.com/images/I/71qELZ2wR9L._SL1500_.jpg" position="center" caption="" scale="300px" >}}
+{{< figure src="https://m.media-amazon.com/images/I/71qELZ2wR9L._SL1500_.jpg" position="center" caption="" scale="250px" >}}
 
 This book taught me how to receive criticism gracefully, and how to
 give feedback to someone.
@@ -1087,7 +1087,7 @@ really trust each other's feedback.
 **How to Win Friends and Influence People**: Listening to the person
 in front of me
 
-{{< figure src="https://m.media-amazon.com/images/I/61GRQsD6sKL._SL1499_.jpg" position="center" caption="" scale="300px" >}}
+{{< figure src="https://m.media-amazon.com/images/I/61GRQsD6sKL._SL1499_.jpg" position="center" caption="" scale="250px" >}}
 
 This book taught me how to shut up and listen when people talk to me.
 I used to feel so insecure about how I was be seen by other people
@@ -1106,7 +1106,7 @@ than ever to my loved ones and allow me to reinvent my social life.
 **Psycho-Cybernetics**: Separating mental image from physical
 appearance
 
-{{< figure src="https://m.media-amazon.com/images/I/61NpPe+wHAL._SL1200_.jpg" position="center" caption="" scale="300px">}}
+{{< figure src="https://m.media-amazon.com/images/I/61NpPe+wHAL._SL1200_.jpg" position="center" caption="" scale="250px">}}
 
 This book allowed me to have real conversations with my partner about
 physical appearance. My partner is a beautiful, beautiful woman who
@@ -1122,7 +1122,7 @@ slightly, because she knows I can see the real person under the skin.
 
 **Atomic Habits**: Working out regularly
 
-{{< figure src="https://m.media-amazon.com/images/I/81YkqyaFVEL._SL1500_.jpg" position="center" caption="" scale="300px" >}}
+{{< figure src="https://m.media-amazon.com/images/I/81YkqyaFVEL._SL1500_.jpg" position="center" caption="" scale="250px" >}}
 
 This is a book about developing good habits. I had known for a while
 that our life is approximately the sum of our habits, and I knew that
@@ -1142,12 +1142,25 @@ December 2023 and July 2024, and I don't plan on stopping. I average
 Words can't express the satisfaction of seeing my muscles in the
 mirror for the first time!
 
-In addition to that, I learned how to get rid of bad habits by making them harder to do. I drink Les alcohol and eat way less sugar than I used to simply because I devised a rule that I will not buy sweets that go in my home. 
+In addition to that, I learned how to get rid of bad habits by making
+them harder to do. I reduced my alcohol consumption and eat way less sugar than I
+used to simply because I decided that I will not buy sweets
+that go in my home.
+
+<!--
+**The Fifth Discipline**: Creating microworlds
+
+{{< figure src="https://m.media-amazon.com/images/I/61ZKbQvmGLL._SL1200_.jpg" position="center" caption="" scale="250px">}}
+
+This book taught me about the concept of microworlds
+
+(work in progress)
+-->
 
 **Crucial Conversations**: Discussing sensitive issues without losing
 control of emotions
 
-{{< figure src="https://m.media-amazon.com/images/I/71oJG4ynmaL._SL1500_.jpg" position="center" caption="" scale="300px" >}}
+{{< figure src="https://m.media-amazon.com/images/I/71oJG4ynmaL._SL1500_.jpg" position="center" caption="" scale="250px" >}}
 
 This book probably saved my relationship with my partner on the rare
 instances where we've had disagreements. Before getting familiar with
@@ -1163,7 +1176,7 @@ ground.
 
 **Remote Not Distant**: Making people want to come to the office
 
-{{< figure src="https://m.media-amazon.com/images/I/611bk4HUZ4L._SL1360_.jpg" position="center" caption="" scale="300px">}}
+{{< figure src="https://m.media-amazon.com/images/I/611bk4HUZ4L._SL1360_.jpg" position="center" caption="" scale="250px">}}
 
 In the post-pandemic hybrid workplace, this book taught me that the
 office is the new offsite. This means that what used to be a big team
@@ -1182,7 +1195,7 @@ back to play some more."
 
 **Ansible for DevOps**: Getting through probation on the first try!
 
-{{< figure src="https://m.media-amazon.com/images/I/61lbovdegiL._SL1303_.jpg" position="center" caption="" scale="300px" >}}
+{{< figure src="https://m.media-amazon.com/images/I/61lbovdegiL._SL1303_.jpg" position="center" caption="" scale="250px" >}}
 
 This is a book I had to read in haste before I started my new job at
 Portage Cybertech, since Ansible is a tool I was not familiar with. My
