@@ -718,9 +718,9 @@ Freedom!!
 
 ---
 
-# Part 2: Creating a system of learning
+# Part 2: Climbing the Slope of Enlightenment
 
-## Chapter 5: Climbing the Slope of Enlightenment
+## Chapter 5: Creating a System of Learning
 
 
 > *You gotta kiss a lot of frogs before you find a prince.*
