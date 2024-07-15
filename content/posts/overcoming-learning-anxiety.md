@@ -1138,7 +1138,9 @@ December 2023 and July 2024, and I don't plan on stopping. I average
 2.7 workouts per week. It doesn't feel like a chore.
 
 Words can't express the satisfaction of seeing my muscles in the
-mirror for the first time.
+mirror for the first time!
+
+In addition to that, I learned how to get rid of bad habits by making them harder to do. I drink Les alcohol and eat way less sugar than I used to simply because I devised a rule that I will not buy sweets that go in my home. 
 
 **Crucial Conversations**: Discussing sensitive issues without losing
 control of emotions
