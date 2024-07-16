@@ -1572,7 +1572,7 @@ highlighter. I have already described in [Idea
 #8](#idea-8-use-the-body-of-your-highlighter-as-a-visual-aid)
 how to use your highlighter as a visual aid. Personally, I really like
 leaving my index between the front and back cover, because it creates
-a nice support without being in my eyes' way. When you reach the end
+a nice support without being in my eyes' way. Whenever I need to make a highlight, I hold the highlighter cap with my mouth, that way I can keep a steady grip. When you reach the end
 of the page, simply switch hands!
 
 {{< figure src="/img/how-hold-a-book-2.jpg" position="center" caption="" >}} 
