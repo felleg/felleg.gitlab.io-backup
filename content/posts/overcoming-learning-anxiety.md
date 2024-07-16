@@ -21,6 +21,8 @@ Cover created by Félix Léger.
 
 Thanks to Gabrielle Perron for inspiring me every day, for teaching me that reading a book twice is inefficient, and for so much more. I love you.
 
+Thanks to my parents, Nadine & Dany, who have always been there for me.
+
 Thanks to Alexandre Désilets-Benoit for his patience and for giving me my X.
 
 Thanks to Mathieu Frenette for teaching me the fold and for pushing me
