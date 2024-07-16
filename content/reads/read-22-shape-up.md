@@ -79,8 +79,8 @@ should look like, we asked her *when* she wanted a calendar. What was
 she doing when the thought occurred to ask for it?"
 1. (p. 37) When **breadboarding**, what matters are the components and
 their connections (not pictures) to judge if the sequence of actions solves the use
-case.
-1. (p. ?) {{< figure src="https://basecamp.com/assets/books/shapeup/1.3/invoice_breadboard_6-728e11c77b57f3c4ee56c00187a7c760562090f3733a4aec43cc05a2f95bb003.png" position="center" caption="" >}}
+case:
+    - {{< figure src="https://basecamp.com/assets/books/shapeup/1.3/invoice_breadboard_6-728e11c77b57f3c4ee56c00187a7c760562090f3733a4aec43cc05a2f95bb003.png" position="center" caption="" >}}
 1. (p. 41) Use **fat marker sketches** when the 2D arrangement of elements
 is the fundamental problem. Make such broad strokes that adding detail
 is difficult/impossible.
