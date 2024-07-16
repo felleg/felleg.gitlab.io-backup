@@ -118,11 +118,6 @@ them: "I'm playing a crossword game, the goal is to finish the
 bag as fast as possible." At that point, I was already playing it in
 bilingual mode, simply because that made it more fun for me.
 
-Little by little, people started to join in. Someone dared to use a
-Spanish word, so I made the rules even more inclusive: use any language
-you know. Soon came the first Italian word, then the first Greek, the first Mandarin, the
-first Latin. The flood gates were open!
-
 For weeks, every day I was at the office, I would rush to the cafeteria
 at lunch to prepare the core using a handful of tiles and wait for someone
 (anyone!) to jump in. I learned that people are more likely to jump in
@@ -151,17 +146,35 @@ Bananagrams by themselves, pictures and all! My colleague Louis took it upon
 themself to start a game, and they managed to assemble a small crowd. It was a great day
 for bananas everywhere!
 
+Invariably, people would rush to their local game store after playing
+my variant to try this game with their family. They were always
+confused when they read the rules that came with their purchase. They
+hadn't realized that what they played was an unofficial variant of the
+game!
+
 From this point on, I saw that Bananagrams CO-OP could be more
-than a game. For me, it **is a tool that has the potential to rewire
-relationships**. During gameplay, I enjoy using every opportunity I can to high-five
+than a game. For me, it is a tool that has the potential to rewire
+relationships. During gameplay, I enjoy using every opportunity I can to high-five
 people and make them feel valued. I see it in people's eyes: they
 derive meaning from pulling of a complex move in front of everyone and
 getting rewarded for it. This can have a lasting effect on the rest of their day at work.
 
-This variant is a hit everywhere I bring it. I cannot be bothered to pay standard Bananagrams, shouting PEEL, DUMP, (but maybe the occasional BANANA!). This is a game I bring with me everywhere I go. It allows me to make friends, learn what they know about, learn new words, ... The laughs we've had when playing this are real. The high fives and the "good job!" thrown around are a sight to see.
+This variant is a hit everywhere I bring it. I cannot be bothered to
+pilay standard Bananagrams, shouting PEEL, DUMP, (but maybe the
+occasional BANANA!). This is a game I bring with me everywhere I go.
+It allows me to make friends, learn what they know about, learn new
+words, ... The laughs we've had when playing this are real. The high
+fives and the "good job!" thrown around are a sight to see.
 
 So there you have it: Bananagrams CO-OP! Feel free to try this
-concept at home or at your workplace and let me know what you think! I personally think the Bananagrams company should start selling bags labeled "Bananagrams CO-OP" with these new rules. What I find hilarious about this is that it would be a completely different experience for the players, but the actual contents of the banana pouch would be the same as the standard version. I tried to contact them about making this a thing. Who knows, maybe I could be credited as a board game designer... Wouldn't that be something! 😄
+concept at home or at your workplace and let me know what you think! I
+personally think the Bananagrams company should start selling bags
+labeled "Bananagrams CO-OP" with these new rules. What I find
+hilarious about this is that it would be a completely different
+experience for the players, but the actual contents of the banana
+pouch would be the same as the standard version. I tried to contact
+them about making this a thing. Who knows, maybe I could be credited
+as a board game designer... Wouldn't that be something! 😄
 
 If you give this game a try, please tell us your fastest time in the
 comments below. :banana: Have fun!
