@@ -56,11 +56,13 @@ And **thank you** for giving this text a chance.
 >
 > -- Barry O' Reilly, *Unlearn*
 
-Ignorance is bliss. That much is true.
+Ignorance is bliss. Would you agree?
 
-Here's another truth: All
-pleasant things have a cost. The cost of blissful ignorance is missed
-opportunities. Missed opportunities can rob us of the life we desire.
+Here's another  idea: All
+pleasant things have a cost. 
+
+Blissful ignorance costs missed
+opportunities. By accumulating missed opportunities, we unknowingly rob ourselves of the life we desire.
 
 What then is the cost of knowledge, which brings opportunities? That
 cost is time spent learning, which unfortunately is often painful.
