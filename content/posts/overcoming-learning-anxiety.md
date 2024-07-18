@@ -28,10 +28,12 @@ Thanks to Alexandre Désilets-Benoit for his patience and for giving me my X.
 Thanks to Mathieu Frenette for teaching me the fold and for pushing me
 beyond what I thought was possible.
 
-Thanks to Benoît Dicaire for introducing me to VanityURL, the Hugo bookshelf, and the Cornell note taking system. I don't know where you find all this
+Thanks to Benoît Dicaire for his mentorship, for introducing me to VanityURL, the Hugo bookshelf, and the Cornell note taking system. I don't know where you find all this
 stuff, but please keep it coming!
 
-Thanks to my friends and colleagues for all their book recommendations. I am lucky to be surrounded by so many curious and brilliant people. Never stop sharing your knowledge with others!
+Thanks to my friends and colleagues at Portage Cybertech for making every day filled with joy and meaning. 
+
+Thanks to  all who gave me their book recommendations over the years. I am lucky to be surrounded by so many curious and brilliant people. Never stop sharing your knowledge with others!
 
 Thanks to Gene Kim for writing the books that gave me my *Aha!*
 moment.
