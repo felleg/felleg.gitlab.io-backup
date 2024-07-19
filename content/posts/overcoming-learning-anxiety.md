@@ -1175,7 +1175,7 @@ couldn't keep up with her when the time came to make important
 decisions. After reading Crucial Conversations, I could better respectfully stand my
 ground.
 
-**Remote Not Distant**: Making people want to come to the office
+**Remote Not Distant**: Making people want to come back to the office
 
 {{< figure src="https://m.media-amazon.com/images/I/611bk4HUZ4L._SL1360_.jpg" position="center" caption="" scale="250px">}}
 
