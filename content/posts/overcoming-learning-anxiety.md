@@ -64,26 +64,31 @@ pleasant things have a cost.
 Blissful ignorance costs missed
 opportunities. By accumulating missed opportunities, we unknowingly rob ourselves of the life we desire.
 
-What then is the cost of knowledge, which brings opportunities? That
+Nobody wants that.
+
+Let's flip the script. What brings opportunities?
+
+Knowledge does. What then is the cost of knowledge? That
 cost is time spent learning, which unfortunately is often painful.
 
-Experiencing *learning anxiety* is like being addicted to
+Thus, we face life's eternal challenge. To attain lasting happiness, we first have to choose a path of temporary suffering (learning), which goes against all our instincts. Too often, we opt for lasting suffering in exchange of temporary joy (blissful ignorance).
+
+We must forgive ourselves. Delaying happiness is not an easy choice to make, especially when we are not yet used to it. In fact,  experiencing *learning anxiety* is like being addicted to
 ignorance. Can someone learn to prefer the pain of learning over the
 bliss of ignorance?
 
-I believe so. 
+I believe so. We can learn to kick any bad habit. To do so, we must replace it with a good, meaningful habit. 
 
-The first step to healing is acknowledgement
+The first step to healing a bad habit is acknowledgement
 of the problem, which requires knowledge of the problem in the first
 place. Unfortunately, anxious learners are less likely to learn
 about their condition if the idea of searching for clues feels unsafe
-to them to begin with. It is a sadly ironic predicament, not
-helped by the fact that learning anxiety is rarely brought up in
+to them to begin with. It is a sadly ironic predicament,  especially because the topic of learning anxiety is rarely brought up in
 casual conversation. Indeed,
-I have yet to hear someone say anything about learning anxiety, let
-alone hear them  talk about how they were affected by
+I have yet to hear someone say anything about learning anxiety in my social circle, let
+alone hear anyone  talk about how they were affected by
 this disease, how they worked through it, and how healing transformed
-their lives. How are anxious learners expected to heal and become comfortable with their own learning process?
+their lives. How are anxious learners expected to heal and become comfortable with their own learning process if they lack the information that will allow them to acknowledge their problem?
 
 "Be the change you want to see in the world" is a phrase that
 motivated me to write this book. I surely don't know enough about the
@@ -96,7 +101,7 @@ done. By rediscovering joy in learning and in creating my own
 system of learning, I have found the key to unlimited mountains of
 wisdom that profoundly impacted every aspect of my identity. Where I
 once felt stuck in constantly repeating the same mistakes, I could now
-*read* on the subject. This enlarged my perspective, made me see things
+*learn* about the subject. This enlarged my perspective, made me see things
 differently, and suggested different ways to act. I cannot overstate
 it: This process changed my life.
 
