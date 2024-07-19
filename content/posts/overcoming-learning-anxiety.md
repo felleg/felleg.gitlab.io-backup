@@ -46,7 +46,7 @@ Thanks to the following people who gave me feedback on this text:
 Gabrielle Perron (on multiple occasions), Réjane Léger, Maxime Bergeron, Nicole Daoust,
 Mathieu Frenette, Julien Gaboriaud, Elaine Delage, Catherine Proulx, Benoît Dicaire.
 
-And **thank you** for giving this text a chance.
+And **thank you** for giving this text a chance. I sincerely hope this text will bring value to your life. If you have any feedback, I would love to receive it at felix@felixleger.com.
 
 ---
 
@@ -145,31 +145,19 @@ it's that **anyone can experience learning anxiety and overcoming it
 requires a system of your own creation that will make learning a
 joyful experience to you**.
 
-Don't worry. I will do everything I can to help you get there smoothly.
-
-In this text, I will tell you my story:
+Don't worry. I will do everything I can to help you get there smoothly. I will tell you my story:
 how I discovered I had learning anxiety, the impact it had on my life,
-and the techniques I developed to work through it. If you experience
-learning anxiety, my hope is that this text will make you realize that
+and the techniques I developed to work through it. 
+
+If you experience
+learning anxiety, my hope is to make you realize
 you are not alone and that there is a way out. You can overcome any
 obstacle that stands in your way, and you can even have fun while
 doing it. You might rediscover yourself and the world around you like
 you never have before. All it takes is the willingness to fail and learn from  honest
-mistakes. And, perhaps, the urge to read a book or two. Or {{< n_books
->}}.
+mistakes. And, perhaps, the urge to read a book or two. Or {{< n_books >}}.
 
-I sincerely hope this text will bring value to your life.
-
-=L
-
-**P.S.** Don't feel bad if you don't finish reading this text in its
-entirety. Perhaps I didn't make it engaging enough, or too rambly. You
-have full permission to blame the author if you lose interest.
-:slightly_smiling_face: If I may ask a small favor in return, just
-post a comment at the bottom of this page or [send me an
-email](mailto:felix@felixleger.com) to let me know how far you
-made it, so that I have an idea of which section needs improving.
-Thank you for your help!
+Ready? Let's begin.
 
 ---
 
