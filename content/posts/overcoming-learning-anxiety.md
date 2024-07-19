@@ -145,6 +145,8 @@ it's that **anyone can experience learning anxiety and overcoming it
 requires a system of your own creation that will make learning a
 joyful experience to you**.
 
+Don't worry. I will do everything I can to help you get there smoothly.
+
 In this text, I will tell you my story:
 how I discovered I had learning anxiety, the impact it had on my life,
 and the techniques I developed to work through it. If you experience
