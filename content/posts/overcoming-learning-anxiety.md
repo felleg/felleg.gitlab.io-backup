@@ -1150,12 +1150,11 @@ them harder to do. I reduced my alcohol consumption and eat way less sugar than 
 used to simply because I decided that I will not buy sweets
 that go in my home.
 
-
-**The Fifth Discipline**: Creating microworlds
+<!--
+**The Fifth Discipline**: Writing this book!
 
 {{< figure src="https://m.media-amazon.com/images/I/61ZKbQvmGLL._SL1200_.jpg" position="center" caption="" scale="250px">}}
 
-<!--
 This book taught me about the concept of microworlds
 -->
 
