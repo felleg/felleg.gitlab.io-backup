@@ -417,8 +417,8 @@ effect](https://simple.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
 is what happened. It is a phenomenon that happens whenever we learn something new. To summarize, in the process of becoming a master, there is a transitional period where the learner goes from being overly confident to feeling completely ignorant, despite constant progress in their learning.  
 
 This peak of overconfidence is known as Mount Stupid, and at this point of the story I had made it to its peak. Some people
-call this stage "premature enlightenment." My confidence in my ability to
-learn from reading had risen above my actual abilities.
+call this stage "premature enlightenment." It is often in this stage where we make the most mistakes. My confidence in my ability to
+learn from reading had risen above my actual abilities, and I was about to learn it the hard way.
 
 {{< figure src="/img/dunning-kruger-effect.png" position="center" caption="The path to mastery of any type involves traversing the Dunning-Kruger graph from left to right." scale="90%" >}}
 
