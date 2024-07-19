@@ -24,11 +24,21 @@
                 </div>
             {{- end }}
 
-        </div>
-
         {{ $bookCount := len (where .Site.RegularPages "Section" "reads") }}
         <a href="/books"><p>{{ $bookCount }} reads completed, and
                         the journey continues!</p></a>
+
+            <center>
+               <p><a href="https://felx.cc/ola-store" target="_blank">
+            <img
+            src="/img/reads/overcoming-learning-anxiety.jpg"
+            style="width:300px; border: 2px solid black"></img>
+            </a>
+               </p>
+            </center>
+
+        </div>
+
 
 
         <h1><a href="tags/featured" style="text-decoration:none">Featured Posts</a></h1>
