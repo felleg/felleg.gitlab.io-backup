@@ -10,7 +10,7 @@ aliases: [
    "/overcoming-learning-anxiety/",
    "/ola",
 ]
-description: "Unlock your hidden potential by rediscovering the joy of learning"
+description: "Unlock Your Potential by Rediscovering the Joy of Learning"
 ---
 
 Cover created by Félix Léger.
@@ -456,7 +456,7 @@ everything ground to a halt.
 E-readers](https://felixleger.com/posts/2020/10/i-love-e-readers/)
 where I argue that physical books should be a thing of the past. Oh,
 the irony, considering I feel uncomfortable whenever I read anything
-that is *not* a physical book! :smile:
+that is *not* a physical book!
 
 Reluctantly, I shelved  the handbook both physically and digitally,
 feeling ashamed and defeated. I felt even more like an impostor: the
@@ -671,7 +671,7 @@ put it in a recycling bin afterward. Few people realize how invaluable our
 ability to learn truly is -- it is well worth a few hundred pages if
 it can change your life and the lives of others around you. In
 summary, my final advice on the matter is to stop respecting books,
-and to start respecting how your brain learns.  :smiley:
+and to start respecting how your brain learns.
 
 You can't imagine how joyful I was to suplex the DevOps Handbook. It
 had held me back for so long, I felt like I was getting revenge. It
@@ -1063,7 +1063,7 @@ the references section, every link appears directly in the text next
 to where it is most useful, in the form of a bit.ly shortcode. That is
 so convenient! I couldn't resist imitating this idea. I have
 never seen any other book that does this, except the one you are
-holding in your hands right now. :smile:
+holding in your hands right now.
 
 **Radical Candor**: Giving and receiving feedback
 
@@ -1073,7 +1073,7 @@ This book taught me how to receive criticism gracefully, and how to
 give feedback to someone.
 
 I have always had a thin skin when it came to feedback. I would often
-live for compliments, and get slain by any criticism. This changed
+live for compliments and get slain by any criticism. This changed
 when I read this book. For example, I feel more confident in showing
 my work to the public because I am less afraid to be faced with
 criticism. I trust that I have the right tools to handle it. This is
@@ -1852,7 +1852,7 @@ discussed in this book:
   notes](https://amazon.ca/dp/B07GPS69KF), as seen in [Chapter
   6](#chapter-6-my-current-learning-system).
 - [The foldable bag I use when I\'m traveling](https://amzn.to/4bjCaa3), as seen in [Idea #3](#idea-3-never-go-out-without-a-book-highlighter-and-pen).
-- [My alarm clock](https://amzn.to/3W6QL4z), as discussed in [Idea #4.1](#idea-4-grab-your-book-before-grabbing-your-phone).
+- [An alarm clock](https://amzn.to/3W6QL4z), as discussed in [Idea #4.1](#idea-4-grab-your-book-before-grabbing-your-phone).
 - [A headlamp for reading in the dark](https://amzn.to/4ePPBSc), as
   discussed in [Idea
   #5](#idea-5-use-a-red-led-headlamp-to-read-in-the-dark).
