@@ -1,7 +1,7 @@
 ---
 title: "Series"
 ---
-<!--| 2024 | 2023 | {{< thumbnail src="img/series/survivor-quebec.png" >}} | | | Reality TV game | |-->
+<!--| 2024 | 2023 | thumbnail src="img/series/survivor-quebec.png" | | | Reality TV game | |-->
 
 | Year watched | Release Year | Thumbnail | Title | # Seasons Watched | Genre | Comments |
 | ---- | ---- |--------- | ----- | ------ | ----- | ------------|
