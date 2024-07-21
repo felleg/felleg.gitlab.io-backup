@@ -44,7 +44,7 @@ foundation of my learning system.
 
 Thanks to the following people who gave me feedback on this text:
 Gabrielle Perron (on multiple occasions), Réjane Léger, Maxime Bergeron, Nicole Daoust,
-Mathieu Frenette, Julien Gaboriaud, Elaine Delage, Catherine Proulx, Benoît Dicaire.
+Mathieu Frenette, Julien Gaboriaud, Elaine Delage, Catherine Proulx, Benoît Dicaire, Paul Pedersen.
 
 And **thank you** for giving this text a chance. I sincerely hope this text will bring value to your life. If you have any feedback, I would love to receive it at felix@felixleger.com.
 
