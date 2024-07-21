@@ -68,10 +68,10 @@ Nobody wants that.
 
 Let's flip the script. What brings opportunities?
 
-Knowledge does. What then is the cost of knowledge? That
+Knowledge. What then is the cost of knowledge? That
 cost is time spent learning, which unfortunately is often painful.
 
-Thus, we face life's eternal challenge. To attain lasting happiness, we first have to choose a path of temporary suffering (learning), which goes against all our instincts. Too often, we opt for lasting suffering in exchange of temporary joy (blissful ignorance).
+Thus, we face life's eternal challenge. To attain lasting happiness, we first have to choose a path of temporary suffering (learning), which goes against all our instincts. Too often, we  choose temporary joy (blissful ignorance) knowing that it will bring lasting suffering.
 
 We must forgive ourselves. Delaying happiness is not an easy choice to make, especially when we are not yet used to it. In fact,  experiencing *learning anxiety* is like being addicted to
 ignorance. Can someone learn to prefer the pain of learning over the
