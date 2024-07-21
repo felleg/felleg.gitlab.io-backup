@@ -552,7 +552,7 @@ alarming precision:
 > (Edgar H. Schein, [The Anxiety of
 Learning](https://hbr.org/2002/03/the-anxiety-of-learning))
 
-For the first time in my life, I saw the demon in me. Dr. Schein was
+For the first time in my life, I saw the flaw in me. Dr. Schein was
 describing exactly how I had felt during my entire career. First,
 learning anxiety kept me in the Valley of Despair. Then, the risk of
 losing my job at nesto made me experience survival anxiety that was
@@ -677,7 +677,8 @@ You can't imagine how joyful I was to suplex the DevOps Handbook. It
 had held me back for so long, I felt like I was getting revenge. It
 was such a cathartic experience. Page after page, I was folding it,
 compressing it, damaging it, writing in it, and with each day passing, I saw the book
-get more and more used by my doing. I hadn't yet learned how to take
+get more and more *used* by my doing. The creaks on the spine were
+becoming visitble. I was making *progress*. I hadn't yet learned how to take
 notes (we'll get to that in [Chapter
 5](#chapter-5-creating-a-system-of-learning)), but I was making more
 progress than ever, simply because the act of using my hands to
@@ -782,7 +783,7 @@ learning system. [This six-minutes long video from Matt Morris titled
 Learning\'](https://www.youtube.com/watch?v=_WCfaGarc4U) fit the bill.
 
 What I want you to remember from this chapter is that my learning
-system didn't just fall on me from the heavens. I failed a bunch of
+system didn't just fall on me from the heavens. I had to look for it. I failed a bunch of
 times before stumbling upon a process that worked for me. I asked my
 partner for help and suggestions when I realized I was out of ideas. I
 searched on YouTube for insight. I was at my most vulnerable then,
@@ -848,7 +849,7 @@ want to read/write more, not less! If you can, I suggest you try to do these ste
 Crack open the book at page 1 (or simply continue reading here). We are embarking on a journey. If you
 didn't try the book suplex yet, consider doing it now.  Have a
 highlighter in your hand and start reading. Highlight whatever golden
-nuggets of information *you* find interesting. That's it!
+nuggets of information *you* find interesting, whatever the reason. That's it!
 
 Whenever I highlight something, I don't care if this is something the
 author expected me to memorize or not. If a sentence resonates with me, if I'd
@@ -1065,6 +1066,8 @@ so convenient! I couldn't resist imitating this idea. I have
 never seen any other book that does this, except the one you are
 holding in your hands right now.
 
+If you’re curious about the inner workings of short codes, see Appendix A.15.
+
 **Radical Candor**: Giving and receiving feedback
 
 {{< figure src="https://m.media-amazon.com/images/I/71qELZ2wR9L._SL1500_.jpg" position="center" caption="" scale="250px" >}}
@@ -1095,7 +1098,7 @@ in front of me
 This book taught me how to shut up and listen when people talk to me.
 I used to feel so insecure about how I was be seen by other people
 that I would always try to fill every room I was in. Not only was this
-surely annoying to the people around me, it made me distant from them.
+surely annoying to the people around me, but it also made me distant from them.
 I was not open to learning about them.
 
 After reading this book, I started listening and being more interested
@@ -1146,7 +1149,7 @@ Words can't express the satisfaction of seeing my muscles in the
 mirror for the first time!
 
 In addition to that, I learned how to get rid of bad habits by making
-them harder to do. I reduced my alcohol consumption and eat way less sugar than I
+them harder to do. I reduced my alcohol consumption and now eat way less sugar than I
 used to simply because I decided that I will not buy sweets
 that go in my home.
 
@@ -1259,8 +1262,7 @@ reading to learn felt painful. Now, I am addicted.
 
 **We are all lifelong learners.** If you want to learn about
 something, you can do it. What allows some people to learn faster than
-others is that they have created and optimized a learning system that
-is suited for *their* way of learning.  When I realized that the core
+others is that they have created and optimized a learning system suited for *their* way of learning.  When I realized that the core
 mission of DevOps, which eluded me for years, is to create a system
 that automates organizational learning, I felt the pinch of irony
 since this realization had required me to create *my* own system of
