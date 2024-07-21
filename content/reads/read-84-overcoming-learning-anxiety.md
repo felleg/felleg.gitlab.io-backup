@@ -2,7 +2,7 @@
 date: 2024-06-11T15:13:54-04:00
 title: (Read 84) Overcoming Learning Anxiety
 cover: img/reads/overcoming-learning-anxiety.png
-amzcover: /img/reads/overcoming-learning-anxiety.png
+amzcover: /img/reads/overcoming-learning-anxiety-cover.png
 author: Félix Léger
 tags:
   - 'reads'
