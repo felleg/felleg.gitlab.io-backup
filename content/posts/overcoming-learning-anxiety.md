@@ -94,7 +94,7 @@ their lives. How are anxious learners expected to heal and become comfortable wi
 motivated me to write this book. I surely don't know enough about the
 science of neurology to claim expertise on the topic of learning
 anxiety. However, I have experienced severe learning anxiety myself,
-which compels me to bring awareness to this condition while the
+which compels me to raise awaren of this condition while the
 experience is still fresh in my mind. Incredibly, overcoming learning
 anxiety is both the hardest and most gratifying thing I have ever
 done. By rediscovering joy in learning and in creating my own
@@ -143,7 +143,7 @@ this text reaches someone in need -- you, perhaps?
 If there's only one thing I'd want you to remember from all of this,
 it's that **anyone can experience learning anxiety and overcoming it
 requires a system of your own creation that will make learning a
-joyful experience to you**.
+joyful experience  for you**.
 
 Don't worry. I will do everything I can to help you get there smoothly. I will tell you my story:
 how I discovered I had learning anxiety, the impact it had on my life,
