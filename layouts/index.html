@@ -27,15 +27,15 @@
         {{ $bookCount := len (where .Site.RegularPages "Section" "reads") }}
         <a href="/books"><p>{{ $bookCount }} reads completed, and
                         the journey continues!</p></a>
-
+            <div>
             <center>
-               <p><a href="https://felx.cc/ola-store" target="_blank">
-            <img
-            src="/img/reads/overcoming-learning-anxiety.jpg"
-            style="width:300px; border: 2px solid black"></img>
-            </a>
-               </p>
+            <a href="https://felx.cc/ola-store" target="_blank"><img src="/img/reads/overcoming-learning-anxiety.jpg"
+                      style="display:inline;width:200px; border: 2px solid black"></a> <a href="/star-quotes" target="_blank">
+            <img src="/img/reads/star-quotes.png"
+                 style="display:inline;width:200px;
+                      border: 2px solid black"></img></a>
             </center>
+            </div>
 
         </div>
 
