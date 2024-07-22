@@ -71,7 +71,7 @@ Let's flip the script. What brings opportunities?
 Knowledge. What then is the cost of knowledge? That
 cost is time spent learning, which unfortunately is often painful.
 
-Thus, we face life's eternal challenge. To attain lasting happiness, we first have to choose a path of temporary suffering (learning), which goes against all our instincts. Too often, we  choose temporary joy (blissful ignorance) knowing that it will bring lasting suffering.
+Thus, we face life's eternal challenge. To attain lasting happiness, we first have to choose a path of temporary suffering (learning), which goes against all our instincts. Too often, we instead walk the path of lasting suffering by choosing temporary joy (blissful ignorance).
 
 We must forgive ourselves. Delaying happiness is not an easy choice to make, especially when we are not yet used to it. In fact,  experiencing *learning anxiety* is like being addicted to
 ignorance. Can someone learn to prefer the pain of learning over the
@@ -94,7 +94,7 @@ their lives. How are anxious learners expected to heal and become comfortable wi
 motivated me to write this book. I surely don't know enough about the
 science of neurology to claim expertise on the topic of learning
 anxiety. However, I have experienced severe learning anxiety myself,
-which compels me to raise awaren of this condition while the
+which compels me to raise awareness of this condition while the
 experience is still fresh in my mind. Incredibly, overcoming learning
 anxiety is both the hardest and most gratifying thing I have ever
 done. By rediscovering joy in learning and in creating my own
