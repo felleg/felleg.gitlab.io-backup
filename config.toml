@@ -39,7 +39,6 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Félix Léger"
 
 [taxonomies]
   tag      = "tags"
@@ -47,6 +46,8 @@ disableHugoGeneratorInject = false
   series   = "series"
 
 [params]
+  [params.author]
+    name = "Félix Léger"
   googleAnalyticsID = "G-1H1JWYX6HY"
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
