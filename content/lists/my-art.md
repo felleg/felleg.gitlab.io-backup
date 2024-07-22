@@ -26,7 +26,7 @@ aliases = [
 | Put Nose Here             | {{< thumbnail src="img/art/Put Nose Here.jpg" position="center" >}}                      | 2023-09-15   |
 | Corn             | {{< thumbnail src="img/art/Corn.png" position="center" >}}                      | 2023-08-19   |
 | Turban             | {{< thumbnail src="img/art/turban.png" position="center" >}}                      | 2023-08-19   |
-| Duning-Kruger             | {{< thumbnail src="img/art/duning-kruger.png" position="center" >}}                      | 2023-08-18 |
+| Dunning-Kruger             | {{< thumbnail src="img/art/duning-kruger.png" position="center" >}}                      | 2023-08-18 |
 | Carrer Transitions        | {{< thumbnail src="img/art/career-transitions.png" position="center" >}}                 | 2023-08-13 |
 | Paths                     | {{< thumbnail src="img/art/paths.png" position="center" >}}                              | 2023-08-06 |
 | Man & Elephant            | {{< thumbnail src="img/art/man-and-elephant.png" position="center" >}}                   | 2023-08-06 |
