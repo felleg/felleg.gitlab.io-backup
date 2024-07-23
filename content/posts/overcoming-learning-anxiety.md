@@ -560,7 +560,7 @@ greater than my learning anxiety, which finally made me open
 to learning.
 
 This was my *Aha!* moment. My problem was learning
-anxiety all along. It was making me afraid of learning, which made me
+anxiety all along. It was making me afraid of learning, that is, I was
 afraid of failing, which made me afraid of trying, which kept me
 stuck.
 That's what kept wasting my time. That's what kept me in the
