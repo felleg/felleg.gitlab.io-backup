@@ -34,6 +34,8 @@ Author: [Lucius Annaeus Seneca](https://en.wikipedia.org/wiki/Seneca_the_Younger
   so that you need not expend much effort hunting through them for the
   profitable bits, but can get right away to what I endorse and am
   impressed with." --> Seneca was 2,000 years ahead of me!
+- (p. 178) "Dying well is dying willingly," I believe that is a
+  dangerous thing to say.
 
 {{< myrating rating="👍👍" >}}
 
@@ -213,6 +215,60 @@ Author: [Lucius Annaeus Seneca](https://en.wikipedia.org/wiki/Seneca_the_Younger
    hungers for applause.
 1. (p. 151) #praise Be glad to be praised by people only if you are able to
    praise them in return.
+## Book 6
 1. (p. 154) #mental-health With infirmities that affect the mind, the
    worse one is afflicted, the less he is aware of it.
+1. (p. 154) #mental-health Admitting to one's faults is a sign of
+   health.
+1. (p. 157) Soft living punishes us with #weakness: after refusing to
+   do a thing for some time, we cease to be able to do it.
+1. (p. 157) :star: #Fear looks to the cause rather than the effect.
+1. (p. 169) Every moment is the #death of our previous condition.
+1. (p. 175) Flattery makes a fool of every one of us.
+1. (p. 175) :star: The result of #wisdom is steadiness of #joy.
+1. (p. 175) Seeking #pleasure everywhere is not #wise and brings no #joy.
+1. (p. 176) A person is not capable of #joy unless he is brave, just,
+   and temperate.
+1. (p. 176) What #fortune did not grant, fortune does not take away.
+## Book 7
+1. (p. 177) A person is #alive when he is of use to many and to
+   himself.
+1. (p. 178) Make an effort never to do anything against your #will.
+1. (p. 178) If you can follow an order gladly, you keep your sense of
+   #freedom.
+1. (p. 178) :star: When makes people miserable is acting against their
+   #will (it is not acting under orders).
+1. (p. 190) :star: Nature made some people as they are just to prove that
+   there is nowhere #virtue cannot be born.
+1. (p. ?) You will not feel #loss if you accept it before it happens.
+1. (p. ?) Your dead #friends live inside you.
+1. (p. 195) No one loves his homeland because it is great, but only
+   because it is his.
+1. (p. 201) :star: It's not the #discomforts that are #desirable but the
+   #virtue with which you bear those discomforts.
+1. (p. 202) :star: If #courage is #desirable, then enduring #torture
+   patiently is desirable, for that is part of courage.
+1. (p. ?) A life free of #challenges is not tranquility, it is
+   #enfeeblement.
+1. (p. ?) #Pride in #leisure is #vain.
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
 1. (p. 

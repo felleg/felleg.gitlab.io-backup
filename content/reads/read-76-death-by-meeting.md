@@ -85,7 +85,7 @@ to.
 1. (p. 123) Regardless of what position people originally took, once the
    decision is made, *everyone* supports it. That's why it's critical
    that no one hold anything back during the discussion.
-1. (p. 124) Mind for conflict, regardless of what the clock says.
+1. (p. 124) Mine for conflict, regardless of what the clock says.
 1. (p. 230) The only thing more painful than confronting an
    uncomfortable topic is pretending it doesn't exist.
 1. (p. A leader can minimize the discomfort and maximize the likelihood

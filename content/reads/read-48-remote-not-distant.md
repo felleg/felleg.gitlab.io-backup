@@ -57,6 +57,8 @@ and cons of synchronous vs asynchronous communication (p. 212) and the
 seven decision-making methods (p. 269) in particular seem to have a lot
 of potential for impact.
 
+{{< figure src="/img/decision-making-methods.png" position="center" caption="" >}}
+
 In summary, if you're leading a remotely distributed team, you'll
 probably find it useful to compare your current strategies with what
 other players of the industry are doing. If you're leading an
@@ -142,6 +144,35 @@ future we all seem to be headed towards.
 1. (p. 249) Rewards, by their very nature, narrow our focus. They
    concentrate the mind.
 1. (p. 254) Assume miscommunication over malice.
+1. (p. 269) **The 7 decision-making methods**:
+    - Autocratic ("I will decide alone.")
+      - Works well for decisions that need to happen fast.
+    - Delegation ("I fully delegate.")
+      - Transfers temporary authority to someone who might be better
+        informed to decide, and it's a good opportunity to train
+        people to make decisions.
+    - Democratic ("The majority decides.")
+      - You might consider a weighted system, e.g. the person
+        ultimately responsible for the work or decisions gets triple
+        voting power, those affected by the decision get double power,
+        etc.
+    - Consensus ("We all agree together.")
+      - Is hard to implement in large groups.
+    - Avoidance ("I won't decide yet.")
+      - Works well when there's a lot of ambiguity or when postponing
+        a decision won't create a negative consequence. Sometimes, the
+        best decision is not to make one.
+    - Consent ("No one objects.")
+      - Is not the same as consensus: it means that no one opposes the
+        idea even if they don't agree.
+    - Consultative ("I will consult before deciding.")
+      - Requires being clear about why you are asking for input. Some
+        people confuse being consulted with a Democratic method, but
+        there's a difference between providing input and voting.
+1. (p. 272) No decision method is perfect; they all have pros and
+   cons.
+1. (p. 272) When a decision will impact people's work or them
+   personally, you should get their input.
 1. (p. 276) We don't need heroic leaders. We need human beings who take
    care of people.
 1. (p. 278) As a leader, you can't be both a player and a coach. Trying
