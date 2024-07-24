@@ -57,69 +57,71 @@ a "good man," what he really means is a "good human."
 # :star: Star Quotes
 
 1. (p. xiv) The most precious thing of all, and the only truly
-   precious thing, is self-control.
-1. (p. xv) Internal freedom is true freedom.
-1. (p. xviii) Carrying logical precision to excess is futile: it does
+   precious thing, is #self-control.
+1. (p. xv) Internal #freedom is true freedom.
+1. (p. xviii) #logic -- Carrying logical precision to excess is futile: it does
    not make a person any better.
-1. (p. xxiii) **Tragedy** is what happens when chance events befall
+1. (p. xxiii) #Tragedy is what happens when chance events befall
    fools.
-1. (p. 13) The wise person's most characteristic affective response is
-   a deep and heartfelt sensation of joy.
+1. (p. 13) #wisdom -- The wise person's most characteristic affective response is
+   a deep and heartfelt sensation of #joy.
 ## Book 1
-1. (p. 26) A person is not poor, as long as what little he has left is
+1. (p. 26) #poverty -- A person is not poor, as long as what little he has left is
    enough for him.
 1. (p. 26) The first sign of a settled mind is that it can stay in one
    place and spend time with itself.
-1. (p. 27) The pauper (extremely poor) is not the person who has too
+1. (p. 27) #poverty -- The pauper (extremely poor) is not the person who has too
    little but the one who desires more.
-1. (p. 28) :star: Live in such a way that anything you would admit to
+1. (p. 28) #admission :star: Live in such a way that anything you would admit to
    yourself could be admitted even to an enemy. With a friend, though,
    share all your concerns, all your thoughts. If you believe him
    loyal, you will make him so.
 1. (p. 30) No good thing benefits us while we have it unless we are
-   mentally prepared for the loss of it.
-1. (p. 30) No one has ever reached a point where the power fortune
-   granted was greater than the risk.
-1. (p. 31) :star: Anyone who is on good terms with poverty is rich.
+   mentally prepared for the #loss of it.
+1. (p. 30) No one has ever reached a point where the #power #fortune
+   granted was greater than the #risk.
+1. (p. 31) :star: Anyone who is on good terms with #poverty is rich.
 1. (p. 32) Our way of life should be one that everyone can admire
    without finding it unrecognizable.
-1. (p. 32) Limiting one's desires is beneficial also as a remedy for
-   fear. Where hope goes, fear follows.
-1. (p. 34) No good is enjoyable to possess without a companion.
-1. (p. 34) The man who has begun to be a friend to himself will never
+1. (p. 32) Limiting one's #desires is beneficial also as a remedy for
+   fear. Where #hope goes, #fear follows.
+1. (p. 34) #company -- No good is enjoyable to possess without a companion.
+1. (p. 34) #independance -- The man who has begun to be a friend to himself will never
    be alone.
-1. (p. 34) Spend your time with those who will improve you; extend a
+1. (p. 34) :star: Spend your #time with those who will improve you; extend a
    welcome to those you can improve.
-1. (p. 39) What fortune makes your own is not your own. The good that
+1. (p. 39) What #fortune makes your own is not your own. The good that
    can be given can be taken.
-1. (p. 44) Anyone who does not think that he has plenty is miserable,
+1. (p. 44) #enough -- Anyone who does not think that he has plenty is miserable,
    even if he is ruler of the entire world.
-1. (p. 46) You are free of all desires when you get to the point that
+1. (p. 46) #freedom -- You are free of all #desires when you get to the point that
    you no longer ask God for anything except what you could ask for
    openly.
 1. (p. 46) Live with humans as if God may be watching; Speak with God
    as if humans may be listening.
 1. (p. 46) We need a person who can set the standard for our conduct.
    You will never straighten what is crooked unless you have a ruler.
+
 ## Book 2
 1. (p. 52) All the things that make people sigh and groan are minor
    matters and not worth thinking about.
-1. (p. 52, 85) :star: Don't be miserable before it is time. It is foolish
+1. (p. 52, 85) :star: Don't be #miserable before it is #time. It is foolish
    to be miserable now just because you are going to be miserable
    later on. The things you
-   fear as if they were impending may never happen; certainly they
+   #fear as if they were impending may never happen; certainly they
    have not happened yet.
-1. (p. 55) One of the evils of foolishness is always beginning
+1. (p. 55) One of the evils of #foolishness is always beginning.
    (#dunning-kruger). What
    is more shameful than an old man making a beginning on life?
-1. (p. 57) :star: The wise person will never provoke the anger of
-   those in power, but will steer clear of it, just as one steers
+1. (p. 57) :star: The wise person will never provoke the #anger of
+   those in #power, but will steer clear of it, just as one steers
    clear of a storm at sea.
-1. (p. 57) Do not possess anything worth stealing.
+1. (p. 57) #ownership -- Do not possess anything worth stealing.
 1. (p. 57) Being considered superior is just as harmful as being
    despised.
 1. (p. 58) The wise person will not disturb the customs of the public,
    and neither will he draw attention by a strange manner of living.
+<!-- here -->
 1. (p. 59) :star: The wise person considers intention, rather than
    outcome, in every situation.
 1. (p. 59) He enjoys riches most who has least need of riches.
