@@ -250,7 +250,67 @@ Author: [Lucius Annaeus Seneca](https://en.wikipedia.org/wiki/Seneca_the_Younger
    patiently is desirable, for that is part of courage.
 1. (p. ?) A life free of #challenges is not tranquility, it is
    #enfeeblement.
-1. (p. ?) #Pride in #leisure is #vain.
+1. (p. ?) Pride in #leisure is vain.
+1. (p. 206) "I'd rather have your forgiveness for my #leisure than
+   your envy."
+1. (p. 208) #death When you die, what you leave behind is not your
+   own.
+1. (p. 210) #death #Fortune can do nothing to a person as long as he
+   knows how to die.
+1. (p. ?) #Retirement is a period for self-introspection.
+1. (p. ?) #time A good life is not always long, and a long life is not
+   always good.
+1. (p. 213) The great man is not the one who merely commands his own
+   death but the one who actually finds a death for himself.
+1. (p. 214) It is wrong to steal the means of living, but very fine to
+   steal the means of dying. That could prevent a suicide or a murder.
+1. (p. 217) That which is, will not be. (The only constant is
+   #change.)
+1. (p. 218) #honor Honorable #life is not a greater good than honorable #death:
+   #virtue does not admit of augmentation.
+1. (p. 219) #Virtue is straight; it does not admit of curvature.
+1. (p. ?) A bad event becomes good it it teaches us to rise above it.
+1. (p. ?) #despise Accepting being despised is a pre-requisite to #happiness.
+1. (p. 220) The man of #wisdom knows his own #strength; he knows that
+   he exists for the bearing of #burdens.
+1. (p. 220) :star: The truly happy person of accomplished virtue loves
+   himself most when he has met some challenge with exceptional
+   courage.
+    - "What good work!" > "What good fortune!"
+1. (p. 221) #imperfection What is #imperfect cannot but stumble.
+1. (p. ?) The #fault lies with us, not #circumstances.
+1. (p. ?) If we mistake a person making progress for a sage, the fault
+   is ours.
+1. (p. 323) :star: There is no time that is not well suited to #study,
+   yet there are many who fail to study when caught up in the problems
+   that give one reason to study.
+1. (p. 224) #Health of body is a temporary condition. But when the mind
+   is healed, it is once and for all.
+1. (p. 224) :star: That to which any addition can be made is not
+   #complete, and that which can suffer diminution is not #eternal.
+1. (p. 230) To preserve #values, one must endure many things that are
+   regarded as bad and forgo many #indulgences that are regarded as
+   good.
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
+1. (p. 
 1. (p. 
 1. (p. 
 1. (p. 
