@@ -1223,7 +1223,7 @@ probation in flying colors this time.
 I find the next image very telling. What it shows is how my learning system allowed me to
 compress a 421-page book down to its essential learning nuggets, which
 take only 50 handwritten pages in my A5-sized journal. This means I
-will get as much information from reading these 50 pages than from
+will get as much information from reading these 50 pages as from
 reading 421 pages.
 
 {{< figure src="/img/compressed-book.jpg" position="center" caption="50 pages of pure nuggets!" >}}
