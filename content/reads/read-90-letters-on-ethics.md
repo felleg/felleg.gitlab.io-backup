@@ -36,6 +36,19 @@ Author: [Lucius Annaeus Seneca](https://en.wikipedia.org/wiki/Seneca_the_Younger
   impressed with." --> Seneca was 2,000 years ahead of me!
 - (p. 178) "Dying well is dying willingly," I believe that is a
   dangerous thing to say.
+- (p. 259) "Dearest Lucilius, how glad I am that we are doing this --
+  that we are pressing on in this direction with all our strength, even if a few people ever know; even if no one knows."
+- "Precepts are only useful if we know why they are true."
+- (p. 360) Good precepts, if they are often with you, will be as
+  helpful as good role models.
+
+The notion of the "good man" e.g. p. 407, shows that this is a book of
+its time. Only rarely mention women, and that's to say very outdated
+things (p. 371, "born to play the passive role, they practice an
+utterly perverted type of obscenity (may the gods and goddesses
+destroy them!) and straddle men."). Though, to be fair, that is one of the
+very rare instances where Seneca does not say something timeless. However when Seneca talks about
+a "good man," what he really means is a "good human."
 
 {{< myrating rating="👍👍" >}}
 
@@ -230,6 +243,7 @@ Author: [Lucius Annaeus Seneca](https://en.wikipedia.org/wiki/Seneca_the_Younger
 1. (p. 176) A person is not capable of #joy unless he is brave, just,
    and temperate.
 1. (p. 176) What #fortune did not grant, fortune does not take away.
+
 ## Book 7
 1. (p. 177) A person is #alive when he is of use to many and to
    himself.
@@ -255,6 +269,8 @@ Author: [Lucius Annaeus Seneca](https://en.wikipedia.org/wiki/Seneca_the_Younger
    your envy."
 1. (p. 208) #death When you die, what you leave behind is not your
    own.
+
+## Book 8
 1. (p. 210) #death #Fortune can do nothing to a person as long as he
    knows how to die.
 1. (p. ?) #Retirement is a period for self-introspection.
@@ -291,44 +307,223 @@ Author: [Lucius Annaeus Seneca](https://en.wikipedia.org/wiki/Seneca_the_Younger
 1. (p. 230) To preserve #values, one must endure many things that are
    regarded as bad and forgo many #indulgences that are regarded as
    good.
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
+1. (p. 232) :star: Everything #courage has won, #intemperance has destroyed.
+1. (p. 235) :star: Both the #past and the #future are absent; we have
+   no sensation of either. And where you have no sensation, there is
+   no source of pain.
+1. (p. ?) We expose ourself to fortune (chance) when we forget that
+   #virtue is the highest good.
+
+## Book 9
+1. (p. 236) #speaking :star: Our words should provide benefit rather than
+   delight.
+1. (p. 237) The happy person is not the one who knows but the one who
+   performs.
+1. (p. 239) Just being one's own person is #wealth beyond measure.
+1. (p. 239) #learning :star: What could be more foolish than failing
+   to learn a thing simply because you haven't learned it earlier?
+1. (p. 240) #living You should keep #learning how to live for as long as you
+   live.
+1. (p. 240) #ignorance :star: The #criticism of ignorant people is not something
+   to get upset about.
+1. (p. 240) No one attains #wisdom merely by chance. #Virtue will not
+   just happen to you.
+1. (p. 243) The sole good is that by which the #mind is made better.
+1. (p. ?) #Virtue persists if it is the end goal.
+1. (p. 250) #time #Life is like a play: what matters is not how long the
+   show goes on but how well it is acted.
+1. (p. 251) #courage There are times when just continuous to live is a
+   courageous action.
+1. (p. 253) #loss :star: There is no bitterness in being deprived of
+   what you no longer want.
+1. (p. 256) #privation :star: Everything that comes after a period of privation
+   is received with more #delight.
+1. (p. 257) #learning #education A single day gives more time to the educated than the
+   longest of lives for the untutored.
+1. (p. 259) :star: #Glory is the shadow of #virtue; it accompanies it
+   even when it is not wanted.
+1. (p. 262, 263) #poverty #wealth -- The #poor person laughs often and from the heart.
+   The #happiness of those fashionable people carried above the heads
+   of the crowd is just them playing a part.
+
+## Book 10
+1. (p. 268) #help -- Everyone who helps another person helps himself.
+1. (p. 268) :star: No one values #virtue more or is more devoted to it
+   than who has lost their good #reputation in order to keep a good
+   #conscience.
+1. (p. ?) :star: The #reward for #right action is having acted rightly.
+1. (p. ?) :star: Undying #delight is not in #receiving but in having
+   received.
+1. (p. 271) Be #calm, but not soft.
+1. (p. 271) #Leisure without #study is like being buried alive.
+1. (p. 275) #Death is not evil. It is indifferent.
+1. (p. 275) #fear -- #Virtue is not afraid of what it is doing.
+1. (p. 281) #Drunkenness does not create faults -- it brings out faults
+   that already exists. Those who could never be defeated in battle
+   have been vanquished by drink.
+
+## Book 11
+1. (p. 286) #Wealth is a danger or a buried to those who have it.
+1. (p. 286) #pleasure -- Bodily pleasures make a person soft and
+   flabby.
+1. (p. 286) #Ambition has no ending.
+1. (p. 291) #happiness -- A happy person prefers his own life to any
+   other.
+1. (p. 291) #happiness -- He whom you call "less happy" is not happy:
+   that is not a word that can be scaled back.
+1. (p. 292) #courage #happiness -- Anyone who is courageous is without #fear.
+   Anyone who is without fear is without #sadness. Anyone who is
+   without sadness is happy.
+1. (p. 292) #courage -- The courageous person won't fear dangers, but
+   he will avoid them. He exercises caution, but is not afraid.
+1. (p. 294) :star: In fair weather, anyone can be a helmsman.
+1. (p. ?, 402) #day :star: Make every day the start of a new year. Treat
+   each day as a #life in itself.
+1. (p. ?) The wise man skillfully handles misfortune.
+1. (p. ?) #fear #desire -- Fearing nothing brings #peace; Desiring
+   nothing brings #wealth.
+1. (p. ?) Anything can happen, but nothing is certain to happen.
+   Expect the best and prepare for the worst.
+1. (p. 314) #virtue -- :star: **Virtues** (a non-exhaustive list):
+    - #courage
+    - #loyalty: "The harder pain presses me for my secrets, the deeper
+      I shall hide them."
+    - #self-control: The best limit on the objects of desire is to
+      take what you need, not what you want.
+    - #kindness: think of every misfortune as your own, and welcome
+      good fortune to share it with another.
+    - #honesty
+    - #temperance and #moderation
+    - #frugality and #thrift
+    - #clemency: never forget the value of another human being
+1. (p. 316) #knowledge -- Wanting to know more than enough is a form
+   of #intemperance. By #learning what you do not need to know, you
+   fail to learn what you do need.
+1. (p. 316) #learning -- It's better to learn superfluous things than
+   nothing at all.
+
+## Book 14
+1. (p. 320) #Philosophy and its subdivisions:
+    - #Ethics: Regulates the mind
+      - Assigning value to things
+      - Controlling impulses
+      - Harmonized actions and impulses
+      - Consistent behavior
+    - #Physics: The nature of things
+      - Cause & effect
+    - #Logic: The meaning of words and preventing falsehood from
+      masquerading as truth
+    - Rhetoric
+      - expressions
+      - thoughts
+      - organization
+    - Dialectic
+      - words
+      - meanings
+1. (p. 324) :star: In your #study, make it your aim not to know more,
+   but to know better.
+1. (p. ?) #ownership :star: Any place you do not occupy is not really
+   yours.
+1. (p. ?) #becoming -- We are not born wise. We become good.
+1. (p. 340) #despise -- It's the height of madness to #worry about being despised
+   by the despicable
+1. (p. 343) :star: #Goodness is present not in the things but in the
+   quality of the selection.
+
+## Book 15
+1. (p. 352) #acceptance :star: We must bravely accept everything
+   necessity ordains.
+1. (p. 352) #shame :star: Shameful conduct is the only #bad.
+1. (p. 352) #Wealth, #status, good #health, #strength and high office
+   are intermediate and not to be counted as either good or bad.
+1. (p. 360) #sage #silence -- To instill a mind with honorable ideas, nothing is more
+   effective than good men's company. One can get some benefit from a
+   great man even if he is silent.
+1. (p. 361) :star: #Concord makes small things great; #discord saps
+   the strength of the mightiest.
+1. (p. ?) Measure #wealth by how it is used.
+1. (p. 375) #understanding -- Even supposing that someone is acting
+   properly, if he doesn't know why he is acting, he will not do it
+   consistently and regularly.
+1. (p. 376) Without a #goal, life drifts.
+1. (p. 378) Nothing is certain for people who rely on popular #opinion,
+   the most unreliable of standards.
+1. (p. ?) The #intention behind an action determines if it is good or
+   bad.
+
+## Book 16
+1. (p. 382) :star: All the things that make us groan and get
+   frightened are just the taxes of #life. Pay your taxes.
+1. (p. 386) #crime -- #Fortune exempts many criminals from punishment, but none
+   from #anxiety.
+1. (p. 387) #fortune :star: Whenever something turns out differently
+   from what you were expecting, say, "The gods made a better
+   decision."
+1. (p. 387) :star: The #fear of losing something is equivalent to the
+   pain of its #loss.
+1. (p. 391) #death -- If a friend dies, don't bury the #friendship# along with
+   the friend.
+1. (p. ?) #sadness #emotion -- When the tears come, accept them. Do not force anything.
+1. (p. 414) The worst thing about #death is the #fear that precedes
+   it.
+1. (p. 416) Running away is not helping you if what you are running
+   from is with you or in you.
+1. (p. 425) #will -- #Fate guides the man who's willing and drags the unwilling.
+1. (p. 429) Some #habits are easier to break than to reduce.
+1. (p. ?) :star: #Hope with #doubt, and doubt with hope.
+1. (p. ?) #Greed hurts yourself more than others.
+1. (p. 435) One good man will help another. Even the sage does not
+   know everything.
+1. (p. 437) #Virtue enjoins us to make the best of our present
+   circumstances.
+1. (p. 438) The worst #curse you can utter against anyone is to pray
+   that he be his own enemy.
+1. (p. 442) #freedom -- The free person is not the one over whom
+   #fortune has little power, but the one against whom fortune is
+   powerless.
+1. (p. 442) #desire -- If you want to challenge God, who has no wants, you must
+   want nothing.
+1. (p. 450) #justice #disgrace #wisdom -- You will often have to combine being just with being
+   disgraced. Then if you are wise, you should take delight in the bad
+   #reputation you have won by your good #behavior.
+1. (p. ?) #Virtue manifests itself through actions.
+1. (p. 457) #speaking -- The great man speaks casually: his words are heartfelt,
+   not carefully arranged.
+1. (p. 461) :star: #Greed never goes unpunished. Greed suffers over
+   what it lacks and over what it has acquired.
+1. (p. 461) What #philosophy will do for you is the greatest gift or
+   all: you will never #regret what you have done.
+1. (p. 462) :star: If #pleasure is pursued for its own sake, it
+   becomes #self-indulgence.
+1. (p. 463) #Inability is just an #excuse; the real reason is
+   #unwillingness.
+1. (p. 468) #shame -- Nothing seems more shameful than to pray for
+   death.
+1. (p. 472) Instead of treating other people's problems, it is better
+   to address one's own.
+1. (p. 476) #desire -- Not wanting is just as good as having. In both
+   cases, you will avoid anxiety.
+1. (p. 481) #Carelessness can look like good nature, and #temerity
+   like #courage.
+1. (p. 492) #popularity -- Extravagant people want their life to be talked about as
+   long as they live, for if it goes quiet they think they are wasting
+   their efforts.
+1. (p. 494) #desire -- No one can have everything he wants. What a
+   person can do is give up wanting what he doesn't have and use
+   cheerfully the things that are available.
+1. (p. 494) #opinion -- Many of our problems stem from the fact that
+   we live by conforming to other people's standards, following
+   fashion instead of taking reason as our guide.
+1. (p. 497) :star: #Pleasure is a poor and pathetic thing, of no
+   value.
+1. (p. 497) #Glory is an empty thing, more fleeting and volatile than
+   air.
+1. (p. 497) #Poverty is only a problem for those who don't accept it.
+1. (p. 501) #disorganization -- Something is disorganized <=>
+   Something is capable of disorganization.
+1. (p. 502) #happiness -- Do not judge yourself to be happy until all your joys
+   arise from yourself.
+1. (p. 502) #fortune -- You will possess your own good when you understand that
+   the fortunate are really the least fortunate.
+1. (p. 504) #wealth -- What does it matter how much you have? There is
+   much more that you do not have.
