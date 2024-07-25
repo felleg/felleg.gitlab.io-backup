@@ -53,9 +53,15 @@ financial stress, and we seem to have forgotten how to relate with one
 another. Many of us are looking for easy answers where there are
 none, and thus when someone tells us "Death awaits you, here is how to
 prepare for it," we tend to listen. At least, that's the case for me.
+Here is a quote from this book that in my view summarize Seneca's
+philosophy:
 
-So I read this big book, which is 500 pages long. It is a lengthy
-read, but it is surprisingly easy to get into. The idea Seneca had
+> One who makes light of death, opens his home to
+> poverty, reins in pleasure and rehearses the endurance of pain will
+> experience joy that cannot be run out of.
+
+So yes, this is indeed a big book, 500 pages long. It is a lengthy
+read, but it is surprisingly easy to get into. The core innovation Seneca made
 when writing this was brilliant: he would write letters to his friend
 Lucilius, and these would become the chapters of his book. The concept
 works because the letters are written as much for Lucilius as they are
@@ -99,10 +105,22 @@ than I ever could, anyway!
 
 So, what did I learn from this read? I feel like I learned a lot,
 actually. Seneca's attitude transcends the pages and give an example
-of how to traverse hardships courageously.
+of how to traverse hardships courageously. Quote,
 
-- The Stoic doctrine has the unfortunate capacity to support the
-  status quo.
+> "To instill a mind with honorable ideas, nothing is more
+> effective than good men's company. One can get some benefit from a
+> great man even if he is silent."
+
+It really does feel like Seneca is present with the reader and talking
+directly to them. I think I will keep from this read many star quotes
+(see below),
+or as Seneca might put them, precepts, which will help me guide my
+decisions or my emotions.
+
+While the biggest problem of the Stoic doctrine is that it has the
+capacity to support the status quo, it is still a useful frame of mind
+to traverse all these things over which we truly have no control.
+
 - "I will send you the books themselves, and I will annotate them too,
   so that you need not expend much effort hunting through them for the
   profitable bits, but can get right away to what I endorse and am
@@ -194,53 +212,52 @@ a "good man," what he really means is a "good human."
    despised.
 1. (p. 58) The wise person will not disturb the customs of the public,
    and neither will he draw attention by a strange manner of living.
-<!-- here -->
-1. (p. 59) :star: The wise person considers intention, rather than
+1. (p. 59) :star: The wise person considers #intention, rather than
    outcome, in every situation.
-1. (p. 59) He enjoys riches most who has least need of riches.
-1. (p. 61) When you see how many people are out ahead of you, think of
+1. (p. 59) #wealth -- He enjoys riches most who has least need of riches.
+1. (p. 61) #progress -- When you see how many people are out ahead of you, think of
    how many are behind, and remember how you have surpassed yourself.
-1. (p. 61) Set a goal that you could not exceed even if you wanted to.
-1. (p. 62, 73) Philosophy consists not in words but in actions. It will
+1. (p. 61) Set a #goal that you could not exceed even if you wanted to.
+1. (p. 62, 73) #Philosophy consists not in words but in actions. It will
    teach you to follow God and to cope with chance. Philosophy teaches
    us to act, not to speak.
 1. (p. 63) :star: If you live according to nature, you will never be
    poor; if according to opinions, you will never be rich.
-1. (p. 64) From possessions and wealth, you will learn only how to
+1. (p. 64) From possessions and #wealth, you will learn only how to
    desire more.
 1. (p. 65) Even if something prevents you from having a good living,
-   nothing prevents you from having a good death.
-1. (p. 66) :star: :star: What is enough is the same in every age.
-1. (p. 67) Test poverty and say to yourself, "Is this what I was
+   nothing prevents you from having a good #death.
+1. (p. 66) :star: :star: What is #enough is the same in every age.
+1. (p. 67) Test #poverty and say to yourself, "Is this what I was
    afraid of?"
-1. (p. 67) :star: A time when the mind of free of anxieties is the very time
+1. (p. 67) #preparation :star: A time when the mind of free of anxieties is the very time
    when it should prepare itself for adversity, otherwise it will be
    alarmed in a crisis.
-1. (p. 71) As long as nothing is enough for you, you will not be
+1. (p. 71) As long as nothing is #enough for you, you will not be
    enough for anyone else.
 1. (p. 71) It is the high places that get struck by lightning. The
-   more you achieve, the more you will have to fear.
-1. (p. 72) Look to your dinner companions rather than your dinner, for
+   more you achieve, the more you will have to #fear.
+1. (p. 72) #company -- Look to your dinner companions rather than your dinner, for
    feeding without a friend is the life of a lion or a wolf.
-1. (p. 73) :star: Wisdom is always wanting the same thing and always
+1. (p. 73) :star: #Wisdom is always wanting the same thing and always
    rejecting the same thing.
-1. (p. 74) Poverty will show you who your friends are.
-1. (p. 77) To make someone rich, do not add to his money; subtract
+1. (p. 74) #Poverty will show you who your friends are.
+1. (p. 77) #wealth -- To make someone rich, do not add to his money; subtract
    from his desires.
 ## Book 3
-1. (p. 80) No one *has* to run after prosperity.
-1. (p. 81) As long as you hang on to the suitcase, you cannot swim to
+1. (p. 80) No one *has* to run after #prosperity.
+1. (p. 81) #letting-go -- As long as you hang on to the suitcase, you cannot swim to
    safety.
-1. (p. 83) :star: One who makes light of death, opens his home to
-   poverty, reins in pleasure and rehearses the endurance of pain will
-   experience joy that cannot be run out of.
-1. (p. 89) The death we fear is our last one, but not our only one.
+1. (p. 83) :star: One who makes light of #death, opens his home to
+   #poverty, reins in #pleasure and rehearses the endurance of #pain will
+   experience #joy that cannot be run out of.
+1. (p. 89) The #death we fear is our last one, but not our only one.
 1. (p. 91, 92) Let everything you do be done as if watched by someone
    while you go about making *yourself* the person in whose company
    you would not dare to do wrong.
-1. (p. 92) The time to be by yourself is especially when you are
+1. (p. 92) #solitude -- The time to be by yourself is especially when you are
    compelled to be in a crowd.
-1. (p. 98) :star: Awareness of wrongdoing is the starting point of
+1. (p. 98) :star: #Awareness of wrongdoing is the starting point of
    healing, for he who does not know that he is doing wrong does not
    wish to be set right.
 1. (p. 100) :star: "Never have I wished to please the populace, for it
@@ -249,16 +266,16 @@ a "good man," what he really means is a "good human."
 1. (p. 101) :star: What matters is not how you seem to others but how
    you seem to yourself.
 ## Book 4
-1. (p. 104) :star: It is uncertainty that frightens us.
-1. (p. 105) If you want never to be afraid of death, think about it
+1. (p. 104) :star: It is #uncertainty that frightens us.
+1. (p. 105) If you want never to be afraid of #death, think about it
    always.
-1. (p. 106) There is no reason for you to choose your wish, your aim,
+1. (p. 106) #life-goal -- There is no reason for you to choose your wish, your aim,
    from among the things your parents prayed long ago for you to have.
-1. (p. 107) The truly wise man does not fear the things he avoids nor
+1. (p. 107) #wisdom -- The truly wise man does not fear the things he avoids nor
    admire the things he chooses.
-1. (p. 107) A real man is not afraid of sweat.
-1. (p. 107) Money will not make you equal to a god: God owns nothing.
-1. (p. 109) :star: Once one possesses happiness, duration does not
+1. (p. 107) #work -- A real man is not afraid of sweat.
+1. (p. 107) #ownership -- #Money will not make you equal to a god: God owns nothing.
+1. (p. 109) :star: Once one possesses #happiness, duration does not
    make it any happier.
 1. (p. 122, 123) #speak #speech You will be right to disregard those
    who care about how much they say rather than how well, and to
