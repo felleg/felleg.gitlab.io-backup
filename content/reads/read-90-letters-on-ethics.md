@@ -93,7 +93,13 @@ As you can see, these are indeed timeless topics that apply to the
 human condition, no matter your age, your sex, your ethnicity, your
 social status, etc. Virtue tops this list, as it is a concept that
 Seneca comes back to time and time again. According to him, virtue is
-the only way to achieve true lasting happiness.
+the only way to achieve true lasting happiness. I must admit that he
+argues his point pretty well for someone from 2,000 years ago, better
+than I ever could, anyway!
+
+So, what did I learn from this read? I feel like I learned a lot,
+actually. Seneca's attitude transcends the pages and give an example
+of how to traverse hardships courageously.
 
 - The Stoic doctrine has the unfortunate capacity to support the
   status quo.
