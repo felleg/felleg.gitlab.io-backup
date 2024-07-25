@@ -28,6 +28,73 @@ Author: [Lucius Annaeus Seneca](https://en.wikipedia.org/wiki/Seneca_the_Younger
 
 # Review
 
+On a faithful day, I was scrolling on YouTube, possible looking for
+book suggestions, when I came across [this
+video](https://www.youtube.com/watch?v=g3JX9Xbncx0) about a user
+starting a philosophy book club. I was intrigued. I became influenced.
+And I ended up buying the book in question: *Letters on Ethics*, from
+the Roman philosopher Seneca.
+
+I don't know how to feel about that. I guess I now realize I am easily being
+influenced because I look for answers to age old problems: Who am I?
+What is my purpose? How should I live my life?
+
+The reason I chose to read this book is because I was influenced into
+it by someone who seemed to have his life in order. The stranger on
+the video said that this book greatly influenced his life and pushed
+him in the right direction. Thus, I couldn't resist. I had to know
+what kind of wisdom philosophers from 2,000 years could teach me. What is timeless wisdom? What could I learn from that?
+
+Seneca is a philosopher from the Stoic school of thought, which is
+making a comeback in 2024 thanks to popular authors like Ryan Holiday. I suppose that the existential crisis my
+generation is going through has a lot to do with that. We are
+despaired because the faith of the world seems uncertain, we have
+financial stress, and we seem to have forgotten how to relate with one
+another. Many of us are looking for easy answers where there are
+none, and thus when someone tells us "Death awaits you, here is how to
+prepare for it," we tend to listen. At least, that's the case for me.
+
+So I read this big book, which is 500 pages long. It is a lengthy
+read, but it is surprisingly easy to get into. The idea Seneca had
+when writing this was brilliant: he would write letters to his friend
+Lucilius, and these would become the chapters of his book. The concept
+works because the letters are written as much for Lucilius as they are
+for the reader of the book, i.e. me. When Seneca tells that he is
+proud of Lucilius because of the progress he is making in his way of
+thinking, it feels like Seneca is praising the reader directly. It is
+quite touching.
+
+In the star quotes below, I did my best to highlight what subjects are
+being discussed in the book using hashtags, and here are the top 20
+subjects I could identify:
+
+1. virtue
+1. fortune
+1. fear
+1. wealth
+1. death
+1. courage
+1. happiness
+1. wisdom
+1. poverty
+1. learning
+1. time
+1. pleasure
+1. loss
+1. life
+1. joy
+1. freedom
+1. desire
+1. will
+1. study
+1. self
+
+As you can see, these are indeed timeless topics that apply to the
+human condition, no matter your age, your sex, your ethnicity, your
+social status, etc. Virtue tops this list, as it is a concept that
+Seneca comes back to time and time again. According to him, virtue is
+the only way to achieve true lasting happiness.
+
 - The Stoic doctrine has the unfortunate capacity to support the
   status quo.
 - "I will send you the books themselves, and I will annotate them too,

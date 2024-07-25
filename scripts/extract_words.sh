@@ -15,5 +15,5 @@ fi
 # Using uniq -c to count occurrences
 # Using sort to sort by count in descending order
 
-grep -oE '\#[a-zA-Z0-9_]+' "$1" | tr '[:upper:]' '[:lower:]' | grep -vE '\#[0-9]+' | sort | uniq -c | sort -n
+grep -oE '\#[a-zA-Z0-9_]+' "$1" | tr '[:upper:]' '[:lower:]' | grep -vE '\#[0-9]+' | sort | uniq -c | sort -nr
 
