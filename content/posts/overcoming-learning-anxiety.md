@@ -172,11 +172,11 @@ Ready? Let's begin.
 
 I wasn't always aware of how bad my learning anxiety was and I had no
 idea of the choke hold it had on my life. I'm
-convinced that most people who suffer that condition don't realize it
+convinced that most people who suffer this condition don't realize it
 either.
 
-In my younger years, to the outsider, I must have looked like a virtuoso of everything I
-touched. I could improvise on the piano with sensitivity at age 9
+In my younger years, to an outsider, I must have looked like a virtuoso of everything I
+touched. I could improvise on the piano with emotion at age 9
 after a single year of home classes. I intuitively understood
 Mathematics from a young age up to well into my college years. Words
 flowed naturally through me when I was writing, both in French and in
@@ -217,15 +217,11 @@ were out of my reach by labelling them as "less interesting." I
 despised losing at board games that didn't rely on luck. For example,
 I stopped playing Chess as soon as I started losing. I lost interest
 in karate as soon as I got my first hit in the face. I never started
-cooking, because I didn't feel great at it. Learning to ride a
-snowboard was one of the most challenging things I had ever done as a
-child, because I had to continue making attempts to avoid being left
-behind despite how bad it
-hurt in general.
+cooking, because I didn't feel great at it.
 
 I smile when I remind myself of all these memories. I had no idea of
 the vacuum that was growing in my soul. Life had given me many
-abilities but left me with the impression that new abilities could
+abilities but left me with the impression that new ones could
 not be developed. I had a fixed mindset.
 
 Unsolved problems have the frustrating habit of building up until they turn into a crisis. This
