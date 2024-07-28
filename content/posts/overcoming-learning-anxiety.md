@@ -77,7 +77,7 @@ We must forgive ourselves. Delaying happiness is not an easy choice to make, esp
 ignorance. Can someone learn to prefer the pain of learning over the
 bliss of ignorance?
 
-I believe so. We can learn to kick any bad habit. To do so, we must replace it with a good, meaningful habit. 
+I believe so. We can learn to kick any bad habit. To do that, we must replace it with a good, meaningful habit. 
 
 The first step to healing a bad habit is acknowledgement
 of the problem, which requires knowledge of the problem in the first
