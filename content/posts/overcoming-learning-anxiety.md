@@ -513,7 +513,7 @@ of my extended probation, partly to prove to myself that I could
 accomplish something for once.
 
 And then, something magical happened. At page 107, three years after
-I had started *The DevOps Handbook*, I found a sentence that hit me like a ton of bricks.
+I had started *The DevOps Handbook*, I found a sentence that resonated with me.
 
 > *In the team, we want to help overcome learning anxiety.*
 >
