@@ -1,3 +1,4 @@
+
 ---
 title: "Overcoming Learning Anxiety"
 date: 2022-08-07T15:24:25-04:00
@@ -1924,17 +1925,17 @@ collection. I hope they will inspire you on your learning journey.
 >
 > -- Anna Lembke, *Dopamine Nation*
 
-> *There is no time that is not well suited to study, yet there are many who fail to study when caught up in the problems that give one reasons to study.
+> *There is no time that is not well suited to study, yet there are many who fail to study when caught up in the problems that give one reasons to study.*
 >
-> Health of body is a temporary condition, and one that no doctor can bestow, though he may restore it. But when the mind if healed, it is once and for all.
+> *Health of body is a temporary condition, and one that no doctor can bestow, though he may restore it. But when the mind if healed, it is once and for all.*
 >
-> What could be more foolish than failing to learn a thing simply because you haven’t learned it earlier?
+> *What could be more foolish than failing to learn a thing simply because you haven’t learned it earlier?*
 >
-> The sole good is that by which the mind is made better.
+> *The sole good is that by which the mind is made better.*
 >
-> A single day gives more time to the educated than the longest of lives for the untutored.
+> *A single day gives more time to the educated than the longest of lives for the untutored.*
 >
-> In your study, make it your aim not to know more, but to know better.*
+> *In your study, make it your aim not to know more, but to know better.*
 >
 > -- Lucius Annaeus Seneca, *Letters on Ethics*
 
