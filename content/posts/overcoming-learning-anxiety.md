@@ -280,17 +280,17 @@ Let's start untangling this mental knot by going back in time.
 In 2017, freshly graduated from McGill University and feeling ready to
 tackle the world, I started working as a junior machine learning
 scientist for a newly formed startup
-then-called Proximity HCI (now known as
+called Proximity HCI (now known as
 [Contxtful](https://contxtful.com)). I had just finished my Masters
-thesis in particle Physics and was ready to jump into the world of
-software development[^3] after having acquired a recent fondness for
-computers through my research.
+thesis in particle Physics and, having recently acquired a fondness
+for computers through my research, was ready to jump into the world of
+software development[^3].
 
 [^3]: This shift from Physics to software is something I previously [discussed on my blog in
 2019](/posts/2019/10/why-i-shifted-from-physics-to-focus-on-software/).
 
 
-A few months in at Contxtful, it became apparent that things were clearly
+A few months into my new job, it became apparent that things were clearly
 not working out: I was terrible at machine learning. There was no science to my methods, I just cobbled
 algorithms together and hoped they would work magically. With machine
 learning, I was simply "not on my X", as we say in French, meaning I
@@ -315,9 +315,10 @@ On the other hand, I now faced an
 undodgeable question: *"What the heck is DevOps, anyway?"*
 
 You can  probably imagine how, depending on the day, my impostor
-syndrome simply got out of control. I had started as a humble
-Physicist. I had then changed career paths after my Masters degree to
-become a Machine Learning scientist (out of nowhere). I had concluded that I was even worse at that job, so much so that my
+syndrome simply got out of control. I'd started as a humble Physicist
+then changed career paths after my Masters degree to become a Machine
+Learning scientist, out of nowhere. I then discovered that I was even
+worse at that job, so much so that my
 boss recommended another career change into a field I knew absolutely
 nothing about. I was rightfully terrified!
 
@@ -336,7 +337,7 @@ understand" is said:
 Every search result required me to do at least three other searches to
 understand what basic sentences meant. For a while, it felt like I was
 surrounded by buzzwords with no clear explanations in sight. The
-rabbit hole just kept on going and going. Oh how I
+rabbit hole just kept getting deeper and deeper. Oh how I
 wished Jimmy Neutron's "[book
 gum](https://www.youtube.com/watch?v=x1ambhfSnBA)" was real!
 
@@ -345,17 +346,16 @@ struggling to get anything done lasted *years*, and it was unpleasant.
 I felt useless. I felt ashamed. I wished I could go back in time and
 learn about Agile, CI/CD, and other DevOps requirements during my
 studies instead of having filled my brain with equations of motion
-that I had no use for. In short, at 27 years old, I already felt like
+that I had no use for. In short, at 27 years of age, I already felt like
 I had missed the boat, and with each passing day felt more like giving
 up.
 
-I deeply felt like I wasn't
-accomplishing as much as I should have, considering the amount of
-energy I was pouring daily into my work, yet I had no idea what I
-could try to find a solution to my problems. From the outside, it might
-have looked like this:
+I felt deeply that I wasn't accomplishing as much as I should, despite
+coming home exhausted from work each day. I had no idea how to solve
+my problems, and the articles I found in my research were beyond my
+comprehension. From the outside, it might have looked like this:
 
-{{< figure src="/img/too-busy.jpeg" position="center" caption="''Just get off your bike for a second!''" >}}
+{{< figure src="/img/too-busy.png" position="center" caption="''Just get off your bike for a second!''" >}}
 
 
 
@@ -1939,6 +1939,29 @@ collection. I hope they will inspire you on your learning journey.
 > *The last mile is always the least crowded*.
 >
 > -- James Clear, *Atomic Habits*
+
+# Image sources
+
+**Chapter 1: The Anxiety Begins**
+
+O'Rourke, Alan. "Too Busy To Improve - Performance Management - Square Wheels." *Audience Stack*, www.audiencestack.com. Accessed 28 July 2024. `[CPP]`
+
+**Chapter 2: Mount Stupid**
+
+Pine, Jordan. "Dunning-Kruger Effect." Jordan Pine, 2020,
+www.jordanpine.com/2020/04/exploit-explained-dunning-kruger-effect.html.
+Accessed 28 July 2024. `[jjx]`
+
+**Chapter 4: Opening Pandora's Box**
+
+"Punching Bags, Damaged and Pristine." *Perchance AI Photo Generator,*
+created by Félix Léger, 2024. `[UU8]`
+
+<!--
+**Chapter 6: My Current Learning System**
+
+(Est-ce que je mets la photo du miner?)
+-->
 
 # Bibliography
 
