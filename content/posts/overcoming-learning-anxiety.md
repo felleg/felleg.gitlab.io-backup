@@ -293,7 +293,7 @@ computers through my research.
 2019](/posts/2019/10/why-i-shifted-from-physics-to-focus-on-software/).
 
 
-A few months in at Proximity HCI, it became apparent that things were clearly
+A few months in at Contxtful, it became apparent that things were clearly
 not working out: I was terrible at machine learning. There was no science to my methods, I just cobbled
 algorithms together and hoped they would work magically. With machine
 learning, I was simply "not on my X", as we say in French, meaning I
