@@ -79,8 +79,7 @@ bliss of ignorance?
 
 I believe so. We can learn to kick any bad habit. To do that, we must replace it with a good, meaningful habit. 
 
-The first step to healing a bad habit is acknowledgement
-of the problem, which requires knowledge of the problem in the first
+The first step to healing a bad habit is to acknowledge the problem it poses, which requires knowledge of the problem in the first
 place. Unfortunately, anxious learners are less likely to learn
 about their condition if the idea of searching for clues feels unsafe
 to them to begin with. It is a sadly ironic predicament,  especially because the topic of learning anxiety is rarely brought up in
