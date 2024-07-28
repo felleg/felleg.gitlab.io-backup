@@ -521,7 +521,7 @@ I had started *The DevOps Handbook*, I found a sentence that resonated with me.
 
 "Wait, what?"
 
-*Learning anxiety*. Those two words resonated with emotions I had been experiencing for so
+*Learning anxiety*. Those two words echoed in my mind and shed a light on some uncomfortable emotions I had been experiencing for so
 long. What was that all about? How had I never heard of this before?
 
 I searched online for more information about this condition and, sure
