@@ -360,11 +360,11 @@ comprehension. From the outside, it might have looked like this:
 
 
 The only thing pushing me forward was the fact that my colleagues
-depended on my work, as amateurish as it was. I could entertain the
-idea of going down in a big ball of fire, but I didn't want my
+depended on my work, as amateurish as it was. I could imagine going
+down in a big ball of fire, but I didn't want my
 colleagues to suffer the fall with me. I wanted them to thrive and
 excel at their respective tasks. Ironically, I now believe this is
-precisely the kind of mindset that drives the DevOps philosophy, to do
+precisely the kind of mindset that drives the DevOps philosophy : do
 everything you can to maximize the value your peers can deliver.
 However, I was simply too discouraged at the time to realize this.
 
@@ -379,22 +379,21 @@ This should be fun."
 
 As it turns out, it was great fun indeed! There are many reasons for this, I
 believe. Firstly, the book is, of course, very well written. It
-wouldn't sell over 500,000 copies if it wasn't. I connected with the
+wouldn't sell over 500,000 copies if it wasn't. I felt invested with the
 story and its cast of characters that reminded me of my daily
 interactions with my colleagues. Secondly, and more importantly, the
 fact that I was open to the material and didn't feel pressured to
 understand everything right away made a big difference. Learning felt
 optional, and so my anxiety had no reason to get triggered. Finally,
-and this is key, I enjoyed this book because I read it in its
-entirety. This is something I will come back to later...
+and this is key, I enjoyed this book because I read it from cover to cover. This is something I will come back to later...
 
-In a single week, I had finished reading my first DevOps book. Woohoo!
+In just one week, I had finished reading my first DevOps book. Woohoo!
 I felt like I was ready to conquer the world. My mind was now filled
-with ideas I was excited to try out. *The Phoenix Project* subtly
+with ideas and I was excited to try them out. *The Phoenix Project* subtly
 advertised for another book from the same author, *[The DevOps
 Handbook](https://amzn.to/4clZUMF)*, which supposedly contained
 everything you needed to know to propel your business forward like the
-protagonist of *The Phoenix Project* did. I felt ready for it. It was
+protagonist of *The Phoenix Project* did. I felt ready. It was
 now my turn to be the main character. Bring it on!
 
 
@@ -410,24 +409,28 @@ in 2019. Spoiler alert: I finished it on August 6, 2022. What happened for it to
 
 The [Dunning-Kruger
 effect](https://simple.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
-is what happened. It is a phenomenon that happens whenever we learn something new. To summarize, in the process of becoming a master, there is a transitional period where the learner goes from being overly confident to feeling completely ignorant, despite constant progress in their learning.  
+is what happened. It is a phenomenon that happens whenever we learn
+something new. To summarize, in the process of becoming a master,
+there is a transitional period where the learner goes from being
+overly confident to feeling completely ignorant, despite constant
+progress in their learning.
 
 This peak of overconfidence is known as Mount Stupid, and at this point of the story I had made it to its peak. Some people
-call this stage "premature enlightenment." It is often in this stage where we make the most mistakes. My confidence in my ability to
+call this stage "premature enlightenment." It is often at this stage where we make the most mistakes. My confidence in my ability to
 learn from reading had risen above my actual abilities, and I was about to learn it the hard way.
 
 {{< figure src="/img/dunning-kruger-effect.png" position="center" caption="The path to mastery of any type involves traversing the Dunning-Kruger graph from left to right." scale="90%" >}}
 
 I thought reading the *Phoenix Project* was the breakthrough to end
-all breakthrough. Little did I know, it was only the beginning of my
+all breakthroughs. Little did I know, it was only the beginning of my
 journey, and I was in for quite the slump. After only a few chapters, I began to feel dizzy. *The DevOps Handbook* wasn't
 like the Phoenix Project. It was a _real_ book, one that required
 actual effort to read through. It laid the truth bare: I had no idea
 what I had gotten myself into. I quickly fell into the Valley of
 Despair.
 
-Every new information felt like it took the place of another one in my
-head, reminiscent of a musical chair of knowledge.  For example, I had
+Every new bit of information felt like it took the place of another one in my
+head, like a musical chair of knowledge.  For example, I had
 trouble remembering what the [Three Ways of
 DevOps](https://itrevolution.com/articles/the-three-ways-principles-underpinning-devops/)
 stood for, even though they were central parts of both the Phoenix
@@ -436,16 +439,16 @@ If the Phoenix Project managed to organically sneak in   a reasonable
 amount of information within the context  of  the story, the *DevOps
 Handbook* proved to be too much for me, regardless of how smart I
 thought I was. There seemed to be no time for
-relaxation: The handbook  simply lined the knowledge nuggets one after
-the other relentlessly. It seemed to give me confirmation that I was
+relaxation -- the handbook  simply lined the knowledge nuggets relentlessly one after
+the other. It confirmed that I was
 nothing but an impostor.
 
-Very early on, I could feel my reading velocity diminish as I was
-reading my physical copy. Indeed, what is the point of reading if you
+Very early on, I could feel my reading velocity diminish as I
+advanced through my physical copy. Indeed, I asked myself, what is the point of reading if you
 can't remember anything? I took a stab at the digital version on my
 Kobo to see if that could help (I was very big on e-readers at the
 time[^2]),
-but I got the same result; Initial progress was quick, and then
+but I got the same result -- initial progress was quick, and then
 everything ground to a halt.
 
 [^2]: In fact, I was so big on e-readers that I wrote a post titled [I Love
@@ -455,7 +458,7 @@ the irony, considering I feel uncomfortable whenever I read anything
 that is *not* a physical book!
 
 Reluctantly, I shelved  the handbook both physically and digitally,
-feeling ashamed and defeated. I felt even more like an impostor: the
+feeling ashamed and defeated. I felt even more like an impostor and the
 fact I couldn't get through the *DevOps Handbook* proved it. I became
 fixated on the notion that I was a fake DevOps.
 
@@ -475,7 +478,7 @@ it, each member of nesto's DevOps team received their own copy of the
 *DevOps Handbook* as a welcome gift. This book was following me
 everywhere I went! At this point, so much time had elapsed since I had
 started reading it that the second edition of the Handbook had now
-come out. I was feeling embarrassed.
+come out. I was embarrassed.
 
 Surely there was some secret sauce at nesto that would allow me to
 succeed where I failed at Contxtful. What new possibilities would
@@ -499,15 +502,15 @@ and hard. If I didn't manage to course-correct within two months, I
 could kiss my new job goodbye.
 
 This is what put me into **survival mode**, where the hopelessness of
-the situation was such that it finally made me open to learning. I couldn't bear the thought of being rejected by my newly elected home. It would have made leaving Contxtful feel like a mistake, and would have left me without a plan B. I *had* to get through that probation period at nesto, no matter what it cost me.
+the situation was such that it finally opened me up to learning. I couldn't bear the thought of being rejected from my new job. It would have made leaving Contxtful feel like a mistake, and would have left me without a plan B. I *had* to get through that probation period at nesto, no matter what it cost me.
 
 I had never explicitly been told by a manager that I was not pulling my own weight. I wasn't going to waste this opportunity to show the
 world what I could do when given proper motivation.  So I got to work,
-big time. My focus in mid-June was higher than ever, thanks to
+big time. My focus in mid-June was higher than ever thanks to
 survival instincts that kicked into high gear. One of my first
 personal objectives was to get through the *DevOps Handbook* before the end
 of my extended probation, partly to prove to myself that I could
-accomplish something for once.
+accomplish something, for once.
 
 And then, something magical happened. At page 107, three years after
 I had started *The DevOps Handbook*, I found a sentence that resonated with me.
@@ -549,7 +552,7 @@ alarming precision:
 Learning](https://hbr.org/2002/03/the-anxiety-of-learning))
 
 For the first time in my life, I saw the flaw in me. Dr. Schein was
-describing exactly how I had felt during my entire career. First,
+describing exactly how I'd felt during my entire career. First,
 learning anxiety kept me in the Valley of Despair. Then, the risk of
 losing my job at nesto made me experience survival anxiety that was
 greater than my learning anxiety, which finally made me open
@@ -615,9 +618,9 @@ along?
 
 ---
 About 10 years ago, I was a relatively money-poor grad student. I was
-somewhat short on cash and keeping my old course textbooks was not
-something I could afford to do. Thus, I took great care of these
-textbooks, seldom highlighting or writing in them, to boost
+short on cash and keeping my old course textbooks was not
+something I could afford to do. So I took great care of these
+textbooks, seldom highlighting or writing in them in order to boost
 their eventual sale price.
 
 Unfortunately, this strategy was sub-optimal. For  an extra $40 per
@@ -642,7 +645,7 @@ that whatever damage the bag exhibits went directly into making that
 person stronger, punch after punch, and kick after kick. If you had to
 fight someone, you'd probably pick the boxer with a seemingly
 untouched punching bag in their gym, since this means they probably
-haven't practiced boxing at all.
+hadn't practiced boxing at all.
 
 {{< figure src="/img/punching-bags.png" position="center" caption="I don't know about you, but I'd rather spar with the person who practiced with the bag on the left." >}}
 
@@ -652,7 +655,7 @@ box. **Books are punching bags for our brain**. They are meant to be
 used however necessary to make you stronger.
 
 Let me get preachy about it. **It's ok to damage your books. That's the point of owning them.** You
-are meant to be free to bend them, write in them, fold them, in any
+are meant to be free to bend them, write in them, fold them in any
 way that allows you to *learn faster*. Rip pages off if you must.
 Doodle in them if you must. Your
 copy is *yours*. Please don't think of books as decorations; think of
@@ -672,8 +675,8 @@ and to start respecting how your brain learns.
 You can't imagine how joyful I was to suplex the DevOps Handbook. It
 had held me back for so long, I felt like I was getting revenge. It
 was such a cathartic experience. Page after page, I was folding it,
-compressing it, damaging it, writing in it, and with each day passing, I saw the book
-get more and more *used* by my doing. The creaks on the spine were
+compressing it, damaging it, writing in it, and with each passing day, I saw the book
+get more and more *used* by my doings. The creaks on the spine were
 becoming visitble. I was making *progress*. I hadn't yet learned how to take
 notes (we'll get to that in [Chapter
 5](#chapter-5-creating-a-system-of-learning)), but I was making more
@@ -698,8 +701,7 @@ you can make it. It doesn't matter if it is a softcover or hardcover; the book s
 in half, but in my experience that never happens. You generally have
 to work pretty hard to even get a single page to fall out of a book,
 trust me. Even if it does, it's *not* a big deal. If you follow my
-method, you won't even keep the book when you are done with it! So,
-show it who's the boss. Yes, it's going to leave a mark
+method, you won't even keep the book when you are done with it! Show it who's the boss. Yes, it's going to leave a mark
 on the spine, but that's also the point. See how this new experience
 feels on your hands, on your eyes. Get comfortable. Try suplexing the
 early pages of the book, then the middle pages, then the final pages.
@@ -731,10 +733,10 @@ Freedom!!
 
 So, I knew how to hold a book. Big whoop. This didn't change the fact
 that after reading 10 pages, I couldn't contain all the information I
-was reading. If 10 pages of info coming in my brain means 10 pages of
+was reading. If 10 pages of info coming into my brain means 10 pages of
 info coming out, that does not count as learning. That is the
-equivalent of passively listening to radio while driving. All your
-mind really records is the ads.
+equivalent of passively listening to the radio while driving. All your
+mind really memorizes are the ads.
 
 This time, something was different though. Folding my paperback opened
 Pandora's box. Now that I was unafraid to hurt the resell value of my
@@ -772,7 +774,7 @@ away once I am done reading it. It is the simplest, safest and most
 elegant way to ensure my learning system is working.
 
 I didn't have to search for very long after that insight to have my
-eureka moment. Armed with the rule of giving my book once I'm done
+eureka moment. Armed with the rule of giving my book away once I'm done
 reading it, I started searching for ideas online that would cement my
 learning system. [This six-minutes long video from Matt Morris titled
 \'How to Read a Book for Maximum
@@ -787,8 +789,8 @@ because I was basically admitting that I needed help. I had overcome
 my learning anxiety on the topic of learning itself.
 
 It might not look like much, just asking someone or a search engine
-for help, but this is huge!  It requires tremendous courage to try new
-things, fall on your face, and ask for help. I tip my hat to anyone
+for help, but in fact this is huge!  It requires tremendous courage to try new
+things, to fall on your face, to ask for help. I tip my hat to anyone
 who experiences personal hardships and has the courage to look for
 assistance before trying again.  That's how major psychological
 breakthroughs begin. In a way, that is what you chose to do by
@@ -838,7 +840,7 @@ Make sure that each of these items are objects that you personally
 enjoy using. I'll nerd out [in a later section of the Appendix about
 the hardware I use](#idea-18-additional-tips-on-hardware), but for now just
 focus on making sure that whatever gear you end up choosing makes you
-want to read/write more, not less! If you can, I suggest you try to do these steps in real time on this text as you learn about them.
+want to read and write more, not less! If you can, I suggest you try to do these steps in real time on this text as you learn about them.
 
 ### Step 1: Read and highlight the golden nuggets
 
@@ -871,7 +873,7 @@ really!), get your notebook out. We will now go back to the beginning
 of the book and flip page by page looking for any nugget you
 identified earlier.
 
-Why take the time to write by hand all these nuggets? I'm glad you
+Why take the time to write out by hand all these nuggets? I'm glad you
 asked.
 
 Firstly, this will make it much easier for you to focus on the
@@ -893,14 +895,14 @@ it a shot to really *get* it.
 
 Thirdly, as I wrote earlier in [Chapter
 5](#chapter-5-creating-a-system-of-learning), you want to do
-everything you can *not* to depend on having access to the book once
+everything you can to *not* depend on having access to the book once
 you're done with it. The goal of producing complete notes is to allow
-you to unshackle from the book and claim this knowledge as your own.
+you to unshackle this knowledge from the book and claim it as your own.
 
 In this process of going through the book a second time to collect
 your nuggets, feel free to not even look at the pages without
 highlights. I mean, why would you? You already read them and clearly
-haven't identified anything of value there. Trust your instinct: move
+haven't identified anything of value. Trust your instinct: move
 on! It feels good when you can skip over a bunch of pages empty of
 nuggets.
 
@@ -909,7 +911,7 @@ nuggets.
 As you can see in the picture above, I don't really bother rephrasing
 the quotes from the book. The only time I'll rephrase something is if
 I can make it shorter, or if I find the original sentence hard to
-understand. Your mileage may vary, though. Some people tell me you
+understand. Your mileage may vary. Some people tell me you
 *must* reword quotes you get from a book. To each their own!
 
 Personally, I love this step of writing highlights on paper. I often
@@ -923,14 +925,14 @@ So, you read a book, you made some highlights, and you took some
 notes. Are all notes good? On average, I would say about 60%
 of them are truly worth keeping. Indeed, some quotes are redundant, or
 don't make much sense out of context. Therefore, a very powerful thing
-I enjoy doing before right before I review a book is reading my notes
+I enjoy doing right before I review a book is reading my notes
 one last time and identifying which quotes I want to include in my
 review. I call those Star Quotes.
 
 This process is useful because it forces you to:
 - read the material one more time, which ups your
   chances of remembering it later
-- remove the quotes you initially liked, but don't
+- remove the quotes you initially liked, but now find they don't
   really have lasting value
 
 What is neat in finding your Star Quotes is that you follow exactly
@@ -940,7 +942,7 @@ Of course, you might be tempted to highlight most of the material found
 in your notes, and that's ok. That means your initial selection was
 relevant!
 
-See in the image below the quotes identified by a bit of highlighter.
+You can see in the image below the quotes identified by a bit of highlighting.
 These are my Star Quotes. They will be included in my review of the
 book, which happens in the next step.
 
@@ -948,7 +950,7 @@ book, which happens in the next step.
 
 Psst, I have created [a free book version of all my Star Quotes](/star-quotes) if you are interested.
 
-### Step 4: Write about your opinion of the book
+### Step 4: Write down your opinion of the book
 
 This might seem like overkill to most, but I wouldn't even think of
 skipping this step. Once I'm done with a book, I want to formulate my
@@ -965,7 +967,7 @@ In my reviews, I give myself the freedom to be as detailed or as brief
 as I want. In a way, I treat a review like an artist would treat a
 canvas: whatever ends up there is simply a reflection of how I *felt*
 about the book. There's a good amount of intuition that goes into this
-process.  Sure, I try to put a minimum of effort in my reviews, but I
+process.  Sure, I try to put a minimum of effort into my reviews, but I
 also try not to overdo it. After all, this is something I do for
 myself. I must find enjoyment in it, otherwise I know I will get
 discouraged.
@@ -978,14 +980,14 @@ quotes later.
 [As an example, here is the latest review I wrote](/latest). Feel free
 to copy my format if you want or create your own. In the end, what
 matters is that you create a pattern of work that tricks your brain
-into thinking about these ideas and have them make sense for you. You
+into thinking about these ideas and have them make sense to you. You
 get bonus points if you make this review public and share your notes: not only are you
 sharing your knowledge, but you also encourage people to participate
 in your journey and initiate discussions with you.
 
 {{< figure src="/img/link-handwritten-notes.png" position="center" caption="" >}}
 
-If you are looking for a flatbed scanner, the one I am currently using
+If you are looking for a flatbed scanner, the one I'm currently using
 is the [Canon LiDE 400](https://amazon.ca/dp/B07GPS69KF) and I am
 totally satisfied with it. Recommended!
 
@@ -998,7 +1000,7 @@ to retrieve my notes and even share them with interested parties.
 Ultimately, the format you use to review your books doesn't matter. It can be a
 website like me, a fresh page in your notebook, a Word document, an
 email, a spreadsheet, etc. If you use _your_ words to write
-about the subject you read about, you will do fine. The easiest it is
+about the subject you read about, you will do fine. The easier it is
 for you to access that information once you're done, the better.
 
 That's it, really! However, since I am very passionate about this
@@ -1016,7 +1018,7 @@ subject, I can't resist sharing some additional ideas. Head over to the
 Armed with my learning system, I became empowered to read any book I
 wanted. I discovered a world of knowledge that was inaccessible to me
 before. In this chapter, I will give specific examples of how I was
-able to apply what I learned from specific books into the real world
+able to apply in the real world what I learned from specific books
 and how this made a difference in my life and the life of those around
 me. I read all of these books between 2022 and 2023.
 
@@ -1026,13 +1028,13 @@ me. I read all of these books between 2022 and 2023.
 
 Obviously, we have to begin with the Handbook that initially gave me
 so much trouble. From this book, I learned so many things, but if I
-could highlight a specific practice that I lifted straight from the
+could highlight a specific technique that I lifted straight from the
 book, it would be the Blameless Postmortem. This is a type of meeting
-in which a team analyses the error that led to an incident, and what
+in which a team analyzes the error that led to an incident, and what
 can be learned from it.
 
 This type of meeting is initially difficult to get used to for a team
-unfamiliar with the concept, and so having read the DevOps Handbook
+unfamiliar with the concept, so having read the DevOps Handbook
 gave me the required confidence boost to not get discouraged when
 first attempts at doing postmortems did not go as planned. I developed
 the habit of telling attendees, "the only thing that matters is that
@@ -1053,7 +1055,7 @@ bring with me everywhere I go.
 {{< figure src="https://m.media-amazon.com/images/I/71sYKaNItcL._SL1500_.jpg" position="center" caption="" scale="250px">}}
 
 This is another DevOps-centric book, but the most useful thing I
-learned from it was surprisingly how to handle links in a book. This
+learned from it was, surprisingly, how to handle links in a book. This
 is where I got the inspiration to use URL shorteners in my notes and
 in my writings. In this book, instead of pointing to a long link in
 the references section, every link appears directly in the text next
@@ -1069,7 +1071,7 @@ If you’re curious about the inner workings of short codes, see Appendix A.15.
 {{< figure src="https://m.media-amazon.com/images/I/71qELZ2wR9L._SL1500_.jpg" position="center" caption="" scale="250px" >}}
 
 This book taught me how to receive criticism gracefully, and how to
-give feedback to someone.
+provide feedback to someone.
 
 I have always had a thin skin when it came to feedback. I would often
 live for compliments and get slain by any criticism. This changed
@@ -1092,9 +1094,9 @@ in front of me
 {{< figure src="https://m.media-amazon.com/images/I/61GRQsD6sKL._SL1499_.jpg" position="center" caption="" scale="250px" >}}
 
 This book taught me how to shut up and listen when people talk to me.
-I used to feel so insecure about how I was be seen by other people
+I used to feel so insecure about how I was being seen by other people
 that I would always try to fill every room I was in. Not only was this
-surely annoying to the people around me, but it also made me distant from them.
+surely annoying to the people around me, but it also distanced me from them.
 I was not open to learning about them.
 
 After reading this book, I started listening and being more interested
@@ -1103,7 +1105,7 @@ could dive into rich, difficult topics that we don't hear a lot about
 in casual conversation: how one feels about their sex transition, how
 racism affected one's life and family, mental health issues, thoughts
 of suicide... The skills I learned from this book made me feel closer
-than ever to my loved ones and allow me to reinvent my social life.
+than ever to my loved ones and allowed me to reinvent my social life.
 
 **Psycho-Cybernetics**: Separating mental image from physical
 appearance
@@ -1115,12 +1117,15 @@ physical appearance. My partner is a beautiful, beautiful woman who
 sets the bar really high for herself. In the past, I didn't know how
 to deal with insecurities related to physical appearance. This book
 taught me the concept of the mental image, and it has been a useful
-concept to relate to what my partner was feeling and express to her
+concept to relate to what my partner was feeling and to express to her
 how I felt about her appearance.
 
 Ever since reading and discussing this book with my partner, I feel
-that when I tell her I find her beautiful, she believes me ever so
-slightly, because she knows I can see the real person under the skin.
+like we are more equipped to discuss these parts of ourselves that we
+don't like. The concept of the mental image helped us draw a line
+between how we perceive ourselves and how others perceive us. Both in
+the case of physical or mental defects, our level of inner peace has
+greatly benefited from this read.
 
 **Atomic Habits**: Working out regularly
 
@@ -1129,8 +1134,8 @@ slightly, because she knows I can see the real person under the skin.
 This is a book about developing good habits. I had known for a while
 that our life is approximately the sum of our habits, and I knew that
 my habits were mostly bad, yet I didn't know how to change them. One
-of the habit I most wanted to build into my life was doing more
-physical activity. Diabetes (type 2) runs in my family tree, and I knew I
+habit I most wanted to build into my life was doing more
+physical activity. Diabetes (type 2) runs in my family, and I knew I
 was on a slippery slope myself.
 
 This book gave me tips that allowed me to chain my few good habits
@@ -1139,15 +1144,15 @@ I love the feeling of taking a shower after shaving. Thus, whenever I
 work out, my reward is to shave before taking a shower. It's a stupid
 thing, really, but thanks to that, I have done 76 workouts between
 December 2023 and July 2024, and I don't plan on stopping. I average
-2.7 workouts per week. It doesn't feel like a chore.
+2.7 workouts per week and it doesn't feel like a chore.
 
 Words can't express the satisfaction of seeing my muscles in the
 mirror for the first time!
 
-In addition to that, I learned how to get rid of bad habits by making
+Also, I learned how to get rid of bad habits by making
 them harder to do. I reduced my alcohol consumption and now eat way less sugar than I
 used to simply because I decided that I will not buy sweets
-that go in my home.
+and bring them into my home.
 
 <!--
 **The Fifth Discipline**: Writing this book!
@@ -1162,10 +1167,9 @@ control of emotions
 
 {{< figure src="https://m.media-amazon.com/images/I/71oJG4ynmaL._SL1500_.jpg" position="center" caption="" scale="250px" >}}
 
-This book probably saved my relationship with my partner on the rare
-instances where we've had disagreements. Before getting familiar with
+This book probably saved my relationship with my partner in the rare moments when we've had disagreements. Before getting familiar with
 concepts like the Path to Action, I always found my emotions getting
-the best of me in important conversations and regretting it. This book
+the best of me in important conversations and then regretting it later. This book
 made me understand that it is foolish to believe we have to choose
 between telling the truth and keeping a friend. We can do both.
 
