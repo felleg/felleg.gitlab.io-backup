@@ -1533,7 +1533,7 @@ choosing, I'm constantly learning.
 When I picture someone reading, I often see them using their finger to
 track their progress, like this:
 
-{{< figure src="/img/reading-with-finger.png" position="center" caption="" >}}
+{{< figure src="/img/reading-with-finger-2.jpg" position="center" caption="" >}}
 
 {{< figure src="/img/reading-with-finger.jpg"
 position="center" caption="" >}}
