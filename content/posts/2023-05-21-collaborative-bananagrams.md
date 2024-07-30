@@ -5,7 +5,7 @@ draft: false
 frontpage: "true"
 toc: true
 tags:
-  - featured
+  #- featured
 aliases:
   - "/banana"
 ---
