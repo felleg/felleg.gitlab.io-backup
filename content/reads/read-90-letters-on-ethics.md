@@ -10,7 +10,6 @@ tags:
   #- 'fiction'
 aliases:
   - '/90'
-draft: true
 number: 90
 rating: 👍👍
 
@@ -43,10 +42,10 @@ The reason I chose to read this book is because I was influenced into
 it by someone who seemed to have his life in order. The stranger on
 the video said that this book greatly influenced his life and pushed
 him in the right direction. Thus, I couldn't resist. I had to know
-what kind of wisdom philosophers from 2,000 years could teach me. What is timeless wisdom? What could I learn from that?
+what kind of wisdom philosophers from 2,000 years could teach me. I had yet to read a true philosophy book in my adult life. What is timeless wisdom? What could I learn from that?
 
 Seneca is a philosopher from the Stoic school of thought, which is
-making a comeback in 2024 thanks to popular authors like Ryan Holiday. I suppose that the existential crisis my
+making a comeback in 2024 thanks to popular authors like [Ryan Holiday](ryanholiday.net). I suppose that the existential crisis my
 generation is going through has a lot to do with that. We are
 despaired because the faith of the world seems uncertain, we have
 financial stress, and we seem to have forgotten how to relate with one
@@ -60,7 +59,7 @@ philosophy:
 > poverty, reins in pleasure and rehearses the endurance of pain will
 > experience joy that cannot be run out of.
 
-So yes, this is indeed a big book, 500 pages long. It is a lengthy
+So this is indeed a big book, written over 500 pages. It is a lengthy
 read, but it is surprisingly easy to get into. The core innovation Seneca made
 when writing this was brilliant: he would write letters to his friend
 Lucilius, and these would become the chapters of his book. The concept
@@ -111,7 +110,20 @@ of how to traverse hardships courageously. Quote,
 > effective than good men's company. One can get some benefit from a
 > great man even if he is silent."
 
-It really does feel like Seneca is present with the reader and talking
+Seneca is a man of his time, and thus has the annoying tendency of
+refering to "humans" as "men." 
+
+I couldn't help but laugh on the rare occasion when Seneca explicitely referred to women in
+his letters to share some opinions that have not aged well at all:
+
+> "Born to play the passive role, [some women] practice an
+> utterly perverted type of obscenity (may the gods and goddesses
+> destroy them!) and straddle men."
+> (p. 371)
+
+This minor flaw is something the modern
+reader has to accept not to get distracted from the legitimately beautiful insights
+Seneca is teaching. It really does feel like Seneca is present with the reader and talking
 directly to them. I think I will keep from this read many star quotes
 (see below),
 or as Seneca might put them, precepts, which will help me guide my
@@ -121,25 +133,82 @@ While the biggest problem of the Stoic doctrine is that it has the
 capacity to support the status quo, it is still a useful frame of mind
 to traverse all these things over which we truly have no control.
 
-- "I will send you the books themselves, and I will annotate them too,
-  so that you need not expend much effort hunting through them for the
-  profitable bits, but can get right away to what I endorse and am
-  impressed with." --> Seneca was 2,000 years ahead of me!
-- (p. 178) "Dying well is dying willingly," I believe that is a
-  dangerous thing to say.
-- (p. 259) "Dearest Lucilius, how glad I am that we are doing this --
-  that we are pressing on in this direction with all our strength, even if a few people ever know; even if no one knows."
-- "Precepts are only useful if we know why they are true."
-- (p. 360) Good precepts, if they are often with you, will be as
-  helpful as good role models.
+Before I finish this review, here are some quotes I found interesting with my thoughts
+attached to them:
 
-The notion of the "good man" e.g. p. 407, shows that this is a book of
-its time. Only rarely mention women, and that's to say very outdated
-things (p. 371, "born to play the passive role, they practice an
-utterly perverted type of obscenity (may the gods and goddesses
-destroy them!) and straddle men."). Though, to be fair, that is one of the
-very rare instances where Seneca does not say something timeless. However when Seneca talks about
-a "good man," what he really means is a "good human."
+> "I will send you the books themselves, and I will annotate them too,
+>  so that you need not expend much effort hunting through them for the
+>  profitable bits, but can get right away to what I endorse and am
+>  impressed with."
+
+This is something I have been doing as well with the books I read.
+Seneca was 2,000 years ahead of me! I love giving annotated books to
+my friends, because I feel it will help them find the golden nuggets
+faster and thus profit more quickly from the book.
+
+
+> (p. 178) "Dying well is dying willingly"
+
+Seneca often says things like this, but I believe there is danger for
+misinterpretation. I believe that is a dangerous thing to say in a
+society where suicide is very present. It is important to keep in mind
+that when Seneca says it is virtuous to die courageously, he is
+implying that death is the only option. In my opinion, death is very
+rarely the only option. I believe Seneca had in mind someone on their
+deathbed succumbing to sickness, or an actual gladiator who has fallen
+to the ground and can't get up. Indeed, here are quotes where Seneca
+makes it very clear that a courageous death is built on a foundation
+of willing to live:
+
+- (p. 214) "It is wrong to steal the means of living, but very fine to
+  steal the means of dying [because this could prevent a murder or a
+  suicide]."
+- (p. 251) "There are times when just continuous to live is a courageous action."
+- (p. 468) "Nothing seems more shameful than to pray for death."
+
+Thus, Seneca invites us to use the finiteness of our lives and the
+certainty of our end to motivate us to live virtuously, so that we can
+experience lasting joy from within ourselves.
+
+> (p. 259) "Dearest Lucilius, how glad I am that we are doing this
+> [exchange of letters] --
+>   that we are pressing on in this direction with all our strength, even if a few people ever know; even if no one knows."
+
+I find this quote quite touching. Seneca is expressing his joy towards
+his project of exchanging letters to his friend. He knew this would
+eventually become a book, and yet he had no idea if people would
+read his works. He wasn't doing this for the praise. He embarked on
+this writing journey because it filled him with joy: that was his
+motivation! This inspires me to retrieve the same sentiment in my own
+writings: writing for joy, for myself, my own benefit. We still read
+Seneca's letters 2,000 years after they were written, and probably
+will for as long as humanity is alive. The fact that he didn't care at
+all whether this would happen surely contributed to making his work
+great and timeless.
+
+> "Precepts are only useful if we know why they are true."
+
+This is a reminder for myself. My [Star Quotes](/star-quotes) are essentially a list
+of precepts I gathered from the books I read. However, we cannot
+simply take precepts at face value. We have to know *why* they are
+true so we can apply them correctly. Otherwise, we might take one of
+the quotes above, "Dying well is dying willingly," and make a
+regrettable choice due to misunderstanding what the precept really
+meant.
+
+As Seneca says, (p. 360) "Good precepts, if they are often with you,
+will be as helpful as good role models." That is what I am hoping for
+myself.  By keeping a record of my favorite precepts, I hope they will
+come to mind when I face hardships and guide me toward making the best
+decision.
+
+This book is filled with majestic, eternal precepts that very possibly
+might have been written for the first time by Seneca himself. This
+read motivated me to keep exploring ancient writings to better
+appreciate where our collective wisdom comes from.
+
+To the curious reader, I strongly recommend this book, and give it the
+highest ratings. Sometimes, being influenced can be a good thing!
 
 {{< myrating rating="👍👍" >}}
 
@@ -424,7 +493,7 @@ a "good man," what he really means is a "good human."
 1. (p. ?) #Virtue persists if it is the end goal.
 1. (p. 250) #time #Life is like a play: what matters is not how long the
    show goes on but how well it is acted.
-1. (p. 251) #courage There are times when just continuous to live is a
+1. (p. 251) #courage There are times when just continuing to live is a
    courageous action.
 1. (p. 253) #loss :star: There is no bitterness in being deprived of
    what you no longer want.
