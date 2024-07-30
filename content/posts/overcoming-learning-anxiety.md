@@ -44,8 +44,9 @@ Thanks to Matt Morris for making a
 foundation of my learning system.
 
 Thanks to the following people who gave me feedback on this text:
-Gabrielle Perron (on multiple occasions), Réjane Léger, Maxime Bergeron, Nicole Daoust,
-Mathieu Frenette, Julien Gaboriaud, Elaine Delage, Catherine Proulx, Benoît Dicaire, Paul Pedersen.
+Gabrielle Perron (on multiple occasions), Paul Pedersen, Benoît
+Dicaire, Réjane Léger, Maxime Bergeron, Nicole Daoust, Mathieu
+Frenette, Julien Gaboriaud, Elaine Delage, and Catherine Proulx.
 
 And **thank you** for giving this text a chance. I sincerely hope this text will bring value to your life. If you have any feedback, I would love to receive it at felix@felixleger.com.
 
@@ -97,7 +98,7 @@ anxiety. However, I have experienced severe learning anxiety myself,
 which compels me to raise awareness of this condition while the
 experience is still fresh in my mind. Incredibly, overcoming learning
 anxiety is both the hardest and most gratifying thing I have ever
-done. By rediscovering joy in learning and in creating my own
+done. By rediscovering joy in learning and in creating *my own*
 system of learning, I have found the key to unlimited mountains of
 wisdom that profoundly impacted every aspect of my identity. Where I
 once felt stuck in constantly repeating the same mistakes, I could now
@@ -1173,9 +1174,9 @@ the best of me in important conversations and then regretting it later. This boo
 made me understand that it is foolish to believe we have to choose
 between telling the truth and keeping a friend. We can do both.
 
-My girlfriend is an expert negotiator and I always felt like I
+My partner is an expert negotiator and I always felt like I
 couldn't keep up with her when the time came to make important
-decisions. After reading Crucial Conversations, I could better respectfully stand my
+decisions. After reading Crucial Conversations, I could respectfully stand my
 ground.
 
 **Remote Not Distant**: Making people want to come back to the office
@@ -1209,7 +1210,7 @@ productive on day one.
 I cannot say that my code design was anything fancy (I should have
 probably read *Clean Architecture: A Craftsman's Guide to Software
 Structure and Design* for that), but at least it helped me to pass my
-probation in flying colors this time.
+probation in flying colours this time around.
 
 ## Chapter 8: Conclusion
 
@@ -1228,11 +1229,11 @@ reading 421 pages.
 
 {{< figure src="/img/compressed-book.jpg" position="center" caption="50 pages of pure nuggets!" >}}
 
-Instead of taking days to review that information, it will take me 1
+Instead of taking days to review that information, it will take me one
 hour. This feels almost like cheating, except it isn't! I worked hard
 for this outcome, and now I get to savour it. Better yet, since all
 the crucial information is compact and written by me and for me, the
-ideas assemble in my head much quicker than if I was just reading the
+ideas get organized in my head much quicker than if I was just reading the
 book all over again. The information has been pre-digested.
 
 Books are not something to be afraid of. Not anymore. I realized I now
@@ -1247,7 +1248,7 @@ we start making different choices, we have learned.
 
 Textbooks have a purpose outside the classroom, even if that means you
 won't have a professor dragging you through it. Not all textbooks
-feature exercises and homework; some can be quite fun, relaxing,
+feature exercises and homework; some can be quite fun, relaxing and
 enlightening to read, without creating headaches or feeling like
 puzzles. A book you chose almost certainly contains elements of the
 answer to the question that made you choose it.
@@ -1256,17 +1257,17 @@ I can't describe how awesome it feels to find a book that shows me a new
 way to think
 about a specific problem that I couldn't quite figure out. Suddenly, a
 new connection occurs in the brain. Everything simply  makes  sense! Personally, this is among
-the most powerful and freeing experiences I have felt yet. It truly is
+the most powerful and freeing experiences I have felt to date. It truly is
 a transcending moment that cannot be overstated. In the beginning,
-reading to learn felt painful. Now, I am addicted.
+reading to learn felt painful. Now, I'm addicted.
 
 **We are all lifelong learners.** If you want to learn about
 something, you can do it. What allows some people to learn faster than
 others is that they have created and optimized a learning system suited for *their* way of learning.  When I realized that the core
 mission of DevOps, which eluded me for years, is to create a system
-that automates organizational learning, I felt the pinch of irony
+that automates organizational learning, I felt a pinch of irony
 since this realization had required me to create *my* own system of
-learning. Now that this is done, I feel more empowered than ever and
+learning. Now that I've done it, I feel more empowered than ever and
 ready to take this challenge of automating organizational learning head-on. Writing this book is part of
 that effort.
 
@@ -1274,7 +1275,7 @@ I don't want to give you the wrong impression: I am still
 not immune to learning anxiety, even after reading {{< n_books >}}
 books and writing all about my experience. Nobody gets used to
 feeling dumb, and unfortunately the more you learn, the more you
-realize how little you know about everything. The good news
+realize how little you know about anything. The good news
 is that I now feel equipped to tackle this journey. I'll never be done
 learning, and true learning is always an uncomfortable, if not painful
 process. Nevertheless, my learning system allowed me to come across
@@ -1287,10 +1288,10 @@ threatened when I disagree with people I love. In fact, now
 more than ever, when I speak to friends and colleagues, I feel valued
 and genuinely interesting.
 
-Yet, I am *overcoming* learning anxiety. I am not done, and probably
-never will be. I am *learning* that pain can be leveraged. I am
+Still, I am *overcoming* learning anxiety. I'm not done, and probably
+never will be. I'm *learning* that pain can be leveraged. I'm
 *starting* to believe that the only real failure is not to learn from
-failure. I am *beginning* to see fear as a compass that guides us
+failure. I'm *beginning* to see fear as a compass that guides us
 toward the path that will make us grow. I'm still scared of exams, and
 I honestly still fear getting fired from time to time! Some things are
 unfortunately part of life. What I learned is that by arming
@@ -1299,13 +1300,13 @@ fulfilling, and closer to our true ambitions.
 
 If you personally suffer from learning anxiety and made it this far in
 this text, I am in awe of you. You are among the courageous few that made it to
-the end. Seriously, lift your favorite arm and give yourself a pat on
-the back from me. I am confident that you are already on the right
+the end. Seriously, lift your favourite arm and give yourself a pat on
+the back from me. I'm  confident that you are already on the right
 path: the real journey begins here, if you accept it. I hope the ideas
 I have outlined above will inspire you to give them a try or, better
 yet, to find your own system and rediscover the simple, sacred joy of
 learning. If this changes your life even half as much as it changed
-mine, you're in for the ride of a lifetime, my friend.
+mine, you, my friend, are in for the ride of a lifetime.
 
 We truly can do anything we set our mind to. That is what learning is
 all about.
@@ -1320,7 +1321,7 @@ Your move!
 
 In this section, I will tell you about some tricks I picked up over
 years of learning from books. Think of them as suggestions that might
-be worth attempting. We are all unique and all learn differently, thus it is perfectly
+be worth exploring. We're all unique and we all learn differently, so it's perfectly
 fine if what works for me doesn't quite work for you.
 
 If you have other interesting tricks you
@@ -1338,20 +1339,20 @@ something? Try to make this obvious to yourself.
 
 When I began my learning journey, my
 goal was to save my DevOps job at nesto. Having this clear goal in my
-mind made it easier for me to focus on searching solutions that would
+mind made it easier for me to focus on searching for solutions that would
 nudge me closer to my goal. Finishing *The DevOps Handbook* seemed
 like a reasonable objective in alignment with this initial goal.
 
 What is important is not whether you succeed at your goal or not. In
 fact, it can be *good* to fail at reaching an important goal, as long
 as you see this as an opportunity to learn about what you could
-improve next time you set a goal. The reason it is important to set a
-clear goal is so that before we try something, we can verify
-if it is pushing us in the right direction. It doesn't have to be a
+improve next time around. The reason it's important to set
+clear goals is so that before we try something, we can verify
+if it's pushing us in the right direction. It doesn't have to be a
 big goal. It just needs to be meaningful to you and push you in the right direction. You can
 make the goal bigger as you get better.
 
-If you are looking for a suggestion, here's mine. Every day, before going to sleep, read 5 pages of a book until you complete it,
+If you are looking for a suggestion, here's mine. Every day, before going to sleep, read 5 pages of a book until you finish it,
 following the method outlined in [Chapter
 6](#chapter-6-my-current-learning-system).
 
@@ -1359,29 +1360,29 @@ following the method outlined in [Chapter
 
 ## Idea 2: Read non-fiction
 
-All humans love a good story. There is indeed value in reading a
+Everyone loves a good story. There is indeed value in reading a
 well-constructed
 fiction. Some of my fondest memories include reading Harry Potter and
-talking about it with my father. However, I believe the lessons one
-can learn from fiction will be acquired slower than from reading
+talking about it with my father. However, I believe the lessons
+learned from fiction will be acquired slower than from reading
 non-fiction, partly because fiction is, well... not real.
 
-I would suggest you give non-fiction a try if you have not already. By
+I would suggest you give non-fiction a try if you have not done so already. By
 non-fiction, I mean a book that discusses a subject anchored in
 reality. It can be a history book, a book focused on a specific topic,
 or even a biography. Non-fiction books are generally not boring: they are also
 filled with stories. What's convenient in non-fiction is that the
 stories told really happened. Thus, the lessons one can learn from
-them are much more obvious. There is less interpretation to be made.
-It is much more directly applicable in one's life.
+them are much more obvious. There is less interpretation to be made
+making them more directly applicable in one's life.
 
 
 
-## Idea 3: Never go out without a book, highlighter and pen
+## Idea 3: Never go out without a book, a highlighter and a pen
 
 Personally, I feel naked whenever I go somewhere without my book, my notebook, my pen and my highlighter. 
 
-It is impossible to make progress in a book you don't have access to.
+It's impossible to make progress in a book you don't have access to.
 One can't highlight golden nuggets without a highlighter in hand.  If
 you want to get serious about your reading habits, you need to find a
 way to always have these objects available. The closer they are
@@ -1389,7 +1390,7 @@ to your hands, the better.
 
 It doesn't have to be complicated. If you travel with a bag, that's an
 obvious spot to store your books. If you have pockets, that's an
-obvious place for a pen and highlighter.  To tell the truth, you don't
+obvious place for a pen and highlighter.  Truth be told, you don't
 really need a bag or pockets to make this idea work. You could simply
 keep your book and highlighter in your hands and your pen behind your
 ear for the few times you might need it. No clothes required!
@@ -1404,7 +1405,7 @@ In my experience, the best way to progress through a book is *not* to allocate l
 periods of time for reading, but rather to keep your book handy at all
 times (see [Idea
 #3](#idea-3-never-go-out-without-your-book-highlighter-and-pen)) and
-to open it whenever you're between tasks.  When I succeed to motivate
+to open it whenever you're between tasks.  When I get
 people to pick up
 reading again, their intuitive response is generally to say, "I'll set
 an hour aside in my calendar for reading." And they do. And then
@@ -1412,7 +1413,7 @@ nothing else happens. They are still unable to turn reading into a
 habit! 
 
 Do you want to know a dirty secret? I have trouble reading for more than 30
-minutes in a row. I doubt most people who schedule to read a full
+minutes at a time. I doubt most people who schedule to read a full
 uninterrupted hour succeed. In my opinion, they mostly end up
 fooling themselves.
 
@@ -1421,10 +1422,10 @@ instantly bake reading into your routine. But you must stick to it,
 otherwise it will not work.  Ready? Here it is:
 
 > Any time you feel like picking up your phone to
-> browse, pick your book first, and see if you can read a paragraph or
+> browse, pick up your book first, and see if you can read a paragraph or
 > two (or more, if you get into it!) before using your phone.
 >
-> In other words, earn the right to use your phone by reading two paragraphs from your book first.
+> In other words, earn the right to use your phone by first reading two paragraphs from your book.
 
 How was that? Disappointing, right? Well, too bad, that really is the
 secret sauce to finishing books quickly! :smiley:
@@ -1443,53 +1444,53 @@ Caveat: For this idea to work, you *must* have your book and your highlighter on
 ### Idea 4.1: Buy an alarm clock and leave your phone out of the bedroom
 
 Kudos to Simon Sinek for this idea. Most people keep their phones next
-to their bed because it serves as their morning alarm clock. That is a
+to their bed because it serves as their morning alarm clock. That's a
 terrible practice, for we know how damaging it is for our eyes and
 minds to use our phones before going to sleep. Try adopting a different
 strategy that generations of people before you have relied on to go to
 sleep: get yourself an alarm clock ([here\'s the one I
-use](https://amzn.to/3W6QL4z)), migrate your phone's charger outside
+use](https://amzn.to/3W6QL4z)), move your phone's charger out
 of your bedroom, and bring your book to bed instead. Not only will
 this make you read more, but it will also make your sleep better.
 
 ## Idea 5: Use a red LED headlamp to read in the dark
 
-I find it convenient not to depend on a light fixture to read.
-Next to my bed, I keep a head lamp to read a few pages before going to
-sleep. It is simply more convenient and comfortable that other
+I find it convenient to not depend on a light fixture to read.
+I keep a head lamp next to my bed to read a few pages before going to
+sleep. It's simply more convenient and comfortable that other
 alternatives.
 
 {{< figure src="/img/read-in-the-dark.jpg" position="center" caption="" scale="50%">}}
 
 The model I am currently using is the [Black Diamond
 Cosmo-R](https://amzn.to/4ePPBSc), but for our needs this might be a
-little overkill. I suggest you simply look for whatever headlamp that has a
-red LED and can go to low levels of intensity.
+bit overkill. I suggest you simply look for whatever headlamp that has a
+red LED that can be set to low levels of intensity.
 
 {{< figure src="https://m.media-amazon.com/images/I/71aqT0juOBL._AC_SL400.jpg" position="center" caption="" >}}
 
 ## Idea 6: Start by reading a single book at a time
 
 As you start learning, you get excited when you see all the
-possibilities within your grasp. Never forget, "Stop starting, start
-finishing." Generally, for better or for worse, the end of the book is
-often when everything comes together and the author "blows your mind."
+possibilities within your grasp. Here is a quote from *The DevOps
+Handbook* that I constantly need to remind myself:
 
-{{< figure src="/img/stop-starting-start-finishing.jpg" position="center" caption="Words to live by." scale="80%">}}
+> *Stop starting, start finishing.*
 
-Choose your book carefully and do your best not to start another one
-before you finished your current one. Use this as motivation to get
+Generally, for better or for worse, the end of the book is
+often when everything comes together and the author "blows your mind." Choose your book carefully and do your best not to start another one
+before you've finished your current one. Use this as motivation to get
 through your current book, if needed!
 
 Personally, shelving  a book without finishing it only leaves me more
 confused. It gives me some pieces of the puzzle, but since I lack
-pieces, I will never see that puzzle to completion. Bite the bullet,
+the remaining pieces, I will never see that puzzle to completion. Bite the bullet
 and finish the books you start, unless they are novels that fail to
 grab your attention.
 
-You might want to wait  until you are in the final pages of a book
+You might want to wait  until you're in the final pages of a book
 before ordering your next one. You don't want to make commitments that
-you might not be able to complete! I strongly advise to order only a
+you might not be able to keep! I strongly advise ordering only a
 single book at a time, especially at the start of your learning
 journey - try not to get carried away!
 
@@ -1498,8 +1499,8 @@ journey - try not to get carried away!
 
 Each page has two corners and I use this to my full advantage. The top
 corner indicates my reading progress, and the bottom corner tracks
-my note-taking progress. Since I don't use a bookmark, there is no
-risk of losing the page I was on, because a fold leaves a mark.
+my note-taking progress. No need for a bookmark and no risk of losing
+the page I was on.
 
 I said it before, but I'll say it once more: books are punching bags!
 
@@ -1509,17 +1510,23 @@ I can't overstate how useful this is. It gives the feeling that no
 moment spent reading or taking notes is wasted. Whenever something
 else needs my attention, I simply fold the corner, fully aware that
 whenever I'll come back to the book, I will know exactly what I was up
-to. Often, I will even leave a mark with my highlighter next to the sentence I was
-currently reading to clearly identify the spot I was at.
+to. 
 
-I like the fact that each corner tracks different activities:
+Here's a bonus idea. On top of using the folded corners, I also leave a mark with my highlighter next to the sentence I was
+currently reading to clearly identify the spot I was at. This makes it
+immediately clear where to continue reading from. Thanks to this, I
+rarely have to read the same paragraph twice:
+
+{{< figure src="/img/highlight-spot.jpg" position="center" caption="" >}}
+
+To summarize, I like the fact that each corner tracks different activities:
 - reading
 - writing (note-taking)
 
 If I'm in the mood for reading, I read. If I'm in the mood for
-taking notes, I write. I feel like I am free to choose what activity is
+taking notes, I write. I feel like I'm free to choose which activity is
 right for what time. And, most importantly, whatever I end up
-choosing, I am constantly learning.
+choosing, I'm constantly learning.
 
 ## Idea 8: Use the body of your highlighter as a visual aid
 
@@ -1531,15 +1538,15 @@ track their progress, like this:
 {{< figure src="/img/reading-with-finger.jpg"
 position="center" caption="" >}}
 
-However, this method of tracking progress never felt right to me.
-There are many reasons why:
+However, this method of tracking never felt right to me.
+There are many reasons:
 
 - My finger is too big to accurately point to specific words on a page
 - To reach the full width of the page with my finger, I have to move
   my entire arm back and forth as I read or move the arm holding the
   book. It wastes energy.
 - I don't particularly appreciate the friction of the page on the tip
-  of my index, especially over extended periods of time.
+  of my index finger, especially over extended periods of time.
 
 The method I now use to guide my eyes as I read is to use the full
 body of my highlighter. Since my system is based on Matt Morris'
@@ -1551,9 +1558,9 @@ read, so this puts it to good use.
 This has many benefits:
 
 - Unlike the tip of your finger, the body of the highlighter is flat.
-  It makes it obvious what line you are currently looking at.
+  It makes it obvious which line you are currently looking at.
 - You can let your eyes glide along the body of the highlighter. It
-  feels less jittery than following the movement of a finger, which
+  feels less jittery than following the movement of a finger which
   can only point to one word at a time.
 - The body of the highlighter is:
    - long enough to allow me to reach the full width of a page without
