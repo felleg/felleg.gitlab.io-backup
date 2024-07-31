@@ -1104,7 +1104,7 @@ I was not open to learning about them.
 After reading this book, I started listening and being more interested
 about what people around me had to say. It surprised me how quickly we
 could dive into rich, difficult topics that we don't hear a lot about
-in casual conversation: how one feels about their sex transition, how
+in casual conversation: how one feels about their gender transition, how
 racism affected one's life and family, mental health issues, thoughts
 of suicide... The skills I learned from this book made me feel closer
 than ever to my loved ones and allowed me to reinvent my social life.
