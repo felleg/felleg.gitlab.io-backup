@@ -176,5 +176,11 @@ pouch would be the same as the standard version. I tried to contact
 them about making this a thing. Who knows, maybe I could be credited
 as a board game designer... Wouldn't that be something! 😄
 
+*Update: They responded that they appreciated the enthusiasm, but were
+not interested in the Bananagrams CO-OP variant. My take on this is
+that Bananagrams CO-OP is a variant of an existing official variant,
+Banana Solitaire. Thus, maybe I could summarize this entire post with:
+Play Banana Solitaire, but with friends!
+
 If you give this game a try, please tell us your fastest time in the
 comments below. :banana: Have fun!
