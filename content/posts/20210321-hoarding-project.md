@@ -8,6 +8,7 @@ tags:
   - featured
 aliases:
   - '/selling-collection'
+  - '/hoarding'
 ---
 
 
