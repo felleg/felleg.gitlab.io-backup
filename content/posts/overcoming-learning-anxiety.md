@@ -44,9 +44,10 @@ Thanks to Matt Morris for making a
 foundation of my learning system.
 
 Thanks to the following people who gave me feedback on this text:
-Gabrielle Perron (on multiple occasions), Paul Pedersen, Benoît
-Dicaire, Réjane Léger, Maxime Bergeron, Nicole Daoust, Mathieu
-Frenette, Julien Gaboriaud, Elaine Delage, and Catherine Proulx.
+Gabrielle Perron (on multiple occasions), Paul Pedersen, Geneviève
+Perron, Benoît Dicaire, Réjane Léger, Maxime Bergeron, Nicole Daoust,
+Mathieu Frenette, Julien Gaboriaud, Elaine Delage, and Catherine
+Proulx.
 
 And **thank you** for giving this text a chance. I sincerely hope this text will bring value to your life. If you have any feedback, I would love to receive it at felix@felixleger.com.
 
@@ -1565,9 +1566,9 @@ This has many benefits:
 - The body of the highlighter is:
    - long enough to allow me to reach the full width of a page without
      having to move my wrist, let alone my arm.
-   - vivid in color, which makes it quite eye-catching.
+   - vivid in color, making it quite eye-catching.
    - wide enough to hide the sentences below what I am reading, which
-     ensures I am not reading "in diagonal".
+     ensures I am not reading diagonally.
 
 ## Idea 9: Get the right grip
 
@@ -1577,23 +1578,25 @@ work for most people. This is what it looks like:
 
 {{< figure src="/img/how-hold-a-book-1.jpg" position="center" caption="" >}} 
 
-As you can see, one hand holds the book, and the other holds the
-highlighter. I have already described in [Idea
+As you can see, one hand holds the book and the other holds the
+highlighter. I've already described in [Idea
 #8](#idea-8-use-the-body-of-your-highlighter-as-a-visual-aid)
 how to use your highlighter as a visual aid. Personally, I really like
-leaving my index between the front and back cover, because it creates
-a nice support without being in my eyes' way. Whenever I need to make a highlight, I hold the highlighter cap with my mouth, that way I can keep a steady grip. When you reach the end
+leaving my index finger between the front and back cover, because it creates
+a nice support without being in my eyes' way. I hold the highlighter
+cap with my mouth whenever I need to make a highlight, that way I can
+keep a steady grip. When you reach the end
 of the page, simply switch hands!
 
 {{< figure src="/img/how-hold-a-book-2.jpg" position="center" caption="" >}} 
 
 ## Idea 10: Use creative highlighting to make note-taking easy
 
-When we highlight in a book, we highlight for our future self who will
+When we highlight in a book, we highlight for our future self who'll
 turn these highlights into written notes. Our goal is to make that
 future self's job as easy as possible.
 
-Most of the time, there isn't a lot of thought that goes into
+Most of the time, there isn't a lot of thought put into
 highlighting -- that's a good thing! If you find a sentence that you
 love, just highlight it. Easy peasy. But what if the useful
 information is split across different sentences? What if by switching
@@ -1622,7 +1625,7 @@ reconstruct a quote using words already on the page.
 
 {{< figure src="/img/construct-sentences-2.png" position="center" caption="" scale="70%">}} 
 
-This technique also works to cut the fat in a mostly relevant
+This technique also works to trim the fat in a
 paragraph. See in the example below how I string together different sentences
 using a simple line.
 
@@ -1652,7 +1655,7 @@ revisit your own good ideas and decide how to expand upon them.
 
 {{< figure src="/img/good-margin-notes.jpg" position="center" caption="" >}}
 
-If you consider reviewing your book when you are done with it (which I
+If you consider reviewing your book when you're done with it (which I
 recommend!), you might want to write your impressions of the book near
 the front cover for ease of retrieval, as I have done in the picture
 below for the book [The Mountain Is You](/88).
@@ -1684,7 +1687,7 @@ the margin is for everybody!
 
 It's a shame that most quality notebooks that I know of don't have
 margins. Use this to your advantage: make your margins as wide or as
-thin as you need.
+narrow as you need.
 
 {{< figure src="/img/margins.jpg" position="center" caption="" >}}
 
@@ -1746,11 +1749,12 @@ fully owned by me!), I recommend you check out [a video I made on how
 to get started with
 VanityURL](/posts/2024/01/vanityurls-a-convenient-diy-url-shortener-service/).
 
-## Idea 16: Give your book away after you wrote your review
+## Idea 16: Give your book away after you've written your review
 
-This is the fun part. When you finished reading a book and collecting
-all its nuggets in your journal, you are free to share it with the
-world. In fact, I think it's better to bring the book out of your home
+This is the fun part. When you've finished reading a book and
+collected all its nuggets into your journal, you are free to share it
+with the
+world. In fact, I think it's better to remove the book from your home
 and find it a new library where it will be happy. In my case, since my
 employer sometimes provides me a personal wellness account that funds
 my book purchases, I think it's a no-brainer to bring these books back
@@ -1761,7 +1765,7 @@ library is the victory lap.
 
 {{< figure src="/img/book-sharing.png" position="center" caption="" >}}
 
-For the *DevOps Handbook*, since this book meant a lot for me during
+For the *DevOps Handbook*, since this book meant a lot to me during
 my personal development, I added a note on the title page. Who
 knows, maybe this little encouragement will make a difference for the
 next person who will pick up this book!
@@ -1772,10 +1776,10 @@ next person who will pick up this book!
 ## Idea 17: Remember: Reading a book twice is inefficient
 
 I've hinted at it before, but I'll say it clearly once more: Life is
-too short to read a book in its entirety twice.  If you are reading a
+too short to read a book in its entirety twice.  If you're reading a
 book a second time, what does this say about the first time you read
-it?   Instead, rely on your notes to quickly get the essence of the
-book.  That's your reward for putting in this work: you can get the
+it?   Instead, rely on your notes to quickly recapture the essence of the
+book.  That's your reward for putting in the work: you can get the
 same info as reading the full book in a fraction of the time.
 
 ## Idea 18: Additional tips on hardware
@@ -1788,7 +1792,7 @@ So, what hardware do I recommend, precisely?
 
 First off, this is probably basic common-sense, but I'll make it
 explicit, just in case: Don't use a spiral-bound Hilroy notebook or,
-worse, a stitched exercise book. These won't do much good here if
+worse, a stitched exercise book. These won't do you much good if
 pages keep tearing and falling out of your journal after a few years.
 
 The bound journal I've been using is the [TRU RED Medium Flexible
@@ -1800,7 +1804,7 @@ from Staples.
 
 Note: Some people enjoy spiral-bound notebooks because they allow to
 easily fold back the notebook and stay opened flat on a table. If you
-do invest in a spiral-notebook, at least make sure it is high quality.
+do invest in a spiral-notebook, at least make sure it is of high quality.
 
 
 Also, I strongly recommend using a **dotted** journal.  This
@@ -1815,10 +1819,10 @@ grid without being as visually distracting.
 #### Pens and highlighters
 
 Take the time to really search for a pen that makes writing a joyful
-experience for *you*.
+experience *for* *you*.
 
 If you're looking for recommendations, mine are:
-- Pen: Bic Cristal (black or blue)
+- Pen: Bic Cristal (black or blue), you can find them anywhere
 - Highlighter: Something basic and colorful, like [those sold at
   Staples](https://www.staples.ca/products/496808-en-chisel-tip-tank-style-highlighters-yellow-20-pack)
 
@@ -1839,11 +1843,12 @@ For more details about why I chose the Bic Cristal as my main pen, see
 This allows you to make nice lines, for margins, tables or underlines. Any
 cheap 15 cm ruler will do. It makes your journal more pleasing to
 read, which is important. After all, the whole point of keeping a
-journal is so you can comfortably refer to your knowledge.
+journal is so you can comfortably refer to the knowledge you've
+collected.
 
-The best storage place I found for my ruler is directly in my
+The best storage place I've found for my ruler is directly in my
 notebook. It acts like a bookmark. The notebook I recommend above has an elastic band that
-ensures your ruler would never slip and fall once shut.
+ensures your ruler would never slip and fall out once shut.
 
 {{< figure src="/img/ruler.jpg" position="center" caption="" >}}
 
