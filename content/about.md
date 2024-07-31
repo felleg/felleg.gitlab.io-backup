@@ -12,7 +12,7 @@ know in a comment or via email. :smile: In the meantime, have a nice day!
 
 ---
 
-Looking for gift ideas? Here is my book wishlist : https://www.amazon.ca/hz/wishlist/ls/29NYEPKMQ5E5Xu
+Looking for gift ideas? Here is [my book wishlist](https://www.amazon.ca/hz/wishlist/ls/29NYEPKMQ5E5X).
 
 ---
 
