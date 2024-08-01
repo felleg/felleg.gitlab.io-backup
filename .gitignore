@@ -10,3 +10,4 @@ resources
 static/img/**/*-scaled.*
 content/bookshelf.md
 content/posts/star-quotes.md
+static/star-quotes.md
