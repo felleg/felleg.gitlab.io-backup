@@ -1,0 +1,1 @@
+../content/posts/star-quotes.md
