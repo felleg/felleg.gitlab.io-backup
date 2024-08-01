@@ -35,7 +35,7 @@ reality. (Thanks Karim for this recommendation!)
 
 # :star: Star quotes
 
-1. (p 25) Only the leader can set the tone of the dialogue in the
+1. (p. 25) Only the leader can set the tone of the dialogue in the
    organization. Dialogue is the core of culture and the basic
    unit of work. How people talk to each other absolutely
    determines how well the organization will function.
