@@ -79,33 +79,64 @@ that said, I recommend you give *Lean In* a chance.
 
 # :star: Star quotes
 
-1. The holy trinity of fear is the fear of being a bad mother, bad wife, and bad daughter. (p. 24)
-2. Ask yourself: What would I do if I weren't afraid? And then find a way to go do it. (p. 26)
-3. The beauty of the impostor syndrome is you vacillate between extreme egomania, and a feeling of "I'm a complete fraud." (p. 29)
-4. Like so many things, a lack of confidence can become a self-fulfilling prophecy.(p. 33)
-5. A simple change in posture can lead to a significant change in attitude. (p. 34)
-6. There is no perfect fit when you're looking for the next big thing to do. You have to take opportunities and make an opportunity fit for you, rather than the other way around. (p. 35)
-7. We need to acknowledge that women are less likely to keep their hands up. Woman have to learn to keep their hands up, becaus when they lower them, even managers with the best intentions might not notice. (p. 36)
-8. For women, self-doubt can become a form of self-defense. (p. 41)
-9. A long-term dream does not have to be realistic or even specific. Even a vague goal can provide direction, a far-off guidepost to move forward. (p. 55)
-10. The cost of stability is often diminished opportunities for growth (p. 61)
-11. *Tiara syndrome*: Women expect that if they keep doing their job well someone will notice them and place a tiara on their head. (p. 63)
-12. The most common way people give up their power is by thinking they don't have any. (p. 63)
-13. A mentor is not someone you can freely speak to for an hour every week. That's a therapist. (p. 71)
-13. It should be a badge of honor for men to sponsor women. (p. 72)
-14. All advice is autobiographical (p. 74)
-15. Rarely is there one absolute truth, so people who believe that they speak *the* truth are very silencing of others. (p. 79)
-16. Take out the "but" and everything after, since it tends to dey the preceding statement. (p. 81)
-17. The upside of painful knowledge is much greater than the downside of blissful ignorance. (p. 84)
-18. Miscommunication is always a two-way street. (p. 85)
-19. Sharing emotions builds deeper relationships. (p. 88)
-20. True leadership stems from individuality that is honestly and sometimes imperfectly expressed. Leaders should strive for authenticity over perfection. (p. 91)
-21. When it comes to integrating career and family, planning too far in advance can close doors rather than open them. (p. 93)
-22. The single most important career decisions that a woman makes is whether she will have a life partner and who that partner is. (p. 110)
-23. Equality between partners leads to happier relationships. (p. 118)
-24. Learn to be a perfectionist in only the things that matter. Decide what matters and what doesn't. You can't be obsessive about things that don't matter. (p. 123)
-25. Dont is better than perfect. Let go of unattainable standards. (p. 125)
-26. Guilt management can be just as important as time management. (p. 137)
-27. Every job will demand some sacrifice. The key is to avoid unnecessary sacrifice. (p. 155)
-28. Social gains are never handed out. They must be seized. (p. 157)
-29. Our job is not to make young women grateful. It is to make them ungrateful so they keep going. (p. 172)
+1. (p. 24) The holy trinity of fear is the fear of being a bad mother,
+   bad wife, and bad daughter.
+2. (p. 26) Ask yourself: What would I do if I weren't afraid? And then
+   find a way to go do it.
+3. (p. 29) The beauty of the impostor syndrome is you vacillate
+   between extreme egomania, and a feeling of "I'm a complete fraud."
+   4..(p. 33) Like so many things, a lack of confidence can become a
+   self-fulfilling prophecy
+5. (p. 34) A simple change in posture can lead to a significant change
+   in attitude.
+6. (p. 35) There is no perfect fit when you're looking for the next
+   big thing to do. You have to take opportunities and make an
+   opportunity fit for you, rather than the other way around.
+7. (p. 36) We need to acknowledge that women are less likely to keep
+   their hands up. Woman have to learn to keep their hands up, becaus
+   when they lower them, even managers with the best intentions might
+   not notice.
+8. (p. 41) For women, self-doubt can become a form of self-defense.
+9. (p. 55) A long-term dream does not have to be realistic or even
+   specific. Even a vague goal can provide direction, a far-off
+   guidepost to move forward.
+10. (p. 61)  The cost of stability is often diminished opportunities
+    for growth
+11. (p. 63) *Tiara syndrome*: Women expect that if they keep doing
+    their job well someone will notice them and place a tiara on their
+    head.
+12. (p. 63) The most common way people give up their power is by
+    thinking they don't have any.
+13. (p. 71) A mentor is not someone you can freely speak to for an
+    hour every week. That's a therapist.
+13. (p. 72) It should be a badge of honor for men to sponsor women.
+14. (p. 74) All advice is autobiographical
+15. (p. 79) Rarely is there one absolute truth, so people who believe
+    that they speak *the* truth are very silencing of others.
+16. (p. 81) Take out the "but" and everything after, since it tends to
+    dey the preceding statement.
+17. (p. 84) The upside of painful knowledge is much greater than the
+    downside of blissful ignorance.
+18. (p. 85) Miscommunication is always a two-way street.
+19. (p. 88) Sharing emotions builds deeper relationships.
+20. (p. 91) True leadership stems from individuality that is honestly
+    and sometimes imperfectly expressed. Leaders should strive for
+    authenticity over perfection.
+21. (p. 93) When it comes to integrating career and family, planning
+    too far in advance can close doors rather than open them.
+22. (p. 110) The single most important career decisions that a woman
+    makes is whether she will have a life partner and who that partner
+    is.
+23. (p. 118) Equality between partners leads to happier relationships.
+24. (p. 123) Learn to be a perfectionist in only the things that
+    matter. Decide what matters and what doesn't. You can't be
+    obsessive about things that don't matter.
+25. (p. 125) Dont is better than perfect. Let go of unattainable
+    standards.
+26. (p. 137) Guilt management can be just as important as time
+    management.
+27. (p. 155) Every job will demand some sacrifice. The key is to avoid
+    unnecessary sacrifice.
+28. (p. 157) Social gains are never handed out. They must be seized.
+29. (p. 172) Our job is not to make young women grateful. It is to
+    make them ungrateful so they keep going.
