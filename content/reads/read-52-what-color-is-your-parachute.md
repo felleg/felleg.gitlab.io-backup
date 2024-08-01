@@ -68,20 +68,20 @@ great investment.
 
 # :star: Star quotes
 
-1. You are a person, not a job. (p. 104)
-2. Instead of just hitting the "Invite" button on LinkedIn, *always*
-   include a short personalized message. (p. 215)
-3. Unlearn the idea that our unique Mission must consist of some
+1. (p. 104) You are a person, not a job.
+2. (p. 215) Instead of just hitting the "Invite" button on LinkedIn, *always*
+   include a short personalized message.
+3. (p. 315) Unlearn the idea that our unique Mission must consist of some
    achievement for all the world to see, and learn instead that as the
    stone does not always know what ripples it has caused in the pond
    whose surface it impacts, so neither we nor those who watch our life
    will always know what we have achieved by our life and by our
-   Mission. (p. 315)
-4. The place your Mission needs you is where your deep gladness and the
-   world's deep hunger meet. (p. 324)
-5. If you approach your job hunt as an opportunity to work on this issue
+   Mission.
+4. (p. 324) The place your Mission needs you is where your deep gladness and the
+   world's deep hunger meet.
+5. (p. 325) If you approach your job hunt as an opportunity to work on this issue
    as well as the issue of how you will keep body and soul together,
    then hopefully your job hunt will end with your being able to say,
    "Life has deep meaning to me now. I have discovered more than my
    ideal job. I have found my Mission, and the reason why I am here on
-   Earth." (p. 325)
+   Earth."
