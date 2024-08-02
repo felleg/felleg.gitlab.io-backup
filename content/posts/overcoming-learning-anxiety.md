@@ -45,7 +45,7 @@ foundation of my learning system.
 
 Thanks to the following people who gave me feedback on this text:
 Gabrielle Perron (on multiple occasions), Paul Pedersen, Geneviève
-Perron, Benoît Dicaire, Réjane Léger, Maxime Bergeron, Nicole Daoust,
+Perron, Benoît Dicaire, Victor & Réjane Léger, Maxime Bergeron, Nicole Daoust,
 Mathieu Frenette, Julien Gaboriaud, Elaine Delage, and Catherine
 Proulx.
 
