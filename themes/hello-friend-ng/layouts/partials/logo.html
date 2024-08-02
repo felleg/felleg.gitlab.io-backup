@@ -1,15 +1,32 @@
 <a href="{{ if .Site.Params.Logo.LogoHomeLink }}{{ .Site.Params.Logo.LogoHomeLink }}{{else}}{{ .Site.BaseURL | relLangURL }}{{ end }}" style="text-decoration: none;">
-    <div class="logo">
-        {{ if .Site.Params.Logo.path }}
-            <img src="{{ .Site.Params.Logo.path }}" alt="{{ .Site.Params.Logo.alt }}" />
-        {{ else }}
-            <span class="logo__mark">{{ with .Site.Params.Logo.logoMark }}{{ . }}{{ else }}>{{ end }}</span>
-            <span class="logo__text">{{ with .Site.Params.Logo.logoText }}{{ . }}{{ else }}hello{{ end }}</span>
-            <span class="logo__cursor" style=
-                  "{{ with.Site.Params.Logo.logoCursorDisabled }}visibility:hidden;{{ end }}
-                   {{ with.Site.Params.Logo.logoCursorColor    }}background-color:{{ . }};{{ end }}
-                   {{ with.Site.Params.Logo.logoCursorAnimate  }}animation-duration:{{ . }};{{ end }}">
-            </span>
-        {{ end }}
-    </div>
+  <style>
+    .logo {
+      display: inline-block;
+      position: relative;
+    }
+    .logo img {
+      display: block;
+      transition: filter 0.3s ease; /* Smooth transition */
+    }
+    .logo img:hover {
+      filter: url(#yellow-filter);
+    }
+  </style>
+  <div class="logo">
+    <img src="/logo.png" alt="Hover Image" />
+  </div>
+
+  <!-- SVG filter definition -->
+  <svg width="0" height="0">
+    <defs>
+      <filter id="yellow-filter">
+        <feColorMatrix type="matrix"
+          values="1 0 0 0 1
+                  1 0 0 0 0.87450980392
+                  0 0 0 0 0
+                  0 0 0 1 0" />
+      </filter>
+    </defs>
+  </svg>
 </a>
+
