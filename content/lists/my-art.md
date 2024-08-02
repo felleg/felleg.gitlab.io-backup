@@ -9,7 +9,7 @@ aliases = [
 | Name                      | Thumbnail                                                                                | Date       |
 |---------------------------|------------------------------------------------------------------------------------------|------------|
 | Logos | {{< thumbnail src="img/art/logos.png" position="center" >}}                      | 2024-08-01 |
-| Overcoming Learning Anxiety | {{< thumbnail src="img/art/overcoming-learning-anxiety-20240719.png" position="center" >}}                      | 2024-07-19 |
+| Overcoming Learning Anxiety | {{< thumbnail src="img/art/overcoming-learning-anxiety.png" position="center" >}}                      | 2024-07-19 |
 | Maman | {{< thumbnail src="img/art/maman.png" position="center" >}}                      | 2024-05-11 |
 | Survivor | {{< thumbnail src="img/art/survivor.png" position="center" >}}                      | 2024-02-29 |
 | You Fall to the Level of your Systems             | {{< thumbnail src="img/art/you-fall-to-the-level-of-your-systems.png" position="center" >}}                      | 2024-02-20   |
