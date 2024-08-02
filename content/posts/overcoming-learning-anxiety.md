@@ -14,9 +14,8 @@ aliases: [
 description: "Unlock Your Potential by Rediscovering the Joy of Learning"
 ---
 
-Cover created by Félix Léger.
 
----
+{{< figure src="/img/make-the-jump.jpg" position="center" caption="Credit: Avril Guarino ([@avrilcutecrap](https://www.instagram.com/avrilcutecrap/) on Instagram)" scale="75%" >}}
 
 # Acknowledgements
 
