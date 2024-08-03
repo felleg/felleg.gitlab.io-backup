@@ -31,6 +31,8 @@ beyond what I thought was possible.
 Thanks to Benoît Dicaire for his mentorship, for introducing me to VanityURL, the Hugo bookshelf, and the Cornell note taking system. I don't know where you find all this
 stuff, but please keep it coming!
 
+Thanks to Avril Guarino for providing beautiful illustrations.
+
 Thanks to my friends and colleagues at Portage Cybertech for making every day filled with joy and meaning. 
 
 Thanks to  all who gave me their book recommendations over the years. I am lucky to be surrounded by so many curious and brilliant people. Never stop sharing your knowledge with others!
