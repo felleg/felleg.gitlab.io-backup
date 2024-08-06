@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirect App</title>
+    <style>
+        body {
+            background-color: yellow;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            font-size: 2em;
+            text-align: center;
+        }
+        input[type="text"] {
+            width: 80%;
+            padding: 10px;
+            font-size: 1.2em;
+            margin-bottom: 20px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 1.2em;
+            cursor: pointer;
+        }
+        .footer {
+            margin-top: 20px;
+            font-size: 1em;
+        }
+        .footer a {
+            text-decoration: none;
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+    <h1>Type your redirect key</h1>
+    <form onsubmit="redirect(event)">
+        <input type="text" id="redirectKey" placeholder="Enter key here" required>
+        <button type="submit">Submit</button>
+    </form>
+    <div class="footer">
+        Powered by <a href="https://vanityurls.link/" target="_blank">VanityURLs</a>
+    </div>
+
+    <script>
+        function redirect(event) {
+            event.preventDefault();
+            const key = document.getElementById('redirectKey').value;
+            window.location.href = `https://felx.cc/${key}`;
+        }
+    </script>
+</body>
+</html>
+
