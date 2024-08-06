@@ -1,7 +1,7 @@
 ---
 date: 2024-06-11T15:13:54-04:00
 title: (Read 84) Overcoming Learning Anxiety
-cover: img/reads/overcoming-learning-anxiety.png
+cover: img/ola-book-new.png
 amzcover: /img/reads/overcoming-learning-anxiety-cover.png
 author: Félix Léger
 tags:
@@ -25,18 +25,8 @@ Author: [Félix Léger](https://felixleger.com)
 
 ---
 
-# Review
-
-**Click on the link below to access the full text:**
-
-# [Overcoming Learning Anxiety](/overcoming-learning-anxiety)
-
-
-This isn't a physical book yet! I have been working on this text for
-almost two years I am strongly attached to it, enough to want to publish it as a real book. It tells the
-story of how I overcame my own learning anxiety, the impact it had on my
-life, and how I believe you can overcome yours if you suffer from the
-same condition.
+# [Free HTML version (full text)](/overcoming-learning-anxiety)
+# [Support me by buying the paper version](https://felx.cc/ola-store) :pray:
 
 Here is a summary of the method I share in the text:
 
@@ -65,10 +55,6 @@ Here is a summary of the method I share in the text:
 1. Share your notes online
 1. Reading a book twice is inefficient
 1. Love your hardware
-
-**Click on the link below to access the full text:**
-
-# [Overcoming Learning Anxiety](/overcoming-learning-anxiety)
 
 
 {{< myrating rating="🙋🏻‍♂️" >}}
