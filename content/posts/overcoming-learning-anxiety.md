@@ -980,7 +980,7 @@ convenient to be able to use `Ctrl-F` (or `grep`) to search specific
 quotes later.
 
 [As an example, here is the latest review I wrote](/latest). Feel free
-to copy my format if you want or create your own. In the end, what
+to copy my format if you want or make your own. In the end, what
 matters is that you create a pattern of work that tricks your brain
 into thinking about these ideas and have them make sense to you. You
 get bonus points if you make this review public and share your notes: not only are you
