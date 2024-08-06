@@ -950,7 +950,7 @@ book, which happens in the next step.
 
 {{< figure src="/img/highlight-star-quotes.png" position="center" caption="" >}}
 
-Psst, I have created [a free book version of all my Star Quotes](/star-quotes) if you are interested.
+Psst, you can access [a compilation of all my Star Quotes](/star-quotes) if you are interested.
 
 ### Step 4: Write down your opinion of the book
 
