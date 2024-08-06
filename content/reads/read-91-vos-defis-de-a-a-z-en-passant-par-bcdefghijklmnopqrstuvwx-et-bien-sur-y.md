@@ -2,7 +2,7 @@
 date: 2024-08-06T17:08:01-04:00
 title: (Lecture 91) Vos Défis de A à Z en passant par BCDEFGHIJKLMNOPQRSTUVWX et bien sûr Y
 cover: img/reads/vos-defis-de-a-a-z-en-passant-par-bcdefghijklmnopqrstuvwx-et-bien-sur-y.png
-amzcover: 
+amzcover: https://m.media-amazon.com/images/I/41boU-kMA5L.jpg
 author: Gaëtan Namouric
 tags:
   - 'reads'
