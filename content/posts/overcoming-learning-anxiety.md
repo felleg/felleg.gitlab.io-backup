@@ -684,7 +684,7 @@ becoming visitble. I was making *progress*. I hadn't yet learned how to take
 notes (we'll get to that in [Chapter
 5](#chapter-5-creating-a-system-of-learning)), but I was making more
 progress than ever, simply because the act of using my hands to
-flatten the book made me feel powerful. The book suplex was such an
+flatten the book made me feel powerful. The book suplex was an immense
 upgrade when it came to reading:
 - it's more comfortable for longer periods of time, because it allows
   a firmer grip
