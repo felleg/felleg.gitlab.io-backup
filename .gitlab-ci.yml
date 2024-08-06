@@ -8,7 +8,7 @@ pages:
   script:
     - hugo
     - apt -y update && apt -y install imagemagick
-    - bash scripts/generate-allreads.sh
+    - bash scripts/generate-mosaic.sh
     - bash scripts/generate-bookshelf.sh
     - bash scripts/generate-star-quotes.sh
     - ln -s $(pwd)/content/posts/star-quotes.md static/star-quotes.md
