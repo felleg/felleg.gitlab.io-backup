@@ -664,7 +664,7 @@ Doodle in them if you must. Your
 copy is *yours*. Please don't think of books as decorations; think of
 them as food that nourishes your soul!
 
-*Use* them.
+*Use*  your books.
 
 If
 you damaged a book to the
