@@ -24,6 +24,16 @@ Author: [NAME]()
 
 {{< buythisbook link="" >}}
 
+<!--
+Année de parution: ####
+
+Auteur: [NAME]()
+
+{{< mesnotes link="" >}}
+
+{{< achetezcelivre link="" >}}
+-->
+
 ---
 
 # Review
