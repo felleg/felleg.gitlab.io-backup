@@ -1355,7 +1355,7 @@ know](mailto:felix@felixleger.com).
 
 ## A quick recap of the main method
 
-Here is a brief summary of the method shown in chapter 6:
+Here's a summary of the method shown in chapter 6:
 
 1. Read and highlight the golden nuggets.
 1. Write down your highlights.
