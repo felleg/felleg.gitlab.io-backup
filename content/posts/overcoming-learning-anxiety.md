@@ -722,7 +722,7 @@ tortured me for the majority of my career:
 {{< figure src="/img/finished-devops-handbook.jpg" position="center" caption="DONE!" >}}
 
 So, **here is my challenge to you**. Before moving on to [Part 2](#part-2), find a book you feel OK
-experimenting on. If you do it on the book you're holding right now, you would _seriously_ make my day (I'm not kidding!). Apply a clean, *strong* book suplex to it, as flat as
+experimenting on. If you choose to use the book you're holding right now, you would _seriously_ make my day (I'm not kidding!). Apply a clean, *strong* book suplex to it, as flat as
 you can make it. It doesn't matter if it is a softcover or hardcover; the book suplex will work on any book, [including the dictionary](/img/larousse-fold.jpg). Most people fear that the book will instantly break
 in half, but in my experience that never happens. You generally have
 to work pretty hard to even get a single page to fall out of a book,
