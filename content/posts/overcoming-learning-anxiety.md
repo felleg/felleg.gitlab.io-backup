@@ -1006,7 +1006,7 @@ quotes later.
 [As an example, here is the latest review I wrote](/latest). Feel free
 to copy my format if you want or make your own. In the end, what
 matters is that you create a pattern of work that tricks your brain
-into thinking about these ideas and have them make sense to you. You
+into really thinking about these ideas and have them make sense to you. You
 get bonus points if you make this review public and share your handwritten notes: not only are you
 sharing your knowledge, but you also encourage people to participate
 in your journey and initiate discussions with you.
