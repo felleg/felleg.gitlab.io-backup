@@ -174,7 +174,7 @@ Ready? Let's begin.
 
 Learning anxiety is a complex emotion. 
 
-I love the illustration above because it illustrates perfectly
+I love the image above because it illustrates perfectly
 how I felt for most of my life. The black-haired person hanging for
 dear life on the diving board is caught in a difficult spot. That used
 to be me. As much as they would like to dive in the book and join
