@@ -704,7 +704,7 @@ had held me back for so long, I felt like I was getting revenge. It
 was such a cathartic experience. Page after page, I was folding it,
 compressing it, damaging it, writing in it, and with each passing day, I saw the book
 get more and more *used* by my doings. The creaks on the spine were
-becoming visitble. I was making *progress*. I hadn't yet learned how to take
+becoming visible. I was making *progress*. I hadn't yet learned how to take
 notes (we'll get to that in [Chapter
 5](#chapter-5-creating-a-system-of-learning)), but I was making more
 progress than ever, simply because the act of using my hands to
