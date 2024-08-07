@@ -697,7 +697,7 @@ it can change your life and the lives of others around you. In
 summary, my final advice on the matter is to stop respecting books,
 and to start respecting how your brain learns.
 
-You can't imagine how joyful I was to suplex the DevOps Handbook. It
+You can't imagine how joyful I was to suplex the *DevOps Handbook*. It
 had held me back for so long, I felt like I was getting revenge. It
 was such a cathartic experience. Page after page, I was folding it,
 compressing it, damaging it, writing in it, and with each passing day, I saw the book
