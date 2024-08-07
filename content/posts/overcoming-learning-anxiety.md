@@ -864,7 +864,9 @@ Make sure that each of these items are objects that you personally
 enjoy using. I'll nerd out [in a later section of the Appendix about
 the hardware I use](#idea-18-additional-tips-on-hardware), but for now just
 focus on making sure that whatever gear you end up choosing makes you
-want to read and write more, not less! If you can, I suggest you try to do these steps in real time on this text as you learn about them.
+want to read and write more, not less! 
+
+We learn by doing. If you can, I suggest you try to do these steps in real time on this text as you learn about them.
 
 ### Step 1: Read and highlight the golden nuggets
 
