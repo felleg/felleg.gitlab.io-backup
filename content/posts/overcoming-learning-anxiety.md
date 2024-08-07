@@ -543,8 +543,6 @@ And then, something magical happened. At page 107, three years after
 I had started *The DevOps Handbook*, I found a sentence that resonated with me.
 
 > *In the team, we want to help overcome learning anxiety.*
->
-> Gene Kim et al., *The DevOps Handbook*
 
 "Wait, what?"
 
