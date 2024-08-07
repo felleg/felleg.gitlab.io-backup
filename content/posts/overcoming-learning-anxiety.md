@@ -576,7 +576,7 @@ alarming precision:
 > (Edgar H. Schein, [The Anxiety of
 Learning](https://hbr.org/2002/03/the-anxiety-of-learning))
 
-For the first time in my life, I saw the flaw in me. Dr. Schein was
+For the first time in my life, I saw the flaw in me for what it was. Dr. Schein was
 describing exactly how I'd felt during my entire career. First,
 learning anxiety kept me in the Valley of Despair. Then, the risk of
 losing my job at nesto made me experience survival anxiety that was
