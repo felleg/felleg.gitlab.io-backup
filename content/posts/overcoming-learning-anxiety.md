@@ -888,7 +888,7 @@ As you read, don't bother trying to remember everything. Personally,
 when I turn a page, I feel completely OK not remembering what I just
 read! Read your book like you're watching a TV show or listening to a
 podcast.  Highlight as you go and know that we will come back to
-collect all these little knowledge nuggets later. :wink:
+collect all these little knowledge nuggets later.
 
 {{< figure src="/img/mining-for-golden-nuggets.jpg" position="center" caption="Highlighting = identifying the gold nuggets." >}}
 
