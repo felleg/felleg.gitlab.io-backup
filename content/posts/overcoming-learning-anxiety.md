@@ -15,8 +15,6 @@ description: "Unlock Your Potential by Rediscovering the Joy of Learning"
 ---
 
 
-{{< figure src="/img/make-the-jump.jpg" position="center" caption="Credit: Avril Guarino ([@avrilcutecrap](https://www.instagram.com/avrilcutecrap/) on Instagram)" scale="75%" >}}
-
 # Acknowledgements
 
 Thanks to my parents, Nadine & Dany, who have always been there for me.
@@ -172,6 +170,26 @@ Ready? Let's begin.
 > 
 > Lucius Annaeus Seneca, *Letters on Ethics*
 
+{{< figure src="/img/make-the-jump.jpg" position="center" caption="Credit: Avril Guarino ([@avrilcutecrap](https://www.instagram.com/avrilcutecrap/) on Instagram)" scale="75%" >}}
+
+Learning anxiety is a complex emotion. 
+
+I love the illustration above because it illustrates perfectly
+how I felt for most of my life. The black-haired person hanging for
+dear life on the diving board is caught in a difficult spot. That used
+to be me. As much as they would like to dive in the book and join
+their friends, the jump seems too big. Too difficult. Too dangerous. 
+
+Having learned feels great. Learning, on the other hand, can feel like
+death. What if we fall on our face? What if it hurts bad? What if we
+look foolish? What if we drown? We want to let go, take a chance, and
+immerse ourselves in knowledge... but it’s not that easy. Our fear can
+make us permanently frozen in place. We go home dry, defeated, and
+aware of our ignorance.
+
+That is how learning anxiety keeps us stuck in life. It blocks us from
+taking the first step toward trying new things. It sucks.
+
 
 I wasn't always aware of how bad my learning anxiety was and I had no
 idea of the choke hold it had on my life. I'm
@@ -218,12 +236,18 @@ improving. There were many hints of that, in hindsight.
 As good as my flower stick abilities were, I snubbed techniques that
 were out of my reach by labelling them as "less interesting." I
 despised losing at board games that didn't rely on luck. For example,
-I stopped playing Chess as soon as I started losing. I lost interest
-in karate as soon as I got my first hit in the face. I never started
-cooking, because I didn't feel great at it.
+I stopped playing Chess as soon as I started losing. I "lost interest"
+in karate as soon as I got my first hit in the face. I never learned
+how to cook, because I never felt good at it.
 
-I smile when I remind myself of all these memories. I had no idea of
-the vacuum that was growing in my soul. Life had given me many
+So many times, I passed by opportunities to learn and practice new
+skills simply because I was afraid of having to admit failure. I would
+instead spend my days alone in my room playing video games that made
+me feel like a champion.
+
+It feels bittersweet to remind myself of all these memories. I had no idea of
+the vacuum that was growing in my soul. I didn't realize how much I
+was stuck in  my old ways. Life had given me many
 abilities but left me with the impression that new ones could
 not be developed. I had a fixed mindset.
 
