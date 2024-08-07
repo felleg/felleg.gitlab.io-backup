@@ -197,12 +197,12 @@ convinced that most people who suffer this condition don't realize it
 either.
 
 In my younger years, to an outsider, I must have looked like a virtuoso of everything I
-touched. I could improvise on the piano with emotion at age 9
+touched. Most people would probably never have guessed I had learning anxiety. I could improvise on the piano with emotion at age 9
 after a single year of home classes. I intuitively understood
 Mathematics from a young age up to well into my college years. Words
 flowed naturally through me when I was writing, both in French and in
 English. I could juggle and ride kilometers on a unicycle. [And you should
-have seen me play with a flower
+have seen me on stage with a flower
 stick](https://youtu.be/i8HtXcQfBOM?si=Cdq56ZEE0RJ1uma0)! I had a
 quick mind, piercing eyes and a sharp sense of
 humor. I could dominate anyone at any (video) game I picked up. I was
