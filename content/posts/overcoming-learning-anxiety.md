@@ -1524,7 +1524,7 @@ grab your attention.
 
 You might want to wait  until you're in the final pages of a book
 before ordering your next one. You don't want to make commitments that
-you might not be able to keep! I strongly advise ordering only a
+you might not be able to keep! I strongly advise purchasing only a
 single book at a time, especially at the start of your learning
 journey - try not to get carried away!
 
