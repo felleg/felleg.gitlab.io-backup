@@ -668,11 +668,11 @@ Let's think about punching bags for a moment. If someone was standing
 in a gym next to their punching bag, you would probably understand
 that whatever damage the bag exhibits went directly into making that
 person stronger, punch after punch, and kick after kick. If you had to
-fight someone, you'd probably pick the boxer with a seemingly
+challenge someone, you'd probably pick the fighter with a seemingly
 untouched punching bag in their gym, since this means they probably
-hadn't practiced boxing at all.
+hadn't trained at all.
 
-{{< figure src="/img/punching-bags.png" position="center" caption="I don't know about you, but I'd rather spar with the person who practiced with the bag on the left." >}}
+{{< figure src="/img/punching-bags.png" position="center" caption="I don't know about you, but for my own safety I'd rather spar with the person who practiced with the bag on the left." >}}
 
 
 The book suplex made something click in my head. It opened Pandora's
