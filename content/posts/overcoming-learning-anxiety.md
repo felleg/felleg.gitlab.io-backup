@@ -1859,7 +1859,7 @@ If you're looking for recommendations, mine are:
 - Highlighter: Something basic and colorful, like [those sold at
   Staples](https://www.staples.ca/products/496808-en-chisel-tip-tank-style-highlighters-yellow-20-pack)
 
-Why?
+Why? Because:
 
 - They are cheap, easy to find and reliable
 - The Bic Cristal does not smear (I'm left-handed)
