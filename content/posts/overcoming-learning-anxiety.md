@@ -172,7 +172,7 @@ Ready? Let's begin.
 
 {{< figure src="/img/make-the-jump.jpg" position="center" caption="Credit: Avril Guarino ([@avrilcutecrap](https://www.instagram.com/avrilcutecrap/) on Instagram)" scale="75%" >}}
 
-Learning anxiety is a complex emotion. 
+"Learning anxiety" is a complex emotion. 
 
 I love the image above because it illustrates perfectly
 how I felt for most of my life. The black-haired person hanging for
