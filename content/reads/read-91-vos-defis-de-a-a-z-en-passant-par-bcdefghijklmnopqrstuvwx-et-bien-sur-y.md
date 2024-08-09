@@ -34,11 +34,17 @@ Auteur: [Gaëtan Namouric](https://www.linkedin.com/in/gnamouric/)
 
 # :star: Star Quotes
 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
+## Brief. Une histoire et quatre révoluions.
+
+1. (p. 30) Ne tenez pas pour acquis que le #client dit est vrai,
+   cherchez la #vérité avec lui à travers une #enquête stratégique.
+    - Interrogez-le, parlez à son entourage, questionnez ses chiffres,
+      visitez ses boutiques, celles de ses concurrents, parlez à ses
+      clients, abonnez-vous et désabonnez-vous à ses services.
+1. (p. 30) Vivez votre #client. C'est votre travail.
+1. (p. 33) Diriger la conversation, c'est aussi savoir dire non.
+1. (p. 37) :star: Choisir, c'est faire une série de deuils.
+1. (p. 38) Guidez le consommateur, choisissez à sa place, rassurez-le.
 1. (p. 
 1. (p. 
 1. (p. 
