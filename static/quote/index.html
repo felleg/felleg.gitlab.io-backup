@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Quote</title>
+    <script src="https://cdn.jsdelivr.net/npm/marked/lib/marked.umd.js"></script>
+
+    <style>
+        .quote-box {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: 100px auto;
+            padding: 20px;
+            border: 2px solid #f0f0f0;
+            border-radius: 5px;
+            background-color: #fafafa;
+        }
+        .quote-title {
+            color: #880e4f;
+            font-weight: bold;
+            font-size: 1.2em;
+            margin-top: 15px;
+        }
+        .quote-text {
+            margin-top: 15px;
+            font-size: 1.1em;
+            white-space: pre-wrap; /* Ensures newlines are respected */
+        }
+        .quote-img {
+            max-height: 300px;
+            margin: 0 auto;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+
+<div class="quote-box">
+    <img id="quote-img" class="quote-img" src="" alt="Book Image" />
+    <div class="quote-title" id="quote-title">Loading quote...</div>
+    <div class="quote-text" id="quote-text"></div>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        fetch('quotes.json')
+            .then(response => response.json())
+            .then(data => {
+                // Select a random book and quote
+                const books = Object.keys(data);
+                const randomBook = books[Math.floor(Math.random() * books.length)];
+                const quotes = data[randomBook].quotes;
+                const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
+                const bookLink = data[randomBook].link;
+                const bookImage = data[randomBook].image;
+
+                // Update the image and title with the book info
+                document.getElementById("quote-img").src = bookImage;
+                document.getElementById("quote-title").innerHTML = `--- <a href="${bookLink}" target="_blank">${randomBook}</a> (p. ${randomQuote.page}) ---`;
+
+                // Parse the markdown with marked-emoji support
+                const htmlContent = marked.parse(randomQuote.quote).replace(/:star:/g, '⭐');;
+                document.getElementById("quote-text").innerHTML = htmlContent;
+            })
+            .catch(error => {
+                console.error('Error fetching the quotes:', error);
+                document.getElementById("quote-title").textContent = "Error loading quote";
+            });
+    });
+</script>
+
+</body>
+</html>
+
