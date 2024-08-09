@@ -43,11 +43,23 @@ Auteur: [Gaëtan Namouric](https://www.linkedin.com/in/gnamouric/)
       clients, abonnez-vous et désabonnez-vous à ses services.
 1. (p. 30) Vivez votre #client. C'est votre travail.
 1. (p. 33) Diriger la conversation, c'est aussi savoir dire non.
+
+## Choix. Quand c'est trop, c'est trop.
+
 1. (p. 37) :star: Choisir, c'est faire une série de deuils.
 1. (p. 38) Guidez le consommateur, choisissez à sa place, rassurez-le.
-1. (p. 
-1. (p. 
-1. (p. 
+
+## Corpus, cursus, campus, caucus. Apprendre, fois quatre.
+
+1. (p. 45) Le travail de l'école
+    - n'est pas de remplir l'étudiant mais de l'outiller;
+    - n'est pas de le soumettre, mais de lui permettre;
+    - n'est pas de le formater, mais de le préparer
+1. (p. 45) On ne forme pas des étudiants identiques sur une chaîne de
+   fabrication, mais on dépose en eux les nutriments nécessaires à
+   leur propre croissance.
+1. (p. 45) Un parcours pédagogique est une séquence d'influences
+   diversifiées.
 1. (p. 
 1. (p. 
 1. (p. 
