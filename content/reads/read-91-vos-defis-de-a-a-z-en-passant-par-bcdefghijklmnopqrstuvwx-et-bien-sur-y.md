@@ -60,10 +60,28 @@ Auteur: [Gaëtan Namouric](https://www.linkedin.com/in/gnamouric/)
    leur propre croissance.
 1. (p. 45) Un parcours pédagogique est une séquence d'influences
    diversifiées.
-1. (p. 
-1. (p. 
-1. (p. 
-1. (p. 
+
+## Design thinking. Histoire et avenir. La science des idées.
+
+1. (p. 50) Le #design-thinking est une méthode centrée sur
+   l'utilisateuret itérative pour résoudre des problèmes en cinq
+   étapes:
+    1. empathie
+    1. définition
+    1. idéation
+    1. prototypage
+    1. déploiement
+1. (p. 56) Le #design-thinking célèbre les échecs rapides plutôt que
+   les victoires éclatantes.
+1. (p. 56) "Qu'avons-vous à résoudre réellement?" Cette question a
+   beaucoup plus de valeur que les solutions, car elle est dictée par
+   les besoins et les attentes de l'utilisateur.
+
+## Empathie et écoute. L'effet Hawthorne
+
+1. (p. 62) **L'effet Hawthorne**, c'est l'effet positif sur la
+   #productivité qui vient d'observer les gens, les écouter, prendre
+   soin d'eux.
 1. (p. 
 1. (p. 
 1. (p. 
