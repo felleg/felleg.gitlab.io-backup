@@ -560,7 +560,7 @@ Longue vie à toi et ton équipe, Gaëtan. Continue de nous faire rêver!
    définissent (e.g. curieux -> obsédé. attentif aux détails ->
    psychopathe)
 1. (p. 233) [La distribution des #valeurs dans
-   l'industrie](https://felx.cc/7gg)
+   l\'industrie](https://felx.cc/7gg)
 
 ## XP Client. Qu'est-ce que l'expérience client?
 
