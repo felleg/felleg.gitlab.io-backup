@@ -14,7 +14,6 @@ aliases: [
 description: "Unlock Your Potential by Rediscovering the Joy of Learning"
 ---
 
-
 # Acknowledgements
 
 Thanks to my parents, Nadine & Dany, who have always been there for me.
@@ -2088,3 +2087,15 @@ Margaret J. Wheatley, Myron Kellner-Rogers. *A Simpler Way*. Berrett-Koehler Pub
 {{< bibliography last="Lembke" first="Dr. Anna" title="Dopamine Nation: Finding Balance in the Age of Indulgence" publisher="Dutton" year="2023" >}}
 
 {{< bibliography last="Clear" first="James" title="Atomic Habits" publisher="Avery" year="2018" >}}
+
+# This text is available in print!
+
+If you enjoyed this text, please consider supporting me by purchasing
+the print version at https://felx.cc/ola-store. That will allow you to
+try my four-steps method, as well as the book suplex, in *real time*!
+
+If you know someone, friends or family, who might benefit from reading
+this text, please share!
+
+{{< figure src="/img/ola-book-new.png" position="center" caption="" scale="50%">}}
+
