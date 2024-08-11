@@ -85,7 +85,7 @@ marques) qu'un groupe d'humains. Cela reflète probablement les 20
 dernières années de carrière de Namouric, plutôt que tous les
 avancements du monde de la gestion durant la même période. Perrier
 Jablonski aurait beau être la meilleure firme sur terre, tout le monde
-a ses blind spots, et personne n'ouvre un livre avec les mêmes
+a ses angles morts, et personne n'ouvre un livre avec les mêmes
 questions en tête. Ainsi, je pourrais blâmer mes attentes avant de
 blâmer l'œuvre.
 
