@@ -52,8 +52,8 @@ livre:
 
 {{< figure src="/img/articles-perrier-jablonski.png" position="center" caption="Les chapitres du livre ont été choisis parmi les articles exclusifs offerts par la firme Perrier Jablonski." >}}
 
-Avec cette réalité en tête, il devenait évident qu'en lisant le livre
-on sautait fréquemment du coq à l'âne. Je dirais que ce n'est ni une
+Avec cette réalité en tête, il devenait évident en lisant le livre
+qu'on sautait fréquemment du coq à l'âne. Je dirais que ce n'est ni une
 qualité ni un défaut du livre, mais plutôt une caractéristique qui
 mérite d'être connue d'avance. On sent que l'auteur a fait de son
 mieux pour rendre le parcours aussi fluide que possible, mais reste
