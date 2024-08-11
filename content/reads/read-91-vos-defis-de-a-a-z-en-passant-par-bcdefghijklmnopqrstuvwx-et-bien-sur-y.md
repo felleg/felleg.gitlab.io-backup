@@ -43,7 +43,7 @@ venu bien avant sa construction. Il a rassemblé des articles qu'il a
 écrits au fil de son travail chez Perrier Jablonski, une firme
 stratégique qu'il a fondé en 2015, après avoir travaillé 11 ans pour la
 firme de publicité bleublancrouge. Le défi principal d'écrire ce livre
-n'était donc pas d'écrire les chapitres en tant que tel, mais plutôt
+n'était donc pas de rédiger les chapitres en tant que tel, mais plutôt
 de créer un sentiment de continuité d'un chapitre à l'autre.
 
 Lorsqu'on se promène sur le site web de Perrier Jablonski, on
