@@ -84,7 +84,7 @@ semble donc être celui qui gère d'avantage une marque (ou un ensemble de
 marques) qu'un groupe d'humains. Cela reflète probablement les 20
 dernières années de carrière de Namouric, plutôt que tous les
 avancements du monde de la gestion durant la même période. Perrier
-Jablonski aurait beau être la meilleure firme du monde, tout le monde
+Jablonski aurait beau être la meilleure firme sur terre, tout le monde
 a ses blind spots, et personne n'ouvre un livre avec les mêmes
 questions en tête. Ainsi, je pourrais blâmer mes attentes avant de
 blâmer l'œuvre.
