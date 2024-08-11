@@ -5,8 +5,15 @@ title = "About"
 Hi there! :wave: My name is Félix. I live in Montreal, Quebec. Je parle français à la maison (I speak French at home), and English at work.
 Thanks for visiting my website!
 
+My hobby is reading and writing. I have written a book titled
+[Overcoming Learning Anxiety](https://felx.cc/ola-store), which you
+can preview [here](https://felx.cc/ola).
+
+I have also reviewed {{< n_books >}} books, which you
+can browse by visiting my [digital bookshelf](/bookshelf)
+
 If you resonate with anything you find here, I hope you will let me
-know in a comment or via email. :smile: In the meantime, have a nice day!
+know in a comment or via email. I also have a [guestbook](/guestbook) you can sign. :smile: In the meantime, have a nice day!
 
 {{< figure src="/img/felix-library.jpg" position="center" scale="400px" caption="Photo credit: Desire Silcott" >}}
 
