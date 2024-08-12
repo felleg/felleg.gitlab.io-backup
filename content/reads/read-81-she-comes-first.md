@@ -53,33 +53,33 @@ Let's hope I don't regret posting this...
 
 # :star: Star quotes
 
-1. (p. 23) Separate the concept of procreation from pleasure.
-1. (p. 26) All of women's orgasms are clitoral.
-1. (p. 66) Fall asleep while holding her in your arms.
-1. (p. 86) Savor, don't suckle.
-1. (p. 88) Don't be threatened by what's in her imagination.
-1. (p. 207) Restraint (bondage) does not involve any pain or danger, but
+- (p. 23) Separate the concept of procreation from pleasure.
+- (p. 26) All of women's orgasms are clitoral.
+- (p. 66) Fall asleep while holding her in your arms.
+- (p. 86) Savor, don't suckle.
+- (p. 88) Don't be threatened by what's in her imagination.
+- (p. 207) Restraint (bondage) does not involve any pain or danger, but
    rather promotes trust and titillation.
-1. (p. 92) One of the most underestimated and underutilized forms of
+- (p. 92) One of the most underestimated and underutilized forms of
    erotic stimulation, **a good solid foot massage** floods the
    bloodstream with endorphins and energizes the entire body.
-1. (p. 94) Don't be a show-off. The approach to style is by way of
+- (p. 94) Don't be a show-off. The approach to style is by way of
    plainness, simplicity, orderliness, sincerity.
-1. (p. 98) If your attitude toward cunnilingus is "no pain, no gain",
+- (p. 98) If your attitude toward cunnilingus is "no pain, no gain",
    the sentiment is appreciated, but entirely unnecessary.
-1. (p. 111) Before starting and throughout the session, remind her of **the Three Assurances:**
+- (p. 111) Before starting and throughout the session, remind her of **the Three Assurances:**
     - Going down on her turns _you_ on, you enjoy it as much as she
       does.
     - There's no rush; she has all the time in the world. You want to
       savor every moment.
     - Her scent is provocative, her taste powerful: it all emanates from
       the same beautiful essence.
-1. (p. 176) Whether married or not, great sex often comes from the
+- (p. 176) Whether married or not, great sex often comes from the
    appreciation of repetition and the enjoyment of what you have.
-1. (p. 178) It's in the moments subsequent to orgasm when a man proves
+- (p. 178) It's in the moments subsequent to orgasm when a man proves
    whether or not he's an "erotically civilized" adult. An extra 15
    minutes spent cuddling, snuggling and whispering sweet nothings is
    the path to greatness.
-1. (p. 184) Take a _pleasure_-oriented approach, not an
+- (p. 184) Take a _pleasure_-oriented approach, not an
    _orgasm_-oriented one.
-1. (p. 185) [Routines](https://felx.cc/scf-routines)
+- (p. 185) [Routines](https://felx.cc/scf-routines)
