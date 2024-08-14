@@ -22,7 +22,7 @@ Thanks to Gabrielle Perron for inspiring me every day, for teaching me that read
 
 Thanks to Alexandre Désilets-Benoit for his patience and for giving me my X.
 
-Thanks to Mathieu Frenette for teaching me the fold and for pushing me
+Thanks to Mathieu Frenette for teaching me the book suplex and for pushing me
 beyond what I thought was possible.
 
 Thanks to Benoît Dicaire for his mentorship, for introducing me to VanityURL, the Hugo bookshelf, and the Cornell note taking system. I don't know how you find all this
