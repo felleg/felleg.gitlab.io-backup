@@ -37,7 +37,7 @@ Thanks to  all who gave me their book recommendations over the years. I am lucky
 Thanks to Gene Kim for writing the books that gave me my *Aha!*
 moment.
 
-Thanks to Matt Morris for making a
+Thanks to Matt Morris for publishing a
 [video](https://www.youtube.com/watch?v=_WCfaGarc4U) that became the
 foundation of my learning system.
 
