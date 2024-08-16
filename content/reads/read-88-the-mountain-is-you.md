@@ -40,7 +40,7 @@ It is *not* boring, though.
 My first thought when I opened this book was that the author wasted no
 time getting straight into the subject matter. I find this good,
 because I know that people who need mental help don't have time for
-fluff.  This is text is immediately accessible, and feels very similar
+fluff.  This text is immediately accessible, and feels very similar
 to listening to a therapist who explains what you are going through,
 what your journey will be made of, and what you can reasonably hope
 for.  The fact that therapy is *still* underutilized in our era makes
