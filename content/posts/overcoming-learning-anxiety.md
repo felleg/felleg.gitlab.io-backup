@@ -179,10 +179,10 @@ dear life on the diving board is caught in a difficult spot. That used
 to be me. As much as they would like to dive in the book and join
 their friends, the jump seems too big. Too difficult. Too dangerous. 
 
-Having learned feels great. Learning, on the other hand, can feel like
-death. What if we fall on our face? What if it hurts bad? What if we
-look foolish? What if we drown? We want to let go, take a chance, and
-immerse ourselves in knowledge... but it’s not that easy. Our fear can
+Having learned feels great. Learning, on the other hand, can fill us
+with dread. We want to let go, take a chance, and
+immerse ourselves in knowledge... but it’s not that easy. What if we fall on our face? What if it hurts bad? What if we
+look foolish? What if we drown? What comes next after a big failure? Our fear can
 make us permanently frozen in place. We go home dry, defeated, and
 aware of our ignorance.
 
@@ -244,7 +244,7 @@ skills simply because I was afraid of having to admit failure. I would
 instead spend my days alone in my room playing video games that made
 me feel like a champion.
 
-It feels bittersweet to remind myself of all these memories. I had no idea of
+All these memories are bittersweet. I had no idea of
 the vacuum that was growing in my soul. I didn't realize how much I
 was stuck in  my old ways. Life had given me many
 abilities but left me with the impression that new ones could
