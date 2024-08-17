@@ -85,7 +85,7 @@ that said, I recommend you give *Lean In* a chance.
    find a way to go do it.
 3. (p. 29) The beauty of the impostor syndrome is you vacillate
    between extreme egomania, and a feeling of "I'm a complete fraud."
-   4..(p. 33) Like so many things, a lack of confidence can become a
+4. (p. 33) Like so many things, a lack of confidence can become a
    self-fulfilling prophecy
 5. (p. 34) A simple change in posture can lead to a significant change
    in attitude.
