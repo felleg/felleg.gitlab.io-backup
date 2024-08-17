@@ -54,7 +54,7 @@ Here's how to do it. I hope you know how to launch scripts from the command line
    ```
 1. Launch `./basic.sh`.
    - This will open a VM, we're almost there! We just have to install macOS on that VM.
-1. [Follow this video for the remaining instructions](/videos/20200605_setupMacVM.mp4), since an image is worth a thousand words. Feel free to watch at double speed.
+1. [Follow this video for the remaining instructions](https://youtu.be/CftNddL2KCw), since an image is worth a thousand words. Feel free to watch at double speed.
 
 Bonus knowledge! Do you want to know how to use your USB devices in the Mac VM you just created? Well, you're
-in luck, [this video](/videos/20200605_connectUsbToMacVm.mp4) shows you exactly how to do that. :smile:
+in luck, [this video](https://youtu.be/yzWrozosy8s) shows you exactly how to do that. :smile:

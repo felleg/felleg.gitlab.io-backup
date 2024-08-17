@@ -43,4 +43,4 @@ Usecases where SimpleScreenRecorder has been invaluable to me include (but are n
 
 Because SimpleScreenRecorder makes everything better, why not make this post infinitely better by adding a
 demonstration made using SimpleScreenRecorder itself? [Click here for a quick tour of
-SimpleScreenRecorder](/videos/simplescreenrecorder_demo.mp4)
+SimpleScreenRecorder](https://youtu.be/rJl89Q9tlaU)
